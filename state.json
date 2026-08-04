@@ -736,7 +736,50 @@
     "166cee82250145e0",
     "5888b3699bcc37d4",
     "2308aa3ae6b3433d",
-    "9f0753ab0652b5b9"
+    "9f0753ab0652b5b9",
+    "977f60f7e5e3c697",
+    "b274d6785ee9abb7",
+    "3cd0cbb150ad34c8",
+    "0fb86da2ab438563",
+    "259c2163051edd2f",
+    "c2466bf90a96aa4c",
+    "b4be4ba2c60b872a",
+    "95be94cf04c65e7a",
+    "63396dc8c6a6b3b8",
+    "3e60e709ff872da6",
+    "e9f40a313c557463",
+    "71bb94bcf7f5cd60",
+    "07b758f353888157",
+    "0355eb6dab6ad7e1",
+    "2fbc59b07d21aab3",
+    "2422b36a072ff930",
+    "82d406643c696eaa",
+    "a9620764ca045091",
+    "0bf4fa6a2a57c05d",
+    "02213d6d96316e48",
+    "47b300134724c91f",
+    "6fc447743bae04c2",
+    "211efc1d7f548714",
+    "47e59aed9e2d0abe",
+    "e01e909a21f0a89f",
+    "da67430c147e0904",
+    "fd5f4a78e6494d39",
+    "058a34d1adb2348b",
+    "038d32356d813270",
+    "8a7f6d5cdd2b60d1",
+    "e2b2d9cc0a86f067",
+    "97675b5ad37645e0",
+    "a89eee68034d7645",
+    "a2f4d3051819a889",
+    "52fc4ddc2fbc37b2",
+    "1322df5f0895c975",
+    "ff7ca758dae85c27",
+    "bbe273d0729e7a32",
+    "b950332d276a40bc",
+    "ba6463bc9381fedd",
+    "9d6370d64d07513b",
+    "fa8bf098d3b0140e",
+    "caeaa01102ed36ed"
   ],
   "archivo": [
     {
@@ -1906,6 +1949,262 @@
       "categoria": "dxw",
       "fecha": "2026-08-04T08:55:00+00:00",
       "extracto": "Google Explains Why AI Agent Load Balancing Should Factor in Session Counts finance.biggo.com"
+    },
+    {
+      "titulo": "Third-party cyber evaluations involving OpenAI models",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-04T19:00:00+00:00",
+      "extracto": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+    },
+    {
+      "titulo": "New ways to learn and teach with ChatGPT Work and Codex",
+      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-04T00:00:00+00:00",
+      "extracto": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+    },
+    {
+      "titulo": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "fuente": "Anthropic News (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-04T00:00:00+00:00",
+      "extracto": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer"
+    },
+    {
+      "titulo": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T21:07:26+00:00",
+      "extracto": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
+    },
+    {
+      "titulo": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T20:05:26+00:00",
+      "extracto": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards."
+    },
+    {
+      "titulo": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T19:48:40+00:00",
+      "extracto": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
+    },
+    {
+      "titulo": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T19:34:34+00:00",
+      "extracto": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
+    },
+    {
+      "titulo": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T19:28:49+00:00",
+      "extracto": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
+    },
+    {
+      "titulo": "Spotify expands AI remix and covers project with Merlin partnership",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T15:50:06+00:00",
+      "extracto": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated."
+    },
+    {
+      "titulo": "Texas halts new data centers as governor calls for audits",
+      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T15:42:35+00:00",
+      "extracto": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink."
+    },
+    {
+      "titulo": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T15:20:06+00:00",
+      "extracto": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business."
+    },
+    {
+      "titulo": "AMD s datacenter business is booming while gaming takes a backseat",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T20:57:49+00:00",
+      "extracto": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gaming revenue fell 31 [ ]"
+    },
+    {
+      "titulo": "SpaceX made more revenue as an AI company than a space company",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T20:47:55+00:00",
+      "extracto": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [ ]"
+    },
+    {
+      "titulo": "How an OpenAI influencer trip backfired",
+      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T17:46:41+00:00",
+      "extracto": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast [ ]"
+    },
+    {
+      "titulo": "‘Not healthy’ LLM use is more common than you think",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T17:33:46+00:00",
+      "extracto": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of [ ]"
+    },
+    {
+      "titulo": "Texas says data centers must pass an audit before connecting to the grid",
+      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T15:33:21+00:00",
+      "extracto": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that [ ]"
+    },
+    {
+      "titulo": "Texas halts data center connections to power grid amid overwhelming demand",
+      "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-04T20:34:28+00:00",
+      "extracto": "Governor who touted Texas as AI “epicenter” pauses data center grid connections."
+    },
+    {
+      "titulo": "¿Puede cualquier empresa usar hoy la inteligencia artificial? - ESAN Graduate School Of Business",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnBVZVhHTXdOVjdhejZEdl9MVjNvNDlhaENfelZvbGMxemdqaHpvdUJKNXlKTGV3SlM1ZlFPZlhuSlJKMnRhaXlKNExuSEhuVkEtNVB4a01zdktqbW5PVUl1M2tjbjE3NllieDRyaGVtUzQ5SW9UanZXcktSS2hxZTBZSUtsYzQ3WmNmQkdDRE1uSEZOLWtISjc2b0c0Zw?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-04T21:29:15+00:00",
+      "extracto": "¿Puede cualquier empresa usar hoy la inteligencia artificial? ESAN Graduate School Of Business"
+    },
+    {
+      "titulo": "Brecha digital: solo 25% de empresas tiene estrategia para operativos - El Ecosistema Startup",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSi1RR05yalBFZDI0Ry1LR1lSbGc2TTE3RWgyTndaUW02MXdoSk9wUjBlWVdwSnpxX3dOV2NSSVkydmZPT0N0RVdDV3duNmpHU3dXWm95aUw2dkp1X0NZZTM0RzJVMkhzeEpXMTN6M1BrX20xRm1rQ0Z3ZHJGWGozYzhwRTdSWklZZmtkUGpmVVNkRnpBdHpPTDhuZDNzSTg?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-04T20:18:48+00:00",
+      "extracto": "Brecha digital: solo 25% de empresas tiene estrategia para operativos El Ecosistema Startup"
+    },
+    {
+      "titulo": "El auge de la inteligencia artificial impulsa el rally de las empresas de pequeña capitalización - MarketScreener España",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ2tkd1VxYTZMTWFBdXJwMWhldVlSTVU1Z1U5NHBpMU1GeEp6YjJsazhTdXJLakZhekxWMFVESTNvUUJvQ3FoOGpKa2JpVTNlMHhON0haQ3U2WE50aFo1RU5tdkR0Y0tuY3VEYjZEUWF6a3ZzaDR0amlDX2NuTUhWVDh5aXFUZ2VtNTBMenVnWktGYjdJZWVJQ3VIMF9wNXYwRG1LTTVHd1U5ZTU4Rk5rZk5CMlpUeW5FQk0wY2doZENTWmlrVXA3NEhVaVlWRHJmcDhzS2JrOXFnTVVRQXBYR3FQNDFKRWs?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-04T15:47:19+00:00",
+      "extracto": "El auge de la inteligencia artificial impulsa el rally de las empresas de pequeña capitalización MarketScreener España"
+    },
+    {
+      "titulo": "Los modelos de IA de Anthropic atacan a tres empresas por error - COMPUTERWORLD ESPAÑA",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTBGeUtRWDFzbGVFWGNJYVdFLWZNU3NEMGowX21jX0lCZEVSX0JLU3ZORmo4bHE2VWp2cVJ0N0F5QWRTWWZMdTVvLUxLM284dWlkakF3OUltWGxUSExMLXM5b2xQSzBMQzN0empOWXM5V09udkttbkdoMGk1RldnUzlkUUVlcFFiQkhja2NxcE4yZjRBZ2RPWkEwcXpkWWlVeFZqUzhOMVRSWHFFbnRSb250bTJQQQ?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-04T14:24:47+00:00",
+      "extracto": "Los modelos de IA de Anthropic atacan a tres empresas por error COMPUTERWORLD ESPAÑA"
+    },
+    {
+      "titulo": "El aumento del gasto en marketing e inteligencia artificial de Spotify lastrará su beneficio - MarketScreener España",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcnRwUTdVWTZxdEprUFVXMjFrdWRsVkxsdnk5QXlrSk1DRzNzLUgyOHE4Tl91TFA3NUNneWlrelpZQktOVW1VSHdKczh2aGJYcE9DZmRoRzdSTXBnVHNhRElHanlnNGhiUDhGTXoyRHV1c1A1TEZBcEx3S3NodGJuZlhaRURESk5tcTQ4SVBFQkQ4RS05SUJhS2ZkZlpIQ2RFTWZ4dG9EbDdZc0NjRXNnQXo4ZDF1Q210STlYWnFQOERpWlM3bTRjbERnNHdxblk5Z0hVcA?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-04T10:12:14+00:00",
+      "extracto": "El aumento del gasto en marketing e inteligencia artificial de Spotify lastrará su beneficio MarketScreener España"
+    },
+    {
+      "titulo": "Corfo lanza programa para acelerar el uso de inteligencia artificial en la industria alimentaria chilena - Ministerio de Economía, Fomento y Turismo",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZVNQcWh1VkZUbC1XdURjVVZUSmxUWk5iUnN3dllSWTBPX2xWci14VHhHR0RQTDFGTWVXQ2FaTTNNUTQ5ZGpUX2UxcWV4OUVFNGVLV1F4UnZPRldSNE1sby1LT3dWaHREckJUZzN1YXRFQzFZR2VPc05rZlBOR3ZWQjQwQXh2NUphZ1RHWXlYbXNKZ1dKTmVVSUlhcDhOUG9qYzcycjJzTk9xSktxanFpQ0dlWVEzay1RUUhodVNUaWg3T2NOZmdweUdoVGZ4R0RjZTJ5R2dsRVozNFZ4YXBDUQ?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-04T22:02:04+00:00",
+      "extracto": "Corfo lanza programa para acelerar el uso de inteligencia artificial en la industria alimentaria chilena Ministerio de Economía, Fomento y Turismo"
+    },
+    {
+      "titulo": "Artificial intelligence: Why firms are struggling to set prices - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQzBPOW4tVDhjVUJpSmxEQVdJcHVnMlVHODVZRXpnckFpMmdyNXdCNHR3ZW5VWXJlOS1hMVpqQTluTzc5bXo2c2hNMlB5QS03WWRGbm5mOVFJUQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-03T23:21:10+00:00",
+      "extracto": "Artificial intelligence: Why firms are struggling to set prices BBC"
+    },
+    {
+      "titulo": "Top AI company executives to meet with White House officials, according to reports - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlFTNTFSTHBkdkk2cGltdzcycWY1YWc3SVdFaF9Qc211ZlN4U3RlNENwc0dxaGxlOTJqeU9qT2lPd0RISVpLazk2bVlRdHEwZXA3YnVuNnBIY2l5RGNOdkg3LWRRTXRhMTVHaGJQX1JKbGM5Z19pQWtpYTMtR1JJeFJSZXpicVNqV1B0ZmJSSHZLTm5qMXkwSlFHRjg2TFNVQkZaVk1ESQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-04T15:36:00+00:00",
+      "extracto": "Top AI company executives to meet with White House officials, according to reports CBS News"
+    },
+    {
+      "titulo": "Artificial intelligence is driving a new technology agenda for travel and tourism companies - Travel2Latam",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaUpscmVXMkh2UmpNZmctYXdfaDNrX1JWbEN3OXI3YlBmeTBqVHpjeC1pX1NGcHVITWhRbUtsU3l6ZF9Nd0hsSE04eGRPN2QwMGR0eHQ2dHZCV0hHa2gtS2V5SmxBTHNkNktzVW54TTk5RjZFQng5elRQMi1IMHB6aU84Rk5UQmY1Wkc0eG9CcEFZallySXQwN28tdjAybDFmNFA5UUwwaHNuTmZtWHlUSmRlcF9FMnhJbG5sdlVwQm5RNlZaOS1ucXFSNlJtS3pEYmc?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-04T14:53:33+00:00",
+      "extracto": "Artificial intelligence is driving a new technology agenda for travel and tourism companies Travel2Latam"
+    },
+    {
+      "titulo": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVNKc2JqcmZfVzBfczJuMDFnREpKUl9xME1jNlMyckt5TUJJdmstdmZtZ2VmZThsbl9RWDJZNE9qV0Vtang2bzFObk8xTUl1b2taUnBTd0hBc3BvdXNONlNlbkNIZUVpblhrR2FYSXMwWmt6MHphbUhLRUxmZGZGZHRlVmhxc3hKZERHWFpYbTYxd1JzVmxXdlkxNXZIYWxSNjNYdlNBNWNJdWNzNi1QY1NJR1ZhMExRTWFUQzRR?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-04T14:43:12+00:00",
+      "extracto": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership Reuters"
+    },
+    {
+      "titulo": "Can Reddit fend off a new wave of AI SEO spam? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOXzB5cWlIdnN6b001VjlwcWQ5R0hQX1UtSGxybGVoam1lTV9LekQzcTRXeklzU1d5M0tIaUcxYW1DQ3BBbGU4LTFuVzBNUmtsWHBoZDFNZGFvV3h5OU12c1Fuc0JYS2wzTzB5alJVdldObFUzVUVOUC1fLTNGODZDSjd6MVdtdGRVdHJDMTlBOFNzV3VxeEdpMElvc2xPMTBQaFo4?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-04T10:00:00+00:00",
+      "extracto": "Can Reddit fend off a new wave of AI SEO spam? The Verge"
+    },
+    {
+      "titulo": "Power Digital Unveils AI-Native Growth Model, Reimagining How Marketing Agencies Drive Business Outcomes - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYlFKNFBWM09SRFcwdFllbjhwcDBRQWNTano0T1dFYjFPUWNBUkFrRE5pRUxvZ2FJSmVlSDNEZ3d4Q296WE0wUzV5N2RwNVVXQVFfZzUwMGRBeW9Qb3poR1lWQmVXYllGelZvU09DSVBWZl9SYm5EbHdvck4xOTYyUFBncHVDQTNpemdXLUMtMjBYS1RHbUxxdmloQkVpWklRWTh0MG51OExMR2tsSTUwLVNkdlVibWV5dkstSG55TjBZSWptcVFxSXlxeEhtU18tOWtFNW8zTTlReFFPUTdaZWMtUGQ3bEVFUWVNZm1WOW5Rdw?oc=5",
+      "fuente": "GN — AI growth marketing (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-04T13:00:00+00:00",
+      "extracto": "Power Digital Unveils AI-Native Growth Model, Reimagining How Marketing Agencies Drive Business Outcomes Business Wire"
+    },
+    {
+      "titulo": "Voice AI Is Easier to Deploy. Long-Term ROI Is Harder - Auto Finance News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2k2NjR1dmljeXg3MTBBZWZXUmdUWEZnV2IxZGUzUlptUXVRdVVXU29yenpDYlRWQXFsUjdjS0d3WE9IaldYcHBTQktFOE4tSUs2c3VWcTlHVVdWeXlqY3QtaGV6VFNnQmZ6UWxnOEMwaW13TDZtT1o5UTBFbmdWR09FN3RUcXNJa1pPZVNJWGRUVzBjUWp6TDByZFZQaDcxdzRiVllpMEU?oc=5",
+      "fuente": "GN — Voice AI agents",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T14:50:33+00:00",
+      "extracto": "Voice AI Is Easier to Deploy. Long-Term ROI Is Harder Auto Finance News"
+    },
+    {
+      "titulo": "Major Multi-Hospital System Selects 3CLogic to Modernize IT Service Operations with Voice AI for ServiceNow - The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbkxpNTFnRzlQSkZoY0d2SHFCQ1RMR0FUQU5lM2l6NThyVDVKVWJ2dHZxdUdTb0ZaWkZGd1FobTNUTmFUYWVRczJBM0JWSUdqaExVcDNodnhsWFZ2Tzlwck91Zzc0eVRJd2ZxZzNVSVBDMlVZRDM2Mk16LUZhZGV2SjRrOXMtNFRibkdnVXJodTU0ZHUwcFBmQ1VCZVRpZXdBYnBQZE5wY19hMjNoNXVVeDQzUm1vN2txeEt6VV9RS2p6QkE4Z1E4X3ZScVlIZXZwaXNFOUNhQlFnS01XeFdXVXl1S2dSQTUzbDhpbUp0WjRfQzFzX0N2NVkzSzhPNUY4UkY3eW85SGRyUWvSAZACQVVfeXFMTndzaWNVeC1pQ19Ha2ZPZ3R6SmhLUDczbk9VUXNiUUJBT1hEOGhQV0FZbVJoVkFxVGp1SExnOV9mcEdndDUzX0sxVlAwUHFsb3FtYkU2dEtMdmtSRS1mTG5VdE81dDg1d2l2ODFiQUFTRHUxcm83ZEZQcGlibTVTOFpvWDFndC1zT0lhZllSa0NFMER3S1FfS3ZfQVBaQVUtQk90X2lrZ2hIcldQSlZjNHBCS1M0THZudFZFV0pkTVhmaFRkWGdpd1hielFhQnlNWmtzU3NOalFycFVxeDJFVWExTm9pRXpfZ19paFZ1N2FHZFppYWZGZ25QUDZqQUk1T1FzX19USXZiRGlrZVU4RWs?oc=5",
+      "fuente": "GN — Voice AI agents",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T15:26:25+00:00",
+      "extracto": "Major Multi-Hospital System Selects 3CLogic to Modernize IT Service Operations with Voice AI for ServiceNow The Manila Times"
+    },
+    {
+      "titulo": "Abel Communications, Brandi AI Host Webinar on AI Search Visibility - MarTech Cube",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX19mdlFYRjRXNnI2U0xRS1dCaWY1V0VrY0lxUEJtWW91MXBVUkFoTTdFeW5IcHBUT2c4cXU5SmM3WTg0VHlTbzRWRGhiak15bkUzWENmT2dkQUNSYlp6MFUwLTE1S1RQdTBlem14UkF5dUVPQWZhVmxjNm95a2F5cmZLdWRPVm9faEF1WUczUmJocGM4MkxZVEl1Zw?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T15:09:44+00:00",
+      "extracto": "Abel Communications, Brandi AI Host Webinar on AI Search Visibility MarTech Cube"
     }
   ]
 }
