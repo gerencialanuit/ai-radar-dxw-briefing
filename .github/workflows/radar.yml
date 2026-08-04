@@ -1,0 +1,54 @@
+name: AI Radar -> Discord
+
+on:
+  schedule:
+    - cron: "0 13 * * 1-5"
+    - cron: "0 19 * * 1-5"
+    - cron: "0 0 * * 2-6"
+  workflow_dispatch:
+    inputs:
+      horas:
+        description: "Antiguedad maxima en horas (usar 168 para sembrar el archivo)"
+        required: false
+        default: "48"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run radar
+        env:
+          WEBHOOK_AI_RELEASES: ${{ secrets.WEBHOOK_AI_RELEASES }}
+          WEBHOOK_AI_NEWS: ${{ secrets.WEBHOOK_AI_NEWS }}
+          WEBHOOK_AI_BUSINESS: ${{ secrets.WEBHOOK_AI_BUSINESS }}
+          WEBHOOK_DXW_BRIEFING: ${{ secrets.WEBHOOK_DXW_BRIEFING }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MAX_AGE_HOURS: ${{ github.event.inputs.horas || '48' }}
+        run: python bot.py
+
+      - name: Commit y push del estado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "chore: update state [skip ci]"
+          git push
