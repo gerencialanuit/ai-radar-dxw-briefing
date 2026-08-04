@@ -38,6 +38,8 @@ jobs:
         env:
           WEBHOOK_DXW_BRIEFING: ${{ secrets.WEBHOOK_DXW_BRIEFING }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL_TRIAGE: ${{ secrets.GEMINI_MODEL_TRIAGE }}
+          GEMINI_MODEL_BRIEFING: ${{ secrets.GEMINI_MODEL_BRIEFING }}
         run: python briefing.py
 
       - name: Run briefing (prueba, dry-run)
@@ -45,4 +47,6 @@ jobs:
         env:
           WEBHOOK_DXW_BRIEFING: ${{ secrets.WEBHOOK_DXW_BRIEFING }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL_TRIAGE: ${{ secrets.GEMINI_MODEL_TRIAGE }}
+          GEMINI_MODEL_BRIEFING: ${{ secrets.GEMINI_MODEL_BRIEFING }}
         run: python briefing.py --dry-run

@@ -41,6 +41,7 @@ jobs:
           WEBHOOK_AI_BUSINESS: ${{ secrets.WEBHOOK_AI_BUSINESS }}
           WEBHOOK_DXW_BRIEFING: ${{ secrets.WEBHOOK_DXW_BRIEFING }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
           MAX_AGE_HOURS: ${{ github.event.inputs.horas || '48' }}
         run: python bot.py
 
