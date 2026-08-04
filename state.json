@@ -729,7 +729,14 @@
     "9003fc22a10ed18d",
     "99d006f7f43627e6",
     "ba90056791d3631b",
-    "f2e583dee6cc9402"
+    "f2e583dee6cc9402",
+    "928c08785b292a8e",
+    "94a6fb62125a13ca",
+    "7ba0819e57f8e9dc",
+    "166cee82250145e0",
+    "5888b3699bcc37d4",
+    "2308aa3ae6b3433d",
+    "9f0753ab0652b5b9"
   ],
   "archivo": [
     {
@@ -1859,6 +1866,46 @@
       "categoria": "business",
       "fecha": "2026-08-04T14:18:12+00:00",
       "extracto": "Europa exige identificar el contenido creado con inteligencia artificial y fija multas de hasta 15 millones de euros La Voz del Interior"
+    },
+    {
+      "titulo": "Inside our 353,000-person vibe coding course",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "fuente": "Google AI Blog",
+      "categoria": "releases",
+      "fecha": "2026-08-03T15:00:00+00:00",
+      "extracto": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube"
+    },
+    {
+      "titulo": "AI offers 'lifeline' for emerging economies, World Bank says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVZGc1lSSGxvaXVoX2pBRG5rN1hTcU40dS1TQXl0ZU4yYUNDVFU2ODdCakpRai1hbFJwUVVkQVo0MVdENEg0YUQ4c25uZERIRUJqMHlBbVUwYXVfX3c0ZlpmdmVhVjRWUVFTbE93YnlzLV8zVW1FU3hhbFQ4Sy1OVkNXcHZsQzdIRXpVYmplcXdwOFJQS19XZk5TdVIxNlU?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-04T13:05:30+00:00",
+      "extracto": "AI offers 'lifeline' for emerging economies, World Bank says Reuters"
+    },
+    {
+      "titulo": "Top artificial intelligence companies to meet with Trump after rogue AI agent hacks - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZE05ZjVsNjlJclVLUlotVV9lNkFDNlMwMW1iVWhJOXc2VTJTREd1UEliN0JkUmsza3JMQjd4bFVrcWxzQmR0bHVONzl4VTliem1LWWRsX2ZRZHdrM1BRbGhUclFQQUJyTXUwWnFhVnJHek93QkQzOTk1a1NfOWI2Z1hNNUZrMk1aVjJSX0k2NEpNQVpFekVDeUdieG50a3JMUTFfZHR1Wlg4UGt5cndsOEln?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-04T14:59:32+00:00",
+      "extracto": "Top artificial intelligence companies to meet with Trump after rogue AI agent hacks The Globe and Mail"
+    },
+    {
+      "titulo": "How to build a customer profile for better targeting",
+      "link": "https://zapier.com/blog/customer-profile",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-03T22:00:00+00:00",
+      "extracto": "Your customer profile is probably wrong, and that's fine—as long as you know it. Most B2B teams build a profile during a kickoff workshop, plug it into a slide deck, and treat it like a fossil for the next two years while their actual customers change jobs, switch budgets, and stop caring about the things the profile says they care about. The teams that win treat customer profiles as living documents—reviewed quarterly, updated with real CRM data..."
+    },
+    {
+      "titulo": "Google Explains Why AI Agent Load Balancing Should Factor in Session Counts - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UMGJHb3JNZEpiZkgyTXVMSng0UFoxemh3SERPSkFtLUlJS1pWUkNNalBPQUtqeGptZWw3cmZJbGJLRzF6Q3ZSX0Vac3pKektzS2VzY1pKb1hJQWx3RmhsdkhuNGprVlhPZ0V4NlRJTVZLRHNaSEE?oc=5",
+      "fuente": "GN — Voice AI agents",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T08:55:00+00:00",
+      "extracto": "Google Explains Why AI Agent Load Balancing Should Factor in Session Counts finance.biggo.com"
     }
   ]
 }
