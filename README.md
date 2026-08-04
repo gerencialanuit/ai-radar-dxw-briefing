@@ -3,20 +3,22 @@
 ## 1. Qué hace este sistema
 
 Este sistema lee automáticamente ~34 fuentes de noticias sobre inteligencia
-artificial y negocios, y publica lo más relevante en cuatro canales de
-Discord. Cada mañana laboral recibes noticias de lanzamientos, análisis y
-negocios; cada viernes recibes además un briefing estratégico de una página
+artificial y negocios, más los videos más vistos de YouTube sobre Claude y
+herramientas de IA, y publica lo más relevante en cinco canales de Discord.
+Cada mañana laboral recibes noticias de lanzamientos, análisis, negocios y
+video; cada viernes recibes además un briefing estratégico de una página
 escrito con la perspectiva de DOUX.WORK, que filtra el ruido y solo destaca
 lo que realmente debería influir en una decisión. Todo corre gratis en la
 infraestructura de GitHub, sin servidores ni mantenimiento.
 
-## 2. Los 4 canales de Discord
+## 2. Los 5 canales de Discord
 
 | Canal | Qué recibe | Frecuencia |
 |---|---|---|
 | `#ai-releases` | Anuncios oficiales de laboratorios de IA (OpenAI, Anthropic, Google, Meta, Hugging Face...) | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
 | `#ai-news` | Noticias y análisis generales de IA (TechCrunch, The Verge, MIT Tech Review...) | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
 | `#ai-business-growth` | IA aplicada a negocios, marketing y crecimiento | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
+| `#ai-youtube-viral` (o el nombre que elijas) | Los videos de YouTube más vistos de los últimos 7 días sobre Claude, integraciones y herramientas de IA | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
 | `#dxw-ai-briefing` | Briefing semanal estratégico, filtrado con la lente de DOUX.WORK | Viernes 8:00 a.m. EST |
 
 > **Nota sobre "EST":** GitHub Actions programa en UTC fijo, sin ajuste
@@ -26,10 +28,10 @@ infraestructura de GitHub, sin servidores ni mantenimiento.
 > verano (UTC-4 de marzo a noviembre), avísame para ajustar el cron dos
 > veces al año.
 
-## 3. Cómo crear los 5 GitHub Secrets
+## 3. Cómo crear los GitHub Secrets
 
 Ve a tu repositorio en GitHub → pestaña **Settings** → **Secrets and
-variables** → **Actions** → botón **New repository secret**. Crea estos 5
+variables** → **Actions** → botón **New repository secret**. Crea estos
 secretos, uno por uno, con el nombre EXACTO de la primera columna:
 
 | Nombre del secreto | Qué valor va aquí |
@@ -38,21 +40,49 @@ secretos, uno por uno, con el nombre EXACTO de la primera columna:
 | `WEBHOOK_AI_NEWS` | URL del webhook del canal `#ai-news` |
 | `WEBHOOK_AI_BUSINESS` | URL del webhook del canal `#ai-business-growth` |
 | `WEBHOOK_DXW_BRIEFING` | URL del webhook del canal `#dxw-ai-briefing` |
+| `WEBHOOK_YOUTUBE_AI` | URL del webhook del canal de YouTube |
 | `GEMINI_API_KEY` | Tu clave de Google AI Studio (nivel gratuito) |
+| `YOUTUBE_API_KEY` | Tu clave de YouTube Data API v3 (ver sección 3.2) |
 
-**⚠️ Advertencia importante:** en Discord, si creaste los 4 webhooks con el
+**⚠️ Advertencia importante:** en Discord, si creaste varios webhooks con el
 mismo nombre (por ejemplo "AI Radar"), se van a ver idénticos en la lista de
 integraciones. **No copies las URLs de memoria ni por el orden en que
-aparecen.** Entra a cada canal individualmente (`#ai-releases`,
-`#ai-news`, etc.), abre su webhook desde **Configuración del canal → 
-Integraciones → Webhooks**, y copia la URL desde ahí. Si mezclas las URLs,
-las noticias van a llegar al canal equivocado.
+aparecen.** Entra a cada canal individualmente, abre su webhook desde
+**Configuración del canal → Integraciones → Webhooks**, y copia la URL
+desde ahí. Si mezclas las URLs, las noticias van a llegar al canal
+equivocado (ya nos pasó una vez con este mismo sistema).
 
 Para crear un webhook en Discord: entra al canal → ⚙️ Editar canal →
 Integraciones → Webhooks → Nuevo Webhook → Copiar URL del Webhook.
 
 Para conseguir tu `GEMINI_API_KEY`: entra a [Google AI Studio](https://aistudio.google.com/apikey),
 inicia sesión y genera una API key gratuita.
+
+### 3.1 Crear el canal de YouTube en Discord
+
+1. En tu servidor de Discord, crea un canal de texto nuevo (ej.
+   `#ai-youtube-viral`).
+2. ⚙️ Editar canal → Integraciones → Webhooks → Nuevo Webhook → Copiar URL.
+3. Guarda esa URL como el secret `WEBHOOK_YOUTUBE_AI`.
+
+### 3.2 Crear la YouTube Data API key (Google Cloud Console)
+
+1. Entra a [console.cloud.google.com](https://console.cloud.google.com/) e
+   inicia sesión con tu cuenta de Google.
+2. Arriba a la izquierda, crea un proyecto nuevo (ej. "AI Radar YouTube") o
+   usa uno existente.
+3. Ve a **APIs & Services → Library**, busca **"YouTube Data API v3"** y
+   haz clic en **Enable**.
+4. Ve a **APIs & Services → Credentials → Create Credentials → API key**.
+   Se genera la key al instante.
+5. (Recomendado) Haz clic en la key recién creada → en **API restrictions**
+   selecciona **Restrict key** → marca solo **YouTube Data API v3**. Esto
+   evita que la key se use para otra cosa si se filtra.
+6. Copia la key y guárdala como el secret `YOUTUBE_API_KEY`.
+
+Esta API tiene una cuota gratuita de 10,000 unidades/día. El sistema usa
+~500 unidades por corrida (5 búsquedas × 100 unidades cada una), así que
+con 2 corridas al día usas ~1,000 de 10,000 — muy por debajo del límite.
 
 ## 4. Cómo correr cada workflow desde la pestaña Actions
 
@@ -97,6 +127,9 @@ directamente en GitHub, botón del lápiz ✏️, y luego "Commit changes"):
 | Briefing con relleno | `briefing_score_minimo: 6` → `7` |
 | Briefing vacío o de 2 líneas | `briefing_score_minimo: 6` → `5` |
 | Briefing en español | `briefing_idioma: en` → `es` |
+| Muy pocos videos de YouTube | `youtube_vistas_minimas: 3000` → un número menor |
+| Videos poco relevantes de YouTube | Ajustar las queries en `youtube_queries` |
+| Videos muy viejos en YouTube | `youtube_dias: 7` → un número menor |
 
 ## 6.1 Cómo se decide qué se publica cuando hay más noticias que cupo
 

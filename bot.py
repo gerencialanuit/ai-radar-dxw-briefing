@@ -25,6 +25,9 @@ MAX_ENTRIES_POR_FEED = 25
 PAUSA_ENTRE_PUBLICACIONES = 7
 USER_AGENT = "Mozilla/5.0 (compatible; AIRadarBot/1.0)"
 
+YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
+YOUTUBE_VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
+
 # Mismos temas que la lente DXW del briefing semanal (ver DXW_CONTEXT en
 # briefing.py) -- se usan aqui como puntaje de prioridad, no como filtro:
 # no descartan nada, solo deciden quien gana el cupo cuando hay mas
@@ -107,6 +110,115 @@ def fetch_feed(url):
     resp = requests.get(url, timeout=15, headers={"User-Agent": USER_AGENT})
     resp.raise_for_status()
     return feedparser.parse(resp.content)
+
+
+def buscar_videos_youtube(query, api_key, dias, max_resultados):
+    publicado_despues = (datetime.now(timezone.utc) - timedelta(days=dias)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    params = {
+        "part": "snippet",
+        "q": query,
+        "type": "video",
+        "order": "viewCount",
+        "publishedAfter": publicado_despues,
+        "maxResults": max_resultados,
+        "relevanceLanguage": "en",
+        "key": api_key,
+    }
+    resp = requests.get(YOUTUBE_SEARCH_URL, params=params, timeout=15)
+    resp.raise_for_status()
+    return resp.json().get("items", [])
+
+
+def obtener_vistas_youtube(video_ids, api_key):
+    if not video_ids:
+        return {}
+    params = {"part": "statistics", "id": ",".join(video_ids), "key": api_key}
+    resp = requests.get(YOUTUBE_VIDEOS_URL, params=params, timeout=15)
+    resp.raise_for_status()
+    vistas = {}
+    for item in resp.json().get("items", []):
+        try:
+            vistas[item["id"]] = int(item["statistics"].get("viewCount", 0))
+        except Exception:
+            vistas[item["id"]] = 0
+    return vistas
+
+
+def huella_youtube(video_id):
+    return hashlib.sha1(video_id.encode("utf-8", errors="ignore")).hexdigest()[:16]
+
+
+def procesar_youtube(config_yml, config, categorias, vistos_set, vistos, nuevo_archivo, api_key):
+    queries = config_yml.get("youtube_queries") or []
+    if not api_key or not queries:
+        return []
+
+    dias = int(os.environ.get("YOUTUBE_DIAS") or config.get("youtube_dias", 7))
+    max_resultados = int(config.get("youtube_max_resultados", 8))
+    vistas_minimas = int(config.get("youtube_vistas_minimas", 3000))
+    categoria_cfg = categorias.get("youtube", {})
+
+    encontrados = {}
+    for query in queries:
+        try:
+            items = buscar_videos_youtube(query, api_key, dias, max_resultados)
+        except Exception as e:
+            print(f"[youtube] busqueda '{query}' fallo: {e}")
+            continue
+        for item in items:
+            video_id = item.get("id", {}).get("videoId")
+            if not video_id or video_id in encontrados:
+                continue
+            encontrados[video_id] = item["snippet"]
+
+    if not encontrados:
+        return []
+
+    video_ids = list(encontrados.keys())
+    try:
+        vistas_por_id = obtener_vistas_youtube(video_ids, api_key)
+    except Exception as e:
+        print(f"[youtube] no se pudieron obtener vistas: {e}")
+        vistas_por_id = {}
+
+    candidatos_youtube = []
+    for video_id, snippet in encontrados.items():
+        huella = huella_youtube(video_id)
+        if huella in vistos_set:
+            continue
+        vistos_set.add(huella)
+        vistos.append(huella)
+
+        vistas = vistas_por_id.get(video_id, 0)
+
+        titulo = limpiar(snippet.get("title", ""), 250)
+        extracto = limpiar(snippet.get("description", ""), 450)
+        fecha_str = snippet.get("publishedAt")
+        try:
+            fecha = datetime.fromisoformat(fecha_str.replace("Z", "+00:00")) if fecha_str else datetime.now(timezone.utc)
+        except Exception:
+            fecha = datetime.now(timezone.utc)
+
+        item = {
+            "titulo": titulo,
+            "link": f"https://www.youtube.com/watch?v={video_id}",
+            "fuente": snippet.get("channelTitle", "YouTube"),
+            "categoria": "youtube",
+            "fecha": fecha.isoformat(),
+            "extracto": extracto,
+            "vistas": vistas,
+        }
+        nuevo_archivo.append(item)
+
+        if vistas < vistas_minimas:
+            continue
+        if not categoria_cfg.get("publicar_diario", False):
+            continue
+
+        candidatos_youtube.append(item)
+
+    candidatos_youtube.sort(key=lambda x: x["vistas"], reverse=True)
+    return candidatos_youtube
 
 
 def pasa_filtros(categoria_cfg, titulo, extracto):
@@ -202,12 +314,15 @@ def publicar_discord(webhook_url, embed, max_intentos=4):
 
 def construir_embed(item, categoria_cfg, resumen):
     titulo = f"{categoria_cfg.get('emoji', '')} {item['titulo']}".strip()
+    footer_text = item["fuente"]
+    if "vistas" in item:
+        footer_text += f" · {item['vistas']:,} views"
     embed = {
         "title": titulo[:256],
         "url": item["link"],
         "description": resumen[:2000],
         "color": categoria_cfg.get("color", 0),
-        "footer": {"text": item["fuente"]},
+        "footer": {"text": footer_text},
         "timestamp": item["fecha"],
     }
     return embed
@@ -319,9 +434,15 @@ def main():
 
             candidatos.append(item)
 
-    categorias_diarias = [c for c, cfg in categorias.items() if cfg.get("publicar_diario", False)]
+    categorias_diarias = [c for c in categorias if c != "youtube" and categorias[c].get("publicar_diario", False)]
     limite_publicacion = 3 if primera_ejecucion else max_por_corrida
     a_publicar = distribuir_por_categoria(candidatos, categorias_diarias, limite_publicacion)
+
+    youtube_key = os.environ.get("YOUTUBE_API_KEY", "")
+    youtube_max_por_corrida = int(config.get("youtube_max_por_corrida", 3))
+    candidatos_youtube = procesar_youtube(config_yml, config, categorias, vistos_set, vistos, nuevo_archivo, youtube_key)
+    limite_youtube = 1 if primera_ejecucion else youtube_max_por_corrida
+    a_publicar += candidatos_youtube[:limite_youtube]
 
     if dry_run:
         print(f"[dry-run] {len(a_publicar)} items se publicarian (de {len(candidatos)} candidatos):")

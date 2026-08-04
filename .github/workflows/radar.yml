@@ -40,8 +40,10 @@ jobs:
           WEBHOOK_AI_NEWS: ${{ secrets.WEBHOOK_AI_NEWS }}
           WEBHOOK_AI_BUSINESS: ${{ secrets.WEBHOOK_AI_BUSINESS }}
           WEBHOOK_DXW_BRIEFING: ${{ secrets.WEBHOOK_DXW_BRIEFING }}
+          WEBHOOK_YOUTUBE_AI: ${{ secrets.WEBHOOK_YOUTUBE_AI }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           MAX_AGE_HOURS: ${{ github.event.inputs.horas || '48' }}
         run: python bot.py
 

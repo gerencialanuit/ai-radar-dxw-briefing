@@ -10,6 +10,10 @@ config:
   briefing_dias: 7
   briefing_max_items: 12
   briefing_score_minimo: 6
+  youtube_dias: 7
+  youtube_max_resultados: 8
+  youtube_max_por_corrida: 3
+  youtube_vistas_minimas: 3000
 
 categorias:
   releases:
@@ -41,6 +45,22 @@ categorias:
     color: 0x111827
     emoji: "🎯"
     publicar_diario: false
+
+  youtube:
+    webhook_env: WEBHOOK_YOUTUBE_AI
+    color: 0xFF0000
+    emoji: "📺"
+    publicar_diario: true
+
+# Busquedas de YouTube Data API, ordenadas por vistas dentro de los ultimos
+# youtube_dias. No usan feedparser -- las procesa procesar_youtube() en
+# bot.py via la YouTube Data API v3 (necesita YOUTUBE_API_KEY).
+youtube_queries:
+  - "Claude AI"
+  - "Claude Code"
+  - "Claude MCP integration"
+  - "how to use Claude AI"
+  - "Claude AI tutorial"
 
 feeds:
   # ---------- OFFICIAL LAB RELEASES -> #ai-releases ----------
