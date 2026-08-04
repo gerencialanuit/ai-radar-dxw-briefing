@@ -91,7 +91,7 @@ directamente en GitHub, botón del lápiz ✏️, y luego "Commit changes"):
 
 | Problema | Qué cambiar en `feeds.yml` |
 |---|---|
-| Demasiadas noticias | `max_por_corrida: 12` → `6` |
+| Demasiadas noticias | `max_por_corrida: 18` → un número menor (ej. `12`) |
 | Llegan cosas irrelevantes | Añadir palabras a `excluir` |
 | Llegan muy pocas | Quitar palabras de `incluir` |
 | Briefing con relleno | `briefing_score_minimo: 6` → `7` |
@@ -100,7 +100,11 @@ directamente en GitHub, botón del lápiz ✏️, y luego "Commit changes"):
 
 ## 6.1 Cómo se decide qué se publica cuando hay más noticias que cupo
 
-Cada corrida solo publica hasta `max_por_corrida` noticias (12 por defecto).
+Cada corrida solo publica hasta `max_por_corrida` noticias (18 por defecto —
+calibrado para 2 corridas/día en vez de 3, manteniendo el mismo volumen
+diario total de antes; la pausa entre llamadas a Gemini también se subió a
+7 segundos para no chocar tanto con el límite gratuito de ~10 resúmenes por
+minuto).
 Ese cupo **se reparte entre los 3 canales diarios por turnos** (releases,
 news, business, releases, news, business...), así que ningún canal se queda
 en cero solo porque otro tuvo una ráfaga de noticias — cada uno se lleva su

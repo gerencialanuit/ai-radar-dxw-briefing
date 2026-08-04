@@ -22,7 +22,7 @@ MAX_VISTOS = 2000
 MAX_ARCHIVO = 1500
 ARCHIVO_DIAS = 10
 MAX_ENTRIES_POR_FEED = 25
-PAUSA_ENTRE_PUBLICACIONES = 1.5
+PAUSA_ENTRE_PUBLICACIONES = 7
 USER_AGENT = "Mozilla/5.0 (compatible; AIRadarBot/1.0)"
 
 # Mismos temas que la lente DXW del briefing semanal (ver DXW_CONTEXT en
