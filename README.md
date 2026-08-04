@@ -91,6 +91,27 @@ directamente en GitHub, botón del lápiz ✏️, y luego "Commit changes"):
 | Briefing vacío o de 2 líneas | `briefing_score_minimo: 6` → `5` |
 | Briefing en español | `briefing_idioma: en` → `es` |
 
+## 6.1 Cómo se decide qué se publica cuando hay más noticias que cupo
+
+Cada corrida solo publica hasta `max_por_corrida` noticias (12 por defecto),
+repartidas entre los 3 canales diarios. Cuando hay más candidatos que cupo,
+el sistema **no elige simplemente las más recientes** — calcula un puntaje
+de prioridad para cada noticia y gana la que más puntúa:
+
+- **+1 punto** por cada palabra de una lista de ~55 temas que le importan a
+  DOUX.WORK (agentes de IA, automatización, local SEO/GEO/AEO, Google
+  Business Profile, CRM, Twilio, voz, review management, SaaS, APIs, UX,
+  etc. — la misma lista que usa el Briefing semanal).
+- **+10 puntos extra** si la noticia menciona "Claude" o "Anthropic" —
+  prácticamente garantiza que gane cupo frente a noticias genéricas de IA.
+- Si dos noticias empatan en puntaje, gana la más reciente (como antes).
+
+Esto significa que una noticia relevante para DOUX.WORK o sobre Claude no
+se pierde solo porque llegó al mismo tiempo que una ráfaga de noticias
+genéricas de otra fuente. Si quieres agregar o quitar temas de esa lista,
+edita `PALABRAS_PRIORIDAD` en `bot.py` (requiere tocar código, no solo
+`feeds.yml`).
+
 ## 7. Cómo desactivar un feed muerto
 
 Si una fuente empieza a fallar seguido (revisa `python bot.py --check` desde

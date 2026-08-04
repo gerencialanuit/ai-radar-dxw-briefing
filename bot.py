@@ -25,6 +25,25 @@ MAX_ENTRIES_POR_FEED = 25
 PAUSA_ENTRE_PUBLICACIONES = 1.5
 USER_AGENT = "Mozilla/5.0 (compatible; AIRadarBot/1.0)"
 
+# Mismos temas que la lente DXW del briefing semanal (ver DXW_CONTEXT en
+# briefing.py) -- se usan aqui como puntaje de prioridad, no como filtro:
+# no descartan nada, solo deciden quien gana el cupo cuando hay mas
+# candidatos que espacio en max_por_corrida.
+PALABRAS_PRIORIDAD = [
+    "agent", "agentic", "automation", "workflow", "no-code", "low-code",
+    "local seo", "google business profile", "gbp", "local search", "maps",
+    "aeo", "geo", "answer engine", "generative engine", "ai search",
+    "review", "reputation", "testimonial", "crm", "hubspot", "salesforce",
+    "twilio", "sms", "voice", "call", "receptionist", "messaging",
+    "small business", "smb", "service business", "home service",
+    "field service", "contractor", "api", "integration", "webhook", "mcp",
+    "onboarding", "ux", "product design", "pricing", "saas", "perplexity",
+    "search console", "schema", "structured data", "citation", "lead",
+    "funnel", "retention", "churn",
+]
+PALABRAS_CLAUDE = ["claude", "anthropic"]
+BONUS_CLAUDE = 10
+
 PROMPT_RESUMEN = (
     "Summarize this AI news story in AT MOST 2 sentences, in neutral English, "
     "executive and direct tone, no introductions or quotes. Focus on what is "
@@ -103,6 +122,14 @@ def pasa_filtros(categoria_cfg, titulo, extracto):
         if palabra.lower() in texto:
             return True
     return False
+
+
+def calcular_prioridad(titulo, extracto):
+    texto = (titulo + " " + extracto).lower()
+    puntaje = sum(1 for palabra in PALABRAS_PRIORIDAD if palabra in texto)
+    if any(palabra in texto for palabra in PALABRAS_CLAUDE):
+        puntaje += BONUS_CLAUDE
+    return puntaje
 
 
 def resumir_con_gemini(titulo, extracto, api_key, modelo):
@@ -269,7 +296,7 @@ def main():
 
             candidatos.append(item)
 
-    candidatos.sort(key=lambda x: x["fecha"], reverse=True)
+    candidatos.sort(key=lambda x: (calcular_prioridad(x["titulo"], x["extracto"]), x["fecha"]), reverse=True)
 
     limite_publicacion = 3 if primera_ejecucion else max_por_corrida
     a_publicar = candidatos[:limite_publicacion]
@@ -277,7 +304,8 @@ def main():
     if dry_run:
         print(f"[dry-run] {len(a_publicar)} items se publicarian (de {len(candidatos)} candidatos):")
         for item in a_publicar:
-            print(f"  [{item['categoria']}] {item['titulo']} -> {item['link']}")
+            prioridad = calcular_prioridad(item["titulo"], item["extracto"])
+            print(f"  [{item['categoria']}] (prioridad={prioridad}) {item['titulo']} -> {item['link']}")
         return
 
     for item in a_publicar:
