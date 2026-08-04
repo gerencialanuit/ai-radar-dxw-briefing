@@ -115,14 +115,21 @@ líneas con `#` en `feeds.yml`. Ejemplo:
 
 ## 9. Notas sobre las fuentes
 
-- La fuente **"Anthropic News (mirror)"** no es oficial: Anthropic no publica
-  un RSS propio, así que usamos un espejo comunitario
-  (`rsshub.bestblogs.dev`). Es la fuente más frágil de la lista — si falla
-  seguido, hay un reemplazo mantenido en
-  [github.com/Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds).
-- **"Meta AI Blog (mirror)"** usa el mismo proyecto comunitario
-  (`Olshansk/rss-feeds`), porque `ai.meta.com` no expone RSS propio. Mismo
-  riesgo de fragilidad que el de Anthropic.
+- **"Anthropic News (mirror)"** y **"Claude Blog (mirror)"** no son fuentes
+  oficiales: Anthropic no publica RSS propio, así que usamos el espejo
+  comunitario [github.com/Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds)
+  (mismo proyecto que usamos para Meta AI Blog). Originalmente "Anthropic
+  News (mirror)" apuntaba a `rsshub.bestblogs.dev`, pero esa fuente estaba
+  entregando solo 1 item desactualizado (última noticia de una semana
+  atrás) — se reemplazó por el mirror de Olshansk, que trae el historial
+  completo y se actualiza al día. "Claude Blog (mirror)" es nuevo: cubre el
+  blog de producto de Claude (modelos, MCP, diseño), que antes no se
+  rastreaba — solo teníamos "Claude Code — Releases", que son notas de
+  versión del CLI, no del blog general.
+- **"Meta AI Blog (mirror)"** usa el mismo proyecto comunitario, porque
+  `ai.meta.com` no expone RSS propio. Los tres mirrors de Olshansk
+  (Anthropic, Claude, Meta) comparten el mismo riesgo: si ese repo se cae o
+  deja de mantenerse, las tres fuentes fallan juntas.
 - **"BrightLocal (Local SEO)"** cambió de URL: su feed se movió de
   `/blog/feed/` a `/resources/feed/`. Si vuelve a fallar, revisa si movieron
   la ruta otra vez.

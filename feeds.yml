@@ -48,7 +48,10 @@ feeds:
     url: "https://openai.com/news/rss.xml"
     categoria: releases
   - nombre: "Anthropic News (mirror)"
-    url: "https://rsshub.bestblogs.dev/anthropic/news"
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"
+    categoria: releases
+  - nombre: "Claude Blog (mirror)"
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml"
     categoria: releases
   - nombre: "Claude Code — Releases"
     url: "https://github.com/anthropics/claude-code/releases.atom"
@@ -106,6 +109,9 @@ feeds:
     categoria: business
   - nombre: "GN — IA y negocios (ES)"
     url: "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+(empresas+OR+negocios+OR+marketing)&hl=es-419&gl=CO&ceid=CO:es-419"
+    categoria: business
+  - nombre: "GN — AI & business news (EN)"
+    url: "https://news.google.com/rss/search?q=%22artificial+intelligence%22+(business+OR+companies+OR+marketing)&hl=en-US&gl=US&ceid=US:en"
     categoria: business
   - nombre: "GN — AI growth marketing (EN)"
     url: "https://news.google.com/rss/search?q=%22AI%22+%22growth+marketing%22&hl=en-US&gl=US&ceid=US:en"
