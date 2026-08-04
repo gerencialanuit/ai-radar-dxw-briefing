@@ -1,0 +1,154 @@
+# ============================================================
+#  AI RADAR -> DISCORD  |  feed sources and filters
+# ============================================================
+
+config:
+  max_por_corrida: 12
+  antiguedad_max_horas: 48
+  resumir_con_ia: true
+  briefing_idioma: en
+  briefing_dias: 7
+  briefing_max_items: 12
+  briefing_score_minimo: 6
+
+categorias:
+  releases:
+    webhook_env: WEBHOOK_AI_RELEASES
+    color: 0x5A67D8
+    emoji: "🚀"
+    publicar_diario: true
+
+  news:
+    webhook_env: WEBHOOK_AI_NEWS
+    color: 0x0EA5A4
+    emoji: "📰"
+    publicar_diario: true
+    incluir: ["ai", "artificial intelligence", "llm", "model", "agent", "gpt",
+              "claude", "gemini", "openai", "anthropic", "inteligencia artificial"]
+
+  business:
+    webhook_env: WEBHOOK_AI_BUSINESS
+    color: 0xD97706
+    emoji: "📈"
+    publicar_diario: true
+    incluir: ["ai", "artificial intelligence", "inteligencia artificial",
+              "automation", "automatización", "growth", "marketing", "saas",
+              "roi", "productivity", "enterprise", "agent"]
+    excluir: ["crypto", "nft", "web3"]
+
+  dxw:
+    webhook_env: WEBHOOK_DXW_BRIEFING
+    color: 0x111827
+    emoji: "🎯"
+    publicar_diario: false
+
+feeds:
+  # ---------- OFFICIAL LAB RELEASES -> #ai-releases ----------
+  - nombre: "OpenAI News"
+    url: "https://openai.com/news/rss.xml"
+    categoria: releases
+  - nombre: "Anthropic News (mirror)"
+    url: "https://rsshub.bestblogs.dev/anthropic/news"
+    categoria: releases
+  - nombre: "Claude Code — Releases"
+    url: "https://github.com/anthropics/claude-code/releases.atom"
+    categoria: releases
+  - nombre: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    categoria: releases
+  - nombre: "Google DeepMind"
+    url: "https://deepmind.google/blog/feed/basic/"
+    categoria: releases
+  - nombre: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    categoria: releases
+  - nombre: "Meta AI Blog"
+    url: "https://ai.meta.com/blog/rss/"
+    categoria: releases
+
+  # ---------- NEWS & ANALYSIS -> #ai-news ----------
+  - nombre: "MarkTechPost"
+    url: "https://www.marktechpost.com/feed/"
+    categoria: news
+  - nombre: "MIT Technology Review — AI"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+    categoria: news
+  - nombre: "TechCrunch AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    categoria: news
+  - nombre: "The Verge — AI"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    categoria: news
+  - nombre: "VentureBeat AI"
+    url: "https://venturebeat.com/category/ai/feed/"
+    categoria: news
+  - nombre: "Ars Technica AI"
+    url: "https://arstechnica.com/ai/feed/"
+    categoria: news
+
+  # ---------- BUSINESS & GROWTH -> #ai-business-growth ----------
+  - nombre: "a16z"
+    url: "https://a16z.com/feed/"
+    categoria: business
+  - nombre: "Marketing AI Institute"
+    url: "https://www.marketingaiinstitute.com/blog/rss.xml"
+    categoria: business
+  - nombre: "Last Week in AI"
+    url: "https://lastweekin.ai/feed"
+    categoria: business
+  - nombre: "Ahead of AI (Raschka)"
+    url: "https://magazine.sebastianraschka.com/feed"
+    categoria: business
+  - nombre: "GN — IA y negocios (ES)"
+    url: "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+(empresas+OR+negocios+OR+marketing)&hl=es-419&gl=CO&ceid=CO:es-419"
+    categoria: business
+  - nombre: "GN — AI growth marketing (EN)"
+    url: "https://news.google.com/rss/search?q=%22AI%22+%22growth+marketing%22&hl=en-US&gl=US&ceid=US:en"
+    categoria: business
+
+  # ---------- DOUX.WORK LENS -> solo briefing semanal ----------
+  - nombre: "Google Search Central"
+    url: "https://developers.google.com/search/blog/feed.xml"
+    categoria: dxw
+  - nombre: "Search Engine Land"
+    url: "https://searchengineland.com/feed"
+    categoria: dxw
+  - nombre: "Search Engine Roundtable"
+    url: "https://www.seroundtable.com/index.rdf"
+    categoria: dxw
+  - nombre: "BrightLocal (Local SEO)"
+    url: "https://www.brightlocal.com/feed/"
+    categoria: dxw
+  - nombre: "Near Media (Local search)"
+    url: "https://www.nearmedia.co/feed/"
+    categoria: dxw
+  - nombre: "Twilio Blog"
+    url: "https://www.twilio.com/blog/feed"
+    categoria: dxw
+  - nombre: "Zapier Blog"
+    url: "https://zapier.com/blog/feeds/latest/"
+    categoria: dxw
+  - nombre: "n8n Blog"
+    url: "https://blog.n8n.io/rss/"
+    categoria: dxw
+  - nombre: "Nielsen Norman Group (UX)"
+    url: "https://www.nngroup.com/feed/rss/"
+    categoria: dxw
+  - nombre: "Product Hunt"
+    url: "https://www.producthunt.com/feed"
+    categoria: dxw
+  - nombre: "GN — Google Business Profile"
+    url: "https://news.google.com/rss/search?q=%22Google+Business+Profile%22+OR+%22local+search+ranking%22&hl=en-US&gl=US&ceid=US:en"
+    categoria: dxw
+  - nombre: "GN — Voice AI agents"
+    url: "https://news.google.com/rss/search?q=%22voice+AI%22+(agent+OR+receptionist+OR+%22call+handling%22)&hl=en-US&gl=US&ceid=US:en"
+    categoria: dxw
+  - nombre: "GN — Home services software"
+    url: "https://news.google.com/rss/search?q=(%22home+services%22+OR+%22field+service%22)+(software+OR+AI+OR+CRM)&hl=en-US&gl=US&ceid=US:en"
+    categoria: dxw
+  - nombre: "GN — Review management"
+    url: "https://news.google.com/rss/search?q=%22review+management%22+OR+%22online+reputation%22+small+business&hl=en-US&gl=US&ceid=US:en"
+    categoria: dxw
+  - nombre: "GN — AEO / GEO / AI search"
+    url: "https://news.google.com/rss/search?q=%22answer+engine+optimization%22+OR+%22generative+engine+optimization%22+OR+%22AI+search+visibility%22&hl=en-US&gl=US&ceid=US:en"
+    categoria: dxw
