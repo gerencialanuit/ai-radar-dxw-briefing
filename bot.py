@@ -26,9 +26,9 @@ PAUSA_ENTRE_PUBLICACIONES = 1.5
 USER_AGENT = "Mozilla/5.0 (compatible; AIRadarBot/1.0)"
 
 PROMPT_RESUMEN = (
-    "Resume esta noticia de inteligencia artificial en MAXIMO 2 frases, en espanol "
-    "neutro, tono ejecutivo y directo, sin introducciones ni comillas. Enfocate en que "
-    "cambia y por que le importa a una empresa."
+    "Summarize this AI news story in AT MOST 2 sentences, in neutral English, "
+    "executive and direct tone, no introductions or quotes. Focus on what is "
+    "changing and why it matters to a business."
 )
 
 
