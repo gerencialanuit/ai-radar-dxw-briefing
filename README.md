@@ -120,8 +120,19 @@ líneas con `#` en `feeds.yml`. Ejemplo:
   (`rsshub.bestblogs.dev`). Es la fuente más frágil de la lista — si falla
   seguido, hay un reemplazo mantenido en
   [github.com/Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds).
-- Es normal que 2-3 de los 34 feeds fallen ocasionalmente (sitios caídos,
-  cambios de URL, etc.). El sistema sigue funcionando con el resto.
+- **"Meta AI Blog (mirror)"** usa el mismo proyecto comunitario
+  (`Olshansk/rss-feeds`), porque `ai.meta.com` no expone RSS propio. Mismo
+  riesgo de fragilidad que el de Anthropic.
+- **"BrightLocal (Local SEO)"** cambió de URL: su feed se movió de
+  `/blog/feed/` a `/resources/feed/`. Si vuelve a fallar, revisa si movieron
+  la ruta otra vez.
+- **"a16z"** y **"MarkTechPost"** están comentadas en `feeds.yml` (no
+  desactivadas por accidente): a16z ya no publica RSS en ningún path
+  conocido, y MarkTechPost bloquea tráfico automatizado con Cloudflare
+  (403 sin importar la URL). Si alguna vuelve a estar disponible, descomenta
+  sus 3 líneas.
+- Es normal que 1-2 de los 32 feeds activos fallen ocasionalmente (sitios
+  caídos, cambios de URL, etc.). El sistema sigue funcionando con el resto.
 
 ## 10. Un briefing corto es correcto, no una falla
 

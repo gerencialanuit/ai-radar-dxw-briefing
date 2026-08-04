@@ -62,14 +62,16 @@ feeds:
   - nombre: "Hugging Face Blog"
     url: "https://huggingface.co/blog/feed.xml"
     categoria: releases
-  - nombre: "Meta AI Blog"
-    url: "https://ai.meta.com/blog/rss/"
+  - nombre: "Meta AI Blog (mirror)"
+    url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml"
     categoria: releases
 
   # ---------- NEWS & ANALYSIS -> #ai-news ----------
-  - nombre: "MarkTechPost"
-    url: "https://www.marktechpost.com/feed/"
-    categoria: news
+  # - nombre: "MarkTechPost"
+  #   url: "https://www.marktechpost.com/feed/"
+  #   categoria: news
+  # Desactivado: Cloudflare bloquea el trafico automatizado con 403 en
+  # cualquier ruta del feed, no depende de la URL. Sin mirror disponible.
   - nombre: "MIT Technology Review — AI"
     url: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
     categoria: news
@@ -87,9 +89,12 @@ feeds:
     categoria: news
 
   # ---------- BUSINESS & GROWTH -> #ai-business-growth ----------
-  - nombre: "a16z"
-    url: "https://a16z.com/feed/"
-    categoria: business
+  # - nombre: "a16z"
+  #   url: "https://a16z.com/feed/"
+  #   categoria: business
+  # Desactivado: a16z.com ya no expone RSS en ningun path conocido (404 en
+  # /feed/, /rss/, /news-content/feed/, sin <link rel="alternate"> en el
+  # home). Sin mirror comunitario disponible.
   - nombre: "Marketing AI Institute"
     url: "https://www.marketingaiinstitute.com/blog/rss.xml"
     categoria: business
@@ -117,7 +122,7 @@ feeds:
     url: "https://www.seroundtable.com/index.rdf"
     categoria: dxw
   - nombre: "BrightLocal (Local SEO)"
-    url: "https://www.brightlocal.com/feed/"
+    url: "https://www.brightlocal.com/resources/feed/"
     categoria: dxw
   - nombre: "Near Media (Local search)"
     url: "https://www.nearmedia.co/feed/"
