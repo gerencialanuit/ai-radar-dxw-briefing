@@ -132,6 +132,29 @@ def calcular_prioridad(titulo, extracto):
     return puntaje
 
 
+def distribuir_por_categoria(candidatos, categorias_diarias, limite):
+    colas = []
+    for categoria in categorias_diarias:
+        cola = [c for c in candidatos if c["categoria"] == categoria]
+        cola.sort(key=lambda x: (calcular_prioridad(x["titulo"], x["extracto"]), x["fecha"]), reverse=True)
+        colas.append(cola)
+
+    seleccion = []
+    indices = [0] * len(colas)
+    while len(seleccion) < limite:
+        avance = False
+        for i, cola in enumerate(colas):
+            if len(seleccion) >= limite:
+                break
+            if indices[i] < len(cola):
+                seleccion.append(cola[indices[i]])
+                indices[i] += 1
+                avance = True
+        if not avance:
+            break
+    return seleccion
+
+
 def resumir_con_gemini(titulo, extracto, api_key, modelo):
     if not api_key:
         return extracto[:350]
@@ -296,10 +319,9 @@ def main():
 
             candidatos.append(item)
 
-    candidatos.sort(key=lambda x: (calcular_prioridad(x["titulo"], x["extracto"]), x["fecha"]), reverse=True)
-
+    categorias_diarias = [c for c, cfg in categorias.items() if cfg.get("publicar_diario", False)]
     limite_publicacion = 3 if primera_ejecucion else max_por_corrida
-    a_publicar = candidatos[:limite_publicacion]
+    a_publicar = distribuir_por_categoria(candidatos, categorias_diarias, limite_publicacion)
 
     if dry_run:
         print(f"[dry-run] {len(a_publicar)} items se publicarian (de {len(candidatos)} candidatos):")

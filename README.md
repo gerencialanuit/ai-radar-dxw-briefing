@@ -14,10 +14,17 @@ infraestructura de GitHub, sin servidores ni mantenimiento.
 
 | Canal | Qué recibe | Frecuencia |
 |---|---|---|
-| `#ai-releases` | Anuncios oficiales de laboratorios de IA (OpenAI, Anthropic, Google, Meta, Hugging Face...) | 3 veces al día, lunes a viernes |
-| `#ai-news` | Noticias y análisis generales de IA (TechCrunch, The Verge, MIT Tech Review...) | 3 veces al día, lunes a viernes |
-| `#ai-business-growth` | IA aplicada a negocios, marketing y crecimiento | 3 veces al día, lunes a viernes |
-| `#dxw-ai-briefing` | Briefing semanal estratégico, filtrado con la lente de DOUX.WORK | Viernes 8:30 a.m. hora Colombia |
+| `#ai-releases` | Anuncios oficiales de laboratorios de IA (OpenAI, Anthropic, Google, Meta, Hugging Face...) | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
+| `#ai-news` | Noticias y análisis generales de IA (TechCrunch, The Verge, MIT Tech Review...) | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
+| `#ai-business-growth` | IA aplicada a negocios, marketing y crecimiento | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
+| `#dxw-ai-briefing` | Briefing semanal estratégico, filtrado con la lente de DOUX.WORK | Viernes 8:00 a.m. EST |
+
+> **Nota sobre "EST":** GitHub Actions programa en UTC fijo, sin ajuste
+> automático por horario de verano. Estos horarios están fijados a UTC-5
+> (el mismo offset que hora Colombia todo el año, y que EST en invierno).
+> Si literalmente quieres que sea hora del Este de EE.UU. con horario de
+> verano (UTC-4 de marzo a noviembre), avísame para ajustar el cron dos
+> veces al año.
 
 ## 3. Cómo crear los 5 GitHub Secrets
 
@@ -74,7 +81,7 @@ una semana completa de noticias antes del primer briefing:
 2. En el campo **horas**, escribe `168` (equivale a 7 días).
 3. Ejecuta. Esto va a traer una semana de noticias y guardarlas en el
    archivo (aunque solo publique 3 en Discord, por ser la primera corrida).
-4. A partir de ahí, el radar sigue corriendo normal 3 veces al día y el
+4. A partir de ahí, el radar sigue corriendo normal 2 veces al día y el
    archivo se va llenando solo.
 
 ## 6. Tabla de calibración
@@ -93,22 +100,29 @@ directamente en GitHub, botón del lápiz ✏️, y luego "Commit changes"):
 
 ## 6.1 Cómo se decide qué se publica cuando hay más noticias que cupo
 
-Cada corrida solo publica hasta `max_por_corrida` noticias (12 por defecto),
-repartidas entre los 3 canales diarios. Cuando hay más candidatos que cupo,
-el sistema **no elige simplemente las más recientes** — calcula un puntaje
-de prioridad para cada noticia y gana la que más puntúa:
+Cada corrida solo publica hasta `max_por_corrida` noticias (12 por defecto).
+Ese cupo **se reparte entre los 3 canales diarios por turnos** (releases,
+news, business, releases, news, business...), así que ningún canal se queda
+en cero solo porque otro tuvo una ráfaga de noticias — cada uno se lleva su
+parte, y si un canal no tiene suficientes noticias nuevas ese cupo sobrante
+pasa a los demás en vez de perderse.
+
+Dentro de cada canal, tampoco gana simplemente lo más reciente — cada
+noticia recibe un puntaje de prioridad y gana la que más puntúa:
 
 - **+1 punto** por cada palabra de una lista de ~55 temas que le importan a
   DOUX.WORK (agentes de IA, automatización, local SEO/GEO/AEO, Google
   Business Profile, CRM, Twilio, voz, review management, SaaS, APIs, UX,
   etc. — la misma lista que usa el Briefing semanal).
 - **+10 puntos extra** si la noticia menciona "Claude" o "Anthropic" —
-  prácticamente garantiza que gane cupo frente a noticias genéricas de IA.
+  prácticamente garantiza que gane cupo frente a noticias genéricas de IA
+  dentro de su mismo canal.
 - Si dos noticias empatan en puntaje, gana la más reciente (como antes).
 
 Esto significa que una noticia relevante para DOUX.WORK o sobre Claude no
 se pierde solo porque llegó al mismo tiempo que una ráfaga de noticias
-genéricas de otra fuente. Si quieres agregar o quitar temas de esa lista,
+genéricas de otra fuente — ni dentro de su canal, ni porque otro canal se
+haya comido todo el cupo. Si quieres agregar o quitar temas de esa lista,
 edita `PALABRAS_PRIORIDAD` en `bot.py` (requiere tocar código, no solo
 `feeds.yml`).
 
