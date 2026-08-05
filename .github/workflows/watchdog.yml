@@ -1,10 +1,10 @@
 name: Watchdog
 
-# Corre 30 min despues de cada horario esperado de AI Radar y del DXW
-# Briefing. Si en los ultimos 50 minutos no hubo ninguna corrida de ese
-# workflow, lo dispara el mismo. Existe porque el cron de GitHub ha estado
-# saliendo con retrasos de 1-2+ horas en este repo (ver README, seccion
-# 8, fila "El cron no dispara solo").
+# Corre 30 min despues de cada horario esperado de AI Radar, YouTube Viral
+# y del DXW Briefing. Si en los ultimos 50 minutos no hubo ninguna corrida
+# de ese workflow, lo dispara el mismo. Existe porque el cron de GitHub ha
+# estado saliendo con retrasos de 1-2+ horas en este repo (ver README,
+# seccion 8, fila "El cron no dispara solo").
 
 on:
   schedule:
@@ -35,6 +35,27 @@ jobs:
           if [ "$CORRIDAS" -eq "0" ]; then
             echo "No se detecto corrida reciente -- disparando AI Radar ahora"
             gh workflow run radar.yml --repo "${{ github.repository }}"
+          else
+            echo "Ya corrio recientemente, no se necesita accion"
+          fi
+
+  vigilar-youtube:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.schedule == '30 13 * * 1-5'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verificar y disparar YouTube Viral si no corrio
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          DESDE=$(date -u -d '-50 minutes' +%Y-%m-%dT%H:%M:%SZ)
+          CORRIDAS=$(gh run list --repo "${{ github.repository }}" --workflow=youtube.yml --json createdAt \
+            --jq "[.[] | select(.createdAt >= \"$DESDE\")] | length")
+          echo "Corridas de youtube.yml en los ultimos 50 min: $CORRIDAS"
+          if [ "$CORRIDAS" -eq "0" ]; then
+            echo "No se detecto corrida reciente -- disparando YouTube Viral ahora"
+            gh workflow run youtube.yml --repo "${{ github.repository }}"
           else
             echo "Ya corrio recientemente, no se necesita accion"
           fi

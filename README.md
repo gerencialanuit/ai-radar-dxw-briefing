@@ -18,7 +18,7 @@ infraestructura de GitHub, sin servidores ni mantenimiento.
 | `#ai-releases` | Anuncios oficiales de laboratorios de IA (OpenAI, Anthropic, Google, Meta, Hugging Face...) | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
 | `#ai-news` | Noticias y análisis generales de IA (TechCrunch, The Verge, MIT Tech Review...) | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
 | `#ai-business-growth` | IA aplicada a negocios, marketing y crecimiento | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
-| `#ai-youtube-viral` (o el nombre que elijas) | Los videos de YouTube más vistos de los últimos 7 días sobre Claude, integraciones y herramientas de IA | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
+| `#ai-youtube-viral` (o el nombre que elijas) | Los 6 videos de YouTube en inglés más vistos de los últimos 7 días sobre Claude, integraciones y herramientas de IA, con portada | 1 vez al día (8:00 a.m. EST), lunes a viernes |
 | `#dxw-ai-briefing` | Briefing semanal estratégico, filtrado con la lente de DOUX.WORK | Viernes 8:00 a.m. EST |
 
 > **Nota sobre "EST":** GitHub Actions programa en UTC fijo, sin ajuste
@@ -80,9 +80,20 @@ inicia sesión y genera una API key gratuita.
    evita que la key se use para otra cosa si se filtra.
 6. Copia la key y guárdala como el secret `YOUTUBE_API_KEY`.
 
-Esta API tiene una cuota gratuita de 10,000 unidades/día. El sistema usa
-~500 unidades por corrida (5 búsquedas × 100 unidades cada una), así que
-con 2 corridas al día usas ~1,000 de 10,000 — muy por debajo del límite.
+Esta API tiene una cuota gratuita de 10,000 unidades/día. El sistema corre
+1 vez al día y usa ~500 unidades por corrida (5 búsquedas × 100 unidades
+cada una) — muy por debajo del límite.
+
+**Sobre el filtro de idioma:** el sistema descarta videos que no estén en
+inglés, usando el idioma que YouTube detecta automáticamente en el video
+(cuando está disponible) y, como respaldo, si el título tiene escritura no
+latina (coreano, tamil, árabe, etc.). No es perfecto — un video en español
+o portugués sin metadato de idioma puede colarse ocasionalmente — pero
+filtra la gran mayoría.
+
+**Sobre las portadas:** cada publicación en `#ai-youtube-viral` incluye la
+miniatura del video como imagen grande del embed, tomada directamente de
+la respuesta de YouTube.
 
 ## 4. Cómo correr cada workflow desde la pestaña Actions
 
@@ -90,8 +101,9 @@ No necesitas terminal ni saber programar. Todo se hace desde el navegador:
 
 1. Entra a tu repositorio en GitHub.
 2. Haz clic en la pestaña **Actions** (arriba, junto a "Code" y "Pull requests").
-3. En la lista de la izquierda verás cuatro workflows: **AI Radar -> Discord**,
-   **DXW Weekly Briefing**, **Herramientas** y **Watchdog**.
+3. En la lista de la izquierda verás cinco workflows: **AI Radar -> Discord**,
+   **YouTube Viral -> Discord**, **DXW Weekly Briefing**, **Herramientas**
+   y **Watchdog**.
 4. Haz clic en el que quieras correr.
 5. Haz clic en el botón **Run workflow** (arriba a la derecha, con un menú
    desplegable).
@@ -106,10 +118,10 @@ No necesitas terminal ni saber programar. Todo se hace desde el navegador:
 GitHub a veces dispara los horarios programados con retraso (hemos visto
 retrasos de 1-2+ horas en los primeros días de este repo). El workflow
 **Watchdog** existe para eso: corre 30 minutos después de cada horario
-esperado (8:30 a.m., 4:30 p.m., y viernes 8:30 a.m. para el briefing),
-revisa si esa corrida ya pasó en la última hora, y si no, **la dispara él
-mismo**. No necesita ningún secret nuevo — usa el token automático que
-GitHub le da a cada workflow.
+esperado (8:30 a.m. y 4:30 p.m. para el radar; 8:30 a.m. para YouTube
+Viral; viernes 8:30 a.m. para el briefing), revisa si esa corrida ya pasó
+en la última hora, y si no, **la dispara él mismo**. No necesita ningún
+secret nuevo — usa el token automático que GitHub le da a cada workflow.
 
 Esto significa que aunque el cron de GitHub llegue tarde, el sistema se
 autocorrige solo en un máximo de ~35 minutos de retraso, en vez de
@@ -145,6 +157,7 @@ directamente en GitHub, botón del lápiz ✏️, y luego "Commit changes"):
 | Briefing vacío o de 2 líneas | `briefing_score_minimo: 6` → `5` |
 | Briefing en español | `briefing_idioma: en` → `es` |
 | Muy pocos videos de YouTube | `youtube_vistas_minimas: 3000` → un número menor |
+| Quiero más/menos de 6 videos al día | `youtube_max_por_corrida: 6` → el número que quieras |
 | Videos poco relevantes de YouTube | Ajustar las queries en `youtube_queries` |
 | Videos muy viejos en YouTube | `youtube_dias: 7` → un número menor |
 
@@ -256,3 +269,12 @@ y con relleno.
   tomada por ambigüedad en la especificación).
 - El índice `[i]` del triage (`briefing.py`) es local a cada lote de 25
   items, no global sobre todo el archivo.
+- `bot.py --solo-youtube` corre SOLO el pipeline de YouTube (sin RSS); es
+  el modo que usa `youtube.yml`. `bot.py` sin ese flag corre SOLO RSS (sin
+  YouTube); es el modo que usa `radar.yml`. Nunca corren juntos en el mismo
+  proceso, por eso YouTube tiene su propio cupo, su propio horario y su
+  propio workflow en vez de compartir el de `max_por_corrida`.
+- Como `radar.yml` y `youtube.yml` pueden correr cerca uno del otro y
+  ambos commitean `state.json`, el paso de commit reintenta con
+  `git pull --rebase` si el push falla por un conflicto con el otro
+  workflow.

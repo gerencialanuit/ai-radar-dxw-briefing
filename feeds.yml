@@ -12,7 +12,7 @@ config:
   briefing_score_minimo: 6
   youtube_dias: 7
   youtube_max_resultados: 8
-  youtube_max_por_corrida: 3
+  youtube_max_por_corrida: 6
   youtube_vistas_minimas: 3000
 
 categorias:

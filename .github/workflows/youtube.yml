@@ -1,25 +1,19 @@
-name: AI Radar -> Discord
+name: YouTube Viral -> Discord
 
 on:
   schedule:
     - cron: "0 13 * * 1-5"
-    - cron: "0 21 * * 1-5"
   workflow_dispatch:
-    inputs:
-      horas:
-        description: "Antiguedad maxima en horas (usar 168 para sembrar el archivo)"
-        required: false
-        default: "48"
 
 permissions:
   contents: write
 
 concurrency:
-  group: ai-radar
+  group: ai-youtube
   cancel-in-progress: false
 
 jobs:
-  radar:
+  youtube:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -34,16 +28,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run radar
+      - name: Run YouTube viral
         env:
-          WEBHOOK_AI_RELEASES: ${{ secrets.WEBHOOK_AI_RELEASES }}
-          WEBHOOK_AI_NEWS: ${{ secrets.WEBHOOK_AI_NEWS }}
-          WEBHOOK_AI_BUSINESS: ${{ secrets.WEBHOOK_AI_BUSINESS }}
-          WEBHOOK_DXW_BRIEFING: ${{ secrets.WEBHOOK_DXW_BRIEFING }}
+          WEBHOOK_YOUTUBE_AI: ${{ secrets.WEBHOOK_YOUTUBE_AI }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
-          MAX_AGE_HOURS: ${{ github.event.inputs.horas || '48' }}
-        run: python bot.py
+        run: python bot.py --solo-youtube
 
       - name: Commit y push del estado
         run: |
@@ -54,10 +45,10 @@ jobs:
             echo "Sin cambios en state.json"
             exit 0
           fi
-          git commit -m "chore: update state [skip ci]"
+          git commit -m "chore: update state (youtube) [skip ci]"
           for i in 1 2 3; do
             git push && exit 0
-            echo "Push fallo (probablemente youtube.yml commiteo al mismo tiempo), reintentando ($i)..."
+            echo "Push fallo (probablemente radar.yml commiteo al mismo tiempo), reintentando ($i)..."
             git pull --rebase
             sleep 5
           done

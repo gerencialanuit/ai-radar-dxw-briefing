@@ -28,6 +28,13 @@ USER_AGENT = "Mozilla/5.0 (compatible; AIRadarBot/1.0)"
 YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 YOUTUBE_VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
 
+# Rangos Unicode de escrituras no latinas (coreano, tamil, devanagari, CJK,
+# arabe, tailandes) -- si el titulo cae aca, se descarta como "no ingles"
+# sin necesidad de una libreria de deteccion de idioma.
+PATRON_SCRIPT_NO_LATIN = re.compile(
+    r"[가-힣஀-௿ऀ-ॿ一-鿿؀-ۿ฀-๿]"
+)
+
 # Mismos temas que la lente DXW del briefing semanal (ver DXW_CONTEXT en
 # briefing.py) -- se usan aqui como puntaje de prioridad, no como filtro:
 # no descartan nada, solo deciden quien gana el cupo cuando hay mas
@@ -129,19 +136,30 @@ def buscar_videos_youtube(query, api_key, dias, max_resultados):
     return resp.json().get("items", [])
 
 
-def obtener_vistas_youtube(video_ids, api_key):
+def obtener_detalles_youtube(video_ids, api_key):
     if not video_ids:
         return {}
-    params = {"part": "statistics", "id": ",".join(video_ids), "key": api_key}
+    params = {"part": "statistics,snippet", "id": ",".join(video_ids), "key": api_key}
     resp = requests.get(YOUTUBE_VIDEOS_URL, params=params, timeout=15)
     resp.raise_for_status()
-    vistas = {}
+    detalles = {}
     for item in resp.json().get("items", []):
         try:
-            vistas[item["id"]] = int(item["statistics"].get("viewCount", 0))
+            vistas = int(item.get("statistics", {}).get("viewCount", 0))
         except Exception:
-            vistas[item["id"]] = 0
-    return vistas
+            vistas = 0
+        snippet = item.get("snippet", {})
+        idioma = snippet.get("defaultAudioLanguage") or snippet.get("defaultLanguage") or ""
+        detalles[item["id"]] = {"vistas": vistas, "idioma": idioma}
+    return detalles
+
+
+def es_titulo_en_ingles(idioma_declarado, titulo):
+    if idioma_declarado and not idioma_declarado.lower().startswith("en"):
+        return False
+    if PATRON_SCRIPT_NO_LATIN.search(titulo):
+        return False
+    return True
 
 
 def huella_youtube(video_id):
@@ -176,10 +194,10 @@ def procesar_youtube(config_yml, config, categorias, vistos_set, vistos, nuevo_a
 
     video_ids = list(encontrados.keys())
     try:
-        vistas_por_id = obtener_vistas_youtube(video_ids, api_key)
+        detalles_por_id = obtener_detalles_youtube(video_ids, api_key)
     except Exception as e:
-        print(f"[youtube] no se pudieron obtener vistas: {e}")
-        vistas_por_id = {}
+        print(f"[youtube] no se pudieron obtener detalles: {e}")
+        detalles_por_id = {}
 
     candidatos_youtube = []
     for video_id, snippet in encontrados.items():
@@ -189,7 +207,9 @@ def procesar_youtube(config_yml, config, categorias, vistos_set, vistos, nuevo_a
         vistos_set.add(huella)
         vistos.append(huella)
 
-        vistas = vistas_por_id.get(video_id, 0)
+        detalles = detalles_por_id.get(video_id, {})
+        vistas = detalles.get("vistas", 0)
+        idioma = detalles.get("idioma", "")
 
         titulo = limpiar(snippet.get("title", ""), 250)
         extracto = limpiar(snippet.get("description", ""), 450)
@@ -199,6 +219,12 @@ def procesar_youtube(config_yml, config, categorias, vistos_set, vistos, nuevo_a
         except Exception:
             fecha = datetime.now(timezone.utc)
 
+        miniatura = (
+            snippet.get("thumbnails", {}).get("high", {}).get("url")
+            or snippet.get("thumbnails", {}).get("medium", {}).get("url")
+            or snippet.get("thumbnails", {}).get("default", {}).get("url")
+        )
+
         item = {
             "titulo": titulo,
             "link": f"https://www.youtube.com/watch?v={video_id}",
@@ -207,9 +233,12 @@ def procesar_youtube(config_yml, config, categorias, vistos_set, vistos, nuevo_a
             "fecha": fecha.isoformat(),
             "extracto": extracto,
             "vistas": vistas,
+            "miniatura": miniatura,
         }
         nuevo_archivo.append(item)
 
+        if not es_titulo_en_ingles(idioma, titulo):
+            continue
         if vistas < vistas_minimas:
             continue
         if not categoria_cfg.get("publicar_diario", False):
@@ -325,6 +354,8 @@ def construir_embed(item, categoria_cfg, resumen):
         "footer": {"text": footer_text},
         "timestamp": item["fecha"],
     }
+    if item.get("miniatura"):
+        embed["image"] = {"url": item["miniatura"]}
     return embed
 
 
@@ -366,6 +397,7 @@ def main():
 
     dry_run = "--dry-run" in sys.argv
     check_mode = "--check" in sys.argv
+    solo_youtube = "--solo-youtube" in sys.argv
 
     config_yml = cargar_feeds()
     config = config_yml.get("config", {})
@@ -375,7 +407,6 @@ def main():
         modo_check(config_yml)
         return
 
-    antiguedad_max_horas = int(os.environ.get("MAX_AGE_HOURS") or config.get("antiguedad_max_horas", 48))
     max_por_corrida = int(os.environ.get("MAX_POR_CORRIDA") or config.get("max_por_corrida", 12))
     resumir_con_ia = config.get("resumir_con_ia", True)
 
@@ -387,68 +418,74 @@ def main():
     vistos_set = set(vistos)
     primera_ejecucion = len(vistos) == 0
 
-    corte = datetime.now(timezone.utc) - timedelta(hours=antiguedad_max_horas)
-
     nuevo_archivo = []
     candidatos = []
+    a_publicar = []
 
-    for feed in config_yml.get("feeds", []):
-        nombre = feed["nombre"]
-        categoria = feed["categoria"]
-        categoria_cfg = categorias.get(categoria, {})
-        try:
-            parsed = fetch_feed(feed["url"])
-        except Exception as e:
-            print(f"[feed] {nombre} fallo: {e}")
-            continue
+    if solo_youtube:
+        youtube_key = os.environ.get("YOUTUBE_API_KEY", "")
+        youtube_max_por_corrida = int(config.get("youtube_max_por_corrida", 6))
+        candidatos_youtube = procesar_youtube(config_yml, config, categorias, vistos_set, vistos, nuevo_archivo, youtube_key)
+        a_publicar = candidatos_youtube[:youtube_max_por_corrida]
+    else:
+        antiguedad_max_horas = int(os.environ.get("MAX_AGE_HOURS") or config.get("antiguedad_max_horas", 48))
+        corte = datetime.now(timezone.utc) - timedelta(hours=antiguedad_max_horas)
 
-        for entry in parsed.entries[:MAX_ENTRIES_POR_FEED]:
-            huella = huella_de(entry)
-            if huella in vistos_set:
-                continue
-            vistos_set.add(huella)
-            vistos.append(huella)
-
-            fecha = fecha_de(entry)
-            if fecha < corte:
-                continue
-
-            titulo = limpiar(entry.get("title", ""), 250)
-            extracto = limpiar(entry.get("summary", "") or entry.get("description", ""), 450)
-            link = entry.get("link", "")
-
-            item = {
-                "titulo": titulo,
-                "link": link,
-                "fuente": nombre,
-                "categoria": categoria,
-                "fecha": fecha.isoformat(),
-                "extracto": extracto,
-            }
-            nuevo_archivo.append(item)
-
-            if not categoria_cfg.get("publicar_diario", False):
-                continue
-            if not pasa_filtros(categoria_cfg, titulo, extracto):
+        for feed in config_yml.get("feeds", []):
+            nombre = feed["nombre"]
+            categoria = feed["categoria"]
+            categoria_cfg = categorias.get(categoria, {})
+            try:
+                parsed = fetch_feed(feed["url"])
+            except Exception as e:
+                print(f"[feed] {nombre} fallo: {e}")
                 continue
 
-            candidatos.append(item)
+            for entry in parsed.entries[:MAX_ENTRIES_POR_FEED]:
+                huella = huella_de(entry)
+                if huella in vistos_set:
+                    continue
+                vistos_set.add(huella)
+                vistos.append(huella)
 
-    categorias_diarias = [c for c in categorias if c != "youtube" and categorias[c].get("publicar_diario", False)]
-    limite_publicacion = 3 if primera_ejecucion else max_por_corrida
-    a_publicar = distribuir_por_categoria(candidatos, categorias_diarias, limite_publicacion)
+                fecha = fecha_de(entry)
+                if fecha < corte:
+                    continue
 
-    youtube_key = os.environ.get("YOUTUBE_API_KEY", "")
-    youtube_max_por_corrida = int(config.get("youtube_max_por_corrida", 3))
-    candidatos_youtube = procesar_youtube(config_yml, config, categorias, vistos_set, vistos, nuevo_archivo, youtube_key)
-    limite_youtube = 1 if primera_ejecucion else youtube_max_por_corrida
-    a_publicar += candidatos_youtube[:limite_youtube]
+                titulo = limpiar(entry.get("title", ""), 250)
+                extracto = limpiar(entry.get("summary", "") or entry.get("description", ""), 450)
+                link = entry.get("link", "")
+
+                item = {
+                    "titulo": titulo,
+                    "link": link,
+                    "fuente": nombre,
+                    "categoria": categoria,
+                    "fecha": fecha.isoformat(),
+                    "extracto": extracto,
+                }
+                nuevo_archivo.append(item)
+
+                if not categoria_cfg.get("publicar_diario", False):
+                    continue
+                if not pasa_filtros(categoria_cfg, titulo, extracto):
+                    continue
+
+                candidatos.append(item)
+
+        categorias_diarias = [c for c in categorias if c != "youtube" and categorias[c].get("publicar_diario", False)]
+        limite_publicacion = 3 if primera_ejecucion else max_por_corrida
+        a_publicar = distribuir_por_categoria(candidatos, categorias_diarias, limite_publicacion)
 
     if dry_run:
-        print(f"[dry-run] {len(a_publicar)} items se publicarian (de {len(candidatos)} candidatos):")
+        total_candidatos = len(candidatos_youtube) if solo_youtube else len(candidatos)
+        print(f"[dry-run] {len(a_publicar)} items se publicarian (de {total_candidatos} candidatos):")
         for item in a_publicar:
-            prioridad = calcular_prioridad(item["titulo"], item["extracto"])
-            print(f"  [{item['categoria']}] (prioridad={prioridad}) {item['titulo']} -> {item['link']}")
+            if solo_youtube:
+                print(f"  [{item['categoria']}] ({item.get('vistas', 0):,} vistas) {item['titulo']} -> {item['link']}")
+            else:
+                prioridad = calcular_prioridad(item["titulo"], item["extracto"])
+                print(f"  [{item['categoria']}] (prioridad={prioridad}) {item['titulo']} -> {item['link']}")
         return
 
     for item in a_publicar:
