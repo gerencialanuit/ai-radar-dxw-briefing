@@ -779,7 +779,64 @@
     "ba6463bc9381fedd",
     "9d6370d64d07513b",
     "fa8bf098d3b0140e",
-    "caeaa01102ed36ed"
+    "caeaa01102ed36ed",
+    "83e8e3b31ca15532",
+    "00c48d375e0e29e8",
+    "0f1c293ae0079e5e",
+    "eb46511690c298c3",
+    "3561e3748951699d",
+    "6104801924978ae5",
+    "e4278d539a2008d1",
+    "4efc3ccfc21815f3",
+    "727e7007a51761f2",
+    "4662bc0afcca063c",
+    "89e2bc7a10a78b8c",
+    "0831cd0aa58292f4",
+    "84925157fb25e1ef",
+    "8117bb68598448e8",
+    "322d3acb42576b78",
+    "c8d7ac48f9560d53",
+    "1455075dcff61ebd",
+    "0fa51b9dfcb34722",
+    "0dcde9b0f41340ab",
+    "baf8b0ec426d0bab",
+    "8e5b887e2bf2b634",
+    "995e534da91abf22",
+    "d00642c9fa5dc8f6",
+    "fa3d6967016d95a0",
+    "53d248750de20819",
+    "ff03105d1a4e8452",
+    "e0d635a65deed013",
+    "cb7155e7ba099ded",
+    "aa74ba25aca5bb88",
+    "9fe5dd2ff38ee97c",
+    "cdef097bb9eb9b41",
+    "a4a393ba846c6f18",
+    "e34e6c66f4605200",
+    "53bade03bf33a984",
+    "d0ac8a2fa256ede8",
+    "a1f94d5884c692ec",
+    "0f2274bfa21d229b",
+    "06881cc552cb2bd9",
+    "45d29ef208d2aab0",
+    "908a6bba8509a5b5",
+    "7ffe8202fd96f3c2",
+    "42b4e2c624b10cac",
+    "58bfe8754eff0459",
+    "53d2f1f711be5fcc",
+    "0108b901d11eab00",
+    "a1a078e467a5e966",
+    "5f0c2e62f091612d",
+    "6c2b487f45764494",
+    "72f3e4f822125bef",
+    "1a307d4045f96fcc",
+    "a9915fa00393db2d",
+    "8f26a26122233cf5",
+    "42bd340d5d50b7aa",
+    "434395fc1b18563d",
+    "799a9a1434ddb403",
+    "431fa252f02c6b7b",
+    "f3800928ec1de30a"
   ],
   "archivo": [
     {
@@ -2205,6 +2262,294 @@
       "categoria": "dxw",
       "fecha": "2026-08-04T15:09:44+00:00",
       "extracto": "Abel Communications, Brandi AI Host Webinar on AI Search Visibility MarTech Cube"
+    },
+    {
+      "titulo": "A guide to cost visibility and control in Claude",
+      "link": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
+      "fuente": "Claude Blog (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-04T00:00:00+00:00",
+      "extracto": "A guide to cost visibility and control in Claude"
+    },
+    {
+      "titulo": "v2.1.222",
+      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.222",
+      "fuente": "Claude Code — Releases",
+      "categoria": "releases",
+      "fecha": "2026-08-04T22:39:55+00:00",
+      "extracto": "What's changed Fixed worktree-isolated sessions and their subagents being able to run destructive git commands against the main checkout; isolation now applies to file edits and Bash in every session type Fixed PreToolUse auto-allow hooks bypassing tool restrictions in background agent tasks (summaries, compaction, renames) Fixed /usage-credits on Team and Enterprise showing \"you've already sent a usage credit request\" for members whose earlier r..."
+    },
+    {
+      "titulo": "Anthropic is hiring an AI chip design team",
+      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T14:13:18+00:00",
+      "extracto": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently."
+    },
+    {
+      "titulo": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T12:28:38+00:00",
+      "extracto": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
+    },
+    {
+      "titulo": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T11:00:00+00:00",
+      "extracto": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
+    },
+    {
+      "titulo": "SpaceX spooks investors with debut earnings report",
+      "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T13:59:17+00:00",
+      "extracto": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled."
+    },
+    {
+      "titulo": "How AI Is Rewriting the Content Activation Playbook",
+      "link": "https://www.marketingaiinstitute.com/blog/podcast-ai-rewriting-content-activation-playbook",
+      "fuente": "Marketing AI Institute",
+      "categoria": "business",
+      "fecha": "2026-08-05T13:00:00+00:00",
+      "extracto": "Anyone who's worked in content marketing has heard some version of the 80/20 rule: 20% of the work is creating the asset, 80% is activating it."
+    },
+    {
+      "titulo": "Inteligencia artificial y ciberseguridad, el nuevo tablero estratégico de las juntas directivas en Colombia - Forbes Colombia",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRENpZjktUzA1MXBzeFpLTWJiRmZud1ZweEpwSmpaZWJBbEtZdllubWgxZDZUVGdCcFdqUXBUSEI4OTJjMm1uQWJ5WlRDYXF2XzRabFdybkxTRFJDSERtLS01Qm1wWHJyelJhQ1hDQkN4Yzdwa2xHQ3g2YU5CU19YdXdFN1JTWXFhaFJhNEJVOGQ2Qm5GVjNTd0hQVVliWkhHT09wOXJ6dE5vRjdxTG5iN0RXYzV3RkhvMXlGQ2wyMHJNYVFEc2xaR1ZCRmZPZHhDbF91R2xLZFBNbnNJVEE?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-05T14:27:36+00:00",
+      "extracto": "Inteligencia artificial y ciberseguridad, el nuevo tablero estratégico de las juntas directivas en Colombia Forbes Colombia"
+    },
+    {
+      "titulo": "Inteligencia artificial y compras online: la nueva batalla por los precios personalizados - Univision",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNnaGZsYlFxSE5ZbDhGaHdOMkNUc0FsWFhHMHBCNkNDMHJBOWJLeVBaaW9waVZkRkNfXzdoelhvLXRpWk9iNENmazJEZWhYSGRGUkNDbWdvekstTUt4TGcwZndSV0FLdmVfYVpTM1BCZ2tvNmJneG9IVVVvLXp4eGtwQ052aVFBTWtTZHlfdWFJLUJBdHR1Z0czeVphTnlUR0ZkaHFwTTFrNnhKRGtldHVrWkplRVRvVWROT2VqdUNnN2FMTWxLSGNDa0ZFc0lSV194TTRwbVVpRmF5VFRr?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-05T04:09:00+00:00",
+      "extracto": "Inteligencia artificial y compras online: la nueva batalla por los precios personalizados Univision"
+    },
+    {
+      "titulo": "Auge de la Inteligencia Artificial genera nuevas necesidades de talento humano - www.revistaeyn.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU2lHUzloUWNPXzVhRHBNNE9wLWt1WmdSUjFFQXZRYmNDLTNUVW95ckFZM2R4NGdFQVZLekU1RFJXUFFoQS1CSndwSHUzRHpBa1B6RDVxbG44cFNRWEZDTnRrcUN4WkZkdkZYOVJjRFloeFZkR0Q1MjJaQWVHb0MwU3hvUGF4RVlnbHdFek1yNnY5MjRVTEp0VE0weG9zTGphOFBDZG51N1RoRnNuX3hKUmJka1l1ckJ2WGJNWkYxbC1QQzBFT0xJb1hqQkhpTER5ZkE?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-04T22:39:00+00:00",
+      "extracto": "Auge de la Inteligencia Artificial genera nuevas necesidades de talento humano www.revistaeyn.com"
+    },
+    {
+      "titulo": "IA transforma las empresas, pero exige emprendedores mejor preparados - Publimetro México",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0ZQU2pray1DYnlYTDZ6dnJlbHAtV3BDUzE5R2t1S2pTNjZlWHlwYmFnOHd6SUVaeTVKcGx5Q1BDU2s1ejJ3SkpaSUh0cEtha3NGaTFaR0ktWHRjM3BEeUlxUVB0c1hMR3ZYRmRzR0x0a2R4dzQtX1p1X0xiaXpndTBrM2o2U2l0RlY2a1dyZlhZWnJ3OWJjM3prT3d1YmdfcnluaHFqSDFQSnBzQ0RjRHVvYU5TRFNtYkdF?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-04T22:02:36+00:00",
+      "extracto": "IA transforma las empresas, pero exige emprendedores mejor preparados Publimetro México"
+    },
+    {
+      "titulo": "Nueva guía para acercar la inteligencia artificial a las empresas del ámbito rural de Granada - esmartcity",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkxtVlN4QWVmb1QwMDRyQWxwOHlWdmhBZk1FT1hnSUkwMTl0OWF1Ty1SS0JmaHIwNkdSWEwxeFRTdDdZdnNoeEhHcWFhMmpuRXNwVDJnQTVZalhEYS13Wm9DMnJLTGVzaTM0b0lGSnRPemMyWkVFZlpFSS01OGFDLTNIVXVTZ2hoNFotTHhIbkVaOEFwOGxuejNfZGl4NDhJWHZPM2FGa2l1U0twWmc?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-05T02:02:11+00:00",
+      "extracto": "Nueva guía para acercar la inteligencia artificial a las empresas del ámbito rural de Granada esmartcity"
+    },
+    {
+      "titulo": "La Unión Europea obliga a indicar los contenidos generados por inteligencia artificial - Atresmedia",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQWdxRDFmTjU2TU94R0tiQnNESkpBMmJHQ2J3V285YmRwYWM2ZUVXYVRSVzE1elZKaEs1REc1bEJlWVQ0VWtqS0htNEhOcG9NdHhIUGdXaENTVVdGbkIxSHctQ05PZkdaUTRKdUdFWU45SlppSHVhNWIzZHJHVGNoQzVGdEV6TlAzNDF6UEJUelBJckxJNVJZcjI4RWRDeHk1b2ZLQkpqWDd2dXFyWWhWT01aZEdsY183M3FVV0lfeXM3UlJnNlNCTEFtQmxLRVhkVjNYMjFZWXFxZnVDMS1TdU42XzJZbWpvbzJ6VjlxQUhad2tIV3dfMlZjUTY2WTF6V2h0MVktOHZBNjhVZE41b01SWdIBkwJBVV95cUxOZmhxamFxdGY4THVjWEpmRnhRc0JSR0hKWnNBZGlVSkg4T09TLUg2eWk4SGdqem9jczVaTmZvZk51c0t4QXZheklZUVpxRTBWWlNKcW5DaEdTT3BXREJ5TGVpZWdsNFhPU3gtaWN2eVpmdlkyNVRDblNHTVp5dkFwbkdLU1RwOXBqeWJtSWVpZWd2dUFrNW05LUlwMU95NHJuYnpJVWs3Y2JnSnNtVDdKYkpSb0xLZXVxUWxXUjZkbHduNEhBV1VGaHl5cWM4YzljNFRMbzNvUFZoTTg1LTRBM1RWSTUxWTlTTEc1aS1yamk4RkNHakQ2eVlZWV9fTlMzaXJPZmY4WFRBaDV5QXVyOEZTYw?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-05T09:29:47+00:00",
+      "extracto": "La Unión Europea obliga a indicar los contenidos generados por inteligencia artificial Atresmedia"
+    },
+    {
+      "titulo": "Seminario reunió a emprendedores y estudiantes para explorar el uso de la inteligencia artificial en el marketing digital - noticias.ucentral.cl",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbk5fN0NJQnRWRFhQTkk0UC0wWkxidDJ5VDI0LWt2T0VNMG1EcWdKMkdsTndNYmZrYzhOU0hsaHRZcl9MTDZQNEd3eWF1MlNTa3FuTWExRmc3S2hkSW4tWWJneUdqdU9zOUJ0aVVSV0YybGZQWUV0YzVMbFdDT3RfRXdMdWFnV3k2SkhEeWRILWhVSko5ZnJ5SUhGQW9JNXYyakxkTFJPSkJpeEZGYmVNVHdWWnJQOVNyR0hFb2VZMGZVeFpXVjgwTHJRMnVmbVN5cTlnNVFSUHVCNlA2S3RDM3k1OWplSjBkcWR4bmFVLTloUQ?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-04T18:19:03+00:00",
+      "extracto": "Seminario reunió a emprendedores y estudiantes para explorar el uso de la inteligencia artificial en el marketing digital noticias.ucentral.cl"
+    },
+    {
+      "titulo": "ACR shares resource for helping patients use AI-generated radiology report summaries - Radiology Business",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZlhGdVhaa0VrQ08xS2ZGTGQ0bUFlaGo0RVRTVTFwNm51ODJLSVVzcHhzbDQtT2ZIVVU2Nzd0NUdtUllWXzB5ZWo0VUhqT0U4bktkenlScUpMZnNyR3pIWFZCb3JlcXEtQ3o2TXg5TUtMSWtxZHFFZUhYRnJqTEFWX1MyZDR3MWlUTi1jSUh2a0lYZXBYYmE0UVEtenJ3ekg1eTlhcWNJTjhOSEVwVWVNNnQwNnhfYk11MjkxeDlkLWZhTnNmcVc4d0lOS3Z0eEhGM1pxU2VTX18?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-05T06:33:55+00:00",
+      "extracto": "ACR shares resource for helping patients use AI-generated radiology report summaries Radiology Business"
+    },
+    {
+      "titulo": "Microsoft vs. Aehr Test Systems: Comparing Revenue Trends Between These Artificial Intelligence Companies - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSWlKRnZrZ0JFaWtUVDlXc2YyeEFfQWtaZTgzRUZlQ0lKLTQwNHk5U005b1lmMTJya21kWUZnQ0R0Zlh6YlpJZ1J1ZlZKZGxCQ2ZPTTZRZDBfVDVZRkVqdWJjeDJUd01CQi1EeHJzaTcxWjJUdHpkUWJZc2tqb3pIVXVFYmwycXR0N1pMbVJfTVdOcVhWRHBPWWdDNXRfeHNBTGVNZ3lRMmlyLTZLa0d4bnJfYm5ZUW1nNDFUb1FCU29ZU1ZkNlRLQVdyaFFDaHdqNFoxeFE2ZEFZWHp2dkZGVjRLbmhaYlE?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-05T00:05:00+00:00",
+      "extracto": "Microsoft vs. Aehr Test Systems: Comparing Revenue Trends Between These Artificial Intelligence Companies The Motley Fool"
+    },
+    {
+      "titulo": "Britain says it is open to AI regulation if voluntary safeguards fall short - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUW5VRkFDZTMxWE91ZnQzVjFRUEFra0dCb1Nnek1BQU9VbWZHUGtzQURhZlN5QUhNZUEzeHg0amI5SU5qUFpJX2lkMUt3V0FILVFWWVc5NW9yOHMxSk10REtJYjM5R1MyZllpMHVQNWFWakY2eElRSl9hbVI4MEdhNFVFdms4LVRzOEZ1Z2lkSG1fOTJCWHJuZkNDbzRXeTFhblJuc2RTVHYzNzI2MWF5Sm9vWlNNQU14LW16ZFpwdXF3TUdPV2hGNTF4WQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-03T17:27:08+00:00",
+      "extracto": "Britain says it is open to AI regulation if voluntary safeguards fall short Reuters"
+    },
+    {
+      "titulo": "Google: Reddit Gets No Special Preference In Google Search Rankings",
+      "link": "https://www.seroundtable.com/reddit-no-special-preference-google-41818.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T11:51:00+00:00",
+      "extracto": "Google's communications representative, Jennifer Kutz, told The Verge that Reddit gets no preference in Google Search or Google's AI Search features. Kutz told The Verge that Reddit \"gets no special preference\" in Google's ranking systems."
+    },
+    {
+      "titulo": "Google Assistant Shutting Down On Mobile Devices On September 4",
+      "link": "https://www.seroundtable.com/google-assistant-shutting-down-41822.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T11:41:00+00:00",
+      "extracto": "We knew this day was coming, and now Google has sent out emails announcing the date when Google Assistant will be going away on mobile devices. The date is September 4, 2026, and Gemini will replace Google Assistant on WearOS, headphones and earbuds that are compatible, and Android Auto."
+    },
+    {
+      "titulo": "Google Ads Government Documents & Services Policy To Be Updated",
+      "link": "https://www.seroundtable.com/google-ads-government-documents-and-services-41819.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T11:31:00+00:00",
+      "extracto": "Google will be updating its Other restricted businesses: Government documents and services policy on October 5, 2026. There are a lot of changes coming to this policy, so if you are in the business that promote direct acquisition of government documents and services, then read on."
+    },
+    {
+      "titulo": "Bing Top Source Search Feature",
+      "link": "https://www.seroundtable.com/bing-top-source-41530.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T11:21:00+00:00",
+      "extracto": "Microsoft is testing a \"Top Source\" section within the Bing Search results interface. This section shows the Top Source with various sections from the site or various news articles from the site."
+    },
+    {
+      "titulo": "Google Local Services Platform Policies Now Local Services Ads Requirements",
+      "link": "https://www.seroundtable.com/google-renames-local-services-platform-policies-to-requirements-41809.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T11:11:00+00:00",
+      "extracto": "Google has renamed the Local Services platform policies document to Local Services Ads requirements. I am not sure if this was renamed and reworded because the Google Local Service Ads platform is being migrated into the main Google Ads platform but it just seems weird to do this now?"
+    },
+    {
+      "titulo": "NextDoor.Company",
+      "link": "https://www.producthunt.com/products/nextdoor-company",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T06:58:44+00:00",
+      "extracto": "Discover startups hiring near you, on a map Discussion | Link"
+    },
+    {
+      "titulo": "Wispr Flow Notetaker",
+      "link": "https://www.producthunt.com/products/wisprflow",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T15:22:48+00:00",
+      "extracto": "Meeting notes that get the details right. Discussion | Link"
+    },
+    {
+      "titulo": "BackEngine MCP",
+      "link": "https://www.producthunt.com/products/backengine-mcp",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T21:56:41+00:00",
+      "extracto": "Make private company knowledge usable for AI Discussion | Link"
+    },
+    {
+      "titulo": "X Money",
+      "link": "https://www.producthunt.com/products/x-money-2",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T20:51:31+00:00",
+      "extracto": "Your money, on the world's most powerful network. Discussion | Link"
+    },
+    {
+      "titulo": "Keystroke",
+      "link": "https://www.producthunt.com/products/keystroke-2",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T19:29:34+00:00",
+      "extracto": "Build powerful AI agents & workflows Discussion | Link"
+    },
+    {
+      "titulo": "Dover MCP",
+      "link": "https://www.producthunt.com/products/dover",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T23:35:35+00:00",
+      "extracto": "Run your hiring process from Claude or ChatGPT Discussion | Link"
+    },
+    {
+      "titulo": "Kiro Crew",
+      "link": "https://www.producthunt.com/products/kiro",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T18:07:24+00:00",
+      "extracto": "Open source agentic development workspace Discussion | Link"
+    },
+    {
+      "titulo": "Cloudflare Wallets",
+      "link": "https://www.producthunt.com/products/cloudflare",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-04T15:40:39+00:00",
+      "extracto": "the programmable wallet for the agentic Internet Discussion | Link"
+    },
+    {
+      "titulo": "Hansel",
+      "link": "https://www.producthunt.com/products/hansel-2",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T06:59:36+00:00",
+      "extracto": "Remember everything you've worked on Discussion | Link"
+    },
+    {
+      "titulo": "How generative engine optimization is changing how shoppers find your store - CBT News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPQWI1V0RoZ2E3Z0duamFucG1jZGRUck9qQ0FKQWVBSWRaR25EaS1TMHhpVGZkZGl3Zkc1b1VOVkF2aGE2ekkzY2VUVy10MnJrRmVzbThibnNBYVV3S3dHUEwwSk1lU05HRDZB?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T08:59:30+00:00",
+      "extracto": "How generative engine optimization is changing how shoppers find your store CBT News"
+    },
+    {
+      "titulo": "Answer Engine Optimization for Enterprise: The 2026 Playbook - Greater Milwaukee Today",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczFjQ3FhZDdyT2NUTmhUWmNUeVVvbEtGcnRLSXhWVmE5c3QtNUpBdmdzbTdxYnBJYng1OUVCU213MllqYXlkclhQTlhuVFpGUkFmMkwtWEJudXpiVjMtMTFLS3FKdWhFT1FuUWR6c2N5TFpkc08tNkVROW1feUFmaHhMa2U0TFZqakhIdldlYmEyNEk4YmRBdjI0TlktSUpIcGZSX1VrRkVlaEpaaElPTy1MeVk1eEh3d0l4U0VGQVM?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T11:00:00+00:00",
+      "extracto": "Answer Engine Optimization for Enterprise: The 2026 Playbook Greater Milwaukee Today"
+    },
+    {
+      "titulo": "HG Insights Launches AI Search Visibility Platform for B2B Technology Vendors - citybiz",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWxKeTliakVIQVl5dTNBS3lWN3BQOWw4Y1RoWjMtWEtoTFhFYlE4azdpQXAwZk8xa1JyR1NJTzl6cXIxdnlQZkJwYnBiczdwaXRGNXo5YWRYaURMVExucXhRN0d4WmliX1lSZUU2MlpiakhOdThYc1Nldm9QWGkycHdZNG1RSVloMlhZX21BM1lKNldZTldHM2JTcl9XUHE2aU9fT1dwb2NsNHRKRTBwSVZBcThrNGs?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T13:10:29+00:00",
+      "extracto": "HG Insights Launches AI Search Visibility Platform for B2B Technology Vendors citybiz"
+    },
+    {
+      "titulo": "Symphony Talent Launches AI Search Visibility Solutions to Help Employers Take Control of Their AI-Driven Search Presence - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSzdtbGNGWHE4RnZORzhoamtPRnpyQ1h6QkZwZEZibnRRV2owRWRldEwyc01vV2Z6TTlIaHF0UDhOLUhwdV9LdURRbE1nN0NLaTBKUzdGWTZvTFlGYlBURkppcjNYaHQzODdWcDZsM0FvLW0yWVQwd0VmcUJSaXA4ZEVSU01RZEd2MC1YMC1EU1lZdjZ2NTJaR1RzNlpIUDhlZUJqN3BGMlR3TElyVEl4RVRwT2hWVFd0QjNWMzN1YXNOQ0Z1bXI1VDY2Yl9BZGt1WWlPU3l3eVhjQjRKQnJqa2w4ckR5cVhnUGtEWVZFZ01wakRxLXByTUNvRWtkTkdLc1lmSkp2dFY?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T12:00:00+00:00",
+      "extracto": "Symphony Talent Launches AI Search Visibility Solutions to Help Employers Take Control of Their AI-Driven Search Presence PR Newswire"
+    },
+    {
+      "titulo": "GreenBanana SEO Founder Kevin C. Roy Releases \"The Coherent - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPbTlWUGVqTTJ1OFVpNF9Rdk5peVMxSGpDdlBpaFBOSWprV0FLZHMzSU9BRDVlQ1hROW0zbTRtWU03UFhOWFduQ0JDQ2YxWm5ZVHhZN1d0b0RGcmpXR3RoZl9MM192cVpvdnFOZlFPZ3FUS0haSGxMSDVHT3BrT2tYVlBOTVpJQmZoaEtTUlNoSkxraEY3MmpOZWRUaVUzeUNmd0VsT0ZVQllJZEFhNS1nNHZmcm9wdnFlT1QtQm00U2oxTkpyb1JQOFYzVVRRVy01OG1SdU1VY0E3VVE2V1FaNWhIRno2bXBiZzdmb0dTVTRPWkMwM2pJdW1jM3JQeGpJTjh2ZGw0SnpxdjlBZ3dZVl96NENCTGtEcXdUUHVjazBhbU5IaF9SdFRiajREd2c?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T12:37:00+00:00",
+      "extracto": "GreenBanana SEO Founder Kevin C. Roy Releases \"The Coherent GlobeNewswire"
     }
   ]
 }
