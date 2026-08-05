@@ -12,6 +12,7 @@ on:
           - validar-feeds
           - prueba-sin-publicar
           - prueba-youtube
+          - sembrar-youtube
 
 permissions:
   contents: read
@@ -47,3 +48,11 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python bot.py --dry-run --solo-youtube
+
+      - name: Sembrar canal de YouTube con lo mejor ya archivado
+        if: ${{ github.event.inputs.accion == 'sembrar-youtube' }}
+        env:
+          WEBHOOK_YOUTUBE_AI: ${{ secrets.WEBHOOK_YOUTUBE_AI }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+        run: python bot.py --sembrar-youtube

@@ -274,6 +274,12 @@ y con relleno.
   YouTube); es el modo que usa `radar.yml`. Nunca corren juntos en el mismo
   proceso, por eso YouTube tiene su propio cupo, su propio horario y su
   propio workflow en vez de compartir el de `max_por_corrida`.
+- `bot.py --sembrar-youtube` es manual (workflow **Herramientas** →
+  `sembrar-youtube`): publica los `youtube_max_por_corrida` videos con más
+  vistas de lo que ya está archivado, ignorando el dedup de `vistos`. Sirve
+  para llenar el canal de una vez cuando la mayoría del contenido nuevo ya
+  quedó marcado como visto por pruebas anteriores. No corre solo nunca —
+  hay que dispararlo a mano cada vez que se necesite.
 - Como `radar.yml` y `youtube.yml` pueden correr cerca uno del otro y
   ambos commitean `state.json`, el paso de commit reintenta con
   `git pull --rebase` si el push falla por un conflicto con el otro

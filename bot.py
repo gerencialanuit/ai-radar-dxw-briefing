@@ -154,10 +154,19 @@ def obtener_detalles_youtube(video_ids, api_key):
     return detalles
 
 
+PALABRAS_NO_INGLES = [
+    "español", "completo", "actualizado", "atención", "alerta",
+    "descontrolan", "cómo", "vídeo", "años", "está",
+]
+
+
 def es_titulo_en_ingles(idioma_declarado, titulo):
     if idioma_declarado and not idioma_declarado.lower().startswith("en"):
         return False
     if PATRON_SCRIPT_NO_LATIN.search(titulo):
+        return False
+    titulo_lower = titulo.lower()
+    if "ñ" in titulo_lower or any(p in titulo_lower for p in PALABRAS_NO_INGLES):
         return False
     return True
 
@@ -398,6 +407,7 @@ def main():
     dry_run = "--dry-run" in sys.argv
     check_mode = "--check" in sys.argv
     solo_youtube = "--solo-youtube" in sys.argv
+    sembrar_youtube = "--sembrar-youtube" in sys.argv
 
     config_yml = cargar_feeds()
     config = config_yml.get("config", {})
@@ -422,7 +432,15 @@ def main():
     candidatos = []
     a_publicar = []
 
-    if solo_youtube:
+    if sembrar_youtube:
+        youtube_max_por_corrida = int(config.get("youtube_max_por_corrida", 6))
+        candidatos_youtube = [
+            i for i in estado.get("archivo", [])
+            if i.get("categoria") == "youtube" and es_titulo_en_ingles(None, i.get("titulo", ""))
+        ]
+        candidatos_youtube.sort(key=lambda x: x.get("vistas", 0), reverse=True)
+        a_publicar = candidatos_youtube[:youtube_max_por_corrida]
+    elif solo_youtube:
         youtube_key = os.environ.get("YOUTUBE_API_KEY", "")
         youtube_max_por_corrida = int(config.get("youtube_max_por_corrida", 6))
         candidatos_youtube = procesar_youtube(config_yml, config, categorias, vistos_set, vistos, nuevo_archivo, youtube_key)
@@ -478,10 +496,10 @@ def main():
         a_publicar = distribuir_por_categoria(candidatos, categorias_diarias, limite_publicacion)
 
     if dry_run:
-        total_candidatos = len(candidatos_youtube) if solo_youtube else len(candidatos)
+        total_candidatos = len(candidatos_youtube) if (solo_youtube or sembrar_youtube) else len(candidatos)
         print(f"[dry-run] {len(a_publicar)} items se publicarian (de {total_candidatos} candidatos):")
         for item in a_publicar:
-            if solo_youtube:
+            if solo_youtube or sembrar_youtube:
                 print(f"  [{item['categoria']}] ({item.get('vistas', 0):,} vistas) {item['titulo']} -> {item['link']}")
             else:
                 prioridad = calcular_prioridad(item["titulo"], item["extracto"])
