@@ -90,8 +90,8 @@ No necesitas terminal ni saber programar. Todo se hace desde el navegador:
 
 1. Entra a tu repositorio en GitHub.
 2. Haz clic en la pestaña **Actions** (arriba, junto a "Code" y "Pull requests").
-3. En la lista de la izquierda verás tres workflows: **AI Radar -> Discord**,
-   **DXW Weekly Briefing** y **Herramientas**.
+3. En la lista de la izquierda verás cuatro workflows: **AI Radar -> Discord**,
+   **DXW Weekly Briefing**, **Herramientas** y **Watchdog**.
 4. Haz clic en el que quieras correr.
 5. Haz clic en el botón **Run workflow** (arriba a la derecha, con un menú
    desplegable).
@@ -100,6 +100,23 @@ No necesitas terminal ni saber programar. Todo se hace desde el navegador:
 8. Espera unos segundos y refresca la página: verás la corrida en la lista,
    con un ícono amarillo (corriendo), verde (éxito) o rojo (falló).
 9. Haz clic sobre la corrida para ver los detalles y el log paso a paso.
+
+### 4.1 El Watchdog: red de seguridad si el cron se atrasa
+
+GitHub a veces dispara los horarios programados con retraso (hemos visto
+retrasos de 1-2+ horas en los primeros días de este repo). El workflow
+**Watchdog** existe para eso: corre 30 minutos después de cada horario
+esperado (8:30 a.m., 4:30 p.m., y viernes 8:30 a.m. para el briefing),
+revisa si esa corrida ya pasó en la última hora, y si no, **la dispara él
+mismo**. No necesita ningún secret nuevo — usa el token automático que
+GitHub le da a cada workflow.
+
+Esto significa que aunque el cron de GitHub llegue tarde, el sistema se
+autocorrige solo en un máximo de ~35 minutos de retraso, en vez de
+quedarse sin publicar todo el día hasta que alguien se dé cuenta. Puedes
+ver sus corridas en la pestaña Actions igual que las demás — si dice
+"Ya corrió recientemente, no se necesita acción" en el log, es que todo
+salió bien sin que tuviera que intervenir.
 
 ## 5. Cómo sembrar el archivo antes del primer briefing
 
@@ -183,7 +200,8 @@ líneas con `#` en `feeds.yml`. Ejemplo:
 | No llega nada a Discord | Revisa que los 4 webhooks estén bien configurados como Secrets (paso 3) y que las URLs no estén invertidas entre canales. |
 | Las noticias llegan al canal equivocado | Probablemente mezclaste las URLs de los webhooks al crearlos. Vuelve a copiar cada una desde su canal específico. |
 | El briefing dice "archivo vacío" | Aún no hay historial. Sigue el paso 5 (sembrar con `horas: 168`) y espera a que el radar corra al menos una vez más. |
-| El cron dejó de correr solo | GitHub apaga los workflows automáticos si el repositorio está 60 días sin actividad. Cada corrida del radar hace un commit a `state.json`, lo cual mantiene el repo "activo" — si ves que dejó de correr, entra a Actions y dale "Run workflow" manualmente una vez para reactivarlo. |
+| El cron dejó de correr solo (60 días) | GitHub apaga los workflows automáticos si el repositorio está 60 días sin actividad. Cada corrida del radar hace un commit a `state.json`, lo cual mantiene el repo "activo" — si ves que dejó de correr, entra a Actions y dale "Run workflow" manualmente una vez para reactivarlo. |
+| El cron sale tarde (minutos u horas) | Es un comportamiento de GitHub, no un error de configuración. El workflow **Watchdog** (sección 4.1) revisa cada horario 30 min después y dispara la corrida solo si de verdad no pasó — no deberías tener que hacer nada manualmente. |
 
 ## 9. Notas sobre las fuentes
 
