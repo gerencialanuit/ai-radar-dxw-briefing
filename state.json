@@ -895,7 +895,19 @@
     "33e0cd148e23537a",
     "f86ec5d9938e0f63",
     "250eabf79a6a0807",
-    "aec8188733cc427b"
+    "aec8188733cc427b",
+    "1865265130634aae",
+    "d22b30e7b19362da",
+    "c8c9d2faa58ccb2b",
+    "1baa27119cabf4cf",
+    "671a045d741e0bda",
+    "06feee9e3f24d613",
+    "c6936d43cfc4c352",
+    "4a4dfae8cae4f0a2",
+    "8fc5764fcf0df4a7",
+    "8e7b7e1b8a36bbcc",
+    "163f70bcc5243ad6",
+    "c2e9b686fbbfdfd7"
   ],
   "archivo": [
     {
@@ -3054,6 +3066,86 @@
       "extracto": "Book a free call to apply for our KDP mentorship program and get expert feedback on your book idea, niche, and strategy — plus ...",
       "vistas": 35038,
       "miniatura": "https://i.ytimg.com/vi/sQQN53qx-VI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T21:21:28+00:00",
+      "extracto": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+    },
+    {
+      "titulo": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T20:05:00+00:00",
+      "extracto": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+    },
+    {
+      "titulo": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T19:30:19+00:00",
+      "extracto": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
+    },
+    {
+      "titulo": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T20:47:11+00:00",
+      "extracto": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests."
+    },
+    {
+      "titulo": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T20:01:32+00:00",
+      "extracto": "Reddit says the beloved site is used for some \"bad behavior.\""
+    },
+    {
+      "titulo": "Hank Green found the AI problem that YouTube labels can’t catch",
+      "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T19:51:40+00:00",
+      "extracto": "\"Slop\" isn't the only problem."
+    },
+    {
+      "titulo": "Inteligencia artificial: por qué las métricas tradicionales ya no bastan para medir el desempeño - Revista Mercado",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnBjbm1xVlA2b2VzQl9HaUF5UnBGY3JNYjhuNFVWSVBiVC1nQkE0d1FhNWVZMXAzaWN0RzBqWnVaU2I5U20zWWlKbVFIb2xUbXZPbURjbGNZSmhfSFlRaEg5aTRudjNad3V1X2I3UFF3VXVNVEstb04zMXo3M3Zod3RXVEVrdEQ2dXJMUTdabFZ3N3M0V2ZDTGtYSThkZnJlRkJjTC1EVWdBQ2pzT3JUd0xXRnREbDBCMU0wR2F4bi1Ua3hfVUxRQm5QSWZLMjY5a25LQ3FR?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-05T21:48:10+00:00",
+      "extracto": "Inteligencia artificial: por qué las métricas tradicionales ya no bastan para medir el desempeño Revista Mercado"
+    },
+    {
+      "titulo": "Inteligencia artificial: JPMorgan, Accenture y otras grandes empresas impulsan un estándar para medir su costo y su valor. - Revista Mercado",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYWtNQzdNWWVwQ2wwTmhYdjRiNXVjRW5JcFg4SENZZlhkdWN4OVJyTmt0VUtJUE10Wi03UFN1SllNRkxLNGR2RVVITDVFeTNPS0xhVUtsTGJxQTllNFY4VkdhendoYlBoTVJkQm44UjVfQWNXbWpRdFpBMTVMUGJLMHZMa05VNmxHeFhJQld1WEFvckNVVTQ2QWFpbXZuYllOUmFTZVVsa0JVcEV1dHZFUkpfTlI3Z0pUN2hUZWFkNlVOeHJYdE42a29TWkU2YkwxS2szbHRZUUkwT180LVItY1ZIRVl6TTJqcUZv?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-05T21:02:14+00:00",
+      "extracto": "Inteligencia artificial: JPMorgan, Accenture y otras grandes empresas impulsan un estándar para medir su costo y su valor. Revista Mercado"
+    },
+    {
+      "titulo": "Uptown artificial intelligence company Shelfmark raises $3.5 million and now plans to grow - post-gazette.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1VRb1FaOGNmN3hkOEgzeXhMcGljNjJPT0tONkRJaE5oVHBkdjVXb1c3aHBhSTdSVXJabFdxY0VLd3FGM05Idk55ajEzcm41TW5qSWg4ZTV4SzZZTXRscnFOTFBESmdqeWpRb19OS0dyWmRaOXoybmg1YUhqZ1k1eDFScDh0alJjQXNKQ0ZzMWcycW9nSzZuT0JNTFl0Wm83OGtCenlSN0dJOWpPd2FlUzRTOA?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-05T22:02:51+00:00",
+      "extracto": "Uptown artificial intelligence company Shelfmark raises $3.5 million and now plans to grow post-gazette.com"
+    },
+    {
+      "titulo": "n8n vs. UiPath: Which is best? [2026]",
+      "link": "https://zapier.com/blog/n8n-vs-uipath",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T04:00:00+00:00",
+      "extracto": "n8n and UiPath describe themselves similarly, using terms like \"AI workflows\" and \"agentic automation.\" And fair, they both do those things. But in the world of automation platforms, n8n and UiPath aren't actually all that similar. n8n is a fair code workflow tool that developers can self-host and wire together with APIs. UiPath is an enterprise robotic process automation (RPA) platform built to operate software that never got an API in the first..."
     }
   ]
 }
