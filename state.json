@@ -840,7 +840,58 @@
     "0416246065462067",
     "e60c243e66a34cf2",
     "48b14af4a7fb3d6c",
-    "7a9ee401c4fc541c"
+    "7a9ee401c4fc541c",
+    "e1795e8997d99892",
+    "5430cc0a9890f5f9",
+    "16fe961ae1579ece",
+    "84f0b7d41d024906",
+    "fd790c108900520d",
+    "5074d5dae886aee3",
+    "dcb197aec7e0a6e2",
+    "08d2da562b2a1ba4",
+    "49a04402d54c85b8",
+    "3432a5c0e7c9f01f",
+    "fa14ae85e3f3c513",
+    "e06864917d00c9c7",
+    "f313d98dcdbc8bbe",
+    "ef1abc79c9fef10a",
+    "d2360067ad9e5907",
+    "9e089a4e66c3eddb",
+    "81fc8f3df8af524f",
+    "6c91588a1f374496",
+    "4c82a91e25429431",
+    "4b28cec6b61ff176",
+    "d4c68c0706c8b97f",
+    "10a9ca2cab48c5b6",
+    "d495a3fc75eaea0b",
+    "472581c4d8edca5a",
+    "92ba548d367b7513",
+    "b8ce73b9eb4e6d02",
+    "6e6974b9b9f89860",
+    "b46889a9ecfe81f8",
+    "9f86cb8246aa3402",
+    "bc58c56668f1d165",
+    "7ae9c19105670b87",
+    "02be339cf83835a3",
+    "dfa530f2895122c0",
+    "379244edf33d24be",
+    "067a6768070bebef",
+    "979f3075eb348475",
+    "d0e33c8a4c361cf9",
+    "613cb1bca4446bf5",
+    "e31f68175d257d9e",
+    "9ba31148e2a7cb64",
+    "7a62def58be53fbf",
+    "159d6e3d34044073",
+    "6400788e811f5c21",
+    "10ae0b70768c8739",
+    "cdbb1914f88f4792",
+    "1770d186b33ff137",
+    "e0316f472c56b93c",
+    "53cea192f5a73aaa",
+    "5df20f43ece2924d",
+    "b1f0cf0f942fac39",
+    "bd89b977e3cb29b6"
   ],
   "archivo": [
     {
@@ -2570,6 +2621,395 @@
       "categoria": "news",
       "fecha": "2026-08-05T10:29:47+00:00",
       "extracto": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used [ ]"
+    },
+    {
+      "titulo": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "link": "https://claude.com/blog/claude-enterprise-inference-hooks",
+      "fuente": "Claude Blog (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-05T00:00:00+00:00",
+      "extracto": "Inference hooks: inline data loss prevention for Claude Enterprise"
+    },
+    {
+      "titulo": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T15:56:14+00:00",
+      "extracto": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
+    },
+    {
+      "titulo": "Hark previews its browser use agent for completing tasks",
+      "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T15:46:27+00:00",
+      "extracto": "Hark claims that its browser use agent is faster and cheaper than competition."
+    },
+    {
+      "titulo": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T15:05:00+00:00",
+      "extracto": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
+    },
+    {
+      "titulo": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T16:57:25+00:00",
+      "extracto": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using [ ]"
+    },
+    {
+      "titulo": "Google just announced a major shakeup of its top AI leadership",
+      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T16:47:23+00:00",
+      "extracto": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray [ ]"
+    },
+    {
+      "titulo": "SpaceX is barely Space and mostly X",
+      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T16:35:56+00:00",
+      "extracto": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we have here, by revenue, is primarily a telecom company and a company that rents compute, according to SpaceX's first quarterly earnings statement [ ]"
+    },
+    {
+      "titulo": "Reddit is introducing a new moderator: AI",
+      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T16:00:00+00:00",
+      "extracto": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities, and it's expanding who can use those tools today ahead of a full launch later this year. The company calls the suite [ ]"
+    },
+    {
+      "titulo": "Rogue AI agents created fake online identities in another hacking attempt",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T15:14:57+00:00",
+      "extracto": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security [ ]"
+    },
+    {
+      "titulo": "Google plans to kill Assistant on your phone on September 4",
+      "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-05T15:30:02+00:00",
+      "extracto": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks."
+    },
+    {
+      "titulo": "Empresas aceleran gestión laboral con inteligencia artificial - Expreso",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1cyMk5tMmF4Yy10c2poM2dnYWN6ak5BY3N5TXllRk1fUlc3VXlRLUN5ZHdTTGhDRWhkbThQTXhBQkVwRkpFeUUyNGJmY2NzOVdPZE1FTDBhYWZwcE8yeXpURGFDMWFDZERCWmV1YTktS3kzY2lKYndpUEdmQzhpdVZnRndIYllib016M0N6aUMyRVR1TVAxLTJZdjZBYW56VHhBTExtLURhZW5KdlY1b1dicjFWYTdP?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-05T16:02:09+00:00",
+      "extracto": "Empresas aceleran gestión laboral con inteligencia artificial Expreso"
+    },
+    {
+      "titulo": "Trump White House Readies AI Framework to Review Security Risks - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-04T22:17:11+00:00",
+      "extracto": "Trump White House Readies AI Framework to Review Security Risks The New York Times"
+    },
+    {
+      "titulo": "Daily Search Forum Recap: August 5, 2026",
+      "link": "https://www.seroundtable.com/recap-08-05-2026-41820.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T14:00:00+00:00",
+      "extracto": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "titulo": "The 11 best SEO tools in 2026",
+      "link": "https://zapier.com/blog/best-seo-tools",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T05:00:00+00:00",
+      "extracto": "For some jobs, you can get by purely on your own cunning, physical abilities, or ambition alone. SEO marketer is not one of those jobs. Marketers like me can't do what they do without the right tools—tools that help us track performance metrics, diagnose problems, suggest improvements, report on progress, and automate the little things we don't have time to do a hundred times a day. I sifted through a ton of SEO software options (including ones I..."
+    },
+    {
+      "titulo": "AI local search puts Google Business Profile ahead of website traffic - HousingWire",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xak5WdFhxanRsdTN4d044VmFSR2tjUUVib0tXRzBsSVExX2dOemlYa2hSZFR4c2xiRWdGM2VKaGo1VzVSd3NBeHhiT0hUeS1ybkxycURVUGhMeXZOYUZaSnk4cERaeEtsclUwbmlVTVhES3RIaF90R3JJVQ?oc=5",
+      "fuente": "GN — Google Business Profile",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T12:29:41+00:00",
+      "extracto": "AI local search puts Google Business Profile ahead of website traffic HousingWire"
+    },
+    {
+      "titulo": "AI Search Engineers Documents That Answer Engine Optimization and AI Chatbot Deployment Together Produce Three Times More Qualified Leads Than Either System Deployed Independently - The Joplin Globe",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQXh1UVd4eDZ0TUpRbVl6YUdPRGxvREFhQnNfb21QWEtKd1RTeDZWZWdMWlhXcGF6RUh2cFd4WjlmZG9pR2RreW9OYWpVWjFiQXFsRXlGQXJJWUhYRWdxYmVMa05ZSG44dVBLRjFIOFBiMjBrTEcteTEyckJEYnFVd2N0aFlwR0NQWXJRRnRnOWp0Mnp5WTdoSEJvWHI3UXFGejE2c19HQ1I3ODFwQkZISzZxeWZBMGFuWlNZdU55SWZtdER3LXJsZU1fcU1paFdJTTRfQ0FZcW1sQVYyX1d5WUdjZVlOWEJKN3c3WWhUYjZHc1plR0tDZGxZZWVyZ195R0NjWGVyY3RfOUN4UWIxVHNMaGt5cW05TWczSzFQeFI?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T17:51:18+00:00",
+      "extracto": "AI Search Engineers Documents That Answer Engine Optimization and AI Chatbot Deployment Together Produce Three Times More Qualified Leads Than Either System Deployed Independently The Joplin Globe"
+    },
+    {
+      "titulo": "This 1 Claude Skill fully replaces your Higgsfield Subscription",
+      "link": "https://www.youtube.com/watch?v=9C4TRbucmhQ",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T01:46:08+00:00",
+      "extracto": "Get the skill blueprint for free ➡️ https://www.skool.com/robonuggets-free search for n68 Learn to build & sell AI Systems ...",
+      "vistas": 175880
+    },
+    {
+      "titulo": "10 Claude AI Side Hustles That Can Pay A Full-Time Income (Ranked List)",
+      "link": "https://www.youtube.com/watch?v=jVOk8oc-a70",
+      "fuente": "Patrick Dang",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T14:00:30+00:00",
+      "extracto": "Try Higgsfield: https://go.founderx.net/7c510924 Join my FREE LIVE training where I reveal how you can build your profitable ...",
+      "vistas": 141107
+    },
+    {
+      "titulo": "CLAUDE CODE 2026: Curso Completo en Español (actualizado)",
+      "link": "https://www.youtube.com/watch?v=h49d1-d_fYk",
+      "fuente": "Benjamín Cordero",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T15:01:03+00:00",
+      "extracto": "El curso más completo de Claude Code en español, desde cero y sin programar: 6 horas, 17 módulos y 8 proyectos reales ...",
+      "vistas": 132794
+    },
+    {
+      "titulo": "Claude Design Just Unlocked AI Motion Graphics",
+      "link": "https://www.youtube.com/watch?v=97Y5cz7H8SM",
+      "fuente": "Futurepedia",
+      "categoria": "youtube",
+      "fecha": "2026-08-04T18:59:11+00:00",
+      "extracto": "Claude Design Guide:* https://clickhubspot.com/arci More from Futurepedia: Join the Skill Leap AI education platform! Try it free ...",
+      "vistas": 69299
+    },
+    {
+      "titulo": "NO MORE AI SLOP | Claude Design Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=T96O8dTzi2Q",
+      "fuente": "Sergei Chyrkov",
+      "categoria": "youtube",
+      "fecha": "2026-07-30T14:15:11+00:00",
+      "extracto": "View live: https://pizza-project-claude-design.vercel.app 🛠️ View on Github: https://github.com/chyrkov/pizza-project Get a ...",
+      "vistas": 67929
+    },
+    {
+      "titulo": "It s time to quit 3D... Claude AI + Blender is INSANE",
+      "link": "https://www.youtube.com/watch?v=TRnCrUpThnk",
+      "fuente": "Aryan",
+      "categoria": "youtube",
+      "fecha": "2026-08-03T18:35:56+00:00",
+      "extracto": "Follow me on Instagram: https://www.instagram.com/arijan3d/ Join my Discord: https://discord.gg/gvSHbfEemp Check out my ...",
+      "vistas": 62196
+    },
+    {
+      "titulo": "Claude AI Caught Secretly Planning (Anthropic s J-Lens Test)",
+      "link": "https://www.youtube.com/watch?v=gvOVL_MXaB0",
+      "fuente": "Utkarsh Kushwaha",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T12:52:54+00:00",
+      "extracto": "",
+      "vistas": 76024
+    },
+    {
+      "titulo": "🚨 Anthropic s AI Accidentally Hacked 3 Real Companies!",
+      "link": "https://www.youtube.com/watch?v=rBaG_Jq0AhQ",
+      "fuente": "KodeKloud",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T12:52:02+00:00",
+      "extracto": "Anthropic Confirms Its AI Hacked 3 Real Companies! Anthropic just confirmed that three Claude AI models (Opus 4.7, Mythos 5, ...",
+      "vistas": 88430
+    },
+    {
+      "titulo": "Claude Code Just Changed Forever (6 NEW Rules by Anthropic Engineers)",
+      "link": "https://www.youtube.com/watch?v=gQeRjkb_Hlc",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-08-03T07:06:37+00:00",
+      "extracto": "Get the /doctor-plus skill for free ➡️ https://www.skool.com/robonuggets-free search for n69 Learn to build & sell AI Systems ...",
+      "vistas": 68797
+    },
+    {
+      "titulo": "How This 30 Yr Old Made ₹1 Crores by Using AI | Claude Code | #251 The Sanskar Show",
+      "link": "https://www.youtube.com/watch?v=QTMPWXlp--Y",
+      "fuente": "Sanskar Goyal",
+      "categoria": "youtube",
+      "fecha": "2026-08-01T14:00:35+00:00",
+      "extracto": "finance #investing #sanskargoyal In this video I'm in conversation with Sandy Lee. In this video she talks about how she made ...",
+      "vistas": 77299
+    },
+    {
+      "titulo": "MiniMax Code Tested! 😱 Claude-ku Tough Competition? (தமிழில்)",
+      "link": "https://www.youtube.com/watch?v=Rxz0t8djECY",
+      "fuente": "The AI Dude - Tamil",
+      "categoria": "youtube",
+      "fecha": "2026-07-30T13:00:38+00:00",
+      "extracto": "Explore MiniMax Code: https://platform.minimax.io/subscribe/coding-plan?code=6rIlW0ymB9&source=link Download MiniMax ...",
+      "vistas": 94080
+    },
+    {
+      "titulo": "The #1 Claude Code Design Skill Just Got a HUGE Upgrade",
+      "link": "https://www.youtube.com/watch?v=RVeCbPg0liw",
+      "fuente": "Chase AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-04T03:09:41+00:00",
+      "extracto": "Higgsfield: https://higgsfield.ai/s/chase-h-ai-tgvvbT ⚡Master Claude Code: https://www.skool.com/chase-ai FREE community: ...",
+      "vistas": 56469
+    },
+    {
+      "titulo": "Andrej Karpathy Just Fixed Claude Code’s Biggest Weakness...",
+      "link": "https://www.youtube.com/watch?v=jI4ZVB_MPhU",
+      "fuente": "Dream Labs AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-03T14:00:35+00:00",
+      "extracto": "Andrej Karpathy revealed the biggest flaw with current AI setups: your Claude can only learn while you're actively prompting it.",
+      "vistas": 53685
+    },
+    {
+      "titulo": "Claude Code + Codex Can FINALLY Work Together (Buzz AI)",
+      "link": "https://www.youtube.com/watch?v=P1KpxzLVg7c",
+      "fuente": "Riley Brown",
+      "categoria": "youtube",
+      "fecha": "2026-07-29T20:54:33+00:00",
+      "extracto": "Building an Agent Team on Buzz (Complete Guide) Subscribe to Vinny https://youtube.com/@stealtime?si=khW3yG-ovHdjYAtY ...",
+      "vistas": 52807
+    },
+    {
+      "titulo": "I Figured Out A Way To Make Claude Work For FREE In 17 Mins",
+      "link": "https://www.youtube.com/watch?v=NuNDpeZYQ28",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-08-04T15:29:03+00:00",
+      "extracto": "Get 20% off on Hostinger with code STAYINGAHEAD https://www.hostg.xyz/SHJpq ⚡ FREE SETUP FILE + PROMPTS + ...",
+      "vistas": 43644
+    },
+    {
+      "titulo": "Holy smokes: this agent is amazing!",
+      "link": "https://www.youtube.com/watch?v=W0r8xrWIYGw",
+      "fuente": "The Next New Thing",
+      "categoria": "youtube",
+      "fecha": "2026-07-29T21:19:04+00:00",
+      "extracto": "Link to Resources: https://thenextnewthing.ai/my-resources Presented by Zapier: https://zapier.com/ Andrew Warner and Vince ...",
+      "vistas": 31613
+    },
+    {
+      "titulo": "Home Assistant: KI baut kostenlos Dashboards und prüft dein Smart Home",
+      "link": "https://www.youtube.com/watch?v=dpzm7KJrWWU",
+      "fuente": "Tristans Smartes Heim",
+      "categoria": "youtube",
+      "fecha": "2026-07-30T15:00:07+00:00",
+      "extracto": "Kann KI in Home Assistant wirklich mehr als nur das Licht schalten? In diesem Video verbinde ich Claude Desktop kostenlos per ...",
+      "vistas": 4715
+    },
+    {
+      "titulo": "🚀 AI Powered Tax Audit Using Claude MCP Server | Live Tally Demo | Full Webinar 2026",
+      "link": "https://www.youtube.com/watch?v=8AOKggscU7c",
+      "fuente": "The Compliance CA",
+      "categoria": "youtube",
+      "fecha": "2026-08-02T13:45:28+00:00",
+      "extracto": "Are you ready to transform your Tax Audit process using Artificial Intelligence? In this exclusive webinar, learn how Claude AI and ...",
+      "vistas": 2223
+    },
+    {
+      "titulo": "클로드+힉스필드로 건축 포트폴리오 만드는 방식이 바뀝니다 (Higgsfield MCP x Rhino MCP x Fable 5)",
+      "link": "https://www.youtube.com/watch?v=U6uAjZKrtBk",
+      "fuente": "건축 AI 라이노 | 모어매스",
+      "categoria": "youtube",
+      "fecha": "2026-07-30T03:21:47+00:00",
+      "extracto": "클로드에게 손을 달아주는 도구, 힉스필드(Higgsfield) 시작하기 ...",
+      "vistas": 2033
+    },
+    {
+      "titulo": "Dinamik reklam içeriği üretmek artık çok kolay (ücretsiz yöntem)",
+      "link": "https://www.youtube.com/watch?v=yWplP-d1jxU",
+      "fuente": "Doruk Yalçınsoy",
+      "categoria": "youtube",
+      "fecha": "2026-07-30T15:35:39+00:00",
+      "extracto": "Yüksek gelirli yetkinlikler edin: https://www.skool.com/is-guc-yapayzeka/about Şimdi başla: https://shorturl.at/TDQGs Ücretsiz skill: ...",
+      "vistas": 1936
+    },
+    {
+      "titulo": "Claude launches first AI-based video editor with text #ClaudeAI #AIvideoediting #OpenSourceTech",
+      "link": "https://www.youtube.com/watch?v=M_cMbSapeqM",
+      "fuente": "Forcee | Crypto",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T22:05:02+00:00",
+      "extracto": "Claude introduced the world's first video editor powered entirely by AI, allowing users to edit full videos through simple text ...",
+      "vistas": 3058
+    },
+    {
+      "titulo": "Odoo MCP nativo: conecta Claude o cualquier IA a tu ERP sin escribir una integración",
+      "link": "https://www.youtube.com/watch?v=s7g97dBRNXU",
+      "fuente": "jcmontoya",
+      "categoria": "youtube",
+      "fecha": "2026-07-30T19:00:03+00:00",
+      "extracto": "Odoo lanzó su módulo MCP Server oficial: conecta Claude, Cursor u OpenCode a tu ERP en minutos, con seguridad por capas y ...",
+      "vistas": 1214
+    },
+    {
+      "titulo": "Get CLAUDE AI inside UNREAL 5.8 in MINUTES!",
+      "link": "https://www.youtube.com/watch?v=6YO6aIx8GMM",
+      "fuente": "Synty Studios",
+      "categoria": "youtube",
+      "fecha": "2026-08-03T20:00:21+00:00",
+      "extracto": "Integrating Claude (or another AI) inside Unreal Engine is now officially supported via the MCP plugin in Unreal Engine 5.8.",
+      "vistas": 1837
+    },
+    {
+      "titulo": "5 Ways to ACTUALLY Build Beautiful Websites Using Claude for FREE",
+      "link": "https://www.youtube.com/watch?v=83geKREHQY0",
+      "fuente": "Mikey Website",
+      "categoria": "youtube",
+      "fecha": "2026-08-01T14:15:17+00:00",
+      "extracto": "Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...",
+      "vistas": 35447
+    },
+    {
+      "titulo": "EXPLAINED: Latest AI security breach",
+      "link": "https://www.youtube.com/watch?v=PaGfrOEUx1I",
+      "fuente": "GBNews",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T18:00:03+00:00",
+      "extracto": "GB News' Tom Harwood explains the latest AI security breach. AI firm Anthropic said its Claude model gained unauthorized ...",
+      "vistas": 74083
+    },
+    {
+      "titulo": "CRIEI UM PRODUTO EM 8 MINUTOS USANDO O CLAUDE E VOU VENDER NA KIWIFY (MOSTREI TUDO)",
+      "link": "https://www.youtube.com/watch?v=sQlj-Mf2y1w",
+      "fuente": "Hora de Negócios",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T21:05:01+00:00",
+      "extracto": "Eu criei um produto digital completo em apenas 8 minutos usando o Claude e, neste vídeo, vou mostrar todo o processo para ...",
+      "vistas": 36970
+    },
+    {
+      "titulo": "Paise bach jeyege ye trick use krlo.",
+      "link": "https://www.youtube.com/watch?v=UDsAqI7zOhU",
+      "fuente": "ezCommit",
+      "categoria": "youtube",
+      "fecha": "2026-08-04T05:15:23+00:00",
+      "extracto": "Paise bach jeyege ye trick use krlo. #money #trick #coding #programming #claude About This Video: This video has been ...",
+      "vistas": 48491
+    },
+    {
+      "titulo": "Turn your claude into a job hunting MACHINE!",
+      "link": "https://www.youtube.com/watch?v=PzJaG49GRtE",
+      "fuente": "Aevy TV",
+      "categoria": "youtube",
+      "fecha": "2026-08-03T17:59:55+00:00",
+      "extracto": "",
+      "vistas": 180913
+    },
+    {
+      "titulo": "My 3-Step Workflow to Build AI Car Commercial (Full Tutorial)",
+      "link": "https://www.youtube.com/watch?v=GNxmt_4IifA",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-03T17:08:05+00:00",
+      "extracto": "I built a full AI car commercial from scratch — 3 steps: assets, setup, generations. Every prompt is free below. Skill + Prompts: ...",
+      "vistas": 59275
     }
   ]
 }
