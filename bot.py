@@ -350,6 +350,13 @@ def publicar_discord(webhook_url, embed, max_intentos=4):
     return False
 
 
+def miniatura_youtube_de_link(link):
+    match = re.search(r"[?&]v=([\w-]{6,})", link or "")
+    if not match:
+        return None
+    return f"https://i.ytimg.com/vi/{match.group(1)}/hqdefault.jpg"
+
+
 def construir_embed(item, categoria_cfg, resumen):
     titulo = f"{categoria_cfg.get('emoji', '')} {item['titulo']}".strip()
     footer_text = item["fuente"]
@@ -363,8 +370,11 @@ def construir_embed(item, categoria_cfg, resumen):
         "footer": {"text": footer_text},
         "timestamp": item["fecha"],
     }
-    if item.get("miniatura"):
-        embed["image"] = {"url": item["miniatura"]}
+    miniatura = item.get("miniatura") or (
+        miniatura_youtube_de_link(item["link"]) if item.get("categoria") == "youtube" else None
+    )
+    if miniatura:
+        embed["image"] = {"url": miniatura}
     return embed
 
 
