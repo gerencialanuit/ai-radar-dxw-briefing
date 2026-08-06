@@ -907,7 +907,16 @@
     "8fc5764fcf0df4a7",
     "8e7b7e1b8a36bbcc",
     "163f70bcc5243ad6",
-    "c2e9b686fbbfdfd7"
+    "c2e9b686fbbfdfd7",
+    "febe814732267ab0",
+    "cad3a153bffe39df",
+    "97a1cf3a7025612a",
+    "2caa1e89ff0c054d",
+    "15fbf14d10ac1da2",
+    "57ca10a2b6cd0853",
+    "41200f743e20bc7f",
+    "89e7627f8846ddb0",
+    "a5e9b26c1c63ee92"
   ],
   "archivo": [
     {
@@ -3146,6 +3155,96 @@
       "categoria": "dxw",
       "fecha": "2026-08-05T04:00:00+00:00",
       "extracto": "n8n and UiPath describe themselves similarly, using terms like \"AI workflows\" and \"agentic automation.\" And fair, they both do those things. But in the world of automation platforms, n8n and UiPath aren't actually all that similar. n8n is a fair code workflow tool that developers can self-host and wire together with APIs. UiPath is an enterprise robotic process automation (RPA) platform built to operate software that never got an API in the first..."
+    },
+    {
+      "titulo": "Elon Musk tem razão. Infelizmente.",
+      "link": "https://www.youtube.com/watch?v=JKgvRDwdWgY",
+      "fuente": "mano deyvin",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T15:00:28+00:00",
+      "extracto": "Montei um time de IAs no Claude Code e OpenCode onde cada tarefa vai pro modelo mais barato que dá conta planejar e ...",
+      "vistas": 141210,
+      "miniatura": "https://i.ytimg.com/vi/JKgvRDwdWgY/hqdefault.jpg"
+    },
+    {
+      "titulo": "2026년 클로드, 1시간 올인원 강의 (claude)",
+      "link": "https://www.youtube.com/watch?v=If_U_zmXWYo",
+      "fuente": "찍봇",
+      "categoria": "youtube",
+      "fecha": "2026-08-04T03:58:48+00:00",
+      "extracto": "목차: 00:00 클로드 7가지 도구 요약 06:40 클로드 코드 기초 14:24 클로드 코드 영상 제작 자동화 19:25 클로드 코드 + 옵시디언 메모 ...",
+      "vistas": 93239,
+      "miniatura": "https://i.ytimg.com/vi/If_U_zmXWYo/hqdefault.jpg"
+    },
+    {
+      "titulo": "KI-Videos haben eine GRENZE überschritten: DAS kann Seedance 2.5! + Claude Code Codex Updates",
+      "link": "https://www.youtube.com/watch?v=IYzgxWs4sZ4",
+      "fuente": "Everlast AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-02T08:15:29+00:00",
+      "extracto": "KI-News: Seedance 2.5 hebt KI-Video auf 3 Minuten und 50 Referenzen, GPT-5.6 Luna wird 80 Prozent günstiger, Opus 5 ...",
+      "vistas": 66910,
+      "miniatura": "https://i.ytimg.com/vi/IYzgxWs4sZ4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Full Course | Beginner to Expert",
+      "link": "https://www.youtube.com/watch?v=lDAdc0w2kAk",
+      "fuente": "DataBeli",
+      "categoria": "youtube",
+      "fecha": "2026-08-01T13:30:29+00:00",
+      "extracto": "In this video, I'll make you from zero to expert on Claude Code — no prior cloud or coding experience required. By the end, you'll ...",
+      "vistas": 17640,
+      "miniatura": "https://i.ytimg.com/vi/lDAdc0w2kAk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Cómo crear vídeos con IA usando Claude y Higgsfield 🌐",
+      "link": "https://www.youtube.com/watch?v=emZ8ogN7bPs",
+      "fuente": "TuTecnoMundo",
+      "categoria": "youtube",
+      "fecha": "2026-08-05T15:02:42+00:00",
+      "extracto": "Crear vídeos con IA en Claude* ya es posible gracias a Higgsfield MCP, y en este tutorial lo montamos paso a paso y desde cero.",
+      "vistas": 2324,
+      "miniatura": "https://i.ytimg.com/vi/emZ8ogN7bPs/hqdefault.jpg"
+    },
+    {
+      "titulo": "The Future of Keyword Research (Integrated Context Data)",
+      "link": "https://www.youtube.com/watch?v=a-mMH-gUGLE",
+      "fuente": "Rank Math SEO",
+      "categoria": "youtube",
+      "fecha": "2026-08-05T10:02:31+00:00",
+      "extracto": "In this video, you'll learn how to connect Data for SEO MCP with Claude Desktop and add AI skills that can help streamline your ...",
+      "vistas": 2061,
+      "miniatura": "https://i.ytimg.com/vi/a-mMH-gUGLE/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Set Up Claude with Unity MCP in 3 Minutes",
+      "link": "https://www.youtube.com/watch?v=oCqyOvcWf5M",
+      "fuente": "Louis DeSimone | AI Game Dev Lab",
+      "categoria": "youtube",
+      "fecha": "2026-08-03T15:00:26+00:00",
+      "extracto": "Master AI Game Development: https://www.skool.com/tenth-legion-games/about Learn how to connect Claude to Unity using Unity ...",
+      "vistas": 1480,
+      "miniatura": "https://i.ytimg.com/vi/oCqyOvcWf5M/hqdefault.jpg"
+    },
+    {
+      "titulo": "Everything AI Does When You Ask It to Start a Lemonade Stand",
+      "link": "https://www.youtube.com/watch?v=6Ide5pRLR8Y",
+      "fuente": "Genspark AI",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T20:15:06+00:00",
+      "extracto": "We pitted ChatGPT and Claude against each other to see which AI can build and operate the superior lemonade stand.",
+      "vistas": 1013851,
+      "miniatura": "https://i.ytimg.com/vi/6Ide5pRLR8Y/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Build Real Mobile Apps with Claude - FULL COURSE",
+      "link": "https://www.youtube.com/watch?v=tpge9xJ0m5U",
+      "fuente": "Codesistency",
+      "categoria": "youtube",
+      "fecha": "2026-07-31T16:01:16+00:00",
+      "extracto": "Try Trigger for FREE: https://fandf.co/3Tacp8G Try Sentry for FREE: https://dub.sh/sentry5 Try Neon for FREE: ...",
+      "vistas": 49999,
+      "miniatura": "https://i.ytimg.com/vi/tpge9xJ0m5U/hqdefault.jpg"
     }
   ]
 }
