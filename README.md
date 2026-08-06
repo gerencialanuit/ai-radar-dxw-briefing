@@ -215,6 +215,33 @@ líneas con `#` en `feeds.yml`. Ejemplo:
 | El briefing dice "archivo vacío" | Aún no hay historial. Sigue el paso 5 (sembrar con `horas: 168`) y espera a que el radar corra al menos una vez más. |
 | El cron dejó de correr solo (60 días) | GitHub apaga los workflows automáticos si el repositorio está 60 días sin actividad. Cada corrida del radar hace un commit a `state.json`, lo cual mantiene el repo "activo" — si ves que dejó de correr, entra a Actions y dale "Run workflow" manualmente una vez para reactivarlo. |
 | El cron sale tarde (minutos u horas) | Es un comportamiento de GitHub, no un error de configuración. El workflow **Watchdog** (sección 4.1) revisa cada horario 30 min después y dispara la corrida solo si de verdad no pasó — no deberías tener que hacer nada manualmente. |
+| Ningún workflow corrió en todo el día (ni siquiera el Watchdog) | Le pasó al scheduler de GitHub, no a nuestro código — confirmado revisando `githubstatus.com` (sin incidentes) y los permisos del repo (correctos). El Watchdog corre con `schedule:` igual que los demás, así que en un día así tampoco se salva. Ver sección 8.1 para las opciones de control disponibles. |
+
+## 8.1 Qué hacer si un día no publica nada en absoluto
+
+El 6 de agosto de 2026 ningún workflow corrió (ni radar, ni YouTube, ni el
+Watchdog) hasta pasadas casi 2 horas del horario esperado. Investigado a
+fondo: no fue un error de configuración, secretos, ni código — fue el
+scheduler de GitHub Actions, que a veces simplemente no dispara `schedule:`
+a tiempo (o nada) en este repo. `githubstatus.com` no reportaba incidentes,
+los permisos y el estado de los workflows eran correctos.
+
+**El problema de fondo:** el Watchdog (sección 4.1) también depende de
+`schedule:` de GitHub — en un día donde el scheduler no dispara nada, el
+Watchdog tampoco se salva solo. Es una limitación real de esta capa de
+control, no un descuido.
+
+**Controles disponibles, de menor a mayor esfuerzo:**
+
+| Opción | Qué hace | Costo / riesgo |
+|---|---|---|
+| **Disparo manual (lo que hacemos hoy)** | Entra a Actions y dale "Run workflow" a lo que falte, o pídeme que lo revise. | Gratis, pero no es automático — alguien tiene que notar el problema. |
+| **Watchdog (ya activo)** | Se autocorrige solo cuando el scheduler de GitHub sí dispara al menos una vez ese día. | Gratis, pero no cubre los días en que el scheduler no dispara nada en absoluto. |
+| **Cron externo** (cron-job.org, EasyCron, etc.) que llama a la API de GitHub para disparar los workflows a la hora exacta | Rompe la dependencia total del scheduler interno de GitHub — un servicio externo, más confiable en el horario, hace el disparo. | Requiere crear un GitHub Personal Access Token y guardarlo en un servicio de terceros — es una credencial nueva fuera de GitHub Secrets. Si te interesa esta opción, dime y lo configuramos juntos con las restricciones de seguridad adecuadas (token de alcance mínimo, solo permiso de disparar workflows). |
+| **Reportar a GitHub Support/Community** | No arregla nada de inmediato, pero documenta el patrón (3 días seguidos con fallas de scheduler) por si es un bug de la plataforma. | Gratis, pero no es una solución inmediata. |
+
+Por ahora seguimos con disparo manual + Watchdog. Si esto se repite seguido,
+vale la pena considerar el cron externo.
 
 ## 9. Notas sobre las fuentes
 
