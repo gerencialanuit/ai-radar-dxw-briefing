@@ -986,7 +986,53 @@
     "93dfca4152360f78",
     "be489b54ddf8f855",
     "05afd5f01782970d",
-    "5d965cdef89adc16"
+    "5d965cdef89adc16",
+    "0f0c1961f93e8e0c",
+    "6da5f2d271da214d",
+    "fea9ae47ebf2b0f0",
+    "7fa201e30c7e3776",
+    "fc28e2f3b0afd785",
+    "18df6870988d0310",
+    "7556cb937325f1bb",
+    "8b67900b659a26e4",
+    "4bd4d6839b630fc2",
+    "3a102dc15d291ba9",
+    "43d537a0573ba002",
+    "de53f8e489a2df0b",
+    "58ae0a2f3075e633",
+    "e9bc65786f099942",
+    "4d710a4e9d107524",
+    "23cb4a68cd4b84d0",
+    "1c1bf9c8c6cb4c27",
+    "8fa250091a50d111",
+    "989b39baddaa374f",
+    "42baadd6298a5bf8",
+    "c0a90cfa55683d3d",
+    "cd0dd2be8c1c2cf6",
+    "605a304300d5bf9b",
+    "0d2ffc5cf5f74329",
+    "6a2533f90e6a16a2",
+    "b4bc12bad386e126",
+    "905e3dddd212b406",
+    "0fdcebc95c284454",
+    "611546951230bec3",
+    "55b77db48e434f2d",
+    "6d4dea6244875482",
+    "809530fc6b7028b8",
+    "206d098388436050",
+    "67896df81efc5c31",
+    "9da41178a0d0083e",
+    "2962a102d3ad371a",
+    "b4371055e1c944a4",
+    "0e702d6aec6da83c",
+    "854975a2617fa84d",
+    "e9602c386fabb7e2",
+    "afd66cbe9c56ad7b",
+    "fe3bdcc429d0b761",
+    "39eac2aa8d29c36c",
+    "f01f631d087af3c8",
+    "fa205652378d4cf1",
+    "362d63fa64056b7a"
   ],
   "archivo": [
     {
@@ -3781,6 +3827,310 @@
       "categoria": "dxw",
       "fecha": "2026-08-05T17:51:18+00:00",
       "extracto": "AI Search Engineers Documents That Answer Engine Optimization and AI Chatbot Deployment Together Produce Three Times More Qualified Leads Than Either System Deployed Independently Weatherford Democrat"
+    },
+    {
+      "titulo": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-06T10:00:00+00:00",
+      "extracto": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+    },
+    {
+      "titulo": "Working with the American Psychological Association on youth mental health and AI",
+      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-06T06:00:00+00:00",
+      "extracto": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+    },
+    {
+      "titulo": "From asking to doing: How the world is putting ChatGPT to work",
+      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-06T00:00:00+00:00",
+      "extracto": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+    },
+    {
+      "titulo": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "fuente": "Google DeepMind",
+      "categoria": "releases",
+      "fecha": "2026-08-06T15:06:15+00:00",
+      "extracto": ""
+    },
+    {
+      "titulo": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T22:43:53+00:00",
+      "extracto": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+    },
+    {
+      "titulo": "ChatGPT brings unlimited text chats to free users",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T17:34:42+00:00",
+      "extracto": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
+    },
+    {
+      "titulo": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T17:00:37+00:00",
+      "extracto": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business."
+    },
+    {
+      "titulo": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T15:53:03+00:00",
+      "extracto": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker."
+    },
+    {
+      "titulo": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T15:10:32+00:00",
+      "extracto": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected."
+    },
+    {
+      "titulo": "Jony Ive s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T20:55:39+00:00",
+      "extracto": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [ ]"
+    },
+    {
+      "titulo": "Suno shares plans to combat spammy AI music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T17:39:43+00:00",
+      "extracto": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new [ ]"
+    },
+    {
+      "titulo": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T17:00:00+00:00",
+      "extracto": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [ ]"
+    },
+    {
+      "titulo": "Suno hopes to go legit with watermarks for AI-generated music",
+      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T20:17:36+00:00",
+      "extracto": "Suno plans watermarks and download limits to stop \"large-scale abuse.\""
+    },
+    {
+      "titulo": "Anthropic will design its own hardware to power Claude",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T20:03:44+00:00",
+      "extracto": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia."
+    },
+    {
+      "titulo": "Large genome models used to design new viruses",
+      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T19:04:57+00:00",
+      "extracto": "The AI system makes genetically distant versions of a bacteria-killing virus."
+    },
+    {
+      "titulo": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-06T16:15:30+00:00",
+      "extracto": "Cloudflare built an AI agent workspace for its employees. Now it’s open source."
+    },
+    {
+      "titulo": "La 'economía del copiar y pegar' frena el impacto real de la inteligencia artificial en las empresas - El Independiente",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNanZkWXJrQlYxSmxhZWRVeFYzakNEal9rUHZoSnJ4WXAxcjV2MEFtRVpmbVlQM3haeTM1Tk1GN1NPenhZTmM1TkFuLUJqa0FFNjBhRFJDdk1xQU5sSGV6LVVwQzU4V2pVbnFpdGJVZU13RTFpUWE4TVlTNHNIS3N5SjNrazY1LUtsV0JsTWVGaVpjSFR4blhUOGl5YTNOcDcyVGQwWVRaZnJxN0tXTXpWdmxPTWlmRERpUlhlOC15QWVZbjkt0gHKAUFVX3lxTE1tWjJTaE1tWUhGRlYycGZ5SUpJUi1OSHpkY2VwTTY1WWh0c3ljZXpIbVJ1QkJabkNFS2FnVGpYUXhFdzkzYTZ4MF92VEVNTmJYTVk3cHRsLWw0ZklSTW1hbkMtaTZhTVdmMmhYZGtBTHVFRmUxWmZROXU3NjZmd2VIMGtLdDY0UU1DUldaYlUwNnp2YWsycEN5V2MxUFk3WTZDYXgzZE1jSUtEb1d5RnJtNks3RjZVaGNtX0ktaE5PSHhieW1KblRaNFE?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-06T12:26:43+00:00",
+      "extracto": "La 'economía del copiar y pegar' frena el impacto real de la inteligencia artificial en las empresas El Independiente"
+    },
+    {
+      "titulo": "Microsoft limita el uso de la IA por parte de sus empleados - COMPUTERWORLD ESPAÑA",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOU5aZmFIQUp2bkdSWFJMSEhQRFhTSktsQnlMQzFpa2VFMWZIWWg1RlUzMThHaHhoMVhSX3g1UTdNSTc0bFVpSTdVQTUyemlFM0NvdXF2V0Fra3gwcWhoa04zUXdBdkRwTmhNN1lEcE1uTmh0S3FoVmp5ejNkb0Y0T1JUMDg5MXlCT0dOZVlEcW1RdUVhVWdyV3hpV3FWemhlODBDQ284dTB3MEtnWGc?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-06T09:34:18+00:00",
+      "extracto": "Microsoft limita el uso de la IA por parte de sus empleados COMPUTERWORLD ESPAÑA"
+    },
+    {
+      "titulo": "De acumular dogecoin a «minar» inteligencia artificial: el giro de CleanCore - CriptoNoticias",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNby1XTEVJVmVad1pUcVRGQmdKMG9iWldPYmpfZWg2RllnQjZhWWttdDY3dXYxTW1DLTFrcnBxMk1TTGhqTHBUR29YN0pWYlE3WUE2ZUN6d19ycmhLaEJpLUUtQUxDd0VGQUk2bHp5WUtNTFo2VEdFanpMSVk3d3lLTUsxcEVDUVF1T1R2WnF0Wk5rZ3FmU05DRncxd3NHLTlaaHpqeEFn?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-06T14:35:00+00:00",
+      "extracto": "De acumular dogecoin a «minar» inteligencia artificial: el giro de CleanCore CriptoNoticias"
+    },
+    {
+      "titulo": "'Significant risk': AI expert calls for legislation to address security breaches - cbs6albany.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZnZBX0k5VVNhUlZyaDJsZTRHTGtwZWlZM3Y0bUUxVUM2SE8wd1RjWS1iemVjTElZUHp3eEgtQkJxRXpISlVUY2piZ2poLTB5My0tZXZ5alY1VHlVUUdGdFRTa0pSMjFYVGtWWmpvX2NuMkxwb253OUJGVDFpUGItclE3b2NuZlFvOXhiejM4cDhOb2lQODVWV2lVbWMzUjFFQl9GS0xhMFJwZk52clRSUFFBRGhpdGhXLU1xNDNnajRSYUUtcVU3bDdjZENyYnptVE9HUVkwTXdycFl6cjNwS3Y5OXktOVlFc1dPX3JqU2ZJUQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-07T00:28:02+00:00",
+      "extracto": "'Significant risk': AI expert calls for legislation to address security breaches cbs6albany.com"
+    },
+    {
+      "titulo": "New Democratic bill would tax AI companies to create jobs - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnR5djZieGx6ajZGVXhIVzNBMUpuYWF0bVhhUDJPVGVjVjlnU3JXTGV0TDI1ZE0zNjlxck9QR2RZaW9aQUluZnV2VTRTM1hpR1hpNndGcWlDU1B1emVVRkJNZGh4Z1oxamswNDItcF9VaFVicXJ5OS1QbUxqVkFsV0szcnBTZzZxZy0ySVNZWDZoLUxkeXlOb3BOT0RCSzRPSDVr?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-06T16:00:40+00:00",
+      "extracto": "New Democratic bill would tax AI companies to create jobs NBC News"
+    },
+    {
+      "titulo": "Will companies ever be run by an AI CEO? - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMFA0aDg3eFoyMDhGMG0zSmx5WllhWXU5ZHN0d1Q4cExEc0x0akt3TUFEN0IyUHc2NG5pSlNpX2g3d2R0bG1fLWxYaUc4NHZrc2c0MXlRWmt3NFBaaThWTkowZlE3WlVrSEJrQlMtbnJ5WkZjTm44bmpwU0lIMzA?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-06T10:29:48+00:00",
+      "extracto": "Will companies ever be run by an AI CEO? The Conversation"
+    },
+    {
+      "titulo": "AI safety warnings mount as frontier models test new limits - KOMO",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORXczWm1xV2dVTFJDUDNyNWZOMVJJckc5N28xS2FWNUstUWZuZUdjMllsZEdDT2dGOFJTeXdtNlNDZEQwenVUTXZhUUpFR1J6ZGFyMU9sXzJramlGNEpmcUxVcWw4VDdaQkxESVJtYzFpRDkwMDZFVUR1d2lxdEpQUm5KeGJ6Vmo4SmZVeFlrZmRvNjN2a1YyYzEwMFBlYzFoWXVHamdGNzNqSUJiTExPSDRSb1ZzUHVsZktwbzRYUDYwREdQQ1VqUDJXeUJjRWVrNm5JSlE4bVVmTHRvOEI1VUpEOU1Ba3lkT1o2S3BsVnlndUoyNWZPbGhsR19aNEtjelZiaGtR?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-05T18:07:30+00:00",
+      "extracto": "AI safety warnings mount as frontier models test new limits KOMO"
+    },
+    {
+      "titulo": "Start with Google, Alexa+ Local, SEO v. AEO, Local AI Varies, Chat UI Wins",
+      "link": "https://www.nearmedia.co/start-with-google-alexa-local-seo-v-aeo-local-ai-varies-chat-ui-wins/",
+      "fuente": "Near Media (Local search)",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T17:36:34+00:00",
+      "extracto": "Local Search Still Starts with Google According to our research, somewhere between 60% and 70% of AI users have used AI for local search. There are questions about frequency and trust. But regardless of what industry you re in, AI is probably somewhere in your customer s journey"
+    },
+    {
+      "titulo": "How to build safe and trustworthy AI agents with Zapier",
+      "link": "https://zapier.com/blog/safe-trustworthy-ai-agents",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T07:00:00+00:00",
+      "extracto": "The idea of autonomous AI agents that research prospects, qualify leads, create content briefs, and enrich data across your business systems while you sleep sounds appealing. But an agent is only useful if you can trust it to do the right thing securely. Speed without control is just chaos with better branding. With Zapier MCP, you can have it all. With it, you can easily and securely build AI teammates that take action across appps without writi..."
+    },
+    {
+      "titulo": "How to write a winning creative brief",
+      "link": "https://zapier.com/blog/creative-brief",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T04:00:00+00:00",
+      "extracto": "In my past life as a freelance graphic designer, a client once asked me to design a logo of a \"husky chef.\" So I did what any reasonable person would do: I illustrated a Siberian husky in a toque, holding a whisk, looking extremely employable. I was proud of that dog. The client did not want a dog. The client wanted a heavyset man—a husky chef. The kind you'd see on a pizza box, kissing his fingers at a meatball. At no point in our correspondence..."
+    },
+    {
+      "titulo": "Third-party risk management (TPRM): A complete guide",
+      "link": "https://zapier.com/blog/third-party-risk-management",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T04:00:00+00:00",
+      "extracto": "A few years ago, I moved out of an apartment and realized I had no idea how many copies of my key were floating around. I gave one to my girlfriend, one to the maintenance team, and one to a friend who had visited from out of town (who had likely smuggled it five states over by then). I was stressed. Not because of a jagged piece of metal, but because the security of that apartment rested on every person I'd ever trusted with a way in, and I'd lo..."
+    },
+    {
+      "titulo": "How to build a lead generation funnel in 4 steps",
+      "link": "https://zapier.com/blog/lead-generation-funnel",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T04:00:00+00:00",
+      "extracto": "If years of playing Mario Party's mini fishing game taught me anything, it's that casting at random and hoping for the best is a great way to end up at the bottom of the leaderboard. In the game, that kind of chaos is part of the charm. But when it comes to lead generation strategies, it's a shining example of what not to do. What you need is the opposite of chaos: a well-built lead generation funnel that helps you attract the right people, nurtu..."
+    },
+    {
+      "titulo": "When Semantic Chunking Beats Fixed-Size Splitting",
+      "link": "https://blog.n8n.io/semantic-chunking/",
+      "fuente": "n8n Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T15:25:24+00:00",
+      "extracto": "Learn how semantic chunking improves RAG performance by preserving context, increasing retrieval accuracy, reducing token costs, and improving AI responses."
+    },
+    {
+      "titulo": "The Best AI Observability Tools for Engineering Teams",
+      "link": "https://blog.n8n.io/ai-observability-tools/",
+      "fuente": "n8n Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T15:20:45+00:00",
+      "extracto": "Discover the best AI observability tools for tracing, evaluation, monitoring, and cost tracking, plus expert guidance on choosing the right platform."
+    },
+    {
+      "titulo": "AI Agent Sandboxes: A Guide to Isolation and Secure Execution",
+      "link": "https://blog.n8n.io/ai-agent-sandbox/",
+      "fuente": "n8n Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T15:16:46+00:00",
+      "extracto": "Understand how AI agent sandboxes isolate execution and reduce risk. Learn how to enforce control boundaries across tools, memory, and external systems."
+    },
+    {
+      "titulo": "12 Best Generative Engine Optimization Agencies - Sarasota Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQajVxeEhtVUFuLUZwdU45SmJmZ2tCWHd5RFRuOC01TWd5QnczX1d4cW00dG92Qm5UTkNibUwxdlJWS1dVd3BNNnlaa3IwcEg1VmtXLTI3VWtKbk5xOUlYemc3WXNyYXdQTV9oWlUwMzBrUkt0STcyWnBmUkthNExIeExmcllrVllfT0stNVAyQ2RsczhMcWpoZm9qLXlvMGlRaDRfN0hn?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T19:30:26+00:00",
+      "extracto": "12 Best Generative Engine Optimization Agencies Sarasota Magazine"
+    },
+    {
+      "titulo": "Somantra an Enterprise-Grade Answer Engine Optimization and - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPb0xvMDV5OVF6VU00dkZQM3Y3dDlmQXc0U1QteDhqdDhUalNES3V0VXJQVmI1TWc2UTVFTk8zckN2Q0R3YUt5c2ZnUk0weUFpMC1hWjZFZVk2SnR2N0NKU1Y3SFJSWDM5UjNlMFlnd0g4NS16MGFUZmNLbU50WWRoMjVTeF9fT0RXVEp4aDFVTW9zT0Nsd1B5bFNHVHFXRERCa2FqS2wtUnBhdGZKd2FSbWF2VHJ5cFFCcDE2WVBfUFNfcEU1Y0lDNWU3V3JMSGtiQWhOd1VVUnFIVnlpdW43RVJyQlhRR2FrU043LWJsbTZ1UWhLLXk0cktvU1J1Ni11ZklBdmdZWHBPcTUtOF9XdkNzdnN5RkV5cWszWHFtUnFCVHlBbEtHS1RVOGpkOF9lSEJFMWFCOW1IZGkzZE9MaWVPLUs1Y0NWLUpHblVoYnozN1QzUEJKcll6NllsdEdSRmdBQ2tFX1h2RUFF?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T13:00:00+00:00",
+      "extracto": "Somantra an Enterprise-Grade Answer Engine Optimization and GlobeNewswire"
+    },
+    {
+      "titulo": "2026 Buyer’s Guide Names The Best Generative Engine Optimization (GEO) Agencies - financialcontent.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSEpaMkYxOTR2a3FYX3NtbENzLXNINVE2cl8xMWtUNUVlWmJZZ0tWaTdpU0RDUjE1a3ZOSDdCXzNzMnV1LU1sZk4zQk1VZko0NEx4VERsWlhWempPQVVpVU9xWHVzMGZob0Z6czF5cmtNbW5UeDU0eG9PNkx0U0VfRzI0UHdzT3hNWGNNUW9OdDIzeWRsb1gxdUE3dmxvdTFkX043Z2N4bTA4SnBBVmJjVGRoczJxOVZwU0pfUXYzS2lNRDdSLU9pNDl1c3dTQW5pTjRj?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T17:06:00+00:00",
+      "extracto": "2026 Buyer’s Guide Names The Best Generative Engine Optimization (GEO) Agencies financialcontent.com"
+    },
+    {
+      "titulo": "Brandi AI Wins 2026 MarTech Breakthrough Award for AI Search Visibility Platform of the Year - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT1dXSllOcFpfejZ5RlMtOWdMVkNjaGpXTEZPZ0xseTBObzkyTTBXN09MM2owaGJRdldVcEVvQUJvbWpOemxpMlAtLVVqZXhvck1fckhDa0YwdlJEbmV4MTg5QXFDbmhYMVo1YWtHQjVWSVdkeWFUN0FUazZZbDdCSHpaN2JUT2doUE8xUzJWcFFEOXZNSUxZd09rZnZGblhvajJuT0RfcG1MMHpuM1NUbWpXb1FwcmR1OGp5UlZTSGdBVEwxUmo2VWpCVlhoTS1uQ00tdWZJMlVEN21iX1BSbA?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T16:58:30+00:00",
+      "extracto": "Brandi AI Wins 2026 MarTech Breakthrough Award for AI Search Visibility Platform of the Year StreetInsider"
+    },
+    {
+      "titulo": "Generative Engine Optimization Goes Mainstream: The 2026 AI-Visibility Landscape - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHB6blZhRHVPNTlzZHBEMDFCcTM0MjhtYnlxY2hsZkpzbF92aFBUYXYyVngzSW5tRk9XcHIwaEhZclU1QlZMdVJObzVzMVhpRDRCV0NvS1g5UzYtZHBwbVpqbHZYWDAyUkoyQzA1TjlTemlPdEFPdno2N0IwYXZma2VLT1ZEc0hiOUI4cGREdlJkY05wbkNrMGl2TndUN3c2dExMYnFlenRYeXgxM0VjTVFSVFVndw?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T21:25:25+00:00",
+      "extracto": "Generative Engine Optimization Goes Mainstream: The 2026 AI-Visibility Landscape The National Law Review"
+    },
+    {
+      "titulo": "Katina Ndlovu Publishes New Analysis on the Future of SEO and AI Search Visibility for South African Businesses - financialcontent.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOakFURWpEVUVjNGxhc0pSZ3hsaGpaamI3OFRVUGdIUURYRUh6b1Q4ckJvSDluVEFpX1JGbjJNWjctN082Y2RJbllNeUNDQWtGczVaenFHX0JEVzIzV3BYMmpCUW5pS0ItdWpfVEg4Z2ZtbVQ3bmZvX1RfUFRXVlFQeThieFh0Znh5aWk0blM0NW1uaFNYWDZXQWZ0bzQ2ZXhFVGJha1NpZWxtblc4blJrQXZtY1JUZC1tUEpFbnZVWVJjME1JVTJNUVdTNUhXY1NOREw4SGFFTGZ6bXJoS3ZwRU84eEdIMGo4blRIRXhqdEVsRVIwd2d1ZW9iTkVvdHBmMnc?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T17:52:00+00:00",
+      "extracto": "Katina Ndlovu Publishes New Analysis on the Future of SEO and AI Search Visibility for South African Businesses financialcontent.com"
+    },
+    {
+      "titulo": "3 AI Search Visibility Platforms C-Suite Leaders Should Know - CEOWORLD magazine",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12TkhJRjhCWG9NSGY4d3dtZmxESFRIRk5USHdHelhXQ1NrdDU0ci1YUE9nSDByM1l5Mk8zVnEzVkRJVTFx?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T20:46:03+00:00",
+      "extracto": "3 AI Search Visibility Platforms C-Suite Leaders Should Know CEOWORLD magazine"
     }
   ]
 }
