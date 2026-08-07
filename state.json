@@ -1090,7 +1090,14 @@
     "d288356536dc0297",
     "7b16567066431adc",
     "9a1cdca9e1e67e22",
-    "c8f9e16aa274e25a"
+    "c8f9e16aa274e25a",
+    "d9c56154bc789b3e",
+    "642faf21a7ab7734",
+    "3b710c98427b3979",
+    "1ba396fa06957513",
+    "5eac9746a673a14b",
+    "a706d7013cbef505",
+    "7f6e4dbe4776e5b9"
   ],
   "archivo": [
     {
@@ -4533,6 +4540,76 @@
       "categoria": "dxw",
       "fecha": "2026-08-06T19:30:55+00:00",
       "extracto": "AI Search Visibility KPIs: Citations and Referral Traffic Adobe for Business"
+    },
+    {
+      "titulo": "Anthropic Hacked 3 Companies Or is it Fear based Marketing #cybersecurity #anthropic #claude #ai",
+      "link": "https://www.youtube.com/watch?v=AWhP3LIxUwk",
+      "fuente": "Mayankshah",
+      "categoria": "youtube",
+      "fecha": "2026-08-02T13:48:36+00:00",
+      "extracto": "This week, both OpenAI and Anthropic disclosed that their AI models gained unauthorized access to real companies' systems ...",
+      "vistas": 83484,
+      "miniatura": "https://i.ytimg.com/vi/AWhP3LIxUwk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Developer ini berhasil membuat Claude Code mengirim file antar komputer secara otomatis",
+      "link": "https://www.youtube.com/watch?v=iHEFAm5zAyg",
+      "fuente": "WARUNGMEMEKU",
+      "categoria": "youtube",
+      "fecha": "2026-08-06T10:00:18+00:00",
+      "extracto": "Seorang pengembang membangun sistem berbagi file yang cerdas dengan Claude Code yang mentransfer file antara dua ...",
+      "vistas": 225629,
+      "miniatura": "https://i.ytimg.com/vi/iHEFAm5zAyg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude ve Higgsfield Entegrasyonu ile Yapay Zeka Video Üretimi",
+      "link": "https://www.youtube.com/watch?v=ABea_LumI8M",
+      "fuente": "Çiçek ile Teknoloji",
+      "categoria": "youtube",
+      "fecha": "2026-08-01T07:00:01+00:00",
+      "extracto": "SeeDance 2.0'ı hemen deneyimlemek ve kendi yapay zeka videolarınızı oluşturmak için ...",
+      "vistas": 5594,
+      "miniatura": "https://i.ytimg.com/vi/ABea_LumI8M/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Can Now Make Any Video You Want in Minutes!",
+      "link": "https://www.youtube.com/watch?v=1JZKKAg3UX8",
+      "fuente": "Hasan Aboul Hasan",
+      "categoria": "youtube",
+      "fecha": "2026-08-01T14:29:01+00:00",
+      "extracto": "Build With AI Course (build real products with AI, not one-off toys): ...",
+      "vistas": 42739,
+      "miniatura": "https://i.ytimg.com/vi/1JZKKAg3UX8/hqdefault.jpg"
+    },
+    {
+      "titulo": "I use Claude in my head",
+      "link": "https://www.youtube.com/watch?v=wlgGHRud-CE",
+      "fuente": "Alberta Tech",
+      "categoria": "youtube",
+      "fecha": "2026-08-04T18:11:20+00:00",
+      "extracto": "",
+      "vistas": 1183221,
+      "miniatura": "https://i.ytimg.com/vi/wlgGHRud-CE/hqdefault.jpg"
+    },
+    {
+      "titulo": "ChatGPT and Claude Can t Compete with Siri AI",
+      "link": "https://www.youtube.com/watch?v=OBZ1HPYvtyY",
+      "fuente": "Craig's Tech Talk",
+      "categoria": "youtube",
+      "fecha": "2026-08-02T15:11:50+00:00",
+      "extracto": "I've been using the Siri AI developer beta — and most iPhone users don't realize how much better it's going to be this fall.",
+      "vistas": 31625,
+      "miniatura": "https://i.ytimg.com/vi/OBZ1HPYvtyY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Asking Claude about military targets 🎯 #ai #claude #tech",
+      "link": "https://www.youtube.com/watch?v=naEf2Dd7dew",
+      "fuente": "Valor Reviews",
+      "categoria": "youtube",
+      "fecha": "2026-08-02T19:06:15+00:00",
+      "extracto": "Can Claude AI handle target selection for the U.S. military? We analyze the ethical implications of using large language models ...",
+      "vistas": 82832,
+      "miniatura": "https://i.ytimg.com/vi/naEf2Dd7dew/hqdefault.jpg"
     }
   ]
 }
