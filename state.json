@@ -1032,7 +1032,65 @@
     "39eac2aa8d29c36c",
     "f01f631d087af3c8",
     "fa205652378d4cf1",
-    "362d63fa64056b7a"
+    "362d63fa64056b7a",
+    "2ee94000fec4618b",
+    "7fee6508a588d342",
+    "36cc5c831e8bc070",
+    "3a1865973e4354e3",
+    "4046bacd433f7dac",
+    "6eab0a95d44b855f",
+    "1031fe6932b5a28d",
+    "f8ad1ec6b14440cf",
+    "f31e5f4d1659d1e8",
+    "a403b11351b90d30",
+    "d8f45877ee28c24c",
+    "1de030c12b74b30b",
+    "68eb87ff02b519bc",
+    "4a2754ddac6a1fb3",
+    "79639c103f6fa45c",
+    "4b69cd8007dbf348",
+    "2ffed6f23eb445b1",
+    "db137e599d8690fd",
+    "7c14302085f0d959",
+    "669eeea7bf1fed39",
+    "e8f81fa37e0e37cf",
+    "13c1e20522af5303",
+    "b76f7d3359d99e63",
+    "db634d1e0b3b6be3",
+    "111e272e5521b8dc",
+    "4d00f3ad3e33cec5",
+    "5cae2c6f6e724676",
+    "5ba08aa17507c64c",
+    "513ecc4704e0061f",
+    "b268b388959adca8",
+    "991ac212d8fd6979",
+    "a2d6f61d883f2d91",
+    "bb308b1512db93c4",
+    "77c68c63d26a6914",
+    "0338d7749e63bc48",
+    "308befb574ec35f6",
+    "e71b761c457da6f0",
+    "07ab19c9042810ea",
+    "50c817e0f57eb053",
+    "c15dc2738802dfe0",
+    "1d23d50e56c4007b",
+    "997f68eaa03ff2d4",
+    "3631ebfa7e223ca7",
+    "4362959b2e947cec",
+    "afd3ac6ad653c3a0",
+    "570ec8dbba6e6b44",
+    "94a42945cd3cd606",
+    "cf03cb3b591748de",
+    "ad2b6e6267d45a0d",
+    "d0f30d71636c90d1",
+    "313220bfb776965a",
+    "3227137ad02ac48f",
+    "3889c462be38bad0",
+    "4fc49bb7904c3f10",
+    "d288356536dc0297",
+    "7b16567066431adc",
+    "9a1cdca9e1e67e22",
+    "c8f9e16aa274e25a"
   ],
   "archivo": [
     {
@@ -4131,6 +4189,350 @@
       "categoria": "dxw",
       "fecha": "2026-08-05T20:46:03+00:00",
       "extracto": "3 AI Search Visibility Platforms C-Suite Leaders Should Know CEOWORLD magazine"
+    },
+    {
+      "titulo": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-07T09:00:00+00:00",
+      "extracto": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+    },
+    {
+      "titulo": "Improving Fable 5's biology safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "fuente": "Anthropic News (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-07T00:00:00+00:00",
+      "extracto": "Improving Fable 5's biology safeguards"
+    },
+    {
+      "titulo": "Run Claude Code sessions on your own compute",
+      "link": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+      "fuente": "Claude Blog (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-06T00:00:00+00:00",
+      "extracto": "Run Claude Code sessions on your own compute"
+    },
+    {
+      "titulo": "v2.1.224",
+      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.224",
+      "fuente": "Claude Code — Releases",
+      "categoria": "releases",
+      "fecha": "2026-08-07T04:00:59+00:00",
+      "extracto": "What's changed Added self-hosted environments: claude self-hosted-runner turns your own machines or containers into a place Claude Code web, mobile, and desktop sessions can run, on Team and Enterprise plans Added archive plugin source: install plugins from a zip over HTTPS without git or npm, with optional SHA-256 pinning Added a cancel-and-confirm step when removing an unavailable paste changes a command's text Added ANTHROPIC_BEDROCK_REGION_PR..."
+    },
+    {
+      "titulo": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T11:40:37+00:00",
+      "extracto": "Meta's total fine has raked up to $942 million in this case"
+    },
+    {
+      "titulo": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T13:49:37+00:00",
+      "extracto": "Clinicians and researchers say AI companies need to open up their safety data."
+    },
+    {
+      "titulo": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T13:29:22+00:00",
+      "extracto": "TikTok owner training a model with 10 trillion parameters."
+    },
+    {
+      "titulo": "Promover la aplicación de la inteligencia artificial en la fabricación y la transformación digital en las empresas es una tendencia necesaria. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFlUcHRpVnhmd1hvay1XUUFjSFoyR2FzbkI5UFpQZ3AtSV9HRXhIeUZ0MzY4Ynd0Z2pvZmdLemFNaGJuNnpfSFlGSGF6NXlBdkJwOEhubU5QWU1fbE5BN3FjVk54czktZmxJYzYtdjFKZnNoNXViakc0S0tJbWxfNjVZbUkwQTY2QXBKS1BNWE9nRlVQZWtRdjdQQzZqS2FBQ1QxQnZFZWFYSmdqUzNKR05xbXlMbnJzVS1mV2xhTmhoclRDRnc?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T08:40:18+00:00",
+      "extracto": "Promover la aplicación de la inteligencia artificial en la fabricación y la transformación digital en las empresas es una tendencia necesaria. Vietnam.vn"
+    },
+    {
+      "titulo": "La IA será la principal causa de los incidentes de privacidad en 2029 - COMPUTERWORLD ESPAÑA",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVFjU3gwa3JFZm9wYS1zTW1GNVVnYThKMHljbl9Gc2I0YlRCLS1fY1hJMHdWU0pfTXlCeVlVYjByUXBnVHUySzU4UUJydlZOXzVEbEp1UXFfaWIzenViYnl2T2NRaWxuRUtSNUNmbF9fT1dJUkxrWnVvWnIybmt0U1JfanMwX3FCSGJZLXNNVHdmTVlQUGY5ejdTWDR3c3A4bmdRLTBXRk1tTEVKYkJ6OS1EQjI3NmttTEVZ?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T09:07:57+00:00",
+      "extracto": "La IA será la principal causa de los incidentes de privacidad en 2029 COMPUTERWORLD ESPAÑA"
+    },
+    {
+      "titulo": "Gen AI: prueba de fuego para los negocios - eleconomista.com.mx",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzVBNzFHRnp2Mi1VSFJ6ckNEQ3hnbVRLZmhYSVhHbm1TbDBEVVRDNmZCSXVMNHJnbE9NYnhDOUJwNkhibGJLY1p1Q0R1TnAydERmeWFZdnJtMDNBUXlhODVyMUxHZjdadnJieXExQTdaaDlFV0FhU0V4RkFqU21YelRYejRNcldOaVN1enhqTFV3UXfSAZgBQVVfeXFMTk9NWjhjSkdJQzBfZjlWeGlDenZkemQ2aDlFOTZVZTk3NENKWGZneC1EMWNhaWxFZWxqTzBxTHFKV1p2OXE3Y1pURlBwRWVzYlpIWG1ieEdjRWVSd2ltdlF4ckxxemhETVp5WWxIc3BKOUFrUjlXVy1jN05FZmUyYm41X1RVMHl3QmFLczJRUG1rMzVRWm1acjg?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T05:47:34+00:00",
+      "extracto": "Gen AI: prueba de fuego para los negocios eleconomista.com.mx"
+    },
+    {
+      "titulo": "Mateo Salvatto: “El principal error es incorporar inteligencia artificial sin saber para qué” - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT2tIR2Q4UTlDUkY0akxOTHdxY3ZWYnY1X2VIWUhxcjVsYkkyWjVTNWFselQybml2UXR1T0p1NGlCdzk3WFQ3U0pFMGVKY2pXSV9YUWRER015bktjOFJfZ3BTeUxvUUwzZmhHRlU4UkIwdUNLSTJPWjF1ZUFyOUdSam5VUm55SVhNc29lMlE3OHNBSFUwdTRpVzZuamdwaGZPTm9pZV94Qkk1eEI4VUFFRmpfTnVfZ0E5eEs1ZmU0NG5aWS1ndTE3NmIyRXlPRFlQcUZUZ0drQkVJZFIwdlRR?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T10:00:00+00:00",
+      "extracto": "Mateo Salvatto: “El principal error es incorporar inteligencia artificial sin saber para qué” La Nación"
+    },
+    {
+      "titulo": "La trampa del piloto exitoso: ¿por qué la IA se estanca en las empresas peruanas? - El Comercio Perú",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTE91TTZ3S1ZoZTduTm83R0tpZ0JaeFB2VDMzR0c0QzliVW5wWXE3eG1wZVNhNXFJd0Q3V2pjNThzVERXeEhYVmFkdUpqMUNzYTlWUU5FMWNmeWRkN1l3c1JscU5hMExXU3dVOTU0ckc5cHJXeFFpUkZvaG1aYkw0OElOMEx0bVJvRk12azhNVlZfWVlZRFNFRmdsa1BhUXZ6TWpHMDJrQ2hLNXFYeEdVSlpZVGFJdWp3ampjbnVJZXBqcl82SXZrLTRJeERmQk5OVDVsVU1FSTZsbE9FcXpWVFQ2OG9TYXJrOEIzWnlMR1hBTTljb0sweHhUZDNmenQ0cEE?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T10:20:00+00:00",
+      "extracto": "La trampa del piloto exitoso: ¿por qué la IA se estanca en las empresas peruanas? El Comercio Perú"
+    },
+    {
+      "titulo": "Alibaba tests new business model for Qwen open-source AI - AI News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmY0cFpRYlYyZ1hlaWg2NVdKYWZueEFvWVBhWFpQUTJxQVFkalJKSFE5V2tFNEJBMmUyUDJIYVA2MElHcWRSdEE4bENoNjctb3lyb0Q2NWY2dEFZWG9iWlAwWnBPQ0xXc0RYMzhtbGpIcmozYlZKM2NRdWVXNjgxRFBwVXRHQlpMZVVWMEhKSjFXellSNDh2bA?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-07T10:02:04+00:00",
+      "extracto": "Alibaba tests new business model for Qwen open-source AI AI News"
+    },
+    {
+      "titulo": "'Significant risk': AI expert calls for legislation to address security breaches - WGXA",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUGJxd2x2SUlpcEdCem81TnI0SEU5SmtPV0x5Uk0yYWFES1NWTHk0aUtaUkdSYUdRaE1qSy1ZLW4yeXEyUGNCR0FpMExma2FKSmN2T3FKbm5LZG1NMmdPSGJYYmdFNEVTT1JPbFVFejBGb05GazJxTjJkaHBoclBRQXhnd3U4SmVHdlF5anRTR3lMSENnUVotNkEzYnNLWXlOMUtESmRSVFByem10VF9XT2txdUpLZ3FUR2kxd285TkZLckotdXBRRWs0a3VBR3dtRVZadWZjQm9PZTh4TV9BcGF1b21ZbUMz?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-07T00:26:46+00:00",
+      "extracto": "'Significant risk': AI expert calls for legislation to address security breaches WGXA"
+    },
+    {
+      "titulo": "Artificial Intelligence, Artificial Productivity: A Mismatch Made in Corporate America - HackerNoon",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFZlX3JrcjcwbWEtMWtJSWh4ZGtYZTdyMEx1bVRHT0JaN05jXy1MdDdHcVBTOU9NQVEyVHZFeXlUeE9FSlN1cVFyclVDcm5hSWZrQzBYVy1JcDAtSEx5aEpjTEw1WWxmTG42dEwxRGg3UXBUd2VrdlAwU0hpUU1RTmd4eTdGYjJ0VkFST2QzMUZjeWNCSjk0UXZ6cXFCc2tBWWJhRVhiV2dFc1U?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-06T03:40:44+00:00",
+      "extracto": "Artificial Intelligence, Artificial Productivity: A Mismatch Made in Corporate America HackerNoon"
+    },
+    {
+      "titulo": "Who is liable when artificial intelligence goes rogue? - RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjNZaml5aTlzUi12bVZwOVA1WFo5MzcyRERTTFpWVzhCTV9ybG50S3hrUzl1TF90R1VvekZRbnRFTTN0TnJ0MEM4V0trQjRPbXU2WnZuZk03ZlZuOE5lU0czRGh0UGVNY2x4OU5oM2lpXzBiQjRfcFRIcmhpaEo0WGNhZEJ6Rk1PTE5WUzZoekI?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-07T11:33:24+00:00",
+      "extracto": "Who is liable when artificial intelligence goes rogue? RTE.ie"
+    },
+    {
+      "titulo": "Out-of-control AI systems are going rogue and hacking people. Is it time to panic? - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUdWSDZCUEZMOVhhM1ExemNMNkhBVi1TRVJtV3VOQl81TllvZFJjY2dIUFpYVWhzVWEtQWtmZ2lhalJpQllLQXExZXd4V2hTOFJTV29fallDaml2OXRiYTZiUFUtandoRGNhR3ZjX0V0dnVUWjRhNEw3QjJXMzBQRVdvMnVSVHBCdFRva1RSM3czVzJrdEVaU1VvU1FVUGs0UUtsUA?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-06T15:36:00+00:00",
+      "extracto": "Out-of-control AI systems are going rogue and hacking people. Is it time to panic? The Independent"
+    },
+    {
+      "titulo": "Inside $1.46 trn AI spending spree reshaping the world's biggest tech firms - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEZxbkFfT2dKZ0ctNlBDV3RGSjBmMGpna21WcmI1MzRIaWY1NEtiWTZQLTN4djhGVUU2QmlDS2FvMTgwTkxpaF9PZ2xoWllQZGl5ek5JMF93Z0MyQUVNOUYtcHJjNElGdUlTZFlVeUUwa09jem93SGF3UmhPNExKaW1hdnNFNzdNbVduUThzNVJNZEhNY3lCRjVZa2FTemNSLWVxNE9jaDVoQUFvSGttVGl1N2lOZFNaU3o2MlVqZnYtZXJTUG5tTVFfc3F4QUo0eHfSAdcBQVVfeXFMUEF3eDNyV1Z0aG83dWRBam1hay1STV9wTDlEYXdSVERSSGhDU3R4QVR3TFQ5eE5BRFlkNVF3b0x1eFdMWU4wT0dzYnhRWkhGSUVxZ0UtX1hudUc1Q3BwOHpxeFZJWFB4XzB6Wjc4dXNhSm9wbUEzYURuM2lpTVFVN2p5ZWEtMzNFbm0tOUVsQ3NYMkFncEVHdC11RHd1Y0NUUW1UaXdUYWxmVzctWWt5UDdIRm1kZWpMallrMWdtTlJIcjFJclRnZ204ZDBmZ0hlV0Q1ZnVhbkE?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-07T06:16:02+00:00",
+      "extracto": "Inside $1.46 trn AI spending spree reshaping the world's biggest tech firms Business Standard"
+    },
+    {
+      "titulo": "Search News Buzz Video Recap: Wild Google Ranking Volatility, Reddit Special Preference, Big Google Executive Shakeup & More Search News",
+      "link": "https://www.seroundtable.com/video-08-07-2026-41834.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T12:01:00+00:00",
+      "extracto": "This week, we covered two unconfirmed Google search ranking updates, one mid-week and one over the weekend - some were pretty big. Google said Reddit gets no special preference in its search rankings or AI results..."
+    },
+    {
+      "titulo": "New Google Ads Report On New Customers Acquired",
+      "link": "https://www.seroundtable.com/google-ads-report-on-new-customers-acquired-41832.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T11:51:00+00:00",
+      "extracto": "Google Ads is rolling out a new customer acquisition option named \"Report on new customers acquired.\" This lets you \"Drive purchases from new and existing customers without changing bidding,\" according to Google."
+    },
+    {
+      "titulo": "ChatGPT Ads Updates: oCPC, Dynamic URLs, Muti-Product Carousel & More",
+      "link": "https://www.seroundtable.com/openai-chatgpt-ads-updates-41828.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T11:41:00+00:00",
+      "extracto": "Earlier this week, OpenAI sent an email to advertisers about new ChatGPT Ads Manager product updates. These updates include testing a new multi-product carousel format for product feed campaigns, plus a number of updates to the ad manager itself."
+    },
+    {
+      "titulo": "On Sep 1 Google Ads To Migrate ACA & Campaign-Level Broad Match To AI Max",
+      "link": "https://www.seroundtable.com/google-ads-migrate-ai-max-sep1-41829.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T11:31:00+00:00",
+      "extracto": "Google Ads will begin migrating or \"upgrading\" Automatically created assets and campaign-level broad match setting to AI Max starting on September 1, 2026. We knew this was coming and now the process is soon going to begin."
+    },
+    {
+      "titulo": "Google Crawlers Send HTTP Requests: HEAD, OPTIONS, PUT, PATCH, DELETE",
+      "link": "https://www.seroundtable.com/google-crawlers-head-options-put-patch-delete-41833.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T11:21:00+00:00",
+      "extracto": "Gary Illyes from Google said that Google's crawlers do not only send HTTP requests such as GET and POST but also for HEAD, OPTIONS, PUT, PATCH, and DELETE. He said the latter make up for less than 1.5% of the total number of requests all Google's crawlers send. Google sends them for JavaScript, he said."
+    },
+    {
+      "titulo": "Google Ads Phone Conversions Report Gets View Call Report Link",
+      "link": "https://www.seroundtable.com/google-ads-phone-call-view-call-report-link-41772.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T11:11:00+00:00",
+      "extracto": "Google Ads added a \"View call report\" link in the Phone Call conversions leads report. This makes it easier to jump to the details of what makes up the metrics of that report and gives you access to that data in a new tab."
+    },
+    {
+      "titulo": "Google Ads Live Tests Of Strong Match Labels",
+      "link": "https://www.seroundtable.com/google-ads-strong-match-labels-live-test-41836.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T09:55:00+00:00",
+      "extracto": "Google Ads is now testing the \"Strongest match\" and \"Strong match\" labels it announced back in mid-June. This is the first time I have seen this label in the wild. I am actually a bit surprised Google went on with this test after the backlash..."
+    },
+    {
+      "titulo": "Kitesurf",
+      "link": "https://www.producthunt.com/products/cloudflare",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T04:59:49+00:00",
+      "extracto": "Browser built for agents, running on Cloudflare Workers Discussion | Link"
+    },
+    {
+      "titulo": "Soloop",
+      "link": "https://www.producthunt.com/products/soloop",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T10:36:29+00:00",
+      "extracto": "Approval-first Agent OS for solo founders Discussion | Link"
+    },
+    {
+      "titulo": "DataBlur",
+      "link": "https://www.producthunt.com/products/datablur",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T13:27:35+00:00",
+      "extracto": "Blur sensitive data on screen before anyone sees it Discussion | Link"
+    },
+    {
+      "titulo": "Crew",
+      "link": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T08:08:47+00:00",
+      "extracto": "A tiny crew of monsters for your Claude Code agents Discussion | Link"
+    },
+    {
+      "titulo": "Rescript for Desktop",
+      "link": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T04:56:04+00:00",
+      "extracto": "A free, open source, Descript alternative. Runs on-device. Discussion | Link"
+    },
+    {
+      "titulo": "HAR",
+      "link": "https://www.producthunt.com/products/har",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T14:56:17+00:00",
+      "extracto": "Open Source harness for multi-agent coding workflows Discussion | Link"
+    },
+    {
+      "titulo": "Merge",
+      "link": "https://www.producthunt.com/products/merge-5",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T05:55:10+00:00",
+      "extracto": "AI-native code review assessments Discussion | Link"
+    },
+    {
+      "titulo": "Whop CLI",
+      "link": "https://www.producthunt.com/products/whop-cli",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T01:40:05+00:00",
+      "extracto": "Run your entire business from the terminal Discussion | Link"
+    },
+    {
+      "titulo": "Progress AI Observability",
+      "link": "https://www.producthunt.com/products/progress-ai-observability",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T14:27:52+00:00",
+      "extracto": "Trace, evaluate, and improve AI agents in production Discussion | Link"
+    },
+    {
+      "titulo": "Prompt Bridge",
+      "link": "https://www.producthunt.com/products/prompt-bridge-2",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T11:38:18+00:00",
+      "extracto": "Keep AI Context Portable Discussion | Link"
+    },
+    {
+      "titulo": "Blueberry",
+      "link": "https://www.producthunt.com/products/blueberry-6",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T22:25:45+00:00",
+      "extracto": "Stop Ghosting People You Actually Like Discussion | Link"
+    },
+    {
+      "titulo": "BAP Studio",
+      "link": "https://www.producthunt.com/products/bap-studio",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T20:55:58+00:00",
+      "extracto": "An MPC-style drum machine that runs in a browser tab Discussion | Link"
+    },
+    {
+      "titulo": "The new Firecrawl MCP",
+      "link": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-05T22:49:34+00:00",
+      "extracto": "Agent-ready web context for any MCP client. Discussion | Link"
+    },
+    {
+      "titulo": "AgentOne Desktop",
+      "link": "https://www.producthunt.com/products/agentone-desktop",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T03:57:52+00:00",
+      "extracto": "Automate boring work. Extensible and free desktop AI agent. Discussion | Link"
+    },
+    {
+      "titulo": "Google Business Profile in Gemini now works for multi-location accounts - PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZmptWlNUWUFKQjlpSXRka3ZhdGFOZkM4UEFFRk8xMXNrc2pkZjZleGxPOURLUWkycVBpdzA2RkdINXFzZEhqXy1VVmxBZWkxQ2xvNkRVX2xYR1ZqME9xZE50enkyTzNEQ2RQeFNuYTBhTWJ4NG9jVGtYdnc1eExib1FEWENRa082Y3ljTGVBRG1xTlk?oc=5",
+      "fuente": "GN — Google Business Profile",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T13:34:51+00:00",
+      "extracto": "Google Business Profile in Gemini now works for multi-location accounts PPC Land"
+    },
+    {
+      "titulo": "Serverless Real-time Voice AI on AWS: A Pattern for Enterprise Sales Coaching - Amazon Web Services (AWS)",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFFUN25ac2JtMDF3WFFjcEFPb19qSTlOZ2gwbFFWc2w3QUQtUUtVUzN3OG1oWEFUU0xKcllLZUhjbmJFQlR5SEMzNGRVTEQ2VEItUnRkOE9RMjdlQ2YwTndlRkpEeWhZd212LXNhZklucFJtWFItZmtfRzRZQTBRN0twMXh4SGhDcHBIcUJ6Sl9HRm83czEwa3lKQ21ScnVNX3R0U0pNRzlkeFg1NktUT2EtY3RMU251?oc=5",
+      "fuente": "GN — Voice AI agents",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T22:37:14+00:00",
+      "extracto": "Serverless Real-time Voice AI on AWS: A Pattern for Enterprise Sales Coaching Amazon Web Services (AWS)"
+    },
+    {
+      "titulo": "AISEO Tech Launches ReviewSync, an AI-Powered Online Reputation Management Platform - The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnVPdWdxWU5jblJOUXlLdjhrRk5OOTFfRDlBLWxLY2NVcUVVQlg5YkdyNG1Ec2wtYVdySDRjMXc0aU1NbXdlUFByeWg5c2pGUFoyWmlUOUZITzFuRlh2eHFLY0xGWDFDQ3ozS0F4bWhuTnF0c2pNX0s5THVIa3VkcWhlblJsTTRUOVBhRHg2YWNxT3FHUzR6dXpEaGNfTnAza2lNRklWdy03cHBYWmhJ?oc=5",
+      "fuente": "GN — Review management",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T02:56:49+00:00",
+      "extracto": "AISEO Tech Launches ReviewSync, an AI-Powered Online Reputation Management Platform The National Law Review"
+    },
+    {
+      "titulo": "AI Search Visibility KPIs: Citations and Referral Traffic - Adobe for Business",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KVjhSYkpvRG5SdGJMOHhma3hHMUNjN2hNbUswMUhRNk5TY0E2QjZFTWx0bXZBRTlpNTRaV18yT1RuQlFjTC15MVdfQ29BZlZscnhvY2tVMTFkRkd5Ymh0YS1TQjZtb2FK?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-06T19:30:55+00:00",
+      "extracto": "AI Search Visibility KPIs: Citations and Referral Traffic Adobe for Business"
     }
   ]
 }
