@@ -1097,7 +1097,46 @@
     "1ba396fa06957513",
     "5eac9746a673a14b",
     "a706d7013cbef505",
-    "7f6e4dbe4776e5b9"
+    "7f6e4dbe4776e5b9",
+    "833934ee3b25f4a5",
+    "ce28929bb6167845",
+    "15e161b5f7dd2dc2",
+    "fd5b733b3580dcf8",
+    "9d8ac6c0809457ea",
+    "b825e55bdffbdfd0",
+    "08b0095f558cb74b",
+    "1916653ff0dc9cae",
+    "f2935e10c41d1870",
+    "ce41dbc350635db9",
+    "c449c107dd39cf4d",
+    "4914c9f2778f47b0",
+    "10d77ec96618dba8",
+    "f8763c8866794d33",
+    "38c57a645b2db901",
+    "04d2e2611844e993",
+    "1d52443d25d1b305",
+    "47b5d724db74a288",
+    "4ba229aeca893c2c",
+    "277f492e4c7250fe",
+    "01eec1785d3c5cad",
+    "f601807c97939221",
+    "8a52040f250dbf73",
+    "c4fe9d0cf99bd643",
+    "36ad9ea5e4776f61",
+    "5a9f025cc220651b",
+    "a2298cb399fbbf31",
+    "063a2e3fbe1c9734",
+    "e6a148bcfe83810a",
+    "3d99382c5b43686a",
+    "cca24c420fe154aa",
+    "7cf0d610a05ccf70",
+    "35e3667277e3165f",
+    "fe47f7946aa3e586",
+    "60c712d17e3f0872",
+    "5d981abc4a264a43",
+    "aefde7f99553c21b",
+    "e968d979c6c072d1",
+    "0b162d01fb2f253d"
   ],
   "archivo": [
     {
@@ -4610,6 +4649,278 @@
       "extracto": "Can Claude AI handle target selection for the U.S. military? We analyze the ethical implications of using large language models ...",
       "vistas": 82832,
       "miniatura": "https://i.ytimg.com/vi/naEf2Dd7dew/hqdefault.jpg"
+    },
+    {
+      "titulo": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-07T15:20:00+00:00",
+      "extracto": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+    },
+    {
+      "titulo": "Running auto mode in production",
+      "link": "https://claude.com/blog/auto-mode-in-production",
+      "fuente": "Claude Blog (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-07T00:00:00+00:00",
+      "extracto": "Running auto mode in production"
+    },
+    {
+      "titulo": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "fuente": "Claude Blog (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-07T00:00:00+00:00",
+      "extracto": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
+    },
+    {
+      "titulo": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "link": "https://huggingface.co/blog/allenai/tutormoments",
+      "fuente": "Hugging Face Blog",
+      "categoria": "releases",
+      "fecha": "2026-08-07T17:53:32+00:00",
+      "extracto": ""
+    },
+    {
+      "titulo": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T16:16:09+00:00",
+      "extracto": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+    },
+    {
+      "titulo": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T14:22:49+00:00",
+      "extracto": "Airbnb will debut a new AI-powered search experience with a toggle."
+    },
+    {
+      "titulo": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T14:00:00+00:00",
+      "extracto": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they re forming a new government. And whether you re thinking of Twitter s old “town hall in your pocket” or Anthropic s Claude constitution, it s a theory that doesn t paint Silicon Valley in a very flattering light. In Lepore s upcoming book, The Rise and Fall of the Artificial State, the Pulitzer [ ]"
+    },
+    {
+      "titulo": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T20:01:51+00:00",
+      "extracto": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [ ]"
+    },
+    {
+      "titulo": "Watching Roku’s AI channel is like eating from a trough",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T18:59:46+00:00",
+      "extracto": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [ ]"
+    },
+    {
+      "titulo": "OpenAI puts the brakes on a new model because it s supposedly too powerful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T18:40:34+00:00",
+      "extracto": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [ ]"
+    },
+    {
+      "titulo": "What s behind the Google AI shake-up",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T16:45:14+00:00",
+      "extracto": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [ ]"
+    },
+    {
+      "titulo": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-07T17:36:22+00:00",
+      "extracto": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff."
+    },
+    {
+      "titulo": "La inteligencia artificial evoluciona junto con las necesidades del negocio - Portal ERP",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdG9uRElaN3paS19ZUEhFWTdfdkJFV2ZvVnRkSmFKd2l4TG9HRmZnWDV4Y2xZOEJ3eVVnbVpDNlRIeWp4MDZEcW1MNnZDaURyZXVaSjAtV0lMNWdMeTM4ZTRfZG5lb0ZmSl9QU3NTSHdBQjl4anJzaWpLcWVEQm4yb1U1RFg2VG5LZmQtOGRSUW1ZRzM5T3I5ZE1kdHUxRUtITlVpRVc0RWx3NnJ2?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T00:21:49+00:00",
+      "extracto": "La inteligencia artificial evoluciona junto con las necesidades del negocio Portal ERP"
+    },
+    {
+      "titulo": "Inteligencia artificial: solo el 8% de las empresas convierte la IA en una ventaja competitiva | negocios | Internet - El Comercio Perú",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcHpNUVhRTEtZZE04aUhwclMtT0s0MVF5Y0p5Mi16bk9WMDZKaUtTS3pqYzJsYkdGeXVoZGZoUVZiOW1VRzRMNmlYbHZfazdyN2RsYURpR0ZDMXY3TUxFWG9QRFltQUFfVjFfeDF0My1XM292Mm5ubnZTbzJjZVZpUDV0RlJIZF9VS0lZY0cyMnNUaHZuMlhIMkhENUFINHVTQmtLdVNQT1c1Q0h2TTRGb3VNYVJ4d0czcjZrai1SalBVR0FiSklFUk40ZFZTeEdxQ2l4amVROElYeVBJaUh1NHdjRkJjMzQ5SklYWWZkYUJoZVJxQmxhalBXVXU4WXcwTERjZlhTYw?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T15:30:00+00:00",
+      "extracto": "Inteligencia artificial: solo el 8% de las empresas convierte la IA en una ventaja competitiva | negocios | Internet El Comercio Perú"
+    },
+    {
+      "titulo": "Inteligencia artificial, nube y ciberseguridad: cinco tendencias transformarán las empresas hacia el 2030 - Prensa Libre",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmd3T1h0Ymd4RE03ZGNscHRmVjdrRm9pd2NVSHZtYktsaDQzX095N3prZTAtUUptd1Y3V1dhZ2x4cHhhdFdwcWVSQ0pLQktvbXZYZW90RFZnZjV5YTctbjl5X3NLb3BxcUxlQ3FBeW5ERF9aeEVodldCNjZfelRwWkMzSzRGZUQydzlFV0J4d3ZnaGRYY1ZoOXVVbmVYT1FXZmZfQlIzLUVBNC1QVzRlLVhxdHB5UzVYZ01lRDF5OUtkLUJkaFVLRG44cjd1cWFUbnNJWTFTbEw?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T16:00:00+00:00",
+      "extracto": "Inteligencia artificial, nube y ciberseguridad: cinco tendencias transformarán las empresas hacia el 2030 Prensa Libre"
+    },
+    {
+      "titulo": "Trump reúne a OpenAI y Google para pruebas de seguridad de IA - Inspenet",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVWlMwdkhoNlJfLXo2OENPZ0NVYXBseWtRWGtHVnBsdTBUcnQ2N2RJc0dJQ3pDZlA2S3hLaEhHTERvTlM2QktQa1lZN2FIV1JyY0xEOEtsai1lVGNxX3JzUVpmYk53UDZQUFVLd25YR2J0Y2VHY3dJSGJTcnhoUEE?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T19:00:00+00:00",
+      "extracto": "Trump reúne a OpenAI y Google para pruebas de seguridad de IA Inspenet"
+    },
+    {
+      "titulo": "Cloudflare lanza un “sistema operativo” para gestionar la IA empresarial desde el navegador - COMPUTERWORLD ESPAÑA",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeU44TXRvMFdxUEQ5WWZKamU5V0NOMWVhOU9MYmlQZXF4RUlMVENVWWJlMkRGNkd1a29EVjUya1ZQNXZwb3lGSEF4Unp2clhsR29qWG83UDdYeUxXOTE1c2x2dHEyekRxZkhHdTVzSkt4NXl5NTR4di1pZnJXQWpReWdkZmU4WVkySTZEb21HY0g2OWNCX3A2R2Q4RWEzTU5LLVJrWGNqSnlKMlZ2amNsS0k1aGM4UU01WEVYcjJSOHd2NnNRSVdGbnNjb2lYWkFpMEhOcDhzLVMtODI0RFNxY3RBTGlRb0x3UHVCWVdpM2NvZGc?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T09:48:44+00:00",
+      "extracto": "Cloudflare lanza un “sistema operativo” para gestionar la IA empresarial desde el navegador COMPUTERWORLD ESPAÑA"
+    },
+    {
+      "titulo": "La inteligencia artificial no piensa por vos - abc.com.py",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTl0d2FfWDdFOFMyUThVdzF3bWZLSDlIZktfVXM5T0htdklSNTdZdGhoVXhOSmtZYndoek5JZnh2NjZfRUthaS1JQ09tMnJHUnAwWjB4NC1ZTWxwbFhsaEpQREFMc0ljMjd6bWpUd3NnY1dqYlJISGktVFZLRWoteEI1SFp4dVEzREFpeXJCY2J3UdIBpgFBVV95cUxNakZqQjlJLTdLUF9BOFIxSExwRDZZWlRTQmRfdVNLTmdHbm1SeGpuRWEwZmlrZmxmR2lDb1ZsQndSdVBXMk1zTnpmdWVuZkZaZTdYRnBUTGR1RWM0alVuaVRkSHNya2RTeWRRSWRHdnpsQk5VVU4xRWIwTnlncS1pdWloam1mU2xRcDI1MzU5Mk9laVE2MTQ0OWUtdktvZUpyS3Nyc1Vn?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T14:01:13+00:00",
+      "extracto": "La inteligencia artificial no piensa por vos abc.com.py"
+    },
+    {
+      "titulo": "¿Usas IA para emprender? Royal Prestige explica el error que puede hacerte perder clientes - emprendedor.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDRWaEp1T0pmX3RqTWFwUXRXd3BIZnB3QUVFakZSZHI1TzlEQlNhVWdINHF2T0FvWXZhczBhX3dhSS12UXU3RnpVZDQ5dVVib1hiN3VGS0V5bDA1SG9KSERkMVM5UVVqRW9oa2plUVJqYm1lTzdkR2dyLXJUc3llU0luOTBuWDBJOUpmN1lEWjZnTTR5WmR4cU5Hb0ZlS2V4MnkxbGwxZDZhMUNodWg5LTRjc9IBuAFBVV95cUxPelNXYS1vRWFUZ0Z3UnZUb2xHeHBrUHA2TGRvYjV5Z0hqNXVZUEVxUWFrdUpmWUl2aFBzTUZsVWwySUJxdHRjOWE4Sm5ja2poV0sxd25TZEx3dml1WURXQ2ZoWUxNUlp5QUR4dzF6REF6bUp1TFNkRDFIWktxMFQ4ZWlZalU4ZHBXMjNwd0dyTGwzeklDbTc1THdlNTFhUmFHX1hLWm5pTUpkUkhXTGpyVFQ2MVNMWFhM?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T00:11:02+00:00",
+      "extracto": "¿Usas IA para emprender? Royal Prestige explica el error que puede hacerte perder clientes emprendedor.com"
+    },
+    {
+      "titulo": "Foro Anual de AEM 2026 en Mendoza: liderazgo, inteligencia artificial y los desafíos para las empresas - Los Andes",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk02em1RWGMwLWVTbHlLVThkYlpSaUt6T1FpZklFSldIdmpEd1k5eXFQZmtMSGJERldPbGxGSTlhY1dvWjRRVE5DdDlVemc2ZVV2NWRKTEFoSEtKOWFOQ1J0QmVtTWZfbGJzcFVweGlvVV9USm05WmF0S2JnUzZxU2xjMEpJUTJINVRNTDRDd3BKNTNSeXhDVWNBb29CUzJiOFpVVnd1d2xJVXdLVlE1bVVZdWZZUFNhM2U4MnBzOTJVdU1hY3NMZXNxQi03SmJB?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-07T19:10:00+00:00",
+      "extracto": "Foro Anual de AEM 2026 en Mendoza: liderazgo, inteligencia artificial y los desafíos para las empresas Los Andes"
+    },
+    {
+      "titulo": "Free workshops on artificial intelligence begin Aug. 14 - WGCU",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzlFZkFfTHZKMDlYZm40V1Rab0VnNDlSLWM5bW43SjZLQXNSb0xsdXJNQW5idGhOVkJLaEd1MVJNMWFPYk1TeWJpSVJqWTNiWVZseDViWUpTTVUzMkhlSGFINzVhazFOSWgyUmJjSzIzTUdQZERUVXFRX24zYTRYbEpfdG52V0g4b0t0MkRtRllFWHVNWEwzc3NIeE9YRDVMNkxmZ0d3?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-07T14:38:00+00:00",
+      "extracto": "Free workshops on artificial intelligence begin Aug. 14 WGCU"
+    },
+    {
+      "titulo": "Investor argues artificial intelligence is the ‘new oil’ - foxbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nUnU3QWQzWlZfNk5udTBGUklpejF6eDQyTV9vLXh3MndlSTVIdjFjdllkX2JISVRmN192bnMycVgzazh0NUI5S3h2YlQ0a3ZYdkpCT3ZEQ2FjcDg?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-07T20:24:42+00:00",
+      "extracto": "Investor argues artificial intelligence is the ‘new oil’ foxbusiness.com"
+    },
+    {
+      "titulo": "How AI Is Making Cybersecurity A Critical Tech Battlefield - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdm9yWXl3aHQyazhDRGU0LUJHUTZ6Y3dsQUlqT0NTUXVveVVHTHVXSWxzRGIxcVF5RURkS0M5S3gyb1BnclVmMlNnMmF3LWEzX2c0alRleENmRDhlY19QN2dLRUZsajlocGljT3RmeHBsZVdkcjljUFJIMXBVOGlXREVTTFUwRGI3YUpqT3lpU21VSHNUZlQ3dXY3UEdWQ0RfV3E0ag?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-07T14:38:00+00:00",
+      "extracto": "How AI Is Making Cybersecurity A Critical Tech Battlefield Investor's Business Daily"
+    },
+    {
+      "titulo": "Business - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ib1lhcXNYMTV6SDZTd2d2YTJtQnhSdUlqa29LUmFsVFMyY3p0QTZsSnRIMDRpbTVFU3JMNXNLMkFoa05FV1JWUEpyeURIQjZXOEZnNk1fa2VEeHhtT1ZiU2wxZ2gxQmlIUElObnpXMC1wYzQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-06T13:00:25+00:00",
+      "extracto": "Business The Economist"
+    },
+    {
+      "titulo": "'Significant risk': AI expert calls for legislation to address security breaches - KFOX",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNHpObXpJQklFUDdqamZHbmtIbDhCdmE3bjFzVVRMMllpUTNhQ3kzbTNzMmZ4NjB2QjJhSFZqa2dSYU83V0xtWVJsbFlaQXpDMzhJeDR6WEJuVEppVUl6NEdtWXlxTFp6dG1zUzRzX3Y4allUd19KVlJacTdQT1BvcVZKMjlwbWRKcWFocW5oU1BLTkJtSVZISWwweGlBMmpWYmV4bllROG4tbzFKZDBCTjJaNGRHOW5xVU5GVF9rUkR0bVJSQnFBU3B0NzE3NzdsTUxldS1vT2pLdXlTdUpKdjEzMUkzLXo3RG1veg?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-07T00:38:17+00:00",
+      "extracto": "'Significant risk': AI expert calls for legislation to address security breaches KFOX"
+    },
+    {
+      "titulo": "\"Around 70%\" of Microsoft's AI business still depends ENTIRELY on OpenAI - windowscentral.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ0xJSDExMVhXamZkZ2pSNlJvYkVPY1BWeXNoNUtuNXphcFpWaWI2Zkh3eW5KM0tkYXg0V3U0SVR6VUNYN0RlZ1NnNWhqSk5sXzZUUTVnR2oyc1FRTnJnSUpRdjZRbThmZE9kdGhNLW5EQThSVXdvTnVhelI0NkY3RUY2Z09OTG11MkhtQnNOYy1pc0dwN1lJM0stM0QzRG9hNzltcUtIQzBPZHAzYXVLcGJobWZNRkNoTy1DczJYS3d0and2emF2bmkzb3gwLVotbEgtc2hnNTAwUjdacXR3V1JQdG5nZw?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-06T09:00:00+00:00",
+      "extracto": "\"Around 70%\" of Microsoft's AI business still depends ENTIRELY on OpenAI windowscentral.com"
+    },
+    {
+      "titulo": "Daily Search Forum Recap: August 7, 2026",
+      "link": "https://www.seroundtable.com/recap-08-07-2026-41837.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T14:00:00+00:00",
+      "extracto": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "titulo": "EP 268 - AI Overviews, Brand Search & Local SEO: Cyrus Shepard on Earning the Click - from the archives",
+      "link": "https://www.nearmedia.co/ep-268-ai-overviews-brand-search-local-seo-cyrus-shepard-on-earning-the-click-from-the-archives/",
+      "fuente": "Near Media (Local search)",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T14:22:32+00:00",
+      "extracto": "Cyrus Shepard joins us on the Near Memo to connect what the Google antitrust trial and API leak revealed about click data to the questions local operators care about: how Google decides a result was good, why brand search keeps correlating with rankings, and what AI Overviews do to that ecosystem ."
+    },
+    {
+      "titulo": "ZoomInfo data just got easier to use in Zapier",
+      "link": "https://zapier.com/blog/zoominfo-zapier-api-access-standardized",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T07:00:00+00:00",
+      "extracto": "If your team uses ZoomInfo's Go-to-Market Intelligence Platform, you know the power of its buying signal data and built-in tools for enrichment and conversation intelligence. But when your tools don't talk to each other, work stalls. A rep gets a new lead, but the context lives in another app. A meeting gets booked, but the account research still has to be done by hand. A pipeline record goes stale because no one looked up recent account changes...."
+    },
+    {
+      "titulo": "How to connect Google Sheets to ChatGPT",
+      "link": "https://zapier.com/blog/connect-google-sheets-with-chatgpt",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T04:00:00+00:00",
+      "extracto": "I've been connecting Google Sheets to other apps since long before ChatGPT was even a sparkle in an algorithm's eye. I use all sorts of Google Sheets add-ons, and more commonly, I use Zapier so Google Sheets can talk to every other app I use for work. Once ChatGPT was released, I embedded it right into my Google Sheets workflows with Zapier. But there's an embarrassment of riches when it comes to how to connect Google Sheets to ChatGPT. For start..."
+    },
+    {
+      "titulo": "How to Decide When an AI Tool Is Worth Keeping",
+      "link": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "fuente": "Nielsen Norman Group (UX)",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T17:00:00+00:00",
+      "extracto": "Pressure to adopt AI isn't evidence that a tool helps. The PROVE framework tests one tool against one task and produces a provisional decision you can defend."
+    },
+    {
+      "titulo": "Dogfooding vs. QA vs. User Research",
+      "link": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "fuente": "Nielsen Norman Group (UX)",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T17:00:00+00:00",
+      "extracto": "Dogfooding, or using your own products internally, helps catch bugs, but it can't replace user research: your team knows too much to represent real users."
+    },
+    {
+      "titulo": "GBP Suspensions Launches Dedicated Google Business Profile Reinstatement Service - EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHk4czE3V0c0dmExSVljZ3Axd3ZhVjJ2Qmg3UXhQcHg0d0FkVGo3Y1pfUC1ESHVFTGM1bzhzMXNrYlJKLVFrdE5QUmMyVE8zQ19DdC1zNWU5TEZ6NnJGZ0dMbmlNTjFkYzJrVGNnMVVYeUlXVDUzdUo5UTZHRDdjUDhVQ0p5cHNWM2lJTVNaOWtfWHVvQ2JpTUh5dTFlbHNQT3VVRUhSZFdFRF9TRHhWODV0bWY2YTZFTDllbC0wSzZPY2R4aEE?oc=5",
+      "fuente": "GN — Google Business Profile",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T17:34:00+00:00",
+      "extracto": "GBP Suspensions Launches Dedicated Google Business Profile Reinstatement Service EIN Presswire"
+    },
+    {
+      "titulo": "3 AI Search Visibility Tools for Billings Businesses - Billings Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDEtVGExeE1YZUl4RXNNZ3RlUHFtVFN5OEJQV01KWFV2bUhzUlFFTHU3andjSHI3Tk5HRkQ5S0xkOHlzUVZDQzhaa2dnX0prR3ZmbkxyVnZpVFl4Z2M0RlBUM08wVV9lZjVzSlZ1enpyX3JicU5XZlVHZHFqeDV1dUc0VGYzeHpOSFByWmw3UnZqbXZ5MGJUdHBxd0Q?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-07T20:15:00+00:00",
+      "extracto": "3 AI Search Visibility Tools for Billings Businesses Billings Gazette"
     }
   ]
 }
