@@ -1233,7 +1233,18 @@
     "e6d72763776310e0",
     "06ddebeed5010053",
     "b1bb619fdd8075c5",
-    "935559d9555a0319"
+    "935559d9555a0319",
+    "c3adfea8fde1457e",
+    "fb7d940c537875b1",
+    "8420309852a4bba5",
+    "04ba5c2341d4ce8d",
+    "ec2a8b7c9bc26d33",
+    "adfe1b327c8c2cd9",
+    "0006c62fdcb69149",
+    "8a5528d211402dad",
+    "8a1be685cd2e5f71",
+    "312662a13d7b7fa2",
+    "e2d66f644a7f40ab"
   ],
   "archivo": [
     {
@@ -5466,6 +5477,116 @@
       "categoria": "dxw",
       "fecha": "2026-08-10T01:18:32+00:00",
       "extracto": "Online Advantages® Releases Six-Month AI Search Visibility Research, Revealing 12 Lessons for Brands Lelezard"
+    },
+    {
+      "titulo": "Raspberry Pi AI System Combines GPT, Claude Gemini Into One Smart Assistant🤯",
+      "link": "https://www.youtube.com/watch?v=Q9lDor5NtBg",
+      "fuente": "Techie Sapien",
+      "categoria": "youtube",
+      "fecha": "2026-08-07T07:00:53+00:00",
+      "extracto": "Meet the AI System That Makes GPT, Claude & Gemini Debate Before Answering | Raspberry Pi MAGI Computer What if three ...",
+      "vistas": 884870,
+      "miniatura": "https://i.ytimg.com/vi/Q9lDor5NtBg/hqdefault.jpg"
+    },
+    {
+      "titulo": "La Gente Se Está Haciendo Millonaria Con Claude | Así Lo Hacen",
+      "link": "https://www.youtube.com/watch?v=xzJxHlXRVNc",
+      "fuente": "Adrián Sáenz",
+      "categoria": "youtube",
+      "fecha": "2026-08-04T16:00:37+00:00",
+      "extracto": "Descarga gratis los recursos: https://divisualproject.academy/adrians-claude.",
+      "vistas": 183680,
+      "miniatura": "https://i.ytimg.com/vi/xzJxHlXRVNc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Why Graph Engineering will 10x your Claude/Codex",
+      "link": "https://www.youtube.com/watch?v=JWhICz1QR8M",
+      "fuente": "Greg Isenberg",
+      "categoria": "youtube",
+      "fecha": "2026-08-03T18:30:26+00:00",
+      "extracto": "I go solo on this one to break down graph engineering, the term I keep seeing go viral on X. I define it in plain English: prompt ...",
+      "vistas": 131622,
+      "miniatura": "https://i.ytimg.com/vi/JWhICz1QR8M/hqdefault.jpg"
+    },
+    {
+      "titulo": "This NEW Claude Prompting Technique is blowing people s minds (gauntlet-loop)",
+      "link": "https://www.youtube.com/watch?v=BNjzXcEXmg4",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-08-05T22:46:20+00:00",
+      "extracto": "Get the /gauntlet-loop skill for free ➡ https://www.skool.com/robonuggets-free/classroom/750914f0 search for n70 Get our Claude ...",
+      "vistas": 130762,
+      "miniatura": "https://i.ytimg.com/vi/BNjzXcEXmg4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Meta s Claude Code clone is INSANELY cheap",
+      "link": "https://www.youtube.com/watch?v=-Gj0-EIyx6g",
+      "fuente": "Theo - t3․gg",
+      "categoria": "youtube",
+      "fecha": "2026-08-07T08:04:57+00:00",
+      "extracto": "Meta released their Muse Code powered by their latest model Muse Spark 1.2 and...it's interesting Thank you Greptile for ...",
+      "vistas": 131682,
+      "miniatura": "https://i.ytimg.com/vi/-Gj0-EIyx6g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Full Course – Autonomous Goals, MCP, and VS Code Setup",
+      "link": "https://www.youtube.com/watch?v=7l6bXLAKyEI",
+      "fuente": "freeCodeCamp.org",
+      "categoria": "youtube",
+      "fecha": "2026-08-05T11:00:27+00:00",
+      "extracto": "Learn Claude Code with this comprehensive crash course taught by a former senior software engineer. You will learn everything ...",
+      "vistas": 88528,
+      "miniatura": "https://i.ytimg.com/vi/7l6bXLAKyEI/hqdefault.jpg"
+    },
+    {
+      "titulo": "BitCRM Tutorial: Connect Claude ChatGPT to Your CRM via MCP",
+      "link": "https://www.youtube.com/watch?v=8lyUx3kzv30",
+      "fuente": "SaaS Master",
+      "categoria": "youtube",
+      "fecha": "2026-08-03T14:45:25+00:00",
+      "extracto": "Check this deal out: https://bit-crm.com/?r=1282 What is the most secure way to integrate AI with your customer data? Self-hosting ...",
+      "vistas": 6071,
+      "miniatura": "https://i.ytimg.com/vi/8lyUx3kzv30/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built an Interactive Scroll Website in 5 Minutes (Higgsfield MCP + Claude)",
+      "link": "https://www.youtube.com/watch?v=GSWpxNjDg6o",
+      "fuente": "SaaS Master",
+      "categoria": "youtube",
+      "fecha": "2026-08-06T02:57:12+00:00",
+      "extracto": "Check this out: https://higgsfield.ai/s/higgsfield-mcp-3-0-yt-saasmaster-aJlucg How can you turn static websites and videos into ...",
+      "vistas": 4668,
+      "miniatura": "https://i.ytimg.com/vi/GSWpxNjDg6o/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude optimizes token use by building a knowledge graph #Claude #tokenoptimization #AIdevelopment",
+      "link": "https://www.youtube.com/watch?v=qsMyzwrZRR4",
+      "fuente": "Alex Nex",
+      "categoria": "youtube",
+      "fecha": "2026-08-04T00:42:12+00:00",
+      "extracto": "The Claude token saver tool reduces token consumption by building a knowledge graph of your entire codebase. Instead of ...",
+      "vistas": 2685,
+      "miniatura": "https://i.ytimg.com/vi/qsMyzwrZRR4/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Create VOX STYLE Animation With FREE Claude Prompt + Higgsfield MCP",
+      "link": "https://www.youtube.com/watch?v=25oYJOideAE",
+      "fuente": "Ivy Does AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-07T17:49:48+00:00",
+      "extracto": "Try Higgsfield: https://higgsfield.ai/s/higgsfield-mcp-3-0-yt-ivydoesai-xZLnMv Want to create professional VOX-style documentary ...",
+      "vistas": 1837,
+      "miniatura": "https://i.ytimg.com/vi/25oYJOideAE/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Connect Claude to Ultimate Web Scraper 🐼 #ClaudeAI #WebScraping #MCP #AITools #Automation",
+      "link": "https://www.youtube.com/watch?v=U5qKoaFqlb4",
+      "fuente": "Ultimate Web Scraper",
+      "categoria": "youtube",
+      "fecha": "2026-08-05T08:00:27+00:00",
+      "extracto": "",
+      "vistas": 479055,
+      "miniatura": "https://i.ytimg.com/vi/U5qKoaFqlb4/hqdefault.jpg"
     }
   ]
 }
