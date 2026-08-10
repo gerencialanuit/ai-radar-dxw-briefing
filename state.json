@@ -1244,7 +1244,47 @@
     "8a5528d211402dad",
     "8a1be685cd2e5f71",
     "312662a13d7b7fa2",
-    "e2d66f644a7f40ab"
+    "e2d66f644a7f40ab",
+    "7a678e9a26d7e264",
+    "3a8585570cab21df",
+    "7f776d7829d07ede",
+    "ee449db47d8dff19",
+    "ae2292bf453d4eb7",
+    "e5b664a37aa39848",
+    "335bf30860d7aeb5",
+    "b0b3df59ac19a37e",
+    "c79260c1f51ae7f3",
+    "6558895df7dff592",
+    "341aef500b5d8ab9",
+    "abf634c5f13b8fe0",
+    "fd53b08253804f22",
+    "bc569cce4652ee2c",
+    "fbd66f2b2e706dfb",
+    "3547db596ee6cb67",
+    "d3cfeb94e0d082d2",
+    "d2e7ee72c1509240",
+    "e302d7a30abc31b8",
+    "38bcb85f6ee51943",
+    "d2a7988a8e30a1a8",
+    "589d6750d2ff575a",
+    "116cbd17e441fef4",
+    "3724d44eb56ba5bf",
+    "b7489c2af71ef04b",
+    "522580e020e22002",
+    "8bf0dfdcf670f1d0",
+    "b77d391e809423c4",
+    "53cc67261ec2fcf4",
+    "c51e4a02e5f83f24",
+    "f159be491207d880",
+    "49dbafa9fe433e94",
+    "4efbedc3ad755713",
+    "3398c85ad506b637",
+    "429bc65767366675",
+    "7d4cdcaffa8d98f0",
+    "51edc53ac6000070",
+    "bd8c0f9820dd5ca7",
+    "6c999f0d3c98d751",
+    "2d5ea79ec795e8fb"
   ],
   "archivo": [
     {
@@ -5587,6 +5627,310 @@
       "extracto": "",
       "vistas": 479055,
       "miniatura": "https://i.ytimg.com/vi/U5qKoaFqlb4/hqdefault.jpg"
+    },
+    {
+      "titulo": "What building an AI-native finance function taught me",
+      "link": "https://openai.com/index/building-an-ai-native-finance-function",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-10T17:00:00+00:00",
+      "extracto": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+    },
+    {
+      "titulo": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-10T10:00:00+00:00",
+      "extracto": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
+    },
+    {
+      "titulo": "Putting frontier cyber models in more trusted hands",
+      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-10T10:00:00+00:00",
+      "extracto": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
+    },
+    {
+      "titulo": "Premium seats are coming to ChatGPT Business",
+      "link": "https://openai.com/index/premium-seats-chatgpt-business",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-10T00:00:00+00:00",
+      "extracto": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
+    },
+    {
+      "titulo": "Evolve your marketing with new AI tools",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "fuente": "Google AI Blog",
+      "categoria": "releases",
+      "fecha": "2026-08-10T14:30:00+00:00",
+      "extracto": "Advisor UI in Google Ads and Google Analytics"
+    },
+    {
+      "titulo": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "fuente": "Hugging Face Blog",
+      "categoria": "releases",
+      "fecha": "2026-08-10T16:25:36+00:00",
+      "extracto": ""
+    },
+    {
+      "titulo": "AI professors are negotiating the new realities of academic research",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "fuente": "MIT Technology Review — AI",
+      "categoria": "news",
+      "fecha": "2026-08-10T20:00:00+00:00",
+      "extracto": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI"
+    },
+    {
+      "titulo": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-10T20:53:02+00:00",
+      "extracto": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building."
+    },
+    {
+      "titulo": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-10T20:04:24+00:00",
+      "extracto": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
+    },
+    {
+      "titulo": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-10T16:20:13+00:00",
+      "extracto": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access."
+    },
+    {
+      "titulo": "Four takeaways from Mark Zuckerberg s massive AI manifesto",
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-10T15:19:05+00:00",
+      "extracto": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [ ]"
+    },
+    {
+      "titulo": "Amazon backs power plant that may become top source of US climate pollution",
+      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-10T20:45:52+00:00",
+      "extracto": "Amazon announces first off-the-grid data center in race to reap AI profits."
+    },
+    {
+      "titulo": "When AI Creates Tons of Content, Trust Becomes the Strategy [MAICON 2026]",
+      "link": "https://www.marketingaiinstitute.com/blog/trust-as-content-strategy-maicon-2026",
+      "fuente": "Marketing AI Institute",
+      "categoria": "business",
+      "fecha": "2026-08-10T14:30:00+00:00",
+      "extracto": "AI can now produce more content in an afternoon than most marketing teams used to create in a month. For Joe Pulizzi, that's precisely the problem and the opportunity."
+    },
+    {
+      "titulo": "La inteligencia artificial eleva la ciberseguridad a prioridad estratégica para los CEO - Portafolio.co",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1luSy0xbGllZU1OcWxMcm9NMklQTTRoNmFEcmJIdkNLdEFhcml4dkxNdjViaURxTmJ2V1NHX0gxX1dXOXpQLU5jZ3hDLXhuOGhFRVo3cFRTaG1JUjhVQUJ3eUtGZk1saXRzZkliTWxuNC1RQmtQa09pR3hCQnphOUdxb245NEZfbTJlaUFHUEVIc3A5dGZBU0Y1SU9tbERLYVVzWlktZXRrdlU1aW9DdGpoSk00TURNbkJTa3JvTFN6ZllnTjU3alZxQdIB0AFBVV95cUxQaGptcThtMVNyNWNWR2NWVERVekdIZVNIMnhTUWdRS2Z5Y2RtQzVpSThNTUJfQkVCY1dpWFJHcUlVbjAxXzBaTDBYXzdqZGFYRENOOFNYc3ZnSm1sQzBEajQzOVFEazZMdVVIWEpYTXAxWl9NTzN3OW1rRG5ERmo5bnBXdmpyZ1JFQXlJcFBJdzhVeklrdzhGRVpmX2dYM2c0aWZfOUF6bExrWWU3TXJrVmtYTU9kb3BvSGwtWmJZY3RkV3VrczBvc0M3X01yTG1Z?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-10T16:26:01+00:00",
+      "extracto": "La inteligencia artificial eleva la ciberseguridad a prioridad estratégica para los CEO Portafolio.co"
+    },
+    {
+      "titulo": "Cinco claves financieras para fortalecer el crecimiento de las empresas en Colombia - laopinion.co",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmlxYUcxLTB6UWtxZExSTU1jcmI4SkNMUHd5d0p0elpCZjNLRy13NmJfRTVEcUVCUGtpaXpyYzRpTmItVGNmeGVEbzJZY3piRmtLRnNsVTF3NUxDVzk1bnZVZ3NZUWM1dXhPQ08wcUtzMm1jQW5pVXIwdm1PN2NtZXdjcUFVb2JWTTdWZGhSdmlmMldkR3VJdzRHdXpSSU5aMUpqa1lOWnFVbldMd1Bfbmdsaw?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-10T16:35:11+00:00",
+      "extracto": "Cinco claves financieras para fortalecer el crecimiento de las empresas en Colombia laopinion.co"
+    },
+    {
+      "titulo": "Empresas: cinco señales de que tu negocio aún no está listo para vender con inteligencia artificial - Revista Economía",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVZVOUtDWndBOFg3UXFUUFhqZng3RXpZN2tUTmJVQmRKZVhSMmNhZElGcFk5MnRYQ3NTTGtaajdNMTE4OVZpUXFSTFFMcWQyVDRSZ2JET2Q5MEl2Zmhic0Nsb0lObTA4LUdSYmNwcWlrNGswaFB4NHlZcWhneWZwbklmTkJhNlYxaXE0NzBJV2NrRXJPd1lNeHZMS0d0VmN3WlBQZDhwbnEwZnlqMUxWNlJaM3dwRnZQYWVFN3Q0cFk1UjVIbFpyZ2VQdw?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-10T15:40:38+00:00",
+      "extracto": "Empresas: cinco señales de que tu negocio aún no está listo para vender con inteligencia artificial Revista Economía"
+    },
+    {
+      "titulo": "C² Labs: de adoptar tecnología a originarla desde América Latina - estrategiaynegocios.net",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkxuUHp3Mk9WS1pfSl9YbkRmMHgwejZualR5TUlKTnYzcnM0dWo1QUI4eDFvZFZGMF9ZaXBTUDB4NWVlTV8tVVJKWmVCcU1yRnY1akRIQ2xZY19nLThxcFZkSTE4SlBHV1NYd296WjdndWFmTjhOTllaN2k0WWM3cnUyWF9peGc1NEFnYVB2WVkxWjdGblBldXFESllYX2pVNzdYNDFuNmlOekJINXJ4SnBORGk0emd6Xy1CMy1R?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-10T19:00:00+00:00",
+      "extracto": "C² Labs: de adoptar tecnología a originarla desde América Latina estrategiaynegocios.net"
+    },
+    {
+      "titulo": "La mayoría de la inteligencia artificial empresarial no es segura. Aquí está lo que las empresas pueden hacer - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTNLQlhOSjBKLTRXQVFuMzJoVjhtUlRCUVlvRlRJdW9ZbGhhTjNqcWJ1dWgwdlUzSDdUMVR5ZV9LSVoycnhfZHNIYmM5TDd2RTRVUFVYb2YweTI4M1FFNVdWSUJWNXhCRWc2QXd4bnhqbUJia0hUcmNocjZpWURoR0tNSzhoUkF3TnNQVw?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-10T14:45:15+00:00",
+      "extracto": "La mayoría de la inteligencia artificial empresarial no es segura. Aquí está lo que las empresas pueden hacer Unite.AI"
+    },
+    {
+      "titulo": "Google Ads 2026: IA revoluciona marketing con Gemini y benchmarking - El Ecosistema Startup",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVThDNFMyRzA3MHhYdDJCU0UwWTRmMHZKOVpPU1F2elphNDRvSTNQdnhHNlBId3VQZGtLV09JYkZfWW5qNl91RUNCVXZxX01lTFNybEcyeE5hRDJldGZIS0syU3I5X2JuM3h1dW5xQkZPTnZjN0Nrc0FQX09rZGs1X3g0R2MxcjY5SHQ3bDFWMk42UHdJc19KMXpibzFoZw?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-10T14:51:32+00:00",
+      "extracto": "Google Ads 2026: IA revoluciona marketing con Gemini y benchmarking El Ecosistema Startup"
+    },
+    {
+      "titulo": "IA impulsa productividad: 70% empresas México automatizan con IA en 2026 - El Ecosistema Startup",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXZsRW5WZmZCWE01em5xbzlWM1Brek1YV1RGNlZRR3ZGX3VIcmJnbENWR1pXaGxQTEs4U0Q4S1E3LUswaHlrMkUzN3drWGxJcmFrVUNrTjluOEhQYlBtOXBKX3FMTnlzVlc5WnpXWkpjR2NaNnU3Tm5CNWFNN3hTdE1jamo2ZTRNc3FlallXRmo3TlYxYzQ3Uzl6QnpCQnFMN2dj?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-10T19:39:50+00:00",
+      "extracto": "IA impulsa productividad: 70% empresas México automatizan con IA en 2026 El Ecosistema Startup"
+    },
+    {
+      "titulo": "Lawmakers ramp up pressure on AI companies over rogue models - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYTNTYmdySXZORXJRTE41UUNuZXR3VkVWTjk4SHVfMVkyR05BUmZNWEFibzk1UkxSSkhRR3Z1YjhXTWZfQ0pxNHR2QXVRNjJEcXEtWl9Yakxfa3d5NlRGVjcyekI5RUgtRHNaOTlCZUkxQ1JLemJaTlpxbTJrUkp4NUd1cjBUSlc2Z0RXdkxFdk5LRHRNd29xXzBKVGRocXFoR3pIYXZfS3p3TXZ0V1BNTg?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T20:17:21+00:00",
+      "extracto": "Lawmakers ramp up pressure on AI companies over rogue models The Washington Post"
+    },
+    {
+      "titulo": "New AI trade group aims to position Michigan as national leader - crainsdetroit.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0ZDc1JZSkI2ZkJpSHFfZnhrU2FFcUotNEJWZVAyUHgyV2d4TDhDNDhfX1RTaXdSTDZIZlNLdmhtLS1nOTdCakg0d0thWWcyRnlKQ1hxLXp6Q3g2NXRsT25CUkd4a0J1U01HOFFsTlRhOURWdDZReWtCNnR3SFRsZ3g5YzNUcUl0Q3V1RUwxbVJEcm5yMEZNX2JWMUJUVXpKUjNlM2FaVWlIYm05MjMw?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T16:48:00+00:00",
+      "extracto": "New AI trade group aims to position Michigan as national leader crainsdetroit.com"
+    },
+    {
+      "titulo": "The artificial intelligence economy depends on free trade | GUEST COMMENTARY - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44SUtIVHd4U2VLLWJuUmpoOUg1Sk9YVFhWMGlCRzRHdTFuSDd1N3puNFNya09CRFVSNDEwRDc5MTctcDNHemo0Wm5fOGh0azE1bGRJRTVqUjVzdDNXeVpIQmRZMHpzWWJXeE1heTViYw?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T18:03:14+00:00",
+      "extracto": "The artificial intelligence economy depends on free trade | GUEST COMMENTARY Baltimore Sun"
+    },
+    {
+      "titulo": "iRhythm to acquire rival cardiac monitoring company for $288M - Cardiovascular Business",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYldpX0hMdXhqM0RqdmhCR0RNSWdIWU55NUNkRmJ5cXpCdUFYZFZ3MGRodjV5UHU3RWlaVUhiUUZKWlZXc3pOcWI2ekpUelp4UjJrd3psSFpPby1lNXpidnN2LXlTX2RqT2lvVU1aZDR2WGxxal9nU3d3Nlo2RW41bGM5Z05VS3ZqSTZDbTFkRTZQWVNpSk91Y0RkZUdIdlhPX3lVSWpVTUV4TU9MWkRUTGM2WF9kOXItX3NrMkpfbzBteVplSmtHdmJ4NXdhb2duWDhEWQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T18:43:54+00:00",
+      "extracto": "iRhythm to acquire rival cardiac monitoring company for $288M Cardiovascular Business"
+    },
+    {
+      "titulo": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T05:00:32+00:00",
+      "extracto": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week BBC"
+    },
+    {
+      "titulo": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUZDR1NSWEc0WnpTcTMyRnhWNWNPQ1liNmd1bzRGVEhrYTR0QjAzOUMwT0FXdXpzdjZuay1CQnJnLThCVTBLR2hXZnhRck5CZ3FuQ2ZzWURSZlZ0MHpOUVN6YVp6NWJZaWZyQkwzTE5zdldrS2xUdlhZR2FGa1NoZEMxbXV5Wmw2OUMyMlFfRXlXM0NjSU9WQU9tdGNQQXJZOGRR?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-08T23:01:01+00:00",
+      "extracto": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies Yahoo Finance"
+    },
+    {
+      "titulo": "Artificial Intelligence-Powered Business Solutions: Coach360 Supports the Industry… - Trend Hunter",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYZ0l2eXNsekpnZTA2SzNONXE2QkgtLU1rWGR1QldESGNjTUh4ajYzdm5NRzRyMm8wampoeS1OSFFiYTJMTjhMSW9mRTZCdXRRNWFSSEdDOGlvODRsTGJLVlg4OEd6SkNkaUMzSnpuY2FQMm5zWHdIVEEwSjdLMVE?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T15:02:45+00:00",
+      "extracto": "Artificial Intelligence-Powered Business Solutions: Coach360 Supports the Industry… Trend Hunter"
+    },
+    {
+      "titulo": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T13:47:00+00:00",
+      "extracto": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business"
+    },
+    {
+      "titulo": "Arista Networks vs. Arm: Comparing Revenue Growth Trajectories for These Artificial Intelligence Companies - theglobeandmail.com",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUmdNOVg4RVNHY3h3VVp2azUxbW9KT2pnNF9pMS03THJNdU4tYXFwcW5DME1vUFdYcDZrYmY1UmkyOG9Idmp0S2h1ZnVnc3l6QndDZV9kV0UxbnhPNkNFTThYR2tGcjJRb1VBMF9hYlpsV29kSVVBRFBsaW9ONzdLTC12VFBzSWRoczF3d0psQ1VpMGJvc0pEY2dUQ0JCWlNITTRPVm5CNzdidTNHY0tiZzd1cXNkV2p6UV9wdi1OTUtLR21KN1RRQndrTnpOVHM3ZUZUTlRjZnRWMWpJVFZYRUY3Q0tkX0dIVVpFU0tPYU9qLUtYdlhxb3ZPU1diNXBPSGctUzduaTg2Zk1yMl81Ug?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-09T19:59:19+00:00",
+      "extracto": "Arista Networks vs. Arm: Comparing Revenue Growth Trajectories for These Artificial Intelligence Companies theglobeandmail.com"
+    },
+    {
+      "titulo": "Daily Search Forum Recap: August 10, 2026",
+      "link": "https://www.seroundtable.com/recap-08-10-2026-41843.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T14:00:00+00:00",
+      "extracto": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "titulo": "How to use ChatGPT",
+      "link": "https://zapier.com/blog/how-to-use-chatgpt",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T04:00:00+00:00",
+      "extracto": "I've been using ChatGPT since it launched, and now, it barely resembles the tool I started with. At this point it's less of a chatbot and more of a full work assistant—one I can use for everything from research to writing to running tasks across my other apps. If you're eager to put ChatGPT to work but not sure where to start, you're in the right place. Here's everything you need to know about how to use ChatGPT. Table of contents: What is ChatGP..."
+    },
+    {
+      "titulo": "Deterministic AI: What it is and when to use it",
+      "link": "https://zapier.com/blog/deterministic-ai",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T04:00:00+00:00",
+      "extracto": "We haven't exactly worked out all of AI's kinks yet. The same prompt can return a different, sometimes unhinged, answer every time. It's just the nature of probabilistic systems. That variability's fine for brainstorming and exploration, but it becomes a problem when you embed AI in real workflows where your team needs consistency and control. It's also why enterprises are getting more cautious. Many teams have started pulling back on AI-only wor..."
+    },
+    {
+      "titulo": "ChatGPT connectors: How to connect ChatGPT to other apps",
+      "link": "https://zapier.com/blog/chatgpt-connectors",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T04:00:00+00:00",
+      "extracto": "ChatGPT was born, and named, to chat. It's scarily good at it, but if you're using it for real work, you want to actually do something from the chat window: update a record based on ChatGPT's research, send a message with the genius idea it beat you to the punch on, or just log the output somewhere so you don't lose it. There are a lot of ways to connect ChatGPT to other apps. But the terminology is a mess, the options overlap, and it's not alway..."
+    },
+    {
+      "titulo": "AI job search tips: 9 AI tools to help you land your next job",
+      "link": "https://zapier.com/blog/ai-job-search",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-09T22:00:00+00:00",
+      "extracto": "From writing your resume for you to automating networking emails, there are tons of ways AI can help streamline your job search. But more importantly, AI can also help you cut through the noise, secure interviews, and impress hiring managers—as long as you use it well. According to a survey from Software Finder, 75% of job seekers use AI tools as part of their job search, with 14% using AI throughout the entire application process. Those who did..."
+    },
+    {
+      "titulo": "One-click connection to nearly 70 MCP servers and when to use them",
+      "link": "https://blog.n8n.io/one-click-connection-to-nearly-70-mcp-servers-and-when-to-use-them/",
+      "fuente": "n8n Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T17:46:54+00:00",
+      "extracto": "You can now connect to dozens of MCP servers directly from the Node panel with a simple OAuth flow. Pick a server, sign in, and it's ready for your agent to use."
+    },
+    {
+      "titulo": "Google business profile glitch leaves small retailers in search limbo ahead of back-to-school season - Digital Journal",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONUV5dUs3dDRCWld2QmxWcWRJdnB4eXlHUmhFdjMwZy1FOHBNdzBzNE1PS0pZZmxUdFFwSEpmaVpTakdTTFR5by0zRk1pZ1Q4c0JaSTJlb2llN3ZTQmVyMmpXZVpxN3NzOExrVEc2T1RneUZkSGF0TVRwV2ZQMXVYd1IxTnV6SUZMb3k5eGRTN1ZsSjhlLS03Ykh5Q0JGZVQ1QWRHd0VoTC13YTFNcU13U3Y3d1gzNnd0bzF6MThRU3g4ZEVLVW5lV0dhLWZPWG1pZ1pRa2x4TQ?oc=5",
+      "fuente": "GN — Google Business Profile",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T20:16:43+00:00",
+      "extracto": "Google business profile glitch leaves small retailers in search limbo ahead of back-to-school season Digital Journal"
+    },
+    {
+      "titulo": "Netic Partners with American Residential Services to Bring Frontier AI to One of America's Largest Home Services Providers - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUXNKSEg4QmxYcTdQcFBBeUNSYzNKd3VjWmw3SXU1eWU2M09Mb2pXWUlOeW5Pb3lJNmtuamNfLUl3c0s1X2hEcHktSE9Uam9vamprNFhYQ1FJYk45Wk1NU1p4OERvSmx2aDZCRzd2UFhRZlowcUs2UGdUelZlb2o0UTNmTmJFdGRFVlVaTHExdFNxMmM4M05lX1VncjRzLWlnQlowenJOV1Z3TFU4WE9ZNVE5WW1UaXc4My1nc3d0bk1RMDRZdGJ1cktzWkhOZHdTc3l1NU53Uk1Ca244bVhLQjBZaTBWQWFFUGRxcW8wdWsxR0JtZ0FSLU1EZU1WYXlfUlFLX2p6U2k?oc=5",
+      "fuente": "GN — Home services software",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T14:04:00+00:00",
+      "extracto": "Netic Partners with American Residential Services to Bring Frontier AI to One of America's Largest Home Services Providers PR Newswire"
+    },
+    {
+      "titulo": "Family Ties Air, Plumbing & Drain Partners with UpSmith to Transform Home Services Through AI-Powered Technology - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSVpESHctRUJOMDZtek0yRk9JV3pFSG1YaEstM0Q4TUZfd1Fmek1zUjY5SUxxdE5rTDI5WkJKek8yQVJ3ZEtyaU5wQXNqbE9Da2JtdUphbkxWTjc3b1pQeUVlYUZsWkdVeW5tVHlZRWMtWWRjNDFvX3Vic3cyMGhjbzA0a1NWTmw4U25uaVU0cU1WY0c5NGtTaThxM1pnVlJpcmlpX2RIUDYzOExRalludk1Da2JIaGl6enZxZ2xxYkhoMUVpZ2t1WlZZRWZfeHBMR2VfZ1MwenhvMXpfbFB1TjJfWDUwQQ?oc=5",
+      "fuente": "GN — Home services software",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T15:28:00+00:00",
+      "extracto": "Family Ties Air, Plumbing & Drain Partners with UpSmith to Transform Home Services Through AI-Powered Technology EIN News"
     }
   ]
 }
