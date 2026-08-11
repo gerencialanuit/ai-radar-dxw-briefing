@@ -1356,7 +1356,18 @@
     "79519ceccaa2229b",
     "8841b648c9753cbf",
     "284ab4ec0b69b59b",
-    "2b9b20cd67590556"
+    "2b9b20cd67590556",
+    "638b4d5793fc79ff",
+    "b7cff299cfb907d5",
+    "612490b036f971e7",
+    "35bc226b57127329",
+    "bc7f1a7dcc9d1cde",
+    "96a86242e008cf83",
+    "cb036d320fc49cac",
+    "3ca3835b5f040f92",
+    "ffb80aa07e968c59",
+    "096bbbafc27f4f63",
+    "e7783afdb1d18c53"
   ],
   "archivo": [
     {
@@ -6443,6 +6454,116 @@
       "categoria": "dxw",
       "fecha": "2026-08-11T03:44:27+00:00",
       "extracto": "Zoom tests creators as AI search signals ContentGrip"
+    },
+    {
+      "titulo": "This is the strangest thing Anthropic has ever admitted about Claude.",
+      "link": "https://www.youtube.com/watch?v=xzSp3iWtAp8",
+      "fuente": "Aevy TV",
+      "categoria": "youtube",
+      "fecha": "2026-08-07T14:30:04+00:00",
+      "extracto": "Follow us on Instagram here: https://www.instagram.com/aevytvdaily/ https://www.instagram.com/aevyvideoschool/ ...",
+      "vistas": 403312,
+      "miniatura": "https://i.ytimg.com/vi/xzSp3iWtAp8/hqdefault.jpg"
+    },
+    {
+      "titulo": "China Just Dropped an AI 100x Cheaper That Beats Claude Fable 5 (+14 AI Updates)",
+      "link": "https://www.youtube.com/watch?v=A-2WKQxhI_8",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-08-09T14:38:26+00:00",
+      "extracto": "Get all links, and the exact prompts from this video for FREE Join the Staying Ahead WhatsApp community ...",
+      "vistas": 246016,
+      "miniatura": "https://i.ytimg.com/vi/A-2WKQxhI_8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Ils détruisent les livres",
+      "link": "https://www.youtube.com/watch?v=MjjZupOEEXY",
+      "fuente": "unefilleia",
+      "categoria": "youtube",
+      "fecha": "2026-08-04T14:27:46+00:00",
+      "extracto": "Scandale : Anthropic a détruit des millions de livres anciens pour entraîner son IA #claude #anthropic #livre #booktok ...",
+      "vistas": 180260,
+      "miniatura": "https://i.ytimg.com/vi/MjjZupOEEXY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Kimi Code colocou o Claude Code pra chorar.",
+      "link": "https://www.youtube.com/watch?v=KHRNed37LvA",
+      "fuente": "mano deyvin",
+      "categoria": "youtube",
+      "fecha": "2026-08-05T21:30:20+00:00",
+      "extracto": "KIMI API — bônus de 15% extra na primeira compra (novos usuários, até 1º/out) ...",
+      "vistas": 79825,
+      "miniatura": "https://i.ytimg.com/vi/KHRNed37LvA/hqdefault.jpg"
+    },
+    {
+      "titulo": "The AI Programmer That Is Replacing Developers… | Claude Code Explained",
+      "link": "https://www.youtube.com/watch?v=sbHJNaRrGKE",
+      "fuente": "MO CRYPTO",
+      "categoria": "youtube",
+      "fecha": "2026-08-06T07:27:36+00:00",
+      "extracto": "E-mail : duckdeal1@gmail.com Hey friends! Welcome back to Mo Crypto.",
+      "vistas": 56787,
+      "miniatura": "https://i.ytimg.com/vi/sbHJNaRrGKE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI + Higgsfield MCP Changes AI Video Generator Automation Forever",
+      "link": "https://www.youtube.com/watch?v=PrnJB6qfQ1o",
+      "fuente": "AI News",
+      "categoria": "youtube",
+      "fecha": "2026-08-06T01:59:41+00:00",
+      "extracto": "https://higgsfield.ai/s/higgsfield-mcp-3-0-yt-ainewsofficial-DlYGes — connect Higgsfield to Claude in 30 seconds. In this video I ...",
+      "vistas": 1039,
+      "miniatura": "https://i.ytimg.com/vi/PrnJB6qfQ1o/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code buduje stronę i sam zarządza HOSTINGIEM (Hostinger)",
+      "link": "https://www.youtube.com/watch?v=fIe99dy0Xwk",
+      "fuente": "GeekWork",
+      "categoria": "youtube",
+      "fecha": "2026-08-07T17:45:34+00:00",
+      "extracto": "Konfiguracja hostingu, DNS-ów, skrzynek mailowych i stawianie stron zawsze były trudne i irytujące. ✓ Materiał we współpracy z ...",
+      "vistas": 651,
+      "miniatura": "https://i.ytimg.com/vi/fIe99dy0Xwk/hqdefault.jpg"
+    },
+    {
+      "titulo": "$20K w AI -The Claude MCP Hack - 30 Second Setup",
+      "link": "https://www.youtube.com/watch?v=k_1pmbyA8D4",
+      "fuente": "Rayinthedarkk",
+      "categoria": "youtube",
+      "fecha": "2026-08-09T22:07:13+00:00",
+      "extracto": "https://higgsfield.ai/s/higgsfield-mcp-3-0-yt-rayinthedarkk-MvMFFG — connect Higgsfield to Claude in 30 seconds. In this video I ...",
+      "vistas": 619,
+      "miniatura": "https://i.ytimg.com/vi/k_1pmbyA8D4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude enables easy Vox-style animation creation with Arcad MCP #claudeai #voxanimation #aivideo",
+      "link": "https://www.youtube.com/watch?v=ZpvyFwpV6Yo",
+      "fuente": "Jay Oxton",
+      "categoria": "youtube",
+      "fecha": "2026-08-06T14:17:09+00:00",
+      "extracto": "Claude enables easy creation of Vox-style animations by using a custom skill with Arcad MCP integration. Simply describe your ...",
+      "vistas": 502,
+      "miniatura": "https://i.ytimg.com/vi/ZpvyFwpV6Yo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable + Higgsfield – Create Cinematic Video in Minutes! (Even If You Can t Edit)",
+      "link": "https://www.youtube.com/watch?v=6ZTYjBm1Ano",
+      "fuente": "Andrew Ethan Zeng",
+      "categoria": "youtube",
+      "fecha": "2026-08-05T01:50:37+00:00",
+      "extracto": "Try Higgsfield here* – https://higgsfield.ai/?fpr=free-plan Possibly the easiest way to generate visuals yet. All you need is Claude, ...",
+      "vistas": 85411,
+      "miniatura": "https://i.ytimg.com/vi/6ZTYjBm1Ano/hqdefault.jpg"
+    },
+    {
+      "titulo": "Seedance + Blender Unlocks Advanced AI Filmmaking Techniques",
+      "link": "https://www.youtube.com/watch?v=miIDu04N7_4",
+      "fuente": "Dan Kieft",
+      "categoria": "youtube",
+      "fecha": "2026-08-05T16:10:29+00:00",
+      "extracto": "Seedance 2.5 + Blender MCP is the new meta for ai filmmaking Combine Blender +Higgsfield ...",
+      "vistas": 69115,
+      "miniatura": "https://i.ytimg.com/vi/miIDu04N7_4/hqdefault.jpg"
     }
   ]
 }
