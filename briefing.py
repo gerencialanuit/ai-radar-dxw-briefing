@@ -32,16 +32,25 @@ PALABRAS_DXW = [
     "onboarding", "ux", "product design", "pricing", "saas", "perplexity",
     "openai", "anthropic", "claude", "gemini", "search console", "schema",
     "structured data", "citation", "lead", "funnel", "retention", "churn",
+    "design", "web design", "website", "branding", "visual identity",
+    "brand identity", "design system", "operational systems", "operations",
+    "customer experience", "growth", "implementation",
 ]
 
-DXW_CONTEXT = """DOUX.WORK is an operational intelligence and implementation studio for
-relationship-driven service businesses. We help owner-led companies adopt
-technology that creates measurable business value through strategy,
-implementation, and continuous improvement -- not by recommending software
-alone. We act as an extension of our clients' teams, turning digital,
-technical, and operational priorities into working solutions. Our mission is
-to build repeatable systems, validate products through real client work, and
-continuously improve our delivery model.
+DXW_CONTEXT = """DOUX.WORK is an independent design and technology studio helping
+relationship-driven service businesses improve how they look, operate, and
+grow. We work across digital design, websites, technology, and operational
+systems to solve the gaps that often appear as a business grows. Our
+current focus is on home-service businesses, where reputation, customer
+experience, local visibility, and strong operational systems all directly
+affect growth.
+
+Our approach brings design thinking together with practical
+implementation. We care about how something looks, but just as much about
+how it works, how it fits into the business, and whether it creates
+meaningful value over time. We work closely with our clients as a senior,
+hands-on team, helping turn ideas and opportunities into systems that
+actually get implemented.
 
 Current strategic priorities:
 - Launch DOUX.WORK successfully
@@ -52,10 +61,12 @@ Current strategic priorities:
 - Create operational intelligence for service businesses
 - Scale what works
 
-Topics that matter to us: AI agents, automation, local SEO / GEO / AEO,
-Google Business Profile, CRM integrations, Twilio, customer communications,
-review management, small business SaaS, APIs, product design & UX, search
-(Google, OpenAI, Perplexity), voice AI, workflow automation, operational
+Topics that matter to us: web design, branding & visual identity, design
+systems, AI agents, automation, local SEO / GEO / AEO, Google Business
+Profile, CRM integrations, Twilio, customer communications, review
+management, reputation management, customer experience, small business
+SaaS, APIs, product design & UX, search (Google, OpenAI, Perplexity),
+voice AI, workflow automation, operational systems, operational
 intelligence."""
 
 PREGUNTAS_LENTE = """- Does this help us build better products?

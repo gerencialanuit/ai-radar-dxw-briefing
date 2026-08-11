@@ -3,7 +3,7 @@
 # ============================================================
 
 config:
-  max_por_corrida: 18
+  max_por_corrida: 9
   antiguedad_max_horas: 48
   resumir_con_ia: true
   briefing_idioma: en

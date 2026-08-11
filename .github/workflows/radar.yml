@@ -3,7 +3,6 @@ name: AI Radar -> Discord
 on:
   schedule:
     - cron: "0 13 * * 1-5"
-    - cron: "0 21 * * 1-5"
   workflow_dispatch:
     inputs:
       horas:

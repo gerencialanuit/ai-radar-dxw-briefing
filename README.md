@@ -15,9 +15,9 @@ infraestructura de GitHub, sin servidores ni mantenimiento.
 
 | Canal | Qué recibe | Frecuencia |
 |---|---|---|
-| `#ai-releases` | Anuncios oficiales de laboratorios de IA (OpenAI, Anthropic, Google, Meta, Hugging Face...) | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
-| `#ai-news` | Noticias y análisis generales de IA (TechCrunch, The Verge, MIT Tech Review...) | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
-| `#ai-business-growth` | IA aplicada a negocios, marketing y crecimiento | 2 veces al día (8:00 a.m. y 4:00 p.m. EST), lunes a viernes |
+| `#ai-releases` | Anuncios oficiales de laboratorios de IA (OpenAI, Anthropic, Google, Meta, Hugging Face...), lo más importante del día | 1 vez al día (8:00 a.m. EST), lunes a viernes |
+| `#ai-news` | Noticias y análisis generales de IA (TechCrunch, The Verge, MIT Tech Review...), lo más importante del día | 1 vez al día (8:00 a.m. EST), lunes a viernes |
+| `#ai-business-growth` | IA aplicada a negocios, marketing y crecimiento, lo más importante del día | 1 vez al día (8:00 a.m. EST), lunes a viernes |
 | `#ai-youtube-viral` (o el nombre que elijas) | Los 6 videos de YouTube en inglés más vistos de los últimos 7 días sobre Claude, integraciones y herramientas de IA, con portada | 1 vez al día (8:00 a.m. EST), lunes a viernes |
 | `#dxw-ai-briefing` | Briefing semanal estratégico, filtrado con la lente de DOUX.WORK | Viernes 8:00 a.m. EST |
 
@@ -118,10 +118,10 @@ No necesitas terminal ni saber programar. Todo se hace desde el navegador:
 GitHub a veces dispara los horarios programados con retraso (hemos visto
 retrasos de 1-2+ horas en los primeros días de este repo). El workflow
 **Watchdog** existe para eso: corre 30 minutos después de cada horario
-esperado (8:30 a.m. y 4:30 p.m. para el radar; 8:30 a.m. para YouTube
-Viral; viernes 8:30 a.m. para el briefing), revisa si esa corrida ya pasó
-en la última hora, y si no, **la dispara él mismo**. No necesita ningún
-secret nuevo — usa el token automático que GitHub le da a cada workflow.
+esperado (8:30 a.m. para el radar y para YouTube Viral; viernes 8:30 a.m.
+para el briefing), revisa si esa corrida ya pasó en la última hora, y si
+no, **la dispara él mismo**. No necesita ningún secret nuevo — usa el
+token automático que GitHub le da a cada workflow.
 
 Esto significa que aunque el cron de GitHub llegue tarde, el sistema se
 autocorrige solo en un máximo de ~35 minutos de retraso, en vez de
@@ -140,7 +140,7 @@ una semana completa de noticias antes del primer briefing:
 2. En el campo **horas**, escribe `168` (equivale a 7 días).
 3. Ejecuta. Esto va a traer una semana de noticias y guardarlas en el
    archivo (aunque solo publique 3 en Discord, por ser la primera corrida).
-4. A partir de ahí, el radar sigue corriendo normal 2 veces al día y el
+4. A partir de ahí, el radar sigue corriendo normal 1 vez al día y el
    archivo se va llenando solo.
 
 ## 6. Tabla de calibración
@@ -150,7 +150,8 @@ directamente en GitHub, botón del lápiz ✏️, y luego "Commit changes"):
 
 | Problema | Qué cambiar en `feeds.yml` |
 |---|---|
-| Demasiadas noticias | `max_por_corrida: 18` → un número menor (ej. `12`) |
+| Demasiadas noticias | `max_por_corrida: 9` → un número menor |
+| Muy pocas noticias, quiero más volumen | `max_por_corrida: 9` → un número mayor (ej. `18`) |
 | Llegan cosas irrelevantes | Añadir palabras a `excluir` |
 | Llegan muy pocas | Quitar palabras de `incluir` |
 | Briefing con relleno | `briefing_score_minimo: 6` → `7` |
@@ -163,11 +164,12 @@ directamente en GitHub, botón del lápiz ✏️, y luego "Commit changes"):
 
 ## 6.1 Cómo se decide qué se publica cuando hay más noticias que cupo
 
-Cada corrida solo publica hasta `max_por_corrida` noticias (18 por defecto —
-calibrado para 2 corridas/día en vez de 3, manteniendo el mismo volumen
-diario total de antes; la pausa entre llamadas a Gemini también se subió a
-7 segundos para no chocar tanto con el límite gratuito de ~10 resúmenes por
-minuto).
+Cada corrida solo publica hasta `max_por_corrida` noticias (9 por defecto —
+3 por canal, calibrado a propósito para que sea "lo más importante del
+día", no un volumen alto, ya que el radar ahora corre 1 vez al día en vez
+de 2. La pausa entre llamadas a Gemini quedó en 7 segundos para no chocar
+con el límite gratuito de ~10 resúmenes por minuto).
+
 Ese cupo **se reparte entre los 3 canales diarios por turnos** (releases,
 news, business, releases, news, business...), así que ningún canal se queda
 en cero solo porque otro tuvo una ráfaga de noticias — cada uno se lleva su
@@ -177,10 +179,12 @@ pasa a los demás en vez de perderse.
 Dentro de cada canal, tampoco gana simplemente lo más reciente — cada
 noticia recibe un puntaje de prioridad y gana la que más puntúa:
 
-- **+1 punto** por cada palabra de una lista de ~55 temas que le importan a
-  DOUX.WORK (agentes de IA, automatización, local SEO/GEO/AEO, Google
-  Business Profile, CRM, Twilio, voz, review management, SaaS, APIs, UX,
-  etc. — la misma lista que usa el Briefing semanal).
+- **+1 punto** por cada palabra de una lista de temas que le importan a
+  DOUX.WORK como estudio de diseño y tecnología para negocios de
+  servicios: agentes de IA, automatización, diseño web, branding, sistemas
+  de diseño, local SEO/GEO/AEO, Google Business Profile, CRM, Twilio, voz,
+  review management, experiencia del cliente, sistemas operativos, SaaS,
+  APIs, UX, crecimiento, etc. — la misma lista que usa el Briefing semanal.
 - **+10 puntos extra** si la noticia menciona "Claude" o "Anthropic" —
   prácticamente garantiza que gane cupo frente a noticias genéricas de IA
   dentro de su mismo canal.
@@ -307,7 +311,17 @@ y con relleno.
   para llenar el canal de una vez cuando la mayoría del contenido nuevo ya
   quedó marcado como visto por pruebas anteriores. No corre solo nunca —
   hay que dispararlo a mano cada vez que se necesite.
-- Como `radar.yml` y `youtube.yml` pueden correr cerca uno del otro y
-  ambos commitean `state.json`, el paso de commit reintenta con
-  `git pull --rebase` si el push falla por un conflicto con el otro
-  workflow.
+- `radar.yml` corre a las 13:00 UTC y `youtube.yml` a las 13:10 UTC
+  (adrede, no al mismo tiempo) porque ambos commitean `state.json` y
+  chocaban cuando corrían juntos. Aun así, si llegan a correr cerca (ej.
+  por un disparo manual o el Watchdog), el paso de commit usa
+  `merge_estado.py` para fusionar el `state.json` local con el de
+  `origin/main` a nivel de datos (union de `vistos` y `archivo`) antes de
+  cada intento de commit — git no puede fusionar JSON como texto, así que
+  ese merge se hace en Python, no con `git rebase`.
+- DOUX.WORK context actualizado (agosto 2026): estudio de diseño y
+  tecnología para negocios de servicios relationship-driven, foco en
+  home-service businesses. `DXW_CONTEXT` en `briefing.py`, `PALABRAS_DXW`
+  en `briefing.py` y `PALABRAS_PRIORIDAD` en `bot.py` deben mantenerse
+  sincronizados con este posicionamiento — si vuelve a cambiar el enfoque
+  de la empresa, actualízalos los tres juntos.

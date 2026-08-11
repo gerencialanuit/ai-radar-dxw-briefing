@@ -1,15 +1,15 @@
 name: Watchdog
 
 # Corre 30 min despues de cada horario esperado de AI Radar, YouTube Viral
-# y del DXW Briefing. Si en los ultimos 50 minutos no hubo ninguna corrida
-# de ese workflow, lo dispara el mismo. Existe porque el cron de GitHub ha
-# estado saliendo con retrasos de 1-2+ horas en este repo (ver README,
-# seccion 8, fila "El cron no dispara solo").
+# (ambos 1x/dia por la manana) y del DXW Briefing (solo viernes). Si en los
+# ultimos 50 minutos no hubo ninguna corrida de ese workflow, lo dispara el
+# mismo. Existe porque el cron de GitHub ha estado saliendo con retrasos de
+# 1-2+ horas en este repo (ver README, seccion 8, fila "El cron no dispara
+# solo").
 
 on:
   schedule:
-    - cron: "30 13 * * 1-5" # 30 min despues del radar de la manana
-    - cron: "30 21 * * 1-5" # 30 min despues del radar de la tarde
+    - cron: "30 13 * * 1-5" # 30 min despues del radar y de YouTube Viral (ambos por la manana)
     - cron: "30 13 * * 5"   # 30 min despues del briefing (solo viernes)
   workflow_dispatch:
 
@@ -20,8 +20,7 @@ jobs:
   vigilar-radar:
     if: >-
       github.event_name == 'workflow_dispatch' ||
-      github.event.schedule == '30 13 * * 1-5' ||
-      github.event.schedule == '30 21 * * 1-5'
+      github.event.schedule == '30 13 * * 1-5'
     runs-on: ubuntu-latest
     steps:
       - name: Verificar y disparar AI Radar si no corrio

@@ -50,6 +50,11 @@ PALABRAS_PRIORIDAD = [
     "onboarding", "ux", "product design", "pricing", "saas", "perplexity",
     "search console", "schema", "structured data", "citation", "lead",
     "funnel", "retention", "churn",
+    # Posicionamiento actual de DOUX.WORK: diseno y tecnologia para
+    # negocios de servicios relationship-driven, foco en home services.
+    "design", "web design", "website", "branding", "visual identity",
+    "brand identity", "design system", "operational systems", "operations",
+    "customer experience", "growth", "implementation",
 ]
 PALABRAS_CLAUDE = ["claude", "anthropic"]
 BONUS_CLAUDE = 10
