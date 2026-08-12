@@ -1367,7 +1367,93 @@
     "3ca3835b5f040f92",
     "ffb80aa07e968c59",
     "096bbbafc27f4f63",
-    "e7783afdb1d18c53"
+    "e7783afdb1d18c53",
+    "fb21820d806b1b78",
+    "de2ca3d7578dd51c",
+    "b274e00978a8c030",
+    "afabf475417190c3",
+    "c6d8dcba996b5788",
+    "dbc30e861442f93d",
+    "f5d9b5f669dc0283",
+    "ab799e9da743babb",
+    "1ef7447d0f8a2ce8",
+    "862fc9ebc42aa8f1",
+    "fddedfc6c9378c67",
+    "92d3de559ae10923",
+    "56e761e7871f51a2",
+    "62d67ad900e879a3",
+    "f7afb5668d225498",
+    "1f9a62598095ab1a",
+    "c0e86bbcf0be7423",
+    "e3b322af2b67eab1",
+    "6146dc33f8f24e9e",
+    "01457c2b6a89dca4",
+    "91f033ddafa9e103",
+    "b23b952f09feea49",
+    "829f5c8abe6a51a3",
+    "2daf5bbd0d27d176",
+    "1bf31ea1c20666cc",
+    "f1a9ee4ad552ac99",
+    "20618846e54a2f43",
+    "240323d162f6ea21",
+    "1014d4c0a0944eb3",
+    "ef1f843d81cd3172",
+    "746e9d2360c00266",
+    "7d5e1c7f88408818",
+    "df1934a065cf2e4d",
+    "8d0243c0be6fb859",
+    "40acdea3bd5fe335",
+    "9881547b530ebdda",
+    "d565659c61b485b5",
+    "2e2c1aeff0e962c1",
+    "6a75e3442ba82fea",
+    "4e35450de8757aee",
+    "c2e952dd5c3b0b91",
+    "f6b7334b0852ebbf",
+    "e5ed1cffda69a60a",
+    "b86fe3971fc8b373",
+    "987e61582f254e1f",
+    "9c93659576e58640",
+    "29506e5c526194a6",
+    "7bd0caa0193a678e",
+    "9c4dfc7751bf7969",
+    "6f450efac57fa73d",
+    "d83b8fc7ca7fb826",
+    "f3fa7a727a61e114",
+    "a6452674f3fde219",
+    "e2156eafeeffa8b8",
+    "60ec9d1e4aafe8ef",
+    "91ca17e41b0ad8ff",
+    "855ef5ef0f4102c0",
+    "5a914631469ac947",
+    "58bd12eccb4003b7",
+    "8b8e24076fd25feb",
+    "fa5c2d03118e215a",
+    "7a7b3c8f945abee6",
+    "18bdea99ee05f986",
+    "26d86258cea3d8b2",
+    "844b4f2a64d7b874",
+    "9a49b075d303d2ac",
+    "c0d71f7162780f24",
+    "1a420376f71618ba",
+    "9098d35874b2c3b7",
+    "5d742bd479fb089b",
+    "928a86a53a802e29",
+    "7998693ff32f8abd",
+    "cb035224d1b1e1ec",
+    "18aa39baddb7d6ae",
+    "39257bfc42fc11dc",
+    "e5a8179d431c58a1",
+    "4dc13448839a8684",
+    "f305f38844c994b5",
+    "f22775f9dd658dd3",
+    "d14741c89a28e4c0",
+    "9b3f724696bf246c",
+    "87f63456b6af7b37",
+    "01040de5fb865b2e",
+    "af558e92656f7fba",
+    "b2d14a7ec6d7763c",
+    "5d89e4b3a2292fcc"
   ],
   "archivo": [
     {
@@ -6564,6 +6650,598 @@
       "extracto": "Seedance 2.5 + Blender MCP is the new meta for ai filmmaking Combine Blender +Higgsfield ...",
       "vistas": 69115,
       "miniatura": "https://i.ytimg.com/vi/miIDu04N7_4/hqdefault.jpg"
+    },
+    {
+      "titulo": "From assistance to execution: How enterprises put AI to work",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-12T06:00:00+00:00",
+      "extracto": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+    },
+    {
+      "titulo": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-11T10:00:00+00:00",
+      "extracto": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
+      "titulo": "Daybreak models are now available on AWS",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-11T10:00:00+00:00",
+      "extracto": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
+    },
+    {
+      "titulo": "Compliance API coverage extends to Claude Cowork and Claude Code",
+      "link": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
+      "fuente": "Claude Blog (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-11T00:00:00+00:00",
+      "extracto": "Compliance API coverage extends to Claude Cowork and Claude Code"
+    },
+    {
+      "titulo": "v2.1.228",
+      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.228",
+      "fuente": "Claude Code — Releases",
+      "categoria": "releases",
+      "fecha": "2026-08-11T19:50:59+00:00",
+      "extracto": "What's changed Fixed interactive sessions that could stop redrawing entirely, while the process kept running, after a rare internal layout error Fixed git / Git Bash not being found on Windows when Claude Code is launched from a parent folder of the git installation Fixed /tui reverting the session to an earlier model when /model had been changed since the last response Fixed cross-session messaging sometimes starting without an inbox in the firs..."
+    },
+    {
+      "titulo": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "fuente": "Google AI Blog",
+      "categoria": "releases",
+      "fecha": "2026-08-11T17:00:00+00:00",
+      "extracto": "AMIE promotional video"
+    },
+    {
+      "titulo": "Putting sign language AI into users’ hands",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "fuente": "Google DeepMind",
+      "categoria": "releases",
+      "fecha": "2026-08-12T14:01:59+00:00",
+      "extracto": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    },
+    {
+      "titulo": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "fuente": "Hugging Face Blog",
+      "categoria": "releases",
+      "fecha": "2026-08-12T14:00:51+00:00",
+      "extracto": ""
+    },
+    {
+      "titulo": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-12T11:00:00+00:00",
+      "extracto": "Blacksmith says revenue has grown more than tenfold over the past year."
+    },
+    {
+      "titulo": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T21:39:11+00:00",
+      "extracto": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+    },
+    {
+      "titulo": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T19:15:35+00:00",
+      "extracto": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
+    },
+    {
+      "titulo": "Google’s Gemini app surges to 1 billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T18:49:12+00:00",
+      "extracto": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google."
+    },
+    {
+      "titulo": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T17:41:34+00:00",
+      "extracto": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\""
+    },
+    {
+      "titulo": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T17:41:22+00:00",
+      "extracto": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
+    },
+    {
+      "titulo": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T16:25:20+00:00",
+      "extracto": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect."
+    },
+    {
+      "titulo": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-12T14:00:00+00:00",
+      "extracto": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel [ ]"
+    },
+    {
+      "titulo": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-12T12:09:34+00:00",
+      "extracto": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [ ]"
+    },
+    {
+      "titulo": "Grok is now an AI ‘teammate’ you can assign work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-12T11:58:54+00:00",
+      "extracto": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [ ]"
+    },
+    {
+      "titulo": "Saber denies replacing Rideshare Stimulator s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-12T00:39:26+00:00",
+      "extracto": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [ ]"
+    },
+    {
+      "titulo": "ChatGPT and Gemini both just passed 1 billion users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T19:41:42+00:00",
+      "extracto": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [ ]"
+    },
+    {
+      "titulo": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T17:50:01+00:00",
+      "extracto": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand [ ]"
+    },
+    {
+      "titulo": "Made by Google 2026: all the Pixel news and announcements",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T17:00:00+00:00",
+      "extracto": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google s Gemini AI and other features. Google also showed off its next-gen Pixel Fold featuring [ ]"
+    },
+    {
+      "titulo": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T16:19:15+00:00",
+      "extracto": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [ ]"
+    },
+    {
+      "titulo": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T14:45:44+00:00",
+      "extracto": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [ ]"
+    },
+    {
+      "titulo": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T13:27:20+00:00",
+      "extracto": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [ ]"
+    },
+    {
+      "titulo": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-11T19:48:12+00:00",
+      "extracto": "But will Gemini's surge survive slowing model releases?"
+    },
+    {
+      "titulo": "LinkedIn Is Policing AI Slop, So Time to Reset",
+      "link": "https://www.marketingaiinstitute.com/blog/linkedin-policing-ai-slop",
+      "fuente": "Marketing AI Institute",
+      "categoria": "business",
+      "fecha": "2026-08-12T13:00:01+00:00",
+      "extracto": "LinkedIn just introduced a new option for users: \"Seems like AI slop.\""
+    },
+    {
+      "titulo": "Las pequeñas y medianas empresas reciben apoyo en materia de inteligencia artificial. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zanJPTzFUVU5KdFVyR2dyZG9xUnZvU1o3S2dSTW5FV2ZPWVhyNWZhc3N2Si1WalY0QUN5WVdLelduUlpwWHpGOUlmSVRRTjFHWUxzNE9Cc1V4ejlyamJXZVhGU1VSZGNybTJyLWNLRHRETHZjMVgtVmZLY1Y?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-12T07:04:53+00:00",
+      "extracto": "Las pequeñas y medianas empresas reciben apoyo en materia de inteligencia artificial. Vietnam.vn"
+    },
+    {
+      "titulo": "Ucrania abre a empresas de defensa una base de 5 millones de imágenes de combate para entrenar sistemas militares de inteligencia artificial - Escenario Mundial",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdFlsdkE2dG9DODh4bzFKQlFHQjZZeXl1M0JNTEo5Y3hiNXlWWWRJLTdxSE95NzlGakJfZnlMMUhWMTRXOWpoQXF6VHpvMlFfbk1Id2JHU0tfX2pvYUhLeDJsNEpNeG8xU0RCeDZwNkpsYVhDUUFBU1pMNUYtVmtRR2tXNV9aTWJSMjBUd0NiWDVLUTd1cWhWSGxKeUt3NXVDZC0wQm05clRpRlFEcmwybjdNQk9hWDJZVUQ0MlduU0xCaDZCN1pWdzY5Qm05N21BWGJYR1cycE5PcWNDOFVhUWJVSmJXTXpyTzdlZTZobkNsYVR3STVTejhaTmREWEU4alhVNGJDR3JHX0VsS1ZwcmdRWdIBmwJBVV95cUxQRUVUV1FVR0JWTF83c2RhNFJybkZGbjlHc0FqbXloZXRSbVMtbGVZNk5IdGJGZzlzZHFYLUhZRmhleFVZR0ZDeFp0UDJEcmV5V0N2UkJfcERuQnpBSTVnUzA3bEQxSnlsWjYxMkc4WXNvRVQtMnUzbm4zZEN5MWk2RW5ISko4eEpmY2VzTmxnUXdzUHdkNDhSampGSFlQSHM5UkhhbUtYLVZsTGJhQ3oyZ3hObzFGRE12bzh1SUNLXzZCREtfb3FXemJta0NZbjFWZG0yMzhMRXJTeUhkRmU2bUhCWnpkV0hXUVRRMUUxOTdEcmZUZjlBUENXVXdWNHdfcEs2S0FyTFc1T3lpQ0VTOUoxWERwUGxFVmRV?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-12T04:39:08+00:00",
+      "extracto": "Ucrania abre a empresas de defensa una base de 5 millones de imágenes de combate para entrenar sistemas militares de inteligencia artificial Escenario Mundial"
+    },
+    {
+      "titulo": "La colombiana que busca destrabar el uso de Inteligencia Artificial en el sector financiero - El Espectador",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZk1qSHc5RXFfR2ZzakplQnQ5cDkwSXJQQklWYzRic2h1bEpkaVQyLUlqZGhTaUJqd2dUZjB3Rk1pdmJEYWROQVQ0c1c1VGpldTVZZ2VKYlFidUV4WFlpNWItWFhiWmJmRWx6ZUtlWnVZaHU1Vko2N2ZRZ0FzQXFjekFjWmFMNnlPQ21VTDZKalZvN25lT3BUOHhoRDJtejVtVjlhN0pXdEZ1MzJxbnV6ZHVfdllYT2dRRGxyeWxNTUR4ZXhNVWE5RXQ2dDBZbzdkcndpdVBQYjRmUExwaWRBNFNjLVEwdlo2TzVHdmNwd3c5c0XSAYcCQVVfeXFMTVRwbHo0UDZPV19HRmFkMkhqM005Z05lTGlkdURDQmVwTzFQM0N3X2M5SXVtai1UMzRlNm5rRlI1ZVA4SkFmNXpiOGpiMklxQlJORXo5TmE4ckJfRC1QSzBibmJyQUpuZ3ZtU1piVVZMU0dDWndlM0Nua2tSOUplZWhnYXBrYy1EMWpqYVdvVkJRQXBUSVNFNHlPaW9RbVFKOG5NVm9URmhzeERYa3gzS0E4V21aMWNsbmhrM281UHRoVXVEQ0NrOVNhTHFvOWF2TVNCaE1mODI3ZVFpYmJQY1ZWQ0R4UjRxc0hGVUV2VG9QdHNDejN2NVFBbndBYU1JVlhtRFhTNVU?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-11T14:25:00+00:00",
+      "extracto": "La colombiana que busca destrabar el uso de Inteligencia Artificial en el sector financiero El Espectador"
+    },
+    {
+      "titulo": "Inteligencia artificial en las empresas: de la prohibición a la implementación de políticas de uso - Edomex Al Día",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMWlzNmk0NHBxV3JqcXZmUS1aTW1jMzN3MDF4OWVEVWFXRG9LMEVRbnl4a2w2NHRJVjlUV1IzZkVsR2JvVnFNZVkzQlMyQzV4dnNHeU40Y3pURnMwZ084dTZoR3F5aDFVbWNSQ050RTFvWWd3c3JTSlpDZDVqSlotWjJIQjFZeWt4UlItcjlaanQ0aEJUV1B0Z3VYSk1GaWxWdmRDa3RhN0tVS2VVRG1VZXc1OTJ4UEVJNnZ4YXhRUQ?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-11T23:15:06+00:00",
+      "extracto": "Inteligencia artificial en las empresas: de la prohibición a la implementación de políticas de uso Edomex Al Día"
+    },
+    {
+      "titulo": "Agentes de IA 2026: 40% de apps empresariales adoptarán ejecutores autónomos - El Ecosistema Startup",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZm5VeUxNUWhYSVA3aGk2NUMxWlZzMmwzV29YdTlndHhoZEdoS2NxVHhKdXpDQnpheEFiXzh5SzR4ZFlLMUN4d1dfdUZJa0ZWdW5NNkxKcXc1NF9qdF90V1I5TW1kZmh5Z2g0WFhJaUF2TVJJTUZPTHdxbXM4Z3ZsdUc5NkhpZDN3REZ3a0YwZ2JiU3pLcmw1d3lTLVEwbExFVHZQV1ROZ3I?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-12T08:27:50+00:00",
+      "extracto": "Agentes de IA 2026: 40% de apps empresariales adoptarán ejecutores autónomos El Ecosistema Startup"
+    },
+    {
+      "titulo": "Emprendedores del Maule: Aprenden IA para fortalecer sus negocios - EntrepreNerd",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZEtjcjBmMG9UejItWFJ3aUFhWGQ0THdZckJXc0pXZW1tMzYwSkZwVXVxNFBMbjRDZVJPbG9rM1ZySjZhMXdSZ2dpX005bmJuejBoYk1NT1RBcXNORXNSc0kxOHVLYTVPRUsyTDl5U1J6VzBNZVJPSGhXZWxmaVJIR3BvaUpWeTJkQURUcnZwci1ycVNDR1B2eWxjTVg1MnhkY09wcEhSUTN3bVRITFYtWk9zOW1qMHpWOXVlMzY1ZnFqSjZSTFgzM2xmUm9BWDlOM2xnR1hSLUxsTHJxZlBTQlpB?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-11T18:47:16+00:00",
+      "extracto": "Emprendedores del Maule: Aprenden IA para fortalecer sus negocios EntrepreNerd"
+    },
+    {
+      "titulo": "La inteligencia artificial como estructura en las empresas - Europa Sur",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG8yLUZwTnU5eGtoUzVyclQ5WWs5V1k3LTdfaGplVFRRR2JmYlU4UGMxb3pzY0Zhd0RMWWlMTGNfeTRwamc2aWJrSlduVnVoZWZkNFNfU2JSdjZ3NE9odHlMaVd1TkJwdVhQYUtOdGVmamlPVm1EMmpsQURrTVJYZmxGc29xVF83V0NfM1dKN2lKUC1TVFg0eWliNk9BX0lWYllGWEJZUU3SAa4BQVVfeXFMTWstbG51TWxGU2tiXzVPdUdHYTl3Q1NXYVdfeW1ldExCRlBuMjNqMG52U2s4NXkwOWJnQUdzTG9aTm0yNHlvWEVfVjB0LUpkLTNBbnI3TDJxeDBnMVhVTmJqX1h5alBhVm1oQnJLYVlodE1xRzk5OFRCclNaeHFjYUtTaV9ucElPMWxqQzdYd1pBY25nS2Q1YTduU19QODI4X0lDSncxSTFRTnd5Ulh3?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-12T02:00:46+00:00",
+      "extracto": "La inteligencia artificial como estructura en las empresas Europa Sur"
+    },
+    {
+      "titulo": "Gobernanza de IA: el desafío que las empresas deben resolver para escalar la inteligencia artificial - El Cronista",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRWlRbzNJc3ZLako1enpZb09kWnJVN2RvVUlWMzJybGdGeWtWUFdCWVM3ejhPd01aa0t2bFByM2xXaWt0TWQyWnY4Q3ZUQnkzejE1c0RMMk5pUUFHZHNPb29sdHFoeTRpMC0yd1U3RlhDbHRid0NxNmo0eDNRaVVxSURHLUNKd0REcmNORF95SUZRaG5UdGFhd3pHb2htOG5aNllMUTEtQ1M5bWFqZU11aVRaeWRMbVp1RVhyMnNGaGROVzU4c1BnSWJWZjBJMTFNdU9VSGNvSkhyYjJzQkxwSjlOZ0Rad9IBgAJBVV95cUxPa3duTXM5ZU1mT3pydXRZdVF1U0VFMFRQcmNMWkdFZlROUmsxdFhwckJoVDF6TThxbzBVN3ZwTl9DM2lJS0lTaVlvck9rNVZ4VGFoNG9XT09tYkJUeWR4Q0FFX0xld25NQ3lqbFI0ZFRWc0M3T09XaV8zc29EWDBLZmdxcGJtOHJaSDFYbkh0MmZCRDlPOGVvT3kzcVpPeGR0Q2NGWVVmWmtqTEV1c2tnTV81ZkIxVmliUWxqWEtFNndkXzh5Y1prNU5NSmxQUi0tWTBwZzctc2JraGgxM1JNelhFd1RreU56QkRqUDZzd01QRU14aFdiZUJ4QWt1QmVG?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-11T14:12:28+00:00",
+      "extracto": "Gobernanza de IA: el desafío que las empresas deben resolver para escalar la inteligencia artificial El Cronista"
+    },
+    {
+      "titulo": "Todas las profesiones exigirán competencias en inteligencia artificial - ituser.es",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmtpNGhzc2cxQ1Jra09KM1YxUE01aURramljbFAwMWJyX1RGUEJETnJEMlVMTURWM3h6bTYtdDV6YVRQMjh1V2Viay0xc1g3Q1k4NGVaYmVYUlkzRVBpODJHRGVlYmZkMlR2YVZyNFFIdUx0ZTJ1dHNoT016TXlYWngwMjFJQ0Y4dDJOQmpScE5GQS11TUJ6d0RQVHRNblJpX3VsVFFUWlJQRTBEQThZ?oc=5",
+      "fuente": "GN — IA y negocios (ES)",
+      "categoria": "business",
+      "fecha": "2026-08-12T07:05:00+00:00",
+      "extracto": "Todas las profesiones exigirán competencias en inteligencia artificial ituser.es"
+    },
+    {
+      "titulo": "Zuckerberg lays out Meta’s new vision for AI: Personal intelligence for all - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0FITXNRd0VONHgzd3FsUWNyOURnSWNUR0hUaEUwa1FOMlFiTngzZ3p4VmdyR1hHcktsa1l4c21Cc3FzUnNyRWtucHBXWnQ3bGU2V3BOVHpNSUF5MVdGU19jQmtPX1lYR2RDT09pVHpNQVVfYjA4MWp6ajlUQWhvdU5ZbktZbE0xblRkSnc4OGE4WWREME4xeU9MQktkTDhk?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-12T10:00:00+00:00",
+      "extracto": "Zuckerberg lays out Meta’s new vision for AI: Personal intelligence for all Los Angeles Times"
+    },
+    {
+      "titulo": "Factors that make radiologists less likely to be fooled by large language models - Radiology Business",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMS1xMDliX29MbGdBX1VjV2FuM09nQVJCai04a21LamdKNHVocUd5Y1RqSmpEdnNEYkJtZWVocE9SNTBZSUZVRmlvTFRWQlR5Q0hEeWVsSlEtUmJiRldKRkRybUNjWlFCWnVIbHNXbEJLZzlnYXR3R1E5ZjIzQXFBNU5iQzU3VlE2emVWUmJGdzg4NS15RG1ady1ZV0tJSGFfTGd5OWp2aEl1NHBuRHRUZjdPWEtLcXJBWFdPRVRyYTc5b3pZU2Z4TjR3?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-12T06:04:39+00:00",
+      "extracto": "Factors that make radiologists less likely to be fooled by large language models Radiology Business"
+    },
+    {
+      "titulo": "The Difference Between Artificial Intelligence and Artificial Intellect - aibusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFpwazNwZHdwcGtXZ1R3VlVLYl8yVi1FNVU5eEJOSjZxX0RHSjBsX2pxdmFQLVB0emVMOWpVaXpxR0dSSTZJY0UwdC1qZ1V1bC1jVU1JX0lXZndBVzhSQ2szOGk2NW9JZUtjbEVMcXJXVEJMMzEwTU90NFczZzJaWk4wX19fMEdaN3NVTnNnWmZFckVBeC1HblN6cmFfaHZwSW01SjNsQQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-11T21:18:25+00:00",
+      "extracto": "The Difference Between Artificial Intelligence and Artificial Intellect aibusiness.com"
+    },
+    {
+      "titulo": "Sanders Calls on AI Companies to Pause Development to ‘Avoid Disaster’ - GV Wire",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXl4Q2JYRzNDNnJ3Wl9ERnEyZUZMUmtLN3NnRHNfNE9ZUGFnQkJRWjY1SFExVnBncDVWZHZwU1lnRk41eTdZYmFENnFKS2tLYU9rV1BSMjJHd3FxN25qLU55ZW8zc3J2YXBoUnBqOEFwSnZuMGh6VXdvdDluaF9PQjVlZXpnQjhiS1FPQnZLOVFUVVloZnYyX3oySFA5dG9p?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-11T16:18:48+00:00",
+      "extracto": "Sanders Calls on AI Companies to Pause Development to ‘Avoid Disaster’ GV Wire"
+    },
+    {
+      "titulo": "Evolve your marketing with new AI tools - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wd0NkZTluX05pTzdhWGZETEc4cHFGbEVJZmduVndhUzF3bjNXNVYzUG1sMVllR2xzUURLX0hnLVpBcnM4NVEyUS13NVN3TTJpSG55R3lDU0lBNmd2V1haWUdlTjF4dlduWWF3bURNVUl4anRkdFY2Tk9TTGN1ZWs?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T14:36:00+00:00",
+      "extracto": "Evolve your marketing with new AI tools blog.google"
+    },
+    {
+      "titulo": "PM Netanyahu launches national AI program, vows Israel will become a 'global superpower' - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkFUNnhLWWdqV3gwVDJyQVdXd1l1OWNTV1dSRFdnUEhXcnd1N2Y4bnBKbzN6SHhIZkE4TUdTbU1lYmFxLWQxWjQwd01wVl9kMUdDSDR3ZGRvQjFJNEVpd0FOdVk0V2tTekdvRHRacThLckVoZ2J4Z1R5TFdPbjRodXA4UEVQdw?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-11T17:51:07+00:00",
+      "extracto": "PM Netanyahu launches national AI program, vows Israel will become a 'global superpower' The Jerusalem Post"
+    },
+    {
+      "titulo": "Illustration shows message reading \"AI artificial intelligence\", keyboard and robot hands - The Daily News | Texas' Oldest Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONjB2UjYtcTlyTTgwYk52TU5uLVRJUUFndnNfeEJZRVBwSGxXSk9uQXVaRmVpMjFRZkxmdmxFb1FPeER1S0F1Q24wNzV0Ym93ZHhibzlsdjNDRFEtOXVWYW1mdGtVWjVwVEJ3X0hqdmx3Nllad2I5R1cyd1Q3MldmSWg5WmRadG1XNXkzU0x6dW41WUFzYmZTTHgxTXprQnoxWXBmT3VjZXlkQjl3bHRSQWRUMnpLSzhaNnVGUkZoeldmV05TOE9GUTB4cUE5NG11enVTeHZ4Z19TZnYzNDNPTUwzcWluUlRZUUFubXhzb25tZXVJQVBHUUpDTGp0OG5wYTI5TjEzbW9wMVE2ZVE?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-11T13:38:49+00:00",
+      "extracto": "Illustration shows message reading \"AI artificial intelligence\", keyboard and robot hands The Daily News | Texas' Oldest Newspaper"
+    },
+    {
+      "titulo": "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution - KFF Health News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObW1qOHJIeHdmSnNLbG5oXzE2UXYxVXVERE9FZDJEN0Voa1ROSzRFMmxiV09wRHpaWktKRlFjemxfVE1QeURIR21SWkN1U2hLN1hzSmZIWmtVSWxKMERYd3NURUNfQVIwV3lOWjVsck1ELVk5TEVLV1dEdDg1bFNSMTdBLXlmSmxtUXptanA2SnNuazBxeW1WOXBn?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-11T09:02:21+00:00",
+      "extracto": "Patients Wary of Governments, Companies Pushing AI as a Rural Healthcare Solution KFF Health News"
+    },
+    {
+      "titulo": "Don’t automate bad workflows: Why AI should begin with redesign - cio.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcklHRXBUVmNQSXZjdkZCNzZNRjhuUW42SGpGVWJJOU43V1psNDY0Tk1UcklhTENCWE14RGJ2UzRGNVd6eDRlZkFoaDZWenQzRHYwTHgyZDNKQTljVWRPWGY4UzRYMXgwdkhDTzZwel85ZVRLX1BvMGxvejlVb01xRHdVYUlNcTN0U25zVTFwUXcyUk95ZWJQb0x2dXNYbTBISF9SNQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T22:12:55+00:00",
+      "extracto": "Don’t automate bad workflows: Why AI should begin with redesign cio.com"
+    },
+    {
+      "titulo": "Radiologists report relatively few 'meaningful' benefits from breast imaging AI - Radiology Business",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXNhV2g0clo2WG9JMFA5N0FIOGJkX1hROWhTNmt6REVnNU5faWU4Nk1CWmhxMDhsOThsTnM3MnlLb2JVajBvcFFZbDBHUmo4YlFncVJURENLVzcyeGI2OG5ualR6YmFQZXQ3cmVQbnh3LUJ0UjhncWV4ZzJ1Q29OQjB0U3hBODd5VlBlN2hldUk2elQ5dkxMcU1pSlF6V3k4SlRXTUgwUWtONTFZN3VpNHdpX2NkOUFtVHNiWWoyNVJ6UzdMUnVuLWJDYjdyQQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-11T21:41:57+00:00",
+      "extracto": "Radiologists report relatively few 'meaningful' benefits from breast imaging AI Radiology Business"
+    },
+    {
+      "titulo": "Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDc1WXZaYTRHSnRZZkd3T2JMUGo5Q1JrODl6TWNkV09pX2ppcjFVZkNCUTBrLUZPU1ZLOWJVRUtHMm9YWUl1RXRmNXZfYzd1WExZMU5qa20tQmFKVFFoX2N3VFdPemNlWnRocDBrT250b0tscThGWEloeHI1ZjVRVzJMTGlEaWJWRWl6WHpUWmIxNjlBNVpXQQ?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-10T18:38:00+00:00",
+      "extracto": "Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity The Guardian"
+    },
+    {
+      "titulo": "OpenAI targets heavy users with premium ChatGPT Business seats - cio.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZmJ5Skt5ZFV1YS1oTGxaU3hPcU0zM24yWTNNVFA1WnJvNzE1N01iWTlNS3NJRkRyVUVCOUpzRnhwMEpPYUpqdGJTeXU0N1U3Q2NoZ1FoS1RTM2lrTzJqbmN4X3BrWlo0NzYzbWJvaUU1TkNuSjdqNTRYWVNBc201VTZGTUhpRjE4bDAwVGVLb0U5X3FaTXdjb2stbkpsaUhwUE1XTDln?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-11T06:02:56+00:00",
+      "extracto": "OpenAI targets heavy users with premium ChatGPT Business seats cio.com"
+    },
+    {
+      "titulo": "SpaceX Bets on AI as Musk Expects AI Revenue to Surpass All Other Business - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU2Q0eDNMcFVzNHZ2SjRNZzZaSzRYdXVvcDRzUFEtQllKb28zMS0xalJuT1EtYkJZbUNxMV9mUjZOZVh6X3ZaNTNGcTdVOVJvNE9qZnZrUnlPUkI0djg1WFRwZFdvNm4wUV9GY2pRYl9sSUVMY201UG1tMzEwcjZBUGdOY3N1UU56d1NkbzRjV1E3bGlwM09BcVdlUElSTXJmTkpCTVRGUXIyQll0LTlla1d5bVNRUTZfSVFaR2RhS0NxVG9NMXFNOTJKMmNlN2EtTFVHVHhRYUlNU3NoVmh4QThpRVk?oc=5",
+      "fuente": "GN — AI & business news (EN)",
+      "categoria": "business",
+      "fecha": "2026-08-12T07:23:35+00:00",
+      "extracto": "SpaceX Bets on AI as Musk Expects AI Revenue to Surpass All Other Business TradingKey"
+    },
+    {
+      "titulo": "Google Ads New Local Customer Optimization Help Doc",
+      "link": "https://www.seroundtable.com/google-ads-new-local-customer-optimization-41862.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T11:51:00+00:00",
+      "extracto": "With Google migrating Local Service Ads to the main Google Ads platform, Google is already preparing new Google Ads help documents with more details about the change. A new document named About Local customer optimization within Performance Max campaign for store goals was just posted by Google."
+    },
+    {
+      "titulo": "Google Amends Lawsuit Against SerpApi Over Licensed Content",
+      "link": "https://www.seroundtable.com/google-amends-lawsuit-against-serpapi-41860.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T11:41:00+00:00",
+      "extracto": "After Google's lawsuit against SerpAPI, the Google Search scraper tool, was dismissed a month ago, Google has decided to amend the complaint. Google filed the amendment on August 10, 2026 as an \"Amended Complaint.\" Google is now taking an approach around protecting licensed content within its search results."
+    },
+    {
+      "titulo": "Google AI Overview Local Results Pulling From Low-Quality Listicles",
+      "link": "https://www.seroundtable.com/google-ai-overview-local-results-listicles-41854.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T11:31:00+00:00",
+      "extracto": "Google will randomly show AI Overviews for local results, and when it does, It will often show AI-generated information about each local listing. The issue is that Google often cites low-quality and self-promotional listicle articles from across the web when showing those snippets in the local pack."
+    },
+    {
+      "titulo": "Google Merchant Center Performance Reporting Update Coming August 24th",
+      "link": "https://www.seroundtable.com/google-merchant-center-performance-report-update-41859.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T11:21:00+00:00",
+      "extracto": "Google announced several new updates to the Merchant Center performance report, starting on August 24, 2026. There are four updates: separating YouTube affiliate results from organic traffic, updating the YouTube organic traffic definitions, expanding product-level reporting for Google Ads, and adding new performance segmentation capabilities."
+    },
+    {
+      "titulo": "ChatGPT Ads With AI Descriptive Heading",
+      "link": "https://www.seroundtable.com/chatgpt-ads-descriptive-heading-41853.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T11:11:00+00:00",
+      "extracto": "OpenAI is testing placing descriptive headings above the ads within ChatGPT responses. I assume it is using AI to generate these headlines above the ChatGPT Ads."
+    },
+    {
+      "titulo": "Daily Search Forum Recap: August 11, 2026",
+      "link": "https://www.seroundtable.com/recap-08-11-2026-41852.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T14:00:00+00:00",
+      "extracto": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "titulo": "Deliver Secure and Reliable OTPs with Twilio Verify and PingOne",
+      "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/pingone-custom-server-mfa-verify",
+      "fuente": "Twilio Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T00:00:00+00:00",
+      "extracto": "Learn how to integrate Twilio Verify with PingOne using a custom server to enable multi-factor authentication."
+    },
+    {
+      "titulo": "Google Sheets automation ideas to organize your work",
+      "link": "https://zapier.com/blog/automate-google-sheets",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T07:00:00+00:00",
+      "extracto": "Google Sheets is an industry-agnostic powerhouse. Like Google Docs, it's built for collaboration—and you can use it for just about anything that can be organized into rows and columns. Manage your freelancer roster. Track your quarterly budget. Monitor inventory levels across warehouses. Whatever needs tracking, Sheets can probably handle it. But as versatile as the tool is, your spreadsheets can quickly get messy, especially when you're manually..."
+    },
+    {
+      "titulo": "Introducing the n8n Culture/Code",
+      "link": "https://blog.n8n.io/n8n-culture-code/",
+      "fuente": "n8n Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T09:52:25+00:00",
+      "extracto": "I m going to start this post by talking about dishes. Yes, it s a metaphor. But it s literal, too. We recently launched our refreshed company values, in the Culture/Code, at our all-company offsite IRL in Berlin in April, which is"
+    },
+    {
+      "titulo": "Grok Bot",
+      "link": "https://www.producthunt.com/products/grok",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T10:46:56+00:00",
+      "extracto": "AI teammates that you can give real work to Discussion | Link"
+    },
+    {
+      "titulo": "Chat Agent by Trigger.dev",
+      "link": "https://www.producthunt.com/products/trigger-dev",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T20:10:54+00:00",
+      "extracto": "AI chat that keeps running after you close the tab Discussion | Link"
+    },
+    {
+      "titulo": "Unsloth Desktop",
+      "link": "https://www.producthunt.com/products/unsloth",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T03:47:50+00:00",
+      "extracto": "Run and train AI models locally on your desktop Discussion | Link"
+    },
+    {
+      "titulo": "Click",
+      "link": "https://www.producthunt.com/products/click-6",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T19:25:25+00:00",
+      "extracto": "Live research context for ChatGPT and Claude Discussion | Link"
+    },
+    {
+      "titulo": "CodeBurn",
+      "link": "https://www.producthunt.com/products/codeburn",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T14:05:35+00:00",
+      "extracto": "See where your AI coding spend actually goes Discussion | Link"
+    },
+    {
+      "titulo": "Nearfield",
+      "link": "https://www.producthunt.com/products/nearfield",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T14:29:46+00:00",
+      "extracto": "Turn two or more Studio Displays into stereo speakers Discussion | Link"
+    },
+    {
+      "titulo": "Media Sharing",
+      "link": "https://www.producthunt.com/products/argos",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T07:03:12+00:00",
+      "extracto": "Let AI agents put screenshots and videos on pull requests Discussion | Link"
+    },
+    {
+      "titulo": "Sidekick™",
+      "link": "https://www.producthunt.com/products/sidekick-16",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T19:58:53+00:00",
+      "extracto": "The agentic interface Discussion | Link"
+    },
+    {
+      "titulo": "LaraCopilot",
+      "link": "https://www.producthunt.com/products/laracopilot",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T08:52:16+00:00",
+      "extracto": "Agentic AI Engineer that builds real apps Discussion | Link"
+    },
+    {
+      "titulo": "Cohesor",
+      "link": "https://www.producthunt.com/products/cohesor",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T01:47:03+00:00",
+      "extracto": "A neutral control plane for enterprise AI agents Discussion | Link"
+    },
+    {
+      "titulo": "BearDrive",
+      "link": "https://www.producthunt.com/products/beardrive",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T23:31:29+00:00",
+      "extracto": "The open-source shared folder for your team's AI agents Discussion | Link"
+    },
+    {
+      "titulo": "Linforge",
+      "link": "https://www.producthunt.com/products/linforge",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-11T19:55:22+00:00",
+      "extracto": "Turn Anki flashcards into real English conversations Discussion | Link"
+    },
+    {
+      "titulo": "What Is Google My Business Local SEO? - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56TjQ0cHVBbXk5YkczQThnMFNQbS1XMWFVVERsZzVRV0JWWHY4eTEzNzMwTVRHSmw1Vld6OVVLQWlPanhBT2s0bzJ1VU15Wkhsc2x4b1dRMzBhaTBzSzJ1eXRWeC04cmM2X3ktX3p1bw?oc=5",
+      "fuente": "GN — Google Business Profile",
+      "categoria": "dxw",
+      "fecha": "2026-08-10T23:00:00+00:00",
+      "extracto": "What Is Google My Business Local SEO? Coursera"
+    },
+    {
+      "titulo": "Get Found Locally: The Google Business Profile Playbook - Nasscom",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTnRtNXZsVGFvWGE5bnFKOGxNaWplQlc5TzhzWWNLWEZtSXNodEhkZVNSMGpfbTJtLXo1UnB6RURHN2JXSU5rYml2Wk9fVEVtekZvbXRPWDlHTndRTk5fMWlaMnJPb2s5bDc5bW81azM3dXBtVmwyVDRXNkpoTnhyLUpMU1RlS01YdE5KY0NxWkFGeUF4ZEx1M2ZseGFiUllYenJ1cnlVTzI1bzQ?oc=5",
+      "fuente": "GN — Google Business Profile",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T05:27:58+00:00",
+      "extracto": "Get Found Locally: The Google Business Profile Playbook Nasscom"
+    },
+    {
+      "titulo": "SimBuster Launches Mobile Telecom Platform with App-Based IVR and AI Receptionist - The Fast Mode",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2RPRkh5TzVhLVVnY2trQ09FR0tWemlldFdEUGxSaG9nRlplTlB0MXZoV2RGUl9YMWFDTXRSNVR2d3RwaTZTY1QwQnhTVm1GNF96OGN4QjY0bFRZN2lNMXo0TU84WFFxMmhNQUswSFhOMlowT3J4OUdTVk9IWHMyekZXXzFrXzIwZlFOaGdQeVdCZDRtSkV6MlVuSlNGdF9mWjVxbU5iTVdHOTFRemxzMkJ5Z0JnZGpBTTVxeWI4eU5HbmFMYzZSTkVZMzZYbUNSSmc?oc=5",
+      "fuente": "GN — Voice AI agents",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T00:39:39+00:00",
+      "extracto": "SimBuster Launches Mobile Telecom Platform with App-Based IVR and AI Receptionist The Fast Mode"
+    },
+    {
+      "titulo": "Generative Engine Optimization (GEO): Your Website Now Has a Twin That Only AI Reads - Dawan Africa",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObHhCOXpaNk1pc0VMOTcyWGo3NWZnLWJ2OGVtLUR0R05HZWZ3UHVvenJGVjg0d0JXcENDYWxKaGNweG5pV18xX3lyeWU2V0otY0Q4eVFHMHNINmI5N2g2ZTNPVVhDRDZQUnZldXcxQ2lBM2tUajJaMHQxSTJYRHZ6ZE45ZDJOWkhYREFLNVlINjhQakp3aDhGREN4Z01SQnBBa1ZIWlhEQUZlNkM1a3BxbQ?oc=5",
+      "fuente": "GN — AEO / GEO / AI search",
+      "categoria": "dxw",
+      "fecha": "2026-08-12T08:05:44+00:00",
+      "extracto": "Generative Engine Optimization (GEO): Your Website Now Has a Twin That Only AI Reads Dawan Africa"
     }
   ]
 }
