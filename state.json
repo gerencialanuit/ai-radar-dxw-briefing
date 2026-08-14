@@ -1597,7 +1597,73 @@
     "9637b99c9ebb98d8",
     "01d19bd684b540d0",
     "2fabc1b8eaf8a370",
-    "2e146148182e86d0"
+    "2e146148182e86d0",
+    "855fa77e93e122bb",
+    "6357d7795d215a7f",
+    "9e022b7caa78cba4",
+    "2e05544b02db3e86",
+    "39f1251e65bb0f3e",
+    "fa985d7ebd731793",
+    "4cbb438f4fdf5c0b",
+    "068e562e05123807",
+    "c1c988556190aa29",
+    "5fa28c256021e6a7",
+    "f246f0187a7e429f",
+    "36daca8163229ae4",
+    "50fe519914c0b210",
+    "ffe65ba7763d8bd1",
+    "19be7545570f2503",
+    "3c1e339863d8d48c",
+    "6379594f9f2cc0d3",
+    "8f3690308cf0ca76",
+    "94276ce14a91342a",
+    "e49d8ab74c9bde85",
+    "7ef3df11df69aec2",
+    "fe4907265c64935c",
+    "215d9c4955c12227",
+    "76b476decad2fe06",
+    "effac15da4da9444",
+    "e3152e562fa7d4a4",
+    "cf3951101d71f92d",
+    "f1245ef7ee3d12b8",
+    "438e0cb04ea02392",
+    "46afea07e0632474",
+    "caf4145081c5da64",
+    "e97bc89315d5ef65",
+    "6fdee50f4e0cd17a",
+    "c903b48f20dca871",
+    "f01c060956eac670",
+    "fc2f1c3af704c481",
+    "629aacbaa815580b",
+    "e81abfa672f48d15",
+    "d96944137148a9b0",
+    "e159ea9ebe1a1ba7",
+    "0f676982117a0636",
+    "151c626fc9310a93",
+    "db2b8534acef89f0",
+    "26ef68f97672a667",
+    "e82bcb76d76b7d31",
+    "410326968ef0f2a1",
+    "eab8b6d6f7c854ad",
+    "c3d67339f0e24d88",
+    "f85535681c0ebd6b",
+    "6cf744ae379fbd2f",
+    "ebc9101745c77af3",
+    "715aff4fdc1ce193",
+    "ceb2f2972a6ede3d",
+    "5e9b4010ee4d4df3",
+    "fbcf1435389138f4",
+    "4045b846a0ff2310",
+    "036743bcaf95b172",
+    "f86bf59f4880d139",
+    "c21c1d9c3ac8bd47",
+    "08e7720e6ee379d1",
+    "82477f1dd6300a46",
+    "8ef9fd6e837e9b45",
+    "c28c84c8c12a57fa",
+    "4d97e5be6850b111",
+    "9d57e3ffad5ff9a4",
+    "725d4ed09e27aeb9"
   ],
   "archivo": [
     {
@@ -8470,6 +8536,486 @@
       "extracto": "For professional-low latency trading APIs, start your algorithmic trading journey with https://arrow.trade/ Book a demo today ...",
       "vistas": 48651,
       "miniatura": "https://i.ytimg.com/vi/ria60hCiv0Q/hqdefault.jpg"
+    },
+    {
+      "titulo": "The builder’s guide to GPT‑5.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-13T11:00:00+00:00",
+      "extracto": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+    },
+    {
+      "titulo": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-13T10:00:00+00:00",
+      "extracto": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+    },
+    {
+      "titulo": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "fuente": "OpenAI News",
+      "categoria": "releases",
+      "fecha": "2026-08-13T09:00:00+00:00",
+      "extracto": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
+    },
+    {
+      "titulo": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+      "link": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
+      "fuente": "Claude Blog (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-13T00:00:00+00:00",
+      "extracto": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5"
+    },
+    {
+      "titulo": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
+      "link": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+      "fuente": "Claude Blog (mirror)",
+      "categoria": "releases",
+      "fecha": "2026-08-13T00:00:00+00:00",
+      "extracto": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions"
+    },
+    {
+      "titulo": "v2.1.232",
+      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.232",
+      "fuente": "Claude Code — Releases",
+      "categoria": "releases",
+      "fecha": "2026-08-13T23:29:59+00:00",
+      "extracto": "What's changed Subagent forking is now on by default: a subagent_type: \"fork\" subagent inherits the full conversation and prompt cache, and non-teammate agent spawns in interactive sessions now run in the background by default Type @ in the prompt to mention another Claude session by name; Claude then uses SendMessage to reach that session directly SendMessage now delivers to a bare name that exactly matches one live session, instead of asking to..."
+    },
+    {
+      "titulo": "Bring your spreadsheet data to life with Sheets canvas",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "fuente": "Google AI Blog",
+      "categoria": "releases",
+      "fecha": "2026-08-13T16:45:00+00:00",
+      "extracto": "The video shows Sheets canvas in action."
+    },
+    {
+      "titulo": "Introducing Gemini 3.7 Flash",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "fuente": "Google DeepMind",
+      "categoria": "releases",
+      "fecha": "2026-08-13T17:04:18+00:00",
+      "extracto": ""
+    },
+    {
+      "titulo": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "fuente": "Hugging Face Blog",
+      "categoria": "releases",
+      "fecha": "2026-08-13T17:16:04+00:00",
+      "extracto": ""
+    },
+    {
+      "titulo": "What We Learned by Reproducing 2,200 papers from ICML",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "fuente": "Hugging Face Blog",
+      "categoria": "releases",
+      "fecha": "2026-08-13T00:00:00+00:00",
+      "extracto": ""
+    },
+    {
+      "titulo": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-14T14:05:00+00:00",
+      "extracto": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+    },
+    {
+      "titulo": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T21:13:24+00:00",
+      "extracto": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+    },
+    {
+      "titulo": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T20:14:39+00:00",
+      "extracto": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+    },
+    {
+      "titulo": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T19:22:40+00:00",
+      "extracto": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+    },
+    {
+      "titulo": "IBM partners with OpenAI to bolster enterprise AI push",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T19:19:49+00:00",
+      "extracto": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
+    },
+    {
+      "titulo": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T18:28:14+00:00",
+      "extracto": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
+    },
+    {
+      "titulo": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T17:07:13+00:00",
+      "extracto": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
+    },
+    {
+      "titulo": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T15:30:52+00:00",
+      "extracto": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
+    },
+    {
+      "titulo": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T15:08:00+00:00",
+      "extracto": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
+    },
+    {
+      "titulo": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "fuente": "TechCrunch AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T14:34:43+00:00",
+      "extracto": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
+    },
+    {
+      "titulo": "Apple trained its own AI model for China with help from Alibaba",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-14T09:21:17+00:00",
+      "extracto": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [ ]"
+    },
+    {
+      "titulo": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T21:42:38+00:00",
+      "extracto": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [ ]"
+    },
+    {
+      "titulo": "OpenAI is losing its second executive this week",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T19:28:39+00:00",
+      "extracto": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [ ]"
+    },
+    {
+      "titulo": "Suno is trying to look more like a real music production tool",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T16:00:00+00:00",
+      "extracto": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [ ]"
+    },
+    {
+      "titulo": "I looked inside an AI generated movie, and the best parts were all human",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "fuente": "The Verge — AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T15:30:00+00:00",
+      "extracto": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to [ ]"
+    },
+    {
+      "titulo": "The new Instagram logo is the perfect embodiment of AI slop",
+      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T17:32:10+00:00",
+      "extracto": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful."
+    },
+    {
+      "titulo": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "fuente": "Ars Technica AI",
+      "categoria": "news",
+      "fecha": "2026-08-13T17:00:13+00:00",
+      "extracto": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\""
+    },
+    {
+      "titulo": "Search News Buzz Video Recap: Google AI Home Page Test, AI Local Pack Slop, Google Poaching Advertisers & Meta Building A Search Engine",
+      "link": "https://www.seroundtable.com/video-08-14-2026-41871.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T12:01:00+00:00",
+      "extracto": "This week, we of course had more Google search ranking volatility, this time on the 12th. Google is testing new AI buttons on its home page..."
+    },
+    {
+      "titulo": "Google Ads Language Targeting Update Coming In September",
+      "link": "https://www.seroundtable.com/google-ads-language-targeting-update-41867.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T11:51:00+00:00",
+      "extracto": "Google Ads will roll out a change to language targeting that will remove the ability to manually adjust the language setting. This change is happening next month, in September 2026. Google said its ad systems already match languages automatically and enhanced AI prioritization will automatically select the most relevant ad language when there are eligible ads in multiple languages, Google told me."
+    },
+    {
+      "titulo": "Google AI Overviews With AI-Generated Images In The Wild",
+      "link": "https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T11:41:00+00:00",
+      "extracto": "A month ago, we reported that Google said it would be rolling out AI-generated images within AI Overviews in Google Search. Well, it seems Google is starting to roll out those AI-generated images in AI Overviews this week."
+    },
+    {
+      "titulo": "Google Merchant Center For Agencies Can Link Up To 1,000 Accounts",
+      "link": "https://www.seroundtable.com/google-merchant-center-for-agencies-1000-accounts-41870.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T11:31:00+00:00",
+      "extracto": "Google updated a help document within the Google Merchant Center help area to document that Google Merchant Center for Agencies can now link to up to 1,000 Merchant Center accounts. Previously, that number was not there, and now we know - up to 1,000 accounts can be linked to a single agency account."
+    },
+    {
+      "titulo": "Googlebot Say They Are Coming From California But Might Not",
+      "link": "https://www.seroundtable.com/google-crawlers-location-googlebot-41874.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T11:21:00+00:00",
+      "extracto": "As we know, Google has often declared that its crawlers, Googlebot, etc, come from Mountain View, California. But the truth is, that is where they self-declare the bots are coming from. Google has data centers all over the world, and even though Google may be declaring the crawler is coming from a specific location, it might be coming from a different location."
+    },
+    {
+      "titulo": "Google Local Report Owner Response",
+      "link": "https://www.seroundtable.com/google-report-owner-response-41873.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T11:11:00+00:00",
+      "extracto": "Google has a new reporting option for reviews in Google Business Profiles and Google Local. This one is called \"Report owner response.\" It lets you tell Google if an owner response to a review is off-topic, contains profanity, is harassing, discriminatory, hateful, or includes personal information."
+    },
+    {
+      "titulo": "Daily Search Forum Recap: August 13, 2026",
+      "link": "https://www.seroundtable.com/recap-08-13-2026-41868.html",
+      "fuente": "Search Engine Roundtable",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T14:00:00+00:00",
+      "extracto": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "titulo": "How to Build Passwordless Auth Using TOTP With Twilio Verify in Node.js",
+      "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-nodejs",
+      "fuente": "Twilio Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-17T00:00:00+00:00",
+      "extracto": "Learn how to build secure passwordless authentication in Node.js using Twilio Verify and TOTP."
+    },
+    {
+      "titulo": "Build Persistent Customer Memory with Twilio Agent Connect and Conversation Intelligence",
+      "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-persistent-customer-memory-with-twilio-agent-connect-and-c",
+      "fuente": "Twilio Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T00:00:00+00:00",
+      "extracto": "Learn how to build an AI assistant with persistent customer memory using Twilio Agent Connect, Flex, and Conversational Intelligence."
+    },
+    {
+      "titulo": "Migrate from Programmable Messaging to Verify",
+      "link": "https://www.twilio.com/en-us/blog/migrate-programmable-messaging-to-verify",
+      "fuente": "Twilio Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T00:00:00+00:00",
+      "extracto": "The Verify API is a purpose-built solution for sending OTPs with features like regulation and compliance management, managed sending phone number pool, and multi-channel support."
+    },
+    {
+      "titulo": "How to Build Passwordless Auth Using TOTP With Twilio Verify in Python",
+      "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-python",
+      "fuente": "Twilio Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T00:00:00+00:00",
+      "extracto": "Learn how to implement passwordless authentication in Python using TOTP and Twilio Verify covering factor creation, QR code setup, and code validation in a simple web app."
+    },
+    {
+      "titulo": "Combatting chronic loneliness: Age UK volunteers in the spotlight",
+      "link": "https://www.twilio.com/en-us/blog/insights/AgeUK-volunteers-spotlight",
+      "fuente": "Twilio Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T00:00:00+00:00",
+      "extracto": "Nearly a million older people in the UK are lonely, according to national charity Age UK. Twilio is proud to provide the technology behind Age UK’s 24-hour telephone service."
+    },
+    {
+      "titulo": "Prevent lock-in with AI model flexibility on Zapier",
+      "link": "https://zapier.com/blog/ai-model-flexibility",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T05:00:00+00:00",
+      "extracto": "Every AI provider comes with models of varying strengths. I'm a Claude stan because it just gets my writing style, but I'll often reach for Sonnet over the higher-tier models because its results are more consistent for me. And for some tasks, Claude's lineup doesn't cut it at all—when I need to process data at scale, for example, I might reach for Gemini. When I need a versatile generalist for classification or routing, GPT might be my pick. Othe..."
+    },
+    {
+      "titulo": "Which AI models can you automate on Zapier? (GPT-5.6 Sol, Gemini 3.7 Flash, Opus 5, and more)",
+      "link": "https://zapier.com/blog/ai-models-on-zapier",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T05:00:00+00:00",
+      "extracto": "New AI models launch practically every week, and keeping up with which ones to use for specific workflows is a job in itself. Consider this article your living reference. At Zapier, we run every model through AutomationBench. It's our benchmark for testing how well models carry out multi-step workflows, not just static prompts. Below, I'll walk through every major AI provider available on Zapier, the models you can plug into your Zap workflows to..."
+    },
+    {
+      "titulo": "What is Google Gemini?",
+      "link": "https://zapier.com/blog/google-gemini",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T04:00:00+00:00",
+      "extracto": "Google has been in its \"Gemini era\" for a couple years now, and while the confusing rebrandings have slowed, everything else continues to improve at a rapid pace. Gemini is the name Google gave to its current generation family of multimodal AI models, but in typical Google fashion, it also applies to basically everything else that's related to AI. It can get a touch confusing since, by my reckoning, Google has: Google Gemini, a family of multimod..."
+    },
+    {
+      "titulo": "The 7 best Claude Code alternatives in 2026",
+      "link": "https://zapier.com/blog/claude-code-alternatives",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T04:00:00+00:00",
+      "extracto": "Claude Code, Anthropic's agentic coding tool, is very good at what it does. Its AI models are consistently ranked at the top of leaderboards, it's used daily by engineers at a long list of companies you've heard of, its step-by-step reasoning makes big refactors feel manageable, and even the loading messages are charming. But over the past couple of years, a lot of Claude Code alternatives have been giving it a run for its money. And depending on..."
+    },
+    {
+      "titulo": "The 6 best task automation tools in 2026",
+      "link": "https://zapier.com/blog/task-automation-tools",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T04:00:00+00:00",
+      "extracto": "My dog, Grandpa, has a bedtime protocol. Every night around 10:30, the following sequence must occur in this exact order: final trip outside, water bowl inspection, one (1) dental chew, followed by three ceremonial spins before he lowers himself into sleep. Most of us have a work version of Grandpa's bedtime protocol. Download the CSV. Rename the CSV. Paste the CSV into the other tool. Notify the person who will not read the notification. None of..."
+    },
+    {
+      "titulo": "The 7 best PDF editor apps in 2026",
+      "link": "https://zapier.com/blog/best-pdf-editor-apps",
+      "fuente": "Zapier Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T04:00:00+00:00",
+      "extracto": "Once upon a time, if I wanted to edit a PDF, the only (free) method at my disposal was to essentially recreate the file in Microsoft Word, make any necessary edits, and then save it as a new PDF. PDF editor apps have come a long way since then. Nowadays, the best apps let you easily edit every element of a PDF, including text and form fields, and convert files into other formats like .docx, .xlsx, and .txt. I've tested a lot of different PDF edit..."
+    },
+    {
+      "titulo": "Token prices won’t increase if you host your own LLMs",
+      "link": "https://blog.n8n.io/token-prices-wont-increase-if-you-host-your-own-llms/",
+      "fuente": "n8n Blog",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T08:45:05+00:00",
+      "extracto": "We don t know how much a token really costs. They are subsidized by big tech and most AI providers are operating at a loss. Once funds dry up and providers will have to operate like a normal business, token costs will very likely increase, like they have been"
+    },
+    {
+      "titulo": "oxpecker",
+      "link": "https://www.producthunt.com/products/oxpecker",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T14:59:15+00:00",
+      "extracto": "know which of your lines a vendor just broke Discussion | Link"
+    },
+    {
+      "titulo": "Freebuff",
+      "link": "https://www.producthunt.com/products/freebuff-2",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T17:04:37+00:00",
+      "extracto": "Free coding agents to kill Claude, Cursor, Replit, and Devin Discussion | Link"
+    },
+    {
+      "titulo": "ChordViz",
+      "link": "https://www.producthunt.com/products/chordviz",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T01:28:45+00:00",
+      "extracto": "Build your own music visualizer for MIDI & audio Discussion | Link"
+    },
+    {
+      "titulo": "Theos[RFM]",
+      "link": "https://www.producthunt.com/products/theos-rfm-remote-facility-manager",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T02:57:16+00:00",
+      "extracto": "Manage facilities in 3D, in the real world, in real time Discussion | Link"
+    },
+    {
+      "titulo": "Openmotion",
+      "link": "https://www.producthunt.com/products/openmotion",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T07:46:55+00:00",
+      "extracto": "Turn product screenshots and prompts into motion videos Discussion | Link"
+    },
+    {
+      "titulo": "NS1",
+      "link": "https://www.producthunt.com/products/ns1",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T14:43:54+00:00",
+      "extracto": "Personalized Nervous System Training Discussion | Link"
+    },
+    {
+      "titulo": "min.",
+      "link": "https://www.producthunt.com/products/min-4",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T03:00:00+00:00",
+      "extracto": "CRM that builds itself Discussion | Link"
+    },
+    {
+      "titulo": "Basedash Tasks",
+      "link": "https://www.producthunt.com/products/basedash",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-14T03:29:11+00:00",
+      "extracto": "Run your business on autopilot Discussion | Link"
+    },
+    {
+      "titulo": "isolate.video",
+      "link": "https://www.producthunt.com/products/isolate-video",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T06:31:41+00:00",
+      "extracto": "Turn screen recordings into engaging product videos Discussion | Link"
+    },
+    {
+      "titulo": "Compass Calendar",
+      "link": "https://www.producthunt.com/products/compass-calendar",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T19:31:57+00:00",
+      "extracto": "The keyboard-first calendar to get organized quickly Discussion | Link"
+    },
+    {
+      "titulo": "Suno Studio 2.0",
+      "link": "https://www.producthunt.com/products/suno",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T20:42:41+00:00",
+      "extracto": "Browser-based generative DAW Discussion | Link"
+    },
+    {
+      "titulo": "Gemini 3.7 Flash",
+      "link": "https://www.producthunt.com/products/gemini-3-7-flash",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T18:16:30+00:00",
+      "extracto": "Google's smartest workhorse yet for coding & agents Discussion | Link"
+    },
+    {
+      "titulo": "DeepSeek Harness",
+      "link": "https://www.producthunt.com/products/deepseek",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T13:08:16+00:00",
+      "extracto": "Composable agent harness where everything is a plugin Discussion | Link"
+    },
+    {
+      "titulo": "Port22",
+      "link": "https://www.producthunt.com/products/port22",
+      "fuente": "Product Hunt",
+      "categoria": "dxw",
+      "fecha": "2026-08-13T13:28:31+00:00",
+      "extracto": "Claude Code, Codex & more on your phone Discussion | Link"
     }
   ]
 }
