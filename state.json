@@ -1906,7 +1906,14 @@
     "9239bce5b440cb5f",
     "41619ddb95e2fde2",
     "4c97cc90203ed2a3",
-    "b768c4fce7da3754"
+    "b768c4fce7da3754",
+    "78f84dfec6bfc5a4",
+    "7fda33a1d3135cf8",
+    "58e0a91b90c08ba4",
+    "e14acb73922db349",
+    "c4131178ad8a1fe5",
+    "95abb9e9e2938763",
+    "8f2220ace0a6f299"
   ],
   "archivo": [
     {
@@ -10441,6 +10448,76 @@
       "categoria": "dxw",
       "fecha": "2026-08-17T07:53:42+00:00",
       "extracto": "Adapting Your Martech Stack for Local AI Search Visibility The European Business Review"
+    },
+    {
+      "titulo": "Claude Now Watermarks Its Text. How Do You Even Do That?",
+      "link": "https://www.youtube.com/watch?v=3FhxdhVMJoU",
+      "fuente": "Squintist",
+      "categoria": "youtube",
+      "fecha": "2026-08-13T23:45:25+00:00",
+      "extracto": "Sources & further reading - Anthropic — How Claude marks AI-generated content (the support page this starts from) ...",
+      "vistas": 170146,
+      "miniatura": "https://i.ytimg.com/vi/3FhxdhVMJoU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude s Watermarks Just Broke SEO",
+      "link": "https://www.youtube.com/watch?v=KUeW3zzF49A",
+      "fuente": "Caleb Ulku",
+      "categoria": "youtube",
+      "fecha": "2026-08-14T15:45:44+00:00",
+      "extracto": "Join my FREE Live Class to get AI to do your SEO work: https://events.calebulku.com/?utm_source=youtube - Join our ...",
+      "vistas": 117264,
+      "miniatura": "https://i.ytimg.com/vi/KUeW3zzF49A/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Design FINALLY Solved Motion Graphics",
+      "link": "https://www.youtube.com/watch?v=RDytbVDzMF4",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-08-14T18:18:04+00:00",
+      "extracto": "Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month) Free Skill From Video: https://bit.ly/4wynDlE ALL ...",
+      "vistas": 64399,
+      "miniatura": "https://i.ytimg.com/vi/RDytbVDzMF4/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Start Making AI Videos In 2026 (Beginner to Advanced)",
+      "link": "https://www.youtube.com/watch?v=0GO3-JzQjzg",
+      "fuente": "Youri van Hofwegen",
+      "categoria": "youtube",
+      "fecha": "2026-08-11T15:00:14+00:00",
+      "extracto": "Create the BEST AI Videos using Higgsfield https://youricreates.com/Higgsfield In this video, I show you the complete workflow ...",
+      "vistas": 33144,
+      "miniatura": "https://i.ytimg.com/vi/0GO3-JzQjzg/hqdefault.jpg"
+    },
+    {
+      "titulo": "TRUCO CLAUDE 9 CÓDIGOS SECRETOS #ia #ai #chatgpt #bigdata #data #bilbao #claude",
+      "link": "https://www.youtube.com/watch?v=lzMnZSmrxXs",
+      "fuente": "maxmaxdata",
+      "categoria": "youtube",
+      "fecha": "2026-08-12T04:47:03+00:00",
+      "extracto": "",
+      "vistas": 48245,
+      "miniatura": "https://i.ytimg.com/vi/lzMnZSmrxXs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Speedrunning a $100k/month shopify store (w/ claude ai) pt.1",
+      "link": "https://www.youtube.com/watch?v=IbObinWjfHg",
+      "fuente": "Perry Xie",
+      "categoria": "youtube",
+      "fecha": "2026-08-11T22:00:12+00:00",
+      "extracto": "pt.2: i will go over creating Winning Native Ads + my Full Meta Ads launch/testing strategy - stay tuned X: https://x.com/theperryx_ ...",
+      "vistas": 23664,
+      "miniatura": "https://i.ytimg.com/vi/IbObinWjfHg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Use Claude Better Than 99% of People (Beginner to Pro)",
+      "link": "https://www.youtube.com/watch?v=5aUgDDWd4-k",
+      "fuente": "Futurepedia",
+      "categoria": "youtube",
+      "fecha": "2026-08-16T20:10:15+00:00",
+      "extracto": "Free Claude Guide:* https://clickhubspot.com/16na More from Futurepedia: Join the Skill Leap AI education platform! Try it free ...",
+      "vistas": 21245,
+      "miniatura": "https://i.ytimg.com/vi/5aUgDDWd4-k/hqdefault.jpg"
     }
   ]
 }
