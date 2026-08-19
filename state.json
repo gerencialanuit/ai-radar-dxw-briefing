@@ -1,10 +1,5 @@
 {
   "vistos": [
-    "d42362617c640879",
-    "20b0eb2d5c149974",
-    "40359dbf5a246645",
-    "d4ff9ec891b78868",
-    "3ebda52fc80ebe33",
     "d382e1dba0c73c1f",
     "80d8760fd0f40ab2",
     "be0b73b30b53df2d",
@@ -1999,7 +1994,12 @@
     "b998b07a2a8c79fa",
     "6929b3de8a2fd9fc",
     "643aa2e34db4ece2",
-    "db38b11c8d4cdb79"
+    "db38b11c8d4cdb79",
+    "da7d025612ab6721",
+    "09c535c97e07d4bc",
+    "9d31c803cd1ddd0c",
+    "4b3c584ef89b7bf4",
+    "d6cc8537dbbc74f8"
   ],
   "archivo": [
     {
@@ -11292,6 +11292,56 @@
       "categoria": "dxw",
       "fecha": "2026-08-18T22:19:48+00:00",
       "extracto": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Releases the Complete Law Firm AI Search Visibility Checklist Documenting Every Schema Citation and Entity Signal That Gets Attorneys Recommended by ChatGPT and Goo Digital Journal"
+    },
+    {
+      "titulo": "People Are Cancelling Claude Over This!",
+      "link": "https://www.youtube.com/watch?v=q4_-y67JGCU",
+      "fuente": "Aevy TV",
+      "categoria": "youtube",
+      "fecha": "2026-08-12T18:11:30+00:00",
+      "extracto": "Follow us on Instagram here: https://www.instagram.com/aevytvdaily/ https://www.instagram.com/aevyvideoschool/ ...",
+      "vistas": 855410,
+      "miniatura": "https://i.ytimg.com/vi/q4_-y67JGCU/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Make Money With ChatGPT, Claude And Gemini In 2026 (What Each One Actually Pays)",
+      "link": "https://www.youtube.com/watch?v=XtwTjwUZSTs",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-08-15T05:05:32+00:00",
+      "extracto": "JOIN FREE 2-DAY AI MASTERCLASS (16 hours, 20+ AI tools, agents, prompt engineering, automations) ...",
+      "vistas": 102712,
+      "miniatura": "https://i.ytimg.com/vi/XtwTjwUZSTs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Opus 5 is driving people nuts. Anthropic gave the fix",
+      "link": "https://www.youtube.com/watch?v=HH6QqWyXJu8",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-08-14T04:00:38+00:00",
+      "extracto": "Get the jargon fixer resource for free ➡ https://www.skool.com/robonuggets-free/classroom/750914f0 Get our Claude Code ...",
+      "vistas": 87346,
+      "miniatura": "https://i.ytimg.com/vi/HH6QqWyXJu8/hqdefault.jpg"
+    },
+    {
+      "titulo": "The 4 Free MCPs That Turn Claude Into a Workstation",
+      "link": "https://www.youtube.com/watch?v=dc1JOyGMeeg",
+      "fuente": "Brock Mesarich | AI for Non Techies",
+      "categoria": "youtube",
+      "fecha": "2026-08-14T11:45:26+00:00",
+      "extracto": "Comment \"MCPS\" and I'll send you the link These four free MCPs are the connectors that let Claude actually do things inside your ...",
+      "vistas": 8599,
+      "miniatura": "https://i.ytimg.com/vi/dc1JOyGMeeg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Loop Engineering Explained and Claude Code Gmail MCP Live Demo Full Sunday Morning Class Recording",
+      "link": "https://www.youtube.com/watch?v=v58Lv7UdbQI",
+      "fuente": "Tahira Tech Journey",
+      "categoria": "youtube",
+      "fecha": "2026-08-16T13:42:34+00:00",
+      "extracto": "In this complete Sunday Morning Class recording, Sir Zia Khan, Sir Aneeq, and Sir Qasim explain the powerful concept of \"Loop ...",
+      "vistas": 274,
+      "miniatura": "https://i.ytimg.com/vi/v58Lv7UdbQI/hqdefault.jpg"
     }
   ]
 }
