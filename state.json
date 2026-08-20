@@ -1,13 +1,5 @@
 {
   "vistos": [
-    "75174b2d91ea7898",
-    "16febf27e894535b",
-    "22577adeb23ecb9c",
-    "71865cf50a1cee12",
-    "99d2e31ccf0069eb",
-    "a2d931cf43c2ff12",
-    "4394c1f1424221fa",
-    "d91f019cb529d752",
     "d790093636168c26",
     "69416959bf3b33d6",
     "dcb99366a1ac066a",
@@ -1999,7 +1991,15 @@
     "d8c7c6c91811f37a",
     "feb1daf4f98f756a",
     "b7d64aa63ab85945",
-    "c63cbee671aba2c5"
+    "c63cbee671aba2c5",
+    "07500ee213313bbc",
+    "1a43adfbc3dbc912",
+    "a2fba40f1eaf22cd",
+    "3eda1f60bce564ae",
+    "60344234fb01db38",
+    "eb62346775585791",
+    "799daca839cadca7",
+    "a7393ca2e5c99f9b"
   ],
   "archivo": [
     {
@@ -12046,6 +12046,86 @@
       "categoria": "dxw",
       "fecha": "2026-08-18T21:15:34+00:00",
       "extracto": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Releases the Complete Law Firm AI Search Visibility Checklist Documenting Every Schema Citation and Entity Signal That Gets Attorneys Recommended by ChatGPT and Goo The Globe and Mail"
+    },
+    {
+      "titulo": "Claude Text Watermark - The Science behind it!",
+      "link": "https://www.youtube.com/watch?v=FnAqruxx-QE",
+      "fuente": "Code Bear",
+      "categoria": "youtube",
+      "fecha": "2026-08-15T20:33:05+00:00",
+      "extracto": "Claude is getting an invisible text watermark — but it isn't hidden Unicode, metadata, or a secret “made by Claude” tag. Instead ...",
+      "vistas": 114151,
+      "miniatura": "https://i.ytimg.com/vi/FnAqruxx-QE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Make Money on Fiverr With Claude AI — Build Websites for Clients Without Coding",
+      "link": "https://www.youtube.com/watch?v=oUU4EYGaS3A",
+      "fuente": "Shahid Anwar",
+      "categoria": "youtube",
+      "fecha": "2026-08-15T18:35:52+00:00",
+      "extracto": "Want to start selling digital services online without being an expert developer? In this video, I show you how to combine Claude AI ...",
+      "vistas": 94983,
+      "miniatura": "https://i.ytimg.com/vi/oUU4EYGaS3A/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Have Spent 1000+ Hours With Claude Code. This Is What I Learned",
+      "link": "https://www.youtube.com/watch?v=YAsxyoTWFDA",
+      "fuente": "The Coding Sloth",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T01:21:12+00:00",
+      "extracto": "Try Brilliant's tutor for free: https://brilliant.org/TheCodingSloth/ You'll also get 20% off an annual Premium subscription. Finally ...",
+      "vistas": 75704,
+      "miniatura": "https://i.ytimg.com/vi/YAsxyoTWFDA/hqdefault.jpg"
+    },
+    {
+      "titulo": "DeepSeek Harness — Конец эпохи Claude Code и Codex?",
+      "link": "https://www.youtube.com/watch?v=6KtJk-MmhLE",
+      "fuente": "ZProger [ IT ]",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T10:39:47+00:00",
+      "extracto": "Курс ООП и Приват канал: https://zproger-school.com/?utm_source=yt&utm_medium=no&utm_campaign=deepseek_harness ...",
+      "vistas": 67745,
+      "miniatura": "https://i.ytimg.com/vi/6KtJk-MmhLE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Part 01 - CCAR-F: Claude Certified Architect - Foundations | Practice Questions with Answers",
+      "link": "https://www.youtube.com/watch?v=VLnCTYiY-CU",
+      "fuente": "Cloud & AI Hub",
+      "categoria": "youtube",
+      "fecha": "2026-08-13T16:07:29+00:00",
+      "extracto": "Claude Certified Architect – Foundations (CCAR-F) Practice Questions | Part 1 (10 Questions Out of 175) ...",
+      "vistas": 137,
+      "miniatura": "https://i.ytimg.com/vi/VLnCTYiY-CU/hqdefault.jpg"
+    },
+    {
+      "titulo": "How does Claude watermarking work?",
+      "link": "https://www.youtube.com/watch?v=fYLUN8zueYE",
+      "fuente": "Alberta Tech",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T16:26:53+00:00",
+      "extracto": "",
+      "vistas": 476412,
+      "miniatura": "https://i.ytimg.com/vi/fYLUN8zueYE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Design Now Builds Beautiful $10,000 Websites (NO AI Slop)",
+      "link": "https://www.youtube.com/watch?v=VwGrXe2ricE",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-08-17T21:48:52+00:00",
+      "extracto": "Here is how I generated the images/videos: https://bit.ly/4g4xv1B Free Skill From Video: https://bit.ly/4wynDlE ALL Systems: ...",
+      "vistas": 60994,
+      "miniatura": "https://i.ytimg.com/vi/VwGrXe2ricE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Use Claude to Scrape Any Website and Catalog 🤯#ClaudeAI #WebScraping #MCP #AITools #Automation",
+      "link": "https://www.youtube.com/watch?v=VR2hjiQd_IY",
+      "fuente": "Ultimate Web Scraper",
+      "categoria": "youtube",
+      "fecha": "2026-08-13T20:00:19+00:00",
+      "extracto": "",
+      "vistas": 128368,
+      "miniatura": "https://i.ytimg.com/vi/VR2hjiQd_IY/hqdefault.jpg"
     }
   ]
 }
