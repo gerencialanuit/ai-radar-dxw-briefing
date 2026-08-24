@@ -1,23 +1,5 @@
 {
   "vistos": [
-    "09b20e7919dfa642",
-    "7ba5140e00315d5c",
-    "00badd4d981ed1d4",
-    "56a18e141a39da18",
-    "618028923a56d4d3",
-    "5efc68863bdcaf9c",
-    "9ede9c9ab5886f74",
-    "f1e23ea622745272",
-    "9a675e9bd9a446e4",
-    "7dfd70d0f7507539",
-    "93f3cbcff899998f",
-    "9117d90b6bdae8bc",
-    "fd9b25689cc0f7d6",
-    "33d19bb6a5453797",
-    "ea91b7be5b219a7e",
-    "2693a263224da86d",
-    "646db0dcbfafca4d",
-    "5412811c1db25d2e",
     "6a69df9edc9311b1",
     "fdf887eb5da4be6e",
     "7671318b0178d0bb",
@@ -1999,7 +1981,25 @@
     "0980bb00865280b7",
     "fe65d5f3b4283857",
     "7d06a7831591535b",
-    "b673025b06299aa1"
+    "b673025b06299aa1",
+    "074a1b70dfd8c491",
+    "da5885a9331793e7",
+    "2bf1c457ff9dba94",
+    "5d6a446033495482",
+    "01baa32928cd8a16",
+    "f6426eec345f3982",
+    "acd860394de3720b",
+    "20304c5d3a4f28a3",
+    "303156b53a54ca94",
+    "0b2aa5ea075763a1",
+    "f9558634aa630c6e",
+    "b24d5ed0f1eeb563",
+    "e95666f308f3d3c7",
+    "d92699b92f618c0e",
+    "70414140fcffa950",
+    "66a6d3c47ea7abd0",
+    "85d7124a6199f76b",
+    "488dfa950fe689ca"
   ],
   "archivo": [
     {
@@ -13404,6 +13404,186 @@
       "categoria": "dxw",
       "fecha": "2026-08-24T10:27:47+00:00",
       "extracto": "Generative Engine Optimization: Ranking Inside ChatGPT & Perplexity Nasscom"
+    },
+    {
+      "titulo": "These AI Hacks Will Get You Ridiculously Ahead of Most People (Q A)",
+      "link": "https://www.youtube.com/watch?v=1MMqPTiWfSc",
+      "fuente": "Dan Martell",
+      "categoria": "youtube",
+      "fecha": "2026-08-19T13:00:39+00:00",
+      "extracto": "Get Your FREE AI Company Operating System here: https://go.danmartell.com/4g57yyR Are you building an AI software ...",
+      "vistas": 136615,
+      "miniatura": "https://i.ytimg.com/vi/1MMqPTiWfSc/hqdefault.jpg"
+    },
+    {
+      "titulo": "5 Skills De Claude Para Ganar Dinero (Explicación Paso a Paso)",
+      "link": "https://www.youtube.com/watch?v=_7Jbmf8UULE",
+      "fuente": "Adrián Sáenz",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T16:43:30+00:00",
+      "extracto": "Descarga gratis las skills: https://recursos.skilio.com/5-skills-ganar-dinero/ Créate una cuenta en https://hostinger.es/adrian y ...",
+      "vistas": 122505,
+      "miniatura": "https://i.ytimg.com/vi/_7Jbmf8UULE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code is now free...",
+      "link": "https://www.youtube.com/watch?v=NJ0TQ-pyMDY",
+      "fuente": "Amidia AI & Tech",
+      "categoria": "youtube",
+      "fecha": "2026-08-21T09:30:19+00:00",
+      "extracto": "Claude Code gets expensive fast, and your limit always runs out right when you need it most. In this video, I show you how to get ...",
+      "vistas": 116729,
+      "miniatura": "https://i.ytimg.com/vi/NJ0TQ-pyMDY/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI News: Gemini Removes Watermarks, Incredible New ChatGPT Tool, Claude Cowork Update and More",
+      "link": "https://www.youtube.com/watch?v=lbtVtC1UcWg",
+      "fuente": "Paul J Lipsky",
+      "categoria": "youtube",
+      "fecha": "2026-08-21T13:00:10+00:00",
+      "extracto": "Try CodeRabbit: https://coderabbit.link/paul-j-lipsky-001 This video is sponsored by Code Rabbit Free Google AI student offer: ...",
+      "vistas": 67309,
+      "miniatura": "https://i.ytimg.com/vi/lbtVtC1UcWg/hqdefault.jpg"
+    },
+    {
+      "titulo": "The Real Reason Claude AI Objected To US Military Targeting",
+      "link": "https://www.youtube.com/watch?v=E5r8dXEB5a8",
+      "fuente": "Creating Wealth",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T23:00:13+00:00",
+      "extracto": "ai #claudeai #usmilitary #maven #aiethics #anthropic #militaryai #technews #artificialintelligence #futureofai #aiwarfare ...",
+      "vistas": 100709,
+      "miniatura": "https://i.ytimg.com/vi/E5r8dXEB5a8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude acaba de cambiar para SIEMPRE (marcas de agua)",
+      "link": "https://www.youtube.com/watch?v=LeZuywD3fj0",
+      "fuente": "midudev",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T14:00:29+00:00",
+      "extracto": "Anthropic confirma que Claude incorporará marcas de agua en sus textos. En este video te explico cómo funcionan, qué tan ...",
+      "vistas": 123162,
+      "miniatura": "https://i.ytimg.com/vi/LeZuywD3fj0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Nem Claude Code nem Codex! DeepSeek quer te dar LIBERDADE!",
+      "link": "https://www.youtube.com/watch?v=zMlAkBkt8co",
+      "fuente": "Código Fonte TV",
+      "categoria": "youtube",
+      "fecha": "2026-08-20T15:37:20+00:00",
+      "extracto": "Tudo virou Plugin no DeepSeek Harness! Com esse lançamento, a DeepSeek mostra que gerir agentes de IA não está mais ...",
+      "vistas": 68426,
+      "miniatura": "https://i.ytimg.com/vi/zMlAkBkt8co/hqdefault.jpg"
+    },
+    {
+      "titulo": "How I Automate My AI Videos with Claude + Higgsfield",
+      "link": "https://www.youtube.com/watch?v=Lj-PpzAlqek",
+      "fuente": "Roboverse",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T16:17:05+00:00",
+      "extracto": "Automate Your AI Videos with Higgsfield https://roboverse-ai.com/Higgsfield In this video, I show how to connect Higgsfield to ...",
+      "vistas": 22093,
+      "miniatura": "https://i.ytimg.com/vi/Lj-PpzAlqek/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Connect Claude to TradingView (AI Trading Setup)",
+      "link": "https://www.youtube.com/watch?v=3DGD544hLRs",
+      "fuente": "Mind Math Money",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T13:48:57+00:00",
+      "extracto": "Thanks for watching this guide on how to connect Claude to TradingView, friends ❤️ Everything you need to set up the AI ...",
+      "vistas": 19711,
+      "miniatura": "https://i.ytimg.com/vi/3DGD544hLRs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Introducing the ElevenLabs MCP, now available in Claude.",
+      "link": "https://www.youtube.com/watch?v=wHTkD5eagGU",
+      "fuente": "ElevenLabs",
+      "categoria": "youtube",
+      "fecha": "2026-08-17T14:00:18+00:00",
+      "extracto": "Your team can now manage your voice and chat agents where you already work - review recent performance, create new agents, ...",
+      "vistas": 16666,
+      "miniatura": "https://i.ytimg.com/vi/wHTkD5eagGU/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Use Burp MCP with Claude to Find Bugs from HTTP History",
+      "link": "https://www.youtube.com/watch?v=Vr-NEWVLN9Y",
+      "fuente": "𝙇𝙤𝙨𝙩𝙨𝙚𝙘",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T06:25:24+00:00",
+      "extracto": "IF you Enjoyed the video, don't forget to Like , Subscribe, and turn on the Notification Bell to stay updated! About me I'm ...",
+      "vistas": 13190,
+      "miniatura": "https://i.ytimg.com/vi/Vr-NEWVLN9Y/hqdefault.jpg"
+    },
+    {
+      "titulo": "⚡ La Skill Que UNE NotebookLM Y Claude Code #notebooklm #skills",
+      "link": "https://www.youtube.com/watch?v=ykvWTk-HHcE",
+      "fuente": "Pau Berenguer",
+      "categoria": "youtube",
+      "fecha": "2026-08-17T18:00:34+00:00",
+      "extracto": "Comenta \"CLASE\" y te envío una clase completa donde explico paso a paso cómo crear y vender soluciones de IA.",
+      "vistas": 1419,
+      "miniatura": "https://i.ytimg.com/vi/ykvWTk-HHcE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Why I’m Still Using n8n Instead of Claude Routines",
+      "link": "https://www.youtube.com/watch?v=kXO4fIwxaDg",
+      "fuente": "Serop | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-08-22T15:00:04+00:00",
+      "extracto": "Start your AI business in 90 days: https://www.skool.com/real-world-n8n-community-6528 Can Anthropic's new Claude Routines ...",
+      "vistas": 230,
+      "miniatura": "https://i.ytimg.com/vi/kXO4fIwxaDg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Ayyo😳 Ithu iruntha School Topper agirupene🤩 Ultimate Study prompts for ChatGPT",
+      "link": "https://www.youtube.com/watch?v=F1xq2RP8QZQ",
+      "fuente": "Tech Satire",
+      "categoria": "youtube",
+      "fecha": "2026-08-18T12:33:26+00:00",
+      "extracto": "Hey Muttal Apple Siri makku? Gemini vs ChatGPT vs Claude vs Grok Best AI Assistant?",
+      "vistas": 345883,
+      "miniatura": "https://i.ytimg.com/vi/F1xq2RP8QZQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Elon Just Dropped An AI 4x Cheaper Than Beats Claude Fable 5 At The Same Level (+14 AI Updates)",
+      "link": "https://www.youtube.com/watch?v=NGMzAJSMseU",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-08-17T15:26:21+00:00",
+      "extracto": "TOOLS AND LINKS Access all updates, the tools, and the ones I actually recommend trying inside our free WhatsApp community: ...",
+      "vistas": 128349,
+      "miniatura": "https://i.ytimg.com/vi/NGMzAJSMseU/hqdefault.jpg"
+    },
+    {
+      "titulo": "DeepSeek Harness Just Changed AI Forever",
+      "link": "https://www.youtube.com/watch?v=DTu4yvmc0Fc",
+      "fuente": "Better Stack",
+      "categoria": "youtube",
+      "fecha": "2026-08-19T07:00:15+00:00",
+      "extracto": "DeepSeek Harness went from nothing to 150000 GitHub stars in days, it's MIT licensed, and the plugin system is insane. You can ...",
+      "vistas": 57697,
+      "miniatura": "https://i.ytimg.com/vi/DTu4yvmc0Fc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Paste This Into Claude Code, Never Run Out Of Tokens Again",
+      "link": "https://www.youtube.com/watch?v=kHtOSJRUkLs",
+      "fuente": "Sharbel A.",
+      "categoria": "youtube",
+      "fecha": "2026-08-19T14:00:30+00:00",
+      "extracto": "Claude Code told me to come back in five hours, even though almost none of my usage came from what I actually typed. The real ...",
+      "vistas": 55327,
+      "miniatura": "https://i.ytimg.com/vi/kHtOSJRUkLs/hqdefault.jpg"
+    },
+    {
+      "titulo": "GPT 5.6 Edited This Entire Video",
+      "link": "https://www.youtube.com/watch?v=0RiUicSjUKk",
+      "fuente": "Paul J Lipsky",
+      "categoria": "youtube",
+      "fecha": "2026-08-19T13:00:29+00:00",
+      "extracto": "Download Borumi: https://borumi.com/ *Not sponsored and not an affiliate link* Free Prompt: ...",
+      "vistas": 142258,
+      "miniatura": "https://i.ytimg.com/vi/0RiUicSjUKk/hqdefault.jpg"
     }
   ]
 }
