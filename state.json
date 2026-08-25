@@ -1,15 +1,5 @@
 {
   "vistos": [
-    "ebd2b59601ce101b",
-    "e066262fc2ff88de",
-    "45f1a8fbc6e0aed6",
-    "9d3bf9a3423d5ef7",
-    "cf8f4c1cf0b63d75",
-    "897b814166b79c2b",
-    "4f945286bf9918b5",
-    "7e0488809001bf66",
-    "bd6fd18e7b049efa",
-    "85df5056433d059c",
     "60dd03ae5b6086d0",
     "9f1d370126c3e75a",
     "68e98ccfcc36b3a8",
@@ -1999,7 +1989,17 @@
     "0f065a7489889d28",
     "7ecb3eb53a8fc9ef",
     "1612756401b512b9",
-    "3bac47566540bb85"
+    "3bac47566540bb85",
+    "e50cfff7d3b4ff61",
+    "9df7d05451b77a29",
+    "ddfc1d7f533efbd4",
+    "7b49ffe3edb5457f",
+    "04de82c4b92bb475",
+    "17df0aa21fa885fc",
+    "a0937ce8cf1a4d0d",
+    "b7facf20447d7aee",
+    "74e0b4470d466a41",
+    "36ee339558ee47eb"
   ],
   "archivo": [
     {
@@ -14200,6 +14200,106 @@
       "categoria": "dxw",
       "fecha": "2026-08-25T06:58:18+00:00",
       "extracto": "Prizvox Launches AI Search Visibility Platform for Agencies and Marketing Teams The Tribune"
+    },
+    {
+      "titulo": "The NEW Agentic OS standard for Claude 5 Models is here (Full Breakdown)",
+      "link": "https://www.youtube.com/watch?v=8NSyI-npJCU",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-08-21T06:06:04+00:00",
+      "extracto": "Get the Agentic OS Guide for free ➡ https://www.skool.com/robonuggets-free/classroom search for R66 Get our Claude Code ...",
+      "vistas": 70552,
+      "miniatura": "https://i.ytimg.com/vi/8NSyI-npJCU/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built The Ultimate Claude Website Design Skill (steal this)",
+      "link": "https://www.youtube.com/watch?v=QUI6Ug4cHnE",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-08-22T20:05:11+00:00",
+      "extracto": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin My FREE resources: ...",
+      "vistas": 53520,
+      "miniatura": "https://i.ytimg.com/vi/QUI6Ug4cHnE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Forget After Effects: Claude + CapCut Is the Only Editing Stack You Need",
+      "link": "https://www.youtube.com/watch?v=j4FzO2fF1kg",
+      "fuente": "Sanji Nai-Chien",
+      "categoria": "youtube",
+      "fecha": "2026-08-19T12:00:28+00:00",
+      "extracto": "Claude can now edit video inside CapCut - color grading, motion graphics and animation from a text prompt. One raw clip, a full ...",
+      "vistas": 65845,
+      "miniatura": "https://i.ytimg.com/vi/j4FzO2fF1kg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Artık Video Çekiyor ! - Higgsfield MCP",
+      "link": "https://www.youtube.com/watch?v=e2EFAaOYE20",
+      "fuente": "YUSUF",
+      "categoria": "youtube",
+      "fecha": "2026-08-19T14:55:03+00:00",
+      "extracto": "Higgsfield'ı Claude'a 30 saniyede bağla: https://higgsfield.ai/s/higgsfield-mcp-3-0-yt-yusuf1-PmxwCt Higgsfield MCP: ...",
+      "vistas": 28196,
+      "miniatura": "https://i.ytimg.com/vi/e2EFAaOYE20/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Trained Claude to Make Motion Graphics in Premiere Pro (No AfterEffects)",
+      "link": "https://www.youtube.com/watch?v=aWPUyUM-2Ig",
+      "fuente": "Somrat Dutta",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T11:30:21+00:00",
+      "extracto": "Apply for Indian School of Motion (ISOM): http://indianschoolofmotion.com/ Follow us on IG: ...",
+      "vistas": 466,
+      "miniatura": "https://i.ytimg.com/vi/aWPUyUM-2Ig/hqdefault.jpg"
+    },
+    {
+      "titulo": "영상 툴 5개 켜던 걸 클로드 하나로 줄인 방법 (Higgsfield MCP 연동)",
+      "link": "https://www.youtube.com/watch?v=AUYGiaDFvPo",
+      "fuente": "감자나라ai",
+      "categoria": "youtube",
+      "fecha": "2026-08-23T23:59:28+00:00",
+      "extracto": "감자친구 월 12000원으로 강의를 시청하세요! https://www.youtube.com/channel/UCPP1HVcKyFThWlpO-JJdXdg/join 유료 강의 ...",
+      "vistas": 227,
+      "miniatura": "https://i.ytimg.com/vi/AUYGiaDFvPo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Certified Architect Foundations (CCAR-F) | 20 Questions Out of 175 | PDF link in description",
+      "link": "https://www.youtube.com/watch?v=eHOxQVWyJDM",
+      "fuente": "Cloud & AI Hub",
+      "categoria": "youtube",
+      "fecha": "2026-08-19T18:04:58+00:00",
+      "extracto": "Claude Certified Architect – Foundations (CCAR-F) Practice Questions | 20 Questions Out of 175 ...",
+      "vistas": 117,
+      "miniatura": "https://i.ytimg.com/vi/eHOxQVWyJDM/hqdefault.jpg"
+    },
+    {
+      "titulo": "The Best AI Side Hustles To Start If You re BROKE",
+      "link": "https://www.youtube.com/watch?v=8NvhbfZNTrc",
+      "fuente": "Wholesale Ted",
+      "categoria": "youtube",
+      "fecha": "2026-08-20T19:19:57+00:00",
+      "extracto": "The best AI business ideas you can start with $0 using free tools! ▻ Get My Free AI Business Ebook: ...",
+      "vistas": 73833,
+      "miniatura": "https://i.ytimg.com/vi/8NvhbfZNTrc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic just launched /design for Claude Code (it s awesome)",
+      "link": "https://www.youtube.com/watch?v=n96nkLgRfoI",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-08-19T04:45:09+00:00",
+      "extracto": "Get the Agentic OS guide PDF for free ...",
+      "vistas": 45209,
+      "miniatura": "https://i.ytimg.com/vi/n96nkLgRfoI/hqdefault.jpg"
+    },
+    {
+      "titulo": "DeepSeek Harness = Claude Code for $0",
+      "link": "https://www.youtube.com/watch?v=RkNafW_Mv9w",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-08-21T21:48:48+00:00",
+      "extracto": "Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month) ALL Systems: https://bit.ly/4kol0y5 Free Resources: ...",
+      "vistas": 45589,
+      "miniatura": "https://i.ytimg.com/vi/RkNafW_Mv9w/hqdefault.jpg"
     }
   ]
 }
