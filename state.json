@@ -1,24 +1,5 @@
 {
   "vistos": [
-    "fd790c108900520d",
-    "5074d5dae886aee3",
-    "dcb197aec7e0a6e2",
-    "08d2da562b2a1ba4",
-    "49a04402d54c85b8",
-    "3432a5c0e7c9f01f",
-    "fa14ae85e3f3c513",
-    "e06864917d00c9c7",
-    "f313d98dcdbc8bbe",
-    "ef1abc79c9fef10a",
-    "d2360067ad9e5907",
-    "9e089a4e66c3eddb",
-    "81fc8f3df8af524f",
-    "6c91588a1f374496",
-    "4c82a91e25429431",
-    "4b28cec6b61ff176",
-    "d4c68c0706c8b97f",
-    "10a9ca2cab48c5b6",
-    "d495a3fc75eaea0b",
     "472581c4d8edca5a",
     "92ba548d367b7513",
     "b8ce73b9eb4e6d02",
@@ -1999,153 +1980,28 @@
     "37fd3fe72f8dceba",
     "eb37e60529fe444c",
     "f8333fc4b6505817",
-    "de37056999b342b2"
+    "de37056999b342b2",
+    "59c8dcc81fc34303",
+    "a753cc74165274b4",
+    "ae3b2019d939d0de",
+    "ef39b23193727503",
+    "e3d31632e62dbefb",
+    "900564d4abc61b45",
+    "372435f6acd13e06",
+    "8b70e6f80e158c27",
+    "41f5a846784f2881",
+    "92aa67ba929f1ed8",
+    "d9c8a25b3f59fc25",
+    "b8bd19d4fceb2457",
+    "7f8465d9ea29c8ea",
+    "1e8b098924a6a913",
+    "4bd0d35b94e60364",
+    "b8658df83beb0288",
+    "e168ea4405ff591c",
+    "1af3e4ffc4f520c1",
+    "d6100402a79977d7"
   ],
   "archivo": [
-    {
-      "titulo": "MacDupl",
-      "link": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-02T15:30:50+00:00",
-      "extracto": "Clone any Mac app into a fully isolated instance Discussion | Link"
-    },
-    {
-      "titulo": "Snapdown",
-      "link": "https://www.producthunt.com/products/snapdown-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-02T07:44:35+00:00",
-      "extracto": "Turn anything on your Mac screen into clean Markdown Discussion | Link"
-    },
-    {
-      "titulo": "mpai",
-      "link": "https://www.producthunt.com/products/mpai",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-02T20:12:27+00:00",
-      "extracto": "Make existing Codex and Claude Code sessions multiplayer Discussion | Link"
-    },
-    {
-      "titulo": "Doxy",
-      "link": "https://www.producthunt.com/products/doxy-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-02T19:55:08+00:00",
-      "extracto": "Markdown & HTML editor, without the LaTeX pain Discussion | Link"
-    },
-    {
-      "titulo": "Improve Your YouTube Ads Performance | Think with Google - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnhsaWhaSDlIQV82c09jMTFKTGdmN2d6M2VqWDlpSlBoRUZ0T1hDdkRaZlVBQUdLR1RpUmdlQTR2MnF6OU8tMWhDOGVXOTZUMXZpSkxJX3V0LUp4amR3UXM0Yzd5VlN6SFFKVGkzem0xSnQydDFUSk9JV2xlWlc3R0R2X1BSWjI1OGdrVVpnc0xPTDhyNVg0dGNXU2tXMkwwa0czUnVKREpXb2hD?oc=5",
-      "fuente": "GN — Google Business Profile",
-      "categoria": "dxw",
-      "fecha": "2026-08-04T01:52:02+00:00",
-      "extracto": "Improve Your YouTube Ads Performance | Think with Google Google Business Profile"
-    },
-    {
-      "titulo": "AI Voice Agents Take Over the Retail Sales Floor - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnVDODdHQjhLbDJkZmMwOVlIdGZLUmgzSkdfWnctOVZtY3o1Yk9CSjVLZUtnd2lDanV4UWNhV1J4NjlMa0ZLZmlNQlVTbTI4YWxkTUhwdTZydXZUeEg2OEpRQnJtNVkwTU52cUtacTZZTlQzN3JpTEFzUmNOMEJRMjhvdUc3MnpzWUFBbUVHdGlVSDlYYVFWV0x1YUFEcExqa292dzdKYVk3Zw?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T23:13:30+00:00",
-      "extracto": "AI Voice Agents Take Over the Retail Sales Floor PYMNTS.com"
-    },
-    {
-      "titulo": "WellSpan increases AI capabilities with their Ana agent, announce embedded team - tristatealert.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTElNQXRfckp0LWI4eFdlZDA4RjI0dGFoZ0lzZy1feHI4UkN6LVZTVmlwbURmaTJKbUx5ejVCdUVnelJKanpEVF9rOGF2aXR2RmVWTE96R2pxNl9YWWQtUVozbVdsbUJfdHY5Zk1lVkFVRjlWcWViRUtSX1ZwRjVQZmZpeVJyWUF6MGx5UFc0TEcxaUVQMVk0SVEzOUJ5U2xuRmZzdUVWZHJ2WkJn?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T15:41:09+00:00",
-      "extracto": "WellSpan increases AI capabilities with their Ana agent, announce embedded team tristatealert.com"
-    },
-    {
-      "titulo": "Chatbot vs. Voice-KI: 391 % ROI – Das unterschätzte Millionen-Potenzial von Voice-AI-Agenten - Xpert.Digital - Konrad Wolfenstein",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbHJIZ3VvbHRNakhLZmdzbWZFLVZkTk9KeC1lX1FNbzY2QWxHY0dUS196LW44d2tFSE9aM3V3aF9SRVRVemRPRFk2NV9TbTNydm04RjZCc1hXbElqNTlSTThJMEtNZXY0NkZKUmV4aVRkM0FtVzI4ZWdBVUxZSWdzRUM3cjNqVm1LdVBsVnNvWDdod9IBmgFBVV95cUxOSmpudjBqYjI3bUpVRGVfSkxtdmVHTzlCOUNtWHhOb0MxRGJXNzV1NEtKQml1dW4zYk1QQ3Nrb19Wd2x6Y24wSW5DTUxFNTFWWnNXZXRHeDZJYS1RdDBPR21yaVVVemdjM28weVZ6RkZjOFFRX2NKXzlmQmg4dEZJVXpUUEJxNzJMcFFzU3l4eF9nczI2SUtRNURB?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T14:21:08+00:00",
-      "extracto": "Chatbot vs. Voice-KI: 391 % ROI – Das unterschätzte Millionen-Potenzial von Voice-AI-Agenten Xpert.Digital - Konrad Wolfenstein"
-    },
-    {
-      "titulo": "Gradium CEO Says Voice AI Must Understand, Not Just Transcribe the Words - PYMNTS.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0FPVzBaVGxoTkRESFFYa00yWnpfRXJLYzJudVYtbXJOV2lKYVVGYUZTNE5IWEdlMTNUemJOTFlOVUVZUnlhUm9YTlcxdWVxYWdOSDROUXhMT1NDVkFkazNOSUlOb09GaUppUmp3dXhPY3pSMGZtQ1VEMXFlVFQyclE0YzVYLWxEWXVnREtWX2EzY3RXZjBGUjJMOHNsLU5XREg0X0dlY3paRU80UV9IRU03SDBVVXA4MmE1NURTVjJZVVNQZVlMMQ?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T08:04:32+00:00",
-      "extracto": "Gradium CEO Says Voice AI Must Understand, Not Just Transcribe the Words PYMNTS.com"
-    },
-    {
-      "titulo": "Telnyx Launches Edge Compute to Complete the Real-Time AI Stack - The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1VhakZGWW5KTEl4X0ZpdzVQaF9mMlZzampRTkNIbDRQMFdwY0tlQ3hPUU9oa3BHYkwydm81NkwzLXhPcHhkUGRwRWtJdVBudTdFaXZBMVg0TlF6dzVCNy1jckZQVnhsTUZiLWtMUTNELVJsdWxnLW9PWXhseHpmMU4xa2VTUUFrMFZOQVFHRWxNZXNpek50b0Z3V3MtVTVjdmFVTFNCUW1adjNhbGFFdHY0UVllWjlnajEtcHFPWjJRODlkMkwxSlJ1YnY4MFF2Vl9MN1Rpa27SAdgBQVVfeXFMTW9VYWpGRlluSkxJeF9GaXc1UGhfZjJWc2pqUU5DSGw0UDBXcGNLZUN4T1FPaGtwR2JMMnZvNTZMMy14T3B4ZFBkcEVrSXVQbnU3RWl2QTFYNE5Renc1QjctY3JGUFZ4bE1GYi1rTFEzRC1SbHVsZy1vT1l4bHh6ZjFOMWtlU1FBazBWTkFRR0VsTWVzaXpOdG9Gd1dzLVU1Y3ZhVUxTQlFtWnYzYWxhRXR2NFFZZVo5Z2oxLXBxT1oyUTg5ZDJMMUpSdWJ2ODBRdlZfTDdUaWtu?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T16:48:13+00:00",
-      "extracto": "Telnyx Launches Edge Compute to Complete the Real-Time AI Stack The Manila Times"
-    },
-    {
-      "titulo": "AI Answers Calls and Even Makes Reservations… Drawream Launches Multilingual AI Agent 'LiveSpeech' - 벤처스퀘어",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YSEIydkVZODBwcWFVT3kwOHpwMTdNWnYxSUxoYmN0WFNpY1gyVEFkX3ZFOVFTazY4TFNheTZ1V0FqMTRubEpBU3NZZGZjSUN4VmtJ?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T12:23:10+00:00",
-      "extracto": "AI Answers Calls and Even Makes Reservations… Drawream Launches Multilingual AI Agent 'LiveSpeech' 벤처스퀘어"
-    },
-    {
-      "titulo": "The Real Cost of Online Reputation Management: DIY vs. Professional Services - Business.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tREF6UWJBZkk0bnA0a1RVTlZUQVlBMWZQTlpyYmpJYTJTZHh2S0k1aDhKZnlRZ0dleV9jMFlrOEd5bGx5ejZQb1NsNThYMXlmekxKeW04YWh5V1lpWlEtNFZ1cWtwaFJPalJMTWRFY0dEaldVOGs4?oc=5",
-      "fuente": "GN — Review management",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T17:55:19+00:00",
-      "extracto": "The Real Cost of Online Reputation Management: DIY vs. Professional Services Business.com"
-    },
-    {
-      "titulo": "Howl Louder Marketing Adds GEO Service for B2B AI Search Visibility - Demand Gen Report",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZFlVcUVlcG5Ka2VqLUNESlRCX3VTbk9JTXMtdW9WdHZFTll4V3JpMUlFMHU5eUZSUFV4YnlTX2t3T3B3YzYxazBDVmdPdTVyUlp5UkVDaEltUVpUUEFKYTluTElkQWxMVi1tWlFQQXNVLVNYRU9kejRMVjVnUi1WM0JvZUt2emJRSUxYVVkzaDlOdmVneVdRczV6YUE1dUZtSTdwRE0wWV9WUDhUdHdjZlROSF9HQkNLVF9sczV5SmhHTVhpemk2dmZWQQ?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T16:02:10+00:00",
-      "extracto": "Howl Louder Marketing Adds GEO Service for B2B AI Search Visibility Demand Gen Report"
-    },
-    {
-      "titulo": "IAB’s New Advice On How To Measure AI Search Visibility - AdExchanger",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFRNazJjS2w0dkxKT3VIQ1NvbmgwUUdlUjByckVrWGRVdzZnQ3NYWnhSU1B3cDBPQ1luNEJORXYyYzh5d3lWdk81SGgzaktJSXRrT0NpelptZmhHb3N5ZWZaV2lRUlktbWFsVUVDT0hUd0JtZ25OZ1NJbW8xVWpnWExrWERtMmd2U1VhM3FGWQ?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T12:30:19+00:00",
-      "extracto": "IAB’s New Advice On How To Measure AI Search Visibility AdExchanger"
-    },
-    {
-      "titulo": "LeafWorldMedia Releases AI Search Visibility Guide Amid Changing Search Habits - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXVPUncycjNBSW1NM05DRlI3YnJENDZPTHhxSkM5b2VRMmhKY3J3MXZYZTNRenNDWWdoTmtLS1U3V3ZLTk9fVGhGOTI3VlIxSVlOMDZuR1RoaE9vZFVfbjVnVGRjMGdlM1VSeGdzWlVaVElCV3YzSkFhQzBCbTh1Vi1Tb2h4S0U3Rml0VmtaZ3ZQTTYzZzR1NWJYM3czTkdWZHdmdjlyalhjQV9GZGxmQ1JCY1o2UTlGb1ZHX1ZKR0Y3alEwbURRZ0dn?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-08-03T16:31:53+00:00",
-      "extracto": "LeafWorldMedia Releases AI Search Visibility Guide Amid Changing Search Habits USA Today"
-    },
-    {
-      "titulo": "Apple is getting this wrong",
-      "link": "https://openai.com/index/apple-is-getting-this-wrong",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-08-03T22:00:00+00:00",
-      "extracto": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
-    },
-    {
-      "titulo": "The latest AI news we announced in July 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "fuente": "Google AI Blog",
-      "categoria": "releases",
-      "fecha": "2026-08-04T13:00:00+00:00",
-      "extracto": "July AI recap header"
-    },
-    {
-      "titulo": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "fuente": "Hugging Face Blog",
-      "categoria": "releases",
-      "fecha": "2026-08-04T13:58:29+00:00",
-      "extracto": ""
-    },
     {
       "titulo": "Apple says more ex-employees may have taken confidential data to OpenAI",
       "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
@@ -14356,6 +14212,186 @@
       "categoria": "dxw",
       "fecha": "2026-08-26T05:25:03+00:00",
       "extracto": "GEO Agencies launches the global directory of generative engine optimization agencies lincolnjournal.com"
+    },
+    {
+      "titulo": "AI Just Touched the Math God Wrote",
+      "link": "https://www.youtube.com/watch?v=IzrffaZ5v0s",
+      "fuente": "Julia McCoy",
+      "categoria": "youtube",
+      "fecha": "2026-08-20T15:00:36+00:00",
+      "extracto": "FREE LIVESTREAM WITH JULIA — Friday, August 28, 1pm MT:* https://firstmovers.ai/livestream-registration/ *An AI failed 650 ...",
+      "vistas": 100319,
+      "miniatura": "https://i.ytimg.com/vi/IzrffaZ5v0s/hqdefault.jpg"
+    },
+    {
+      "titulo": "Elon s New #1 AI Agent Just Did What Claude And ChatGPT Couldn t (SpaceXAI Grok Bot)",
+      "link": "https://www.youtube.com/watch?v=6B3rDvhJVoc",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-08-23T06:25:47+00:00",
+      "extracto": "Your AI CFO by the 1% Club. Free, connects to your real accounts: http://onepc.io/vaibhav 100+ Grok Bot prompts, use cases ...",
+      "vistas": 97490,
+      "miniatura": "https://i.ytimg.com/vi/6B3rDvhJVoc/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI companies scanning and destroying millions of books | Now You Know | The Spinoff",
+      "link": "https://www.youtube.com/watch?v=9ru0akmYXK0",
+      "fuente": "The Spinoff",
+      "categoria": "youtube",
+      "fecha": "2026-08-21T05:00:10+00:00",
+      "extracto": "AI giant Anthropic is running a programme called Project Panama, according to reporting from The Washington Post. This involves ...",
+      "vistas": 148733,
+      "miniatura": "https://i.ytimg.com/vi/9ru0akmYXK0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Turn off Claude Code s Memory",
+      "link": "https://www.youtube.com/watch?v=Jf54k7tFeEc",
+      "fuente": "Theo - t3․gg",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T09:00:06+00:00",
+      "extracto": "Claude Code quietly saved 45 memories on my main dev machine, and when I audited them, 26 had never been read once, lets ...",
+      "vistas": 69673,
+      "miniatura": "https://i.ytimg.com/vi/Jf54k7tFeEc/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Tested Claude Code vs. Codex on Design. It Wasn t Even Close.",
+      "link": "https://www.youtube.com/watch?v=bg0C-2iUUqM",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T12:38:38+00:00",
+      "extracto": "Try Granola for FREE today: https://www.granola.ai/?via=nate-herk My playbook for growing a $1M AI agency: ...",
+      "vistas": 1816,
+      "miniatura": "https://i.ytimg.com/vi/bg0C-2iUUqM/hqdefault.jpg"
+    },
+    {
+      "titulo": "The Ultimate Claude Code Tutorial (Beginner to Pro)",
+      "link": "https://www.youtube.com/watch?v=OVm2AGTxYuE",
+      "fuente": "Zinho Automates",
+      "categoria": "youtube",
+      "fecha": "2026-08-17T14:53:19+00:00",
+      "extracto": "The Ultimate Claude Code Tutorial (Beginner to Pro). Join our FREE community with the guide & free prompts & tips and tricks: ...",
+      "vistas": 27836,
+      "miniatura": "https://i.ytimg.com/vi/OVm2AGTxYuE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Por que estão abandonando o Claude?",
+      "link": "https://www.youtube.com/watch?v=lhaPanvj2Vg",
+      "fuente": "Maestros da IA",
+      "categoria": "youtube",
+      "fecha": "2026-08-20T18:27:10+00:00",
+      "extracto": "Torne-se um Maestro da IA ...",
+      "vistas": 55470,
+      "miniatura": "https://i.ytimg.com/vi/lhaPanvj2Vg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Fiz o TRABALHO de uma AGÊNCIA INTEIRA com Claude + Higgsfield",
+      "link": "https://www.youtube.com/watch?v=ECV_d9ZTYVI",
+      "fuente": "Negócios em Mente",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T15:00:25+00:00",
+      "extracto": "Experimente você mesmo — conecte o Higgsfield ao Claude em segundos: https://higgsfield.ai/s/mcp-negociosemmente-FlgSoE ...",
+      "vistas": 3639,
+      "miniatura": "https://i.ytimg.com/vi/ECV_d9ZTYVI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable 5 builds cinematic 3D scrolling websites with #ClaudeAI #webdesign #aidevelopment",
+      "link": "https://www.youtube.com/watch?v=uE4uOgh7xeo",
+      "fuente": "Forcee | Crypto",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T22:25:54+00:00",
+      "extracto": "Claude Fable 5 can now build cinematic 3D scrolling websites that rival high-end professional designs. By switching Claude ...",
+      "vistas": 1324,
+      "miniatura": "https://i.ytimg.com/vi/uE4uOgh7xeo/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI Assistant Integration | Amelia WordPress Booking Plugin",
+      "link": "https://www.youtube.com/watch?v=DPKonnQ5q7I",
+      "fuente": "Amelia WordPress Booking Plugin",
+      "categoria": "youtube",
+      "fecha": "2026-08-21T13:00:22+00:00",
+      "extracto": "Connect Amelia to AI assistants like Claude using MCP (Model Context Protocol), and let them check availability, book, and ...",
+      "vistas": 248,
+      "miniatura": "https://i.ytimg.com/vi/DPKonnQ5q7I/hqdefault.jpg"
+    },
+    {
+      "titulo": "From Text Prompt to 3D Print: Onshape MCP Server Hands-On (Claude Gemini)",
+      "link": "https://www.youtube.com/watch?v=vSVSYRL_kvw",
+      "fuente": "219 Design",
+      "categoria": "youtube",
+      "fecha": "2026-08-21T15:22:50+00:00",
+      "extracto": "Can you design a fully parametric, 3D-printable part entirely from text prompts in under an hour? Dave from 219 Design takes ...",
+      "vistas": 208,
+      "miniatura": "https://i.ytimg.com/vi/vSVSYRL_kvw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Design Just Solved its #1 Problem",
+      "link": "https://www.youtube.com/watch?v=cM5n9priMjo",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-08-19T22:07:56+00:00",
+      "extracto": "How I create AI Audio https://bit.ly/4xgI73C ALL Systems: https://bit.ly/4kol0y5 Glaido: https://bit.ly/4eGoI3R Free ...",
+      "vistas": 45565,
+      "miniatura": "https://i.ytimg.com/vi/cM5n9priMjo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code FREE UNLIMITED with Opus 4.8 + Opus 5 (Agent Router)",
+      "link": "https://www.youtube.com/watch?v=r3xakavfeaM",
+      "fuente": "Uday Dot Ai",
+      "categoria": "youtube",
+      "fecha": "2026-08-20T09:30:37+00:00",
+      "extracto": "If you're already running Claude Code for free inside Antigravity or Cursor and still keep hitting your ...",
+      "vistas": 45491,
+      "miniatura": "https://i.ytimg.com/vi/r3xakavfeaM/hqdefault.jpg"
+    },
+    {
+      "titulo": "GitHub s #1 Trending Author s New Claude Skill Is Insane",
+      "link": "https://www.youtube.com/watch?v=c47uqR7XB_c",
+      "fuente": "AI LABS",
+      "categoria": "youtube",
+      "fecha": "2026-08-20T14:16:00+00:00",
+      "extracto": "Claude skills just fixed the biggest problem with AI agents: laziness. This claude skills tutorial covers what are claude skills, how to ...",
+      "vistas": 46227,
+      "miniatura": "https://i.ytimg.com/vi/c47uqR7XB_c/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Just Changed CapCut Forever!",
+      "link": "https://www.youtube.com/watch?v=juMF6KUhOjY",
+      "fuente": "Danny Why",
+      "categoria": "youtube",
+      "fecha": "2026-08-21T10:04:05+00:00",
+      "extracto": "Join my community: https://www.skool.com/dannywhy/about Try Higgsfield: https://higgsfield.ai/s/danny_why-TwkQCm In this ...",
+      "vistas": 42011,
+      "miniatura": "https://i.ytimg.com/vi/juMF6KUhOjY/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built an INSANELY Profitable Claude AI Trading Bot (Full Guide)",
+      "link": "https://www.youtube.com/watch?v=0rzXU-BlKCg",
+      "fuente": "Trading with DaviddTech",
+      "categoria": "youtube",
+      "fecha": "2026-08-24T13:00:21+00:00",
+      "extracto": "Learn AI trading bots and algorithmic trading with us: https://www.skool.com/daviddtech/about?sl=yt_86AlV6174KI Get the ...",
+      "vistas": 16650,
+      "miniatura": "https://i.ytimg.com/vi/0rzXU-BlKCg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI Full Tutorial for Beginners — Everything You Need to Know in 15 Minutes",
+      "link": "https://www.youtube.com/watch?v=L51m-j4oPYA",
+      "fuente": "Ayaan Aslam",
+      "categoria": "youtube",
+      "fecha": "2026-08-23T16:00:23+00:00",
+      "extracto": "Want to learn Claude quickly? In this complete 15-minute Claude tutorial, I show you everything you need to know to get started ...",
+      "vistas": 27,
+      "miniatura": "https://i.ytimg.com/vi/L51m-j4oPYA/hqdefault.jpg"
+    },
+    {
+      "titulo": "The ONLY Claude Cowork + Skills Tutorial You ll Ever Need (2026)",
+      "link": "https://www.youtube.com/watch?v=tmRt64FUM3s",
+      "fuente": "Automate EVERYTHING",
+      "categoria": "youtube",
+      "fecha": "2026-08-24T07:01:30+00:00",
+      "extracto": "Learn Claude Cowork and Claude Skills the right way — the complete tutorial to automate real work with Claude AI in 2026.",
+      "vistas": 203,
+      "miniatura": "https://i.ytimg.com/vi/tmRt64FUM3s/hqdefault.jpg"
     }
   ]
 }
