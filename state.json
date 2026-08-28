@@ -1,16 +1,5 @@
 {
   "vistos": [
-    "f78f83fd71ca0889",
-    "4c01d74707957a90",
-    "1a60d41273d61093",
-    "0cbde12c53067815",
-    "62c9133ad2391fa7",
-    "1fdd19a5a1888adc",
-    "52bad93a00241054",
-    "deeb72293cb64598",
-    "3ce57b9e709cdf0a",
-    "a33d2113a25e2839",
-    "b5f01b01dfecb40b",
     "b21c7bca86808c49",
     "93a487317e062661",
     "d2eee413d5873466",
@@ -1999,97 +1988,20 @@
     "0816fa00b6790bed",
     "4f4fa658f47a7912",
     "88733fe63a1a61b6",
-    "412fa521610e481f"
+    "412fa521610e481f",
+    "f7661aee4fa6f78a",
+    "f69a63cf075d0add",
+    "8f6b24f98a835efa",
+    "0dcd741acd8e73a4",
+    "7dc74ea49c3fa8de",
+    "f42b87db3203b4fc",
+    "2bdabe7314e49bd0",
+    "efc2df23580d3154",
+    "ca85d154b33be01e",
+    "d835351c9be43137",
+    "5cca5c6678b81bac"
   ],
   "archivo": [
-    {
-      "titulo": "The 16 best productivity extensions for Chrome in 2026",
-      "link": "https://zapier.com/blog/productivity-extensions-for-chrome",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-06T05:00:00+00:00",
-      "extracto": "If I were to tell you I'm an expert in productivity extensions for Chrome, you'd naturally assume I'm a poster child for efficiency and focus. The truth is, thanks to ADHD, my expertise is born out of sheer necessity—a desperate attempt to rein in a brain that took one look at the concept of \"linear thinking\" and said, \"Nah, I'd rather juggle flaming chainsaws.\" Each Chrome extension recommended below has been battle-tested, not by someone who's..."
-    },
-    {
-      "titulo": "What are agentic workflows?",
-      "link": "https://zapier.com/blog/agentic-workflows",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-05T04:00:00+00:00",
-      "extracto": "The night before a recent week-long vacation, my home air conditioning stopped working. Which is, of course, the perfect time for that to happen. I called my usual handyman in a panic, and he fixed it while I was gone—but he also wiped off the outdoor unit, replaced my filter, and even replaced some light switch panels that I had been meaning to get to for weeks. I'd given him a problem, and he fixed it; alongside a handful of other tasks he knew..."
-    },
-    {
-      "titulo": "UCP Radar",
-      "link": "https://www.producthunt.com/products/ucp-radar",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-05T11:03:42+00:00",
-      "extracto": "Make your product feed visible to AI shopping agents Discussion | Link"
-    },
-    {
-      "titulo": "Ododok",
-      "link": "https://www.producthunt.com/products/ododok",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-04T20:17:00+00:00",
-      "extracto": "Count every chew with your AirPods Discussion | Link"
-    },
-    {
-      "titulo": "Aveiro",
-      "link": "https://www.producthunt.com/products/aveiro",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-05T15:17:17+00:00",
-      "extracto": "Publish sites, newsletters and social posts with AI agents Discussion | Link"
-    },
-    {
-      "titulo": "Brandfetch MCP",
-      "link": "https://www.producthunt.com/products/brandfetch",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-05T11:55:55+00:00",
-      "extracto": "Stop your AI from guessing brand logos Discussion | Link"
-    },
-    {
-      "titulo": "Shieldstral",
-      "link": "https://www.producthunt.com/products/mistral-7b",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-06T03:49:38+00:00",
-      "extracto": "Define safety at runtime for text and images Discussion | Link"
-    },
-    {
-      "titulo": "Chute",
-      "link": "https://www.producthunt.com/products/chute-better-airdrop",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-05T22:44:20+00:00",
-      "extracto": "The fastest way to send anything to your iPhone Discussion | Link"
-    },
-    {
-      "titulo": "Glyphi: Speed Reader",
-      "link": "https://www.producthunt.com/products/glyphi-speed-reader",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-06T02:41:19+00:00",
-      "extracto": "An RSVP reader for books, PDFs, articles & webpages Discussion | Link"
-    },
-    {
-      "titulo": "Muse Code",
-      "link": "https://www.producthunt.com/products/meta",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-06T02:35:53+00:00",
-      "extracto": "Meta’s terminal agent for long-horizon coding Discussion | Link"
-    },
-    {
-      "titulo": "Gesture Synth School",
-      "link": "https://www.producthunt.com/products/gesture-synth-school",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-06T04:53:27+00:00",
-      "extracto": "A practice app for learning to play music with your hands. Discussion | Link"
-    },
     {
       "titulo": "Cloudflare OS",
       "link": "https://www.producthunt.com/products/cloudflare",
@@ -14355,6 +14267,116 @@
       "categoria": "dxw",
       "fecha": "2026-08-28T14:14:31+00:00",
       "extracto": "Influencer and Profound Bring Creator Campaigns Into the Race for AI Search Visibility Influencer Marketing Hub"
+    },
+    {
+      "titulo": "ИИ СТАВИТ НЕВИДИМЫЙ ЗНАК НА ТЕКСТ",
+      "link": "https://www.youtube.com/watch?v=Inxx25z1rvU",
+      "fuente": "Aleko 🇺🇦",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T14:15:44+00:00",
+      "extracto": "ии #технологии #claude #антропик #будущее Claude ставит водяные знаки на весь текст, который он создаёт, чтобы его ...",
+      "vistas": 234685,
+      "miniatura": "https://i.ytimg.com/vi/Inxx25z1rvU/hqdefault.jpg"
+    },
+    {
+      "titulo": "How a Faceless Channel Made $39K With Claude + ChatGPT",
+      "link": "https://www.youtube.com/watch?v=8Rf0xna31xg",
+      "fuente": "Sanji Nai-Chien",
+      "categoria": "youtube",
+      "fecha": "2026-08-24T11:34:17+00:00",
+      "extracto": "This faceless YouTube channel made almost $40000 in 90 days from Shorts alone. Here's the exact AI workflow behind it ...",
+      "vistas": 104655,
+      "miniatura": "https://i.ytimg.com/vi/8Rf0xna31xg/hqdefault.jpg"
+    },
+    {
+      "titulo": "【先行者優位】AI時代の新しい稼ぎ方はバイブコーディング！ホリエモンがClaude Codeで実演",
+      "link": "https://www.youtube.com/watch?v=fVXNUu-64sc",
+      "fuente": "堀江貴文 ホリエモン",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T09:00:16+00:00",
+      "extracto": "スキル不要とも言われる「バイブコーディング」で稼ぐために必要な力について、元日本マイクロソフト業務執行役員の澤円 ...",
+      "vistas": 209719,
+      "miniatura": "https://i.ytimg.com/vi/fVXNUu-64sc/hqdefault.jpg"
+    },
+    {
+      "titulo": "19 Claude Code Mistakes Pro Users Are Still Making",
+      "link": "https://www.youtube.com/watch?v=icM0ewXGvAw",
+      "fuente": "Simon Scrapes",
+      "categoria": "youtube",
+      "fecha": "2026-08-22T15:42:49+00:00",
+      "extracto": "Build agentic systems that run your business: https://skool.com/scrapes Be the brand AI recommends: https://dub.sh/rankspot-yt ...",
+      "vistas": 64025,
+      "miniatura": "https://i.ytimg.com/vi/icM0ewXGvAw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Lets talk about Codex (why i switched)",
+      "link": "https://www.youtube.com/watch?v=lSjzGHPpzic",
+      "fuente": "Chris Raroque",
+      "categoria": "youtube",
+      "fecha": "2026-08-24T15:15:27+00:00",
+      "extracto": "Sooo I owe you guys an apology you guys were telling me to check out Codex for WEEKS and i brushed it off. Well you were ...",
+      "vistas": 39100,
+      "miniatura": "https://i.ytimg.com/vi/lSjzGHPpzic/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI + PDFGate MCP — Generate, Send Sign PDFs with AI",
+      "link": "https://www.youtube.com/watch?v=6xx489kOxgE",
+      "fuente": "JACK AI & TECH ",
+      "categoria": "youtube",
+      "fecha": "2026-08-28T16:25:05+00:00",
+      "extracto": "Claude AI + PDFGate MCP — Generate, Send & Sign PDFs Automatically! In this video, I'll show you how to connect PDFGate ...",
+      "vistas": 6674,
+      "miniatura": "https://i.ytimg.com/vi/6xx489kOxgE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI + PDFGate MCP — Generate, Send Sign PDFs Automatically!",
+      "link": "https://www.youtube.com/watch?v=uU2PUWzN48Y",
+      "fuente": "𝘈𝘋𝘋𝘠'𝘚 𝘞𝘖𝘙𝘓𝘋",
+      "categoria": "youtube",
+      "fecha": "2026-08-28T16:43:56+00:00",
+      "extracto": "Claude AI + PDFGate MCP — Generate, Send & Sign PDFs Automatically! In this video, I'll show you how to connect PDFGate ...",
+      "vistas": 22666,
+      "miniatura": "https://i.ytimg.com/vi/uU2PUWzN48Y/hqdefault.jpg"
+    },
+    {
+      "titulo": "Upwork MCP Full Tutorial - Automate Your Entire Freelance Business",
+      "link": "https://www.youtube.com/watch?v=v_wjvQv27Ps",
+      "fuente": "Michael Elliott",
+      "categoria": "youtube",
+      "fecha": "2026-08-24T13:16:34+00:00",
+      "extracto": "The Upwork MCP launched ten days ago and most freelancers haven't noticed. In this full tutorial I connect it to Claude and ...",
+      "vistas": 3034,
+      "miniatura": "https://i.ytimg.com/vi/v_wjvQv27Ps/hqdefault.jpg"
+    },
+    {
+      "titulo": "What Would it Cost to Run Claude Opus 5 Locally?",
+      "link": "https://www.youtube.com/watch?v=yJCHNdQ8sLs",
+      "fuente": "Kai",
+      "categoria": "youtube",
+      "fecha": "2026-08-23T10:30:14+00:00",
+      "extracto": "Can you really run a frontier AI model like Claude Opus 5 locally? The answer is much more complicated than simply buying ...",
+      "vistas": 62815,
+      "miniatura": "https://i.ytimg.com/vi/yJCHNdQ8sLs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + WhatsApp = $12,000/month",
+      "link": "https://www.youtube.com/watch?v=-VXrYRBCdCU",
+      "fuente": "Oliver Rasmussen",
+      "categoria": "youtube",
+      "fecha": "2026-08-24T19:20:47+00:00",
+      "extracto": "The two skills from this video (research + demo builder) SCROLL TO VIDEO 6: ...",
+      "vistas": 66700,
+      "miniatura": "https://i.ytimg.com/vi/-VXrYRBCdCU/hqdefault.jpg"
+    },
+    {
+      "titulo": "NEW DeepSeek Harness Is The Claude Code Codex Killer? (Open Source)",
+      "link": "https://www.youtube.com/watch?v=RWp5cejTApU",
+      "fuente": "WorldofAI",
+      "categoria": "youtube",
+      "fecha": "2026-08-24T06:00:32+00:00",
+      "extracto": "Join the private community to get WoAI Bench Pro, exclusive AI freebies and discounts, early model access, automation templates ...",
+      "vistas": 33058,
+      "miniatura": "https://i.ytimg.com/vi/RWp5cejTApU/hqdefault.jpg"
     }
   ]
 }
