@@ -1,25 +1,5 @@
 {
   "vistos": [
-    "d23a8b06a9c9ef2f",
-    "825167fbf4cce67c",
-    "d1bc6a5b81f4699f",
-    "c01fe4ec04fa02f5",
-    "5837d2af8e8b19ce",
-    "85f0a58909d43e7e",
-    "3a4f778df62adbf6",
-    "2d01a61a8baa64ee",
-    "03b5564b2e8b9f08",
-    "bbba40a2ae41b8d8",
-    "2a7881e84ccaf737",
-    "eaf82b8e39aaba0d",
-    "41f70c59b3e8cde0",
-    "5da30f41eef73ea0",
-    "890551d2c2a66326",
-    "dcd0f9433ffd8915",
-    "ca32ada86f83aad8",
-    "98acf4573ba00644",
-    "69d5b5475e8c68d4",
-    "1339098894325897",
     "7b6b049e6a472f95",
     "53513ac6531d66dd",
     "5a0c5c5857f5e1a0",
@@ -1999,169 +1979,29 @@
     "39001945f7d702aa",
     "bd1fe9fcb92455be",
     "f5c977a2a647ec1c",
-    "f70c575767503309"
+    "f70c575767503309",
+    "0e99903e12699b84",
+    "d92eeb69671684b5",
+    "3c1d641f6ca0cc55",
+    "7c5046d34670c6d9",
+    "ada65c392385a601",
+    "c02286aea7a83ab5",
+    "465109f60f69bbf8",
+    "1f0b40f6c4f3c7ca",
+    "f60f84d86e9d7baa",
+    "57a3706928e57142",
+    "f7b4da00835fd236",
+    "a734cfac901178c3",
+    "318b228be5b36d80",
+    "21ebf3c2b5d49a64",
+    "715ce7fd6910e783",
+    "4374eb3b7788c8ca",
+    "97cb00131da5e581",
+    "c9280ddd521152b0",
+    "75700f0ae7636f9f",
+    "28afc08a855494b1"
   ],
   "archivo": [
-    {
-      "titulo": "La trampa del piloto exitoso: ¿por qué la IA se estanca en las empresas peruanas? - El Comercio Perú",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTE91TTZ3S1ZoZTduTm83R0tpZ0JaeFB2VDMzR0c0QzliVW5wWXE3eG1wZVNhNXFJd0Q3V2pjNThzVERXeEhYVmFkdUpqMUNzYTlWUU5FMWNmeWRkN1l3c1JscU5hMExXU3dVOTU0ckc5cHJXeFFpUkZvaG1aYkw0OElOMEx0bVJvRk12azhNVlZfWVlZRFNFRmdsa1BhUXZ6TWpHMDJrQ2hLNXFYeEdVSlpZVGFJdWp3ampjbnVJZXBqcl82SXZrLTRJeERmQk5OVDVsVU1FSTZsbE9FcXpWVFQ2OG9TYXJrOEIzWnlMR1hBTTljb0sweHhUZDNmenQ0cEE?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-07T10:20:00+00:00",
-      "extracto": "La trampa del piloto exitoso: ¿por qué la IA se estanca en las empresas peruanas? El Comercio Perú"
-    },
-    {
-      "titulo": "Alibaba tests new business model for Qwen open-source AI - AI News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmY0cFpRYlYyZ1hlaWg2NVdKYWZueEFvWVBhWFpQUTJxQVFkalJKSFE5V2tFNEJBMmUyUDJIYVA2MElHcWRSdEE4bENoNjctb3lyb0Q2NWY2dEFZWG9iWlAwWnBPQ0xXc0RYMzhtbGpIcmozYlZKM2NRdWVXNjgxRFBwVXRHQlpMZVVWMEhKSjFXellSNDh2bA?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-08-07T10:02:04+00:00",
-      "extracto": "Alibaba tests new business model for Qwen open-source AI AI News"
-    },
-    {
-      "titulo": "'Significant risk': AI expert calls for legislation to address security breaches - WGXA",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUGJxd2x2SUlpcEdCem81TnI0SEU5SmtPV0x5Uk0yYWFES1NWTHk0aUtaUkdSYUdRaE1qSy1ZLW4yeXEyUGNCR0FpMExma2FKSmN2T3FKbm5LZG1NMmdPSGJYYmdFNEVTT1JPbFVFejBGb05GazJxTjJkaHBoclBRQXhnd3U4SmVHdlF5anRTR3lMSENnUVotNkEzYnNLWXlOMUtESmRSVFByem10VF9XT2txdUpLZ3FUR2kxd285TkZLckotdXBRRWs0a3VBR3dtRVZadWZjQm9PZTh4TV9BcGF1b21ZbUMz?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-08-07T00:26:46+00:00",
-      "extracto": "'Significant risk': AI expert calls for legislation to address security breaches WGXA"
-    },
-    {
-      "titulo": "Artificial Intelligence, Artificial Productivity: A Mismatch Made in Corporate America - HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFZlX3JrcjcwbWEtMWtJSWh4ZGtYZTdyMEx1bVRHT0JaN05jXy1MdDdHcVBTOU9NQVEyVHZFeXlUeE9FSlN1cVFyclVDcm5hSWZrQzBYVy1JcDAtSEx5aEpjTEw1WWxmTG42dEwxRGg3UXBUd2VrdlAwU0hpUU1RTmd4eTdGYjJ0VkFST2QzMUZjeWNCSjk0UXZ6cXFCc2tBWWJhRVhiV2dFc1U?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-08-06T03:40:44+00:00",
-      "extracto": "Artificial Intelligence, Artificial Productivity: A Mismatch Made in Corporate America HackerNoon"
-    },
-    {
-      "titulo": "Who is liable when artificial intelligence goes rogue? - RTE.ie",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjNZaml5aTlzUi12bVZwOVA1WFo5MzcyRERTTFpWVzhCTV9ybG50S3hrUzl1TF90R1VvekZRbnRFTTN0TnJ0MEM4V0trQjRPbXU2WnZuZk03ZlZuOE5lU0czRGh0UGVNY2x4OU5oM2lpXzBiQjRfcFRIcmhpaEo0WGNhZEJ6Rk1PTE5WUzZoekI?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-08-07T11:33:24+00:00",
-      "extracto": "Who is liable when artificial intelligence goes rogue? RTE.ie"
-    },
-    {
-      "titulo": "Out-of-control AI systems are going rogue and hacking people. Is it time to panic? - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUdWSDZCUEZMOVhhM1ExemNMNkhBVi1TRVJtV3VOQl81TllvZFJjY2dIUFpYVWhzVWEtQWtmZ2lhalJpQllLQXExZXd4V2hTOFJTV29fallDaml2OXRiYTZiUFUtandoRGNhR3ZjX0V0dnVUWjRhNEw3QjJXMzBQRVdvMnVSVHBCdFRva1RSM3czVzJrdEVaU1VvU1FVUGs0UUtsUA?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-08-06T15:36:00+00:00",
-      "extracto": "Out-of-control AI systems are going rogue and hacking people. Is it time to panic? The Independent"
-    },
-    {
-      "titulo": "Inside $1.46 trn AI spending spree reshaping the world's biggest tech firms - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEZxbkFfT2dKZ0ctNlBDV3RGSjBmMGpna21WcmI1MzRIaWY1NEtiWTZQLTN4djhGVUU2QmlDS2FvMTgwTkxpaF9PZ2xoWllQZGl5ek5JMF93Z0MyQUVNOUYtcHJjNElGdUlTZFlVeUUwa09jem93SGF3UmhPNExKaW1hdnNFNzdNbVduUThzNVJNZEhNY3lCRjVZa2FTemNSLWVxNE9jaDVoQUFvSGttVGl1N2lOZFNaU3o2MlVqZnYtZXJTUG5tTVFfc3F4QUo0eHfSAdcBQVVfeXFMUEF3eDNyV1Z0aG83dWRBam1hay1STV9wTDlEYXdSVERSSGhDU3R4QVR3TFQ5eE5BRFlkNVF3b0x1eFdMWU4wT0dzYnhRWkhGSUVxZ0UtX1hudUc1Q3BwOHpxeFZJWFB4XzB6Wjc4dXNhSm9wbUEzYURuM2lpTVFVN2p5ZWEtMzNFbm0tOUVsQ3NYMkFncEVHdC11RHd1Y0NUUW1UaXdUYWxmVzctWWt5UDdIRm1kZWpMallrMWdtTlJIcjFJclRnZ204ZDBmZ0hlV0Q1ZnVhbkE?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-08-07T06:16:02+00:00",
-      "extracto": "Inside $1.46 trn AI spending spree reshaping the world's biggest tech firms Business Standard"
-    },
-    {
-      "titulo": "Search News Buzz Video Recap: Wild Google Ranking Volatility, Reddit Special Preference, Big Google Executive Shakeup & More Search News",
-      "link": "https://www.seroundtable.com/video-08-07-2026-41834.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-08-07T12:01:00+00:00",
-      "extracto": "This week, we covered two unconfirmed Google search ranking updates, one mid-week and one over the weekend - some were pretty big. Google said Reddit gets no special preference in its search rankings or AI results..."
-    },
-    {
-      "titulo": "New Google Ads Report On New Customers Acquired",
-      "link": "https://www.seroundtable.com/google-ads-report-on-new-customers-acquired-41832.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-08-07T11:51:00+00:00",
-      "extracto": "Google Ads is rolling out a new customer acquisition option named \"Report on new customers acquired.\" This lets you \"Drive purchases from new and existing customers without changing bidding,\" according to Google."
-    },
-    {
-      "titulo": "ChatGPT Ads Updates: oCPC, Dynamic URLs, Muti-Product Carousel & More",
-      "link": "https://www.seroundtable.com/openai-chatgpt-ads-updates-41828.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-08-07T11:41:00+00:00",
-      "extracto": "Earlier this week, OpenAI sent an email to advertisers about new ChatGPT Ads Manager product updates. These updates include testing a new multi-product carousel format for product feed campaigns, plus a number of updates to the ad manager itself."
-    },
-    {
-      "titulo": "On Sep 1 Google Ads To Migrate ACA & Campaign-Level Broad Match To AI Max",
-      "link": "https://www.seroundtable.com/google-ads-migrate-ai-max-sep1-41829.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-08-07T11:31:00+00:00",
-      "extracto": "Google Ads will begin migrating or \"upgrading\" Automatically created assets and campaign-level broad match setting to AI Max starting on September 1, 2026. We knew this was coming and now the process is soon going to begin."
-    },
-    {
-      "titulo": "Google Crawlers Send HTTP Requests: HEAD, OPTIONS, PUT, PATCH, DELETE",
-      "link": "https://www.seroundtable.com/google-crawlers-head-options-put-patch-delete-41833.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-08-07T11:21:00+00:00",
-      "extracto": "Gary Illyes from Google said that Google's crawlers do not only send HTTP requests such as GET and POST but also for HEAD, OPTIONS, PUT, PATCH, and DELETE. He said the latter make up for less than 1.5% of the total number of requests all Google's crawlers send. Google sends them for JavaScript, he said."
-    },
-    {
-      "titulo": "Google Ads Phone Conversions Report Gets View Call Report Link",
-      "link": "https://www.seroundtable.com/google-ads-phone-call-view-call-report-link-41772.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-08-07T11:11:00+00:00",
-      "extracto": "Google Ads added a \"View call report\" link in the Phone Call conversions leads report. This makes it easier to jump to the details of what makes up the metrics of that report and gives you access to that data in a new tab."
-    },
-    {
-      "titulo": "Google Ads Live Tests Of Strong Match Labels",
-      "link": "https://www.seroundtable.com/google-ads-strong-match-labels-live-test-41836.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-08-07T09:55:00+00:00",
-      "extracto": "Google Ads is now testing the \"Strongest match\" and \"Strong match\" labels it announced back in mid-June. This is the first time I have seen this label in the wild. I am actually a bit surprised Google went on with this test after the backlash..."
-    },
-    {
-      "titulo": "Kitesurf",
-      "link": "https://www.producthunt.com/products/cloudflare",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-07T04:59:49+00:00",
-      "extracto": "Browser built for agents, running on Cloudflare Workers Discussion | Link"
-    },
-    {
-      "titulo": "Soloop",
-      "link": "https://www.producthunt.com/products/soloop",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-06T10:36:29+00:00",
-      "extracto": "Approval-first Agent OS for solo founders Discussion | Link"
-    },
-    {
-      "titulo": "DataBlur",
-      "link": "https://www.producthunt.com/products/datablur",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-06T13:27:35+00:00",
-      "extracto": "Blur sensitive data on screen before anyone sees it Discussion | Link"
-    },
-    {
-      "titulo": "Crew",
-      "link": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-06T08:08:47+00:00",
-      "extracto": "A tiny crew of monsters for your Claude Code agents Discussion | Link"
-    },
-    {
-      "titulo": "Rescript for Desktop",
-      "link": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-07T04:56:04+00:00",
-      "extracto": "A free, open source, Descript alternative. Runs on-device. Discussion | Link"
-    },
-    {
-      "titulo": "HAR",
-      "link": "https://www.producthunt.com/products/har",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-06T14:56:17+00:00",
-      "extracto": "Open Source harness for multi-agent coding workflows Discussion | Link"
-    },
     {
       "titulo": "Merge",
       "link": "https://www.producthunt.com/products/merge-5",
@@ -14377,6 +14217,206 @@
       "categoria": "dxw",
       "fecha": "2026-08-30T10:25:00+00:00",
       "extracto": "Digital Diva Group Launches GEO Framework for AI Search Visibility The Napa Valley Register"
+    },
+    {
+      "titulo": "Can I Make a Better AI Than AI?",
+      "link": "https://www.youtube.com/watch?v=GGWHjAyKJCA",
+      "fuente": "commonLuke",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T17:59:18+00:00",
+      "extracto": "Review PRs faster with CodeRabbit: https://coderabbit.link/ad-common-luke-001 You can support this video by hyping the video, ...",
+      "vistas": 584459,
+      "miniatura": "https://i.ytimg.com/vi/GGWHjAyKJCA/hqdefault.jpg"
+    },
+    {
+      "titulo": "Why You Cannot See a Watermark in AI Text",
+      "link": "https://www.youtube.com/watch?v=Cmi-1QSaptA",
+      "fuente": "No Hype AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T12:26:25+00:00",
+      "extracto": "Anthropic is now watermarking everything Claude writes. But how do you hide a watermark in plain text? In this video, I break ...",
+      "vistas": 450598,
+      "miniatura": "https://i.ytimg.com/vi/Cmi-1QSaptA/hqdefault.jpg"
+    },
+    {
+      "titulo": "TheBell(AI)Report: Mel B บอกเองว่าไม่ใช่แนวตัวเอง แล้วกด Golden Buzzer ให้เนเน่",
+      "link": "https://www.youtube.com/watch?v=xmvaSRNkSY4",
+      "fuente": "Bell Likes Review",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T07:50:40+00:00",
+      "extracto": "เนเน่เลือก Black Hole Sun ของ Soundgarden เพลงที่คนดูร้องตามไม่ได้ ไม่มีที่ให้ซ่อน — แล้ว Mel B ที่บอกเองว่าไม่อินแนวนี้ ก็กด Golden ...",
+      "vistas": 233358,
+      "miniatura": "https://i.ytimg.com/vi/xmvaSRNkSY4/hqdefault.jpg"
+    },
+    {
+      "titulo": "클로드로 뽑은 글에 워터마크가 생긴다고??",
+      "link": "https://www.youtube.com/watch?v=PZzAxqF0KCI",
+      "fuente": "코딩애플",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T03:00:22+00:00",
+      "extracto": "비상!!! 강의 https://codingapple.com/ 개별강의 10% 할인쿠폰 templeos2018 (자주 바뀜 최신영상 참고) 사용한자료 ...",
+      "vistas": 186975,
+      "miniatura": "https://i.ytimg.com/vi/PZzAxqF0KCI/hqdefault.jpg"
+    },
+    {
+      "titulo": "CLAUDE CODE делает штамп. А я курю в сторонке))",
+      "link": "https://www.youtube.com/watch?v=kTBf_8743aA",
+      "fuente": "Технологика",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T16:51:31+00:00",
+      "extracto": "",
+      "vistas": 221725,
+      "miniatura": "https://i.ytimg.com/vi/kTBf_8743aA/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Dropped Claude Memory 2.0 (Full Breakdown)",
+      "link": "https://www.youtube.com/watch?v=Fys9ua-x0A0",
+      "fuente": "Brock Mesarich | AI for Non Techies",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T22:54:11+00:00",
+      "extracto": "Join my Skool Community for all of my resources: https://bit.ly/4t2yNgG ✓ Claude Cowork: http://clau.de/BrockMesarich ...",
+      "vistas": 108898,
+      "miniatura": "https://i.ytimg.com/vi/Fys9ua-x0A0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code 2.0 MASSIVE Upgrade! (NEW UPDATE)",
+      "link": "https://www.youtube.com/watch?v=GBg_3gEtNYI",
+      "fuente": "WorldofAI",
+      "categoria": "youtube",
+      "fecha": "2026-08-29T06:15:17+00:00",
+      "extracto": "Join the private community to get WoAI Bench Pro, exclusive AI freebies and discounts, early model access, automation templates ...",
+      "vistas": 133987,
+      "miniatura": "https://i.ytimg.com/vi/GBg_3gEtNYI/hqdefault.jpg"
+    },
+    {
+      "titulo": "DeepSeek Harness CAMBIA las reglas: ¿Adiós a Claude Code y Codex?",
+      "link": "https://www.youtube.com/watch?v=Ly2R2-Ga8e4",
+      "fuente": "Patricia Palazón | IA",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T18:46:32+00:00",
+      "extracto": "DeepSeek acaba de lanzar Harness, su propio agente de programación de código abierto, y llega pisando fuerte: en este vídeo ...",
+      "vistas": 98474,
+      "miniatura": "https://i.ytimg.com/vi/Ly2R2-Ga8e4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Just Solved Motion Design (Destroy AI Slop)",
+      "link": "https://www.youtube.com/watch?v=hNpC5clEbp4",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T19:59:20+00:00",
+      "extracto": "Here is how I generated the images/videos: https://bit.ly/3UohOtw Design Loop Skill: https://bit.ly/4qXWO9r ALL Systems: ...",
+      "vistas": 82270,
+      "miniatura": "https://i.ytimg.com/vi/hNpC5clEbp4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic CEO on Saaspocalypse : We re not interested in destroying anyone",
+      "link": "https://www.youtube.com/watch?v=4JJCXSTjy_8",
+      "fuente": "CNBC Television",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T20:52:29+00:00",
+      "extracto": "Marc Benioff, Salesforce chair and CEO and Dario Amodei, Anthropic co-founder and CEO joins 'Mad Money' host Jim Cramer to ...",
+      "vistas": 79510,
+      "miniatura": "https://i.ytimg.com/vi/4JJCXSTjy_8/hqdefault.jpg"
+    },
+    {
+      "titulo": "See Salesforce in Claude Demo",
+      "link": "https://www.youtube.com/watch?v=Ym0RBY7F1Pk",
+      "fuente": "Salesforce",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T22:27:31+00:00",
+      "extracto": "The #1 AI meets the #1 CRM. Welcome to Claudeforce. The Salesforce + @anthropic-ai partnership to build products that put your ...",
+      "vistas": 18071,
+      "miniatura": "https://i.ytimg.com/vi/Ym0RBY7F1Pk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Le he dado a Claude el CONTROL de mi Home Assistant 😱",
+      "link": "https://www.youtube.com/watch?v=KOB9aPxvjVk",
+      "fuente": "Un loco y su tecnología",
+      "categoria": "youtube",
+      "fecha": "2026-08-29T16:52:47+00:00",
+      "extracto": "Aprende Home Assistant desde CERO https://unloco.link/cursoha ¿Te imaginas darle a Claude acceso a Home Assistant y ...",
+      "vistas": 30115,
+      "miniatura": "https://i.ytimg.com/vi/KOB9aPxvjVk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code boosts AI power with five MCPs for browsing #claudecode #mcpintegration #aitechnology",
+      "link": "https://www.youtube.com/watch?v=1EuCOZJq89Y",
+      "fuente": "Ivan Geoffrey",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T15:43:04+00:00",
+      "extracto": "Claude Code gained five MCPs that drastically expand its capabilities, making it ten times more powerful. These include ...",
+      "vistas": 8887,
+      "miniatura": "https://i.ytimg.com/vi/1EuCOZJq89Y/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI Can Finally Get Past Login Screens (Safely)",
+      "link": "https://www.youtube.com/watch?v=ibpSIF3aeGc",
+      "fuente": "Tech With Tim",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T13:00:26+00:00",
+      "extracto": "sponsored Claude can now log into your accounts without ever seeing your passwords. In this video I set up 1Password for ...",
+      "vistas": 363973,
+      "miniatura": "https://i.ytimg.com/vi/ibpSIF3aeGc/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to start a 1-person business with AI (ask these 3 questions)",
+      "link": "https://www.youtube.com/watch?v=1BApLicRt1w",
+      "fuente": "Dan Martell",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T13:00:33+00:00",
+      "extracto": "Get Your FREE AI Company Operating System here: https://go.danmartell.com/4cFKJQ0 Are you building an AI software ...",
+      "vistas": 121085,
+      "miniatura": "https://i.ytimg.com/vi/1BApLicRt1w/hqdefault.jpg"
+    },
+    {
+      "titulo": "Learn 95% of ChatGPT Work in Under 20 Minutes",
+      "link": "https://www.youtube.com/watch?v=KmcTu2EigTs",
+      "fuente": "Jeff Su",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T13:00:23+00:00",
+      "extracto": "Grab HubSpot's free Guide to #ChatGPT Work: https://clickhubspot.com/8f3780 Most people open #ChatGPT Work, type a ...",
+      "vistas": 87030,
+      "miniatura": "https://i.ytimg.com/vi/KmcTu2EigTs/hqdefault.jpg"
+    },
+    {
+      "titulo": "ChatGPT vs Claude vs Gemini the honest answer",
+      "link": "https://www.youtube.com/watch?v=8QsTYZh5kTc",
+      "fuente": "Eren AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T23:40:30+00:00",
+      "extracto": "Try the AI assistants featured in this video: ChatGPT (GPT-5): https://chatgpt.com/ Claude: https://claude.ai/ ✨ Gemini: ...",
+      "vistas": 38722,
+      "miniatura": "https://i.ytimg.com/vi/8QsTYZh5kTc/hqdefault.jpg"
+    },
+    {
+      "titulo": "2026 클로드(Claude) 올인원 무료 강의｜AI 업무자동화 20분 총정리",
+      "link": "https://www.youtube.com/watch?v=58YFu8s2I8w",
+      "fuente": "일반인을 위한 AI 업무자동화 가이드",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T14:04:48+00:00",
+      "extracto": "클로드 #Claude #클로드사용법 #클로드코드 #ClaudeCode #AI업무자동화 #업무자동화 #생성형AI #AI에이전트 #클로드코워크 ...",
+      "vistas": 94139,
+      "miniatura": "https://i.ytimg.com/vi/58YFu8s2I8w/hqdefault.jpg"
+    },
+    {
+      "titulo": "Why Claude Uses 3 Different Rate Limits?",
+      "link": "https://www.youtube.com/watch?v=uWzX8Jc9tO8",
+      "fuente": "KodeKloud",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T12:23:15+00:00",
+      "extracto": "Why Claude Runs Three Rate Limits Instead of One! A single per-minute cap can't protect expensive GPU compute. One shared ...",
+      "vistas": 52216,
+      "miniatura": "https://i.ytimg.com/vi/uWzX8Jc9tO8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + Canva - Start Your Online Journey In Next 5 Minutes!",
+      "link": "https://www.youtube.com/watch?v=sj3ZCzxTNms",
+      "fuente": "TechBoy Gulfam Ali ",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T15:18:37+00:00",
+      "extracto": "Claude + Canva - Start Your Online Journey In Next 5 Minutes Get prompts here: ...",
+      "vistas": 55634,
+      "miniatura": "https://i.ytimg.com/vi/sj3ZCzxTNms/hqdefault.jpg"
     }
   ]
 }
