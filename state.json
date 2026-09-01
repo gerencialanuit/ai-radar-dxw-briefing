@@ -1,18 +1,5 @@
 {
   "vistos": [
-    "6a75e3442ba82fea",
-    "4e35450de8757aee",
-    "c2e952dd5c3b0b91",
-    "f6b7334b0852ebbf",
-    "e5ed1cffda69a60a",
-    "b86fe3971fc8b373",
-    "987e61582f254e1f",
-    "9c93659576e58640",
-    "29506e5c526194a6",
-    "7bd0caa0193a678e",
-    "9c4dfc7751bf7969",
-    "6f450efac57fa73d",
-    "d83b8fc7ca7fb826",
     "f3fa7a727a61e114",
     "a6452674f3fde219",
     "e2156eafeeffa8b8",
@@ -1999,113 +1986,22 @@
     "2d5ea79ec795e8fb",
     "70bc18cbfe5fccdb",
     "63ca59ef2ba0da2a",
-    "8b5f838c52ad0d35"
+    "8b5f838c52ad0d35",
+    "a489481e5afbfab8",
+    "5fd01c14766e129b",
+    "0853266d6cca91a8",
+    "50d146480e5ea48e",
+    "6db82568d1c94459",
+    "7828624daea7f61c",
+    "194b6e0711a45d5a",
+    "7a7e36fb956cdbae",
+    "191af8636accdaa1",
+    "9f498cf64607dceb",
+    "95289c1e612f0297",
+    "6b7b827ccbe20f9b",
+    "a69d2d5f9e2eeecb"
   ],
   "archivo": [
-    {
-      "titulo": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-10T12:00:00+00:00",
-      "extracto": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips."
-    },
-    {
-      "titulo": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-09T20:35:17+00:00",
-      "extracto": "The AI-focused hedge fund is still making some big bets."
-    },
-    {
-      "titulo": "Anthropic is turning Claude Code’s auto mode on by default",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-09T19:20:32+00:00",
-      "extracto": "Programming with Claude Code will soon require even less human oversight."
-    },
-    {
-      "titulo": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-09T15:00:00+00:00",
-      "extracto": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
-    },
-    {
-      "titulo": "The AI safety test is becoming a safety risk",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-09T14:30:00+00:00",
-      "extracto": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models."
-    },
-    {
-      "titulo": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-08T21:24:02+00:00",
-      "extracto": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
-    },
-    {
-      "titulo": "OpenAI acquires presentation startup NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-08T19:41:13+00:00",
-      "extracto": "NextSlide says its team members are now working on ChatGPT."
-    },
-    {
-      "titulo": "Bose CEO Lila Snyder on the fight for high-quality audio",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-08-10T14:00:00+00:00",
-      "extracto": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [ ]"
-    },
-    {
-      "titulo": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-08-10T11:00:00+00:00",
-      "extracto": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it [ ]"
-    },
-    {
-      "titulo": "AI detectors are creating a new era of distrust",
-      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-08-09T12:00:00+00:00",
-      "extracto": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [ ]"
-    },
-    {
-      "titulo": "An Amazon data center could have the worst polluting power plant in the country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-08-08T17:53:34+00:00",
-      "extracto": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, [ ]"
-    },
-    {
-      "titulo": "Peer review is overwhelmed—can it survive in the AI era?",
-      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-10T11:00:47+00:00",
-      "extracto": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up."
-    },
-    {
-      "titulo": "Zonas francas colombianas aceleran su transformación digital con inteligencia artificial y servicios avanzados - Portafolio.co",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPckMyTHBHV1VkN3VVdXA3V0I3WHloQ2ZnemV0UXhrYmFwcENuVkhFbHFiMTFfMG5jTDJ4QUZVRjhuTkhPLWc2d2tZZTJaUEhtXzRlOXplVDRnemhBclFaSm9mUkxhM0huaDM1a0JYa2hHYUc5b29NaU93dktrWFgzdzZVM09qaUg2VE1QOE5xZ0NiaklHSWpDRmpoLWVBZVVVNUhlNE5TN1RINDBFSTl2QmhJc0RrR0hwcjhRMzd0ZmJqdnk0dzR3T3VxTFB2aEdLYk5YRm9EcHVNTG1IYldDeng2dk9hLWRXOHZnMURVekZ3WXPSAfgBQVVfeXFMUDhmcDZBOVV1M3REOUd2R1Njc3JpeVFBZUpSRExNRUZpeXNqTThXa3owVlJtR1RWTmJLQlhpVF84cUpqVW8xSEVyUEpzdnlBZ1pLa1UwVlU0NFZmYTljc3dNYlluX0xBUU1NRkhGYi14bjBWTHY0S29EOTlaSWtXd1k3WGdENHdUd0VYdEdFMEF5a0lBRl9xRmxYMnZjZGkxTy0waVN5YkY3N1lxN3VxZnpxV0hhbUo3WlZjTl9oRi11NUpfa3RVZzYySkpwTVZPdGNQMUpNcTc4cjFpRWZMMGxvWmVhQjl1bFhfck1vc1dieVpkQUJ4Wks?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-09T18:15:20+00:00",
-      "extracto": "Zonas francas colombianas aceleran su transformación digital con inteligencia artificial y servicios avanzados Portafolio.co"
-    },
     {
       "titulo": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSlNzY3lMdThETy10bnFCay05eXRzczVIVlBNVWVRSHdpYlYzR3IzWGUyZ2NoSGg0VUM3Y0c0b1dTemVTMW9OX09udkppQ080WU4xVVNYNXNoMHPSAWBBVV95cUxPM3FCZXlaZ3oyMTJkcFlTX3JWWjE1LVV4RmVwdlpYRmQ4QWRuZy00NGljTHJQcGZnMnU3c3dPaDdUUjJ5TlhweHhQd2RZNzA3M0U2cndXVjl4MVdhbExMS1E?oc=5",
@@ -14403,6 +14299,136 @@
       "categoria": "dxw",
       "fecha": "2026-09-01T12:26:52+00:00",
       "extracto": "SEOPACK Adds AI and Generative Engine Optimization to Its SEO Service Portfolio The Manila Times"
+    },
+    {
+      "titulo": "Apakah Bukunya Bakal Lebih Berguna⁉️",
+      "link": "https://www.youtube.com/watch?v=FkO60vb2okY",
+      "fuente": "Bayang Wawasan",
+      "categoria": "youtube",
+      "fecha": "2026-08-27T05:00:39+00:00",
+      "extracto": "Anthropic, perusahaan di balik AI Claude, memang pernah menjalankan “Project Panama”, sebuah proyek untuk memperoleh ...",
+      "vistas": 263857,
+      "miniatura": "https://i.ytimg.com/vi/FkO60vb2okY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Why Jane Street Makes More From Claude Than Anthropic Does - Dylan Patel",
+      "link": "https://www.youtube.com/watch?v=4NMBwT1qYew",
+      "fuente": "Dwarkesh Patel",
+      "categoria": "youtube",
+      "fecha": "2026-08-28T21:31:38+00:00",
+      "extracto": "",
+      "vistas": 178780,
+      "miniatura": "https://i.ytimg.com/vi/4NMBwT1qYew/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI 新手完全攻略：從零基礎到開外掛，一次全學會",
+      "link": "https://www.youtube.com/watch?v=a2HV7g83jsM",
+      "fuente": "腦哥 Chill塊鏈",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T10:45:01+00:00",
+      "extracto": "Claude 官網：https://claude.ai/login 影片中範例模板都在下方，直接抄吧！ 讓AI 成為懂你的人基本背景： ex 我住在台北，慣用 ...",
+      "vistas": 205702,
+      "miniatura": "https://i.ytimg.com/vi/a2HV7g83jsM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Desktop ahora es GRATIS y SIN Límites (nuevo Ollama) 🫪",
+      "link": "https://www.youtube.com/watch?v=1TTmYLXIOvw",
+      "fuente": "Alejavi Rivera",
+      "categoria": "youtube",
+      "fecha": "2026-08-30T17:00:01+00:00",
+      "extracto": "Se acaba de liberar la app más avanzada de automatización de IA, Claude Desktop. Con este ahora podemos hacer uso de su ...",
+      "vistas": 111853,
+      "miniatura": "https://i.ytimg.com/vi/1TTmYLXIOvw/hqdefault.jpg"
+    },
+    {
+      "titulo": "DeepSeek Harness Setup: A Free Claude Code You Own In 10 Minutes",
+      "link": "https://www.youtube.com/watch?v=EDxVn1q8udE",
+      "fuente": "Sharbel A.",
+      "categoria": "youtube",
+      "fecha": "2026-08-28T14:00:23+00:00",
+      "extracto": "You can subscribe to my newsletter so you never miss a drop: https://sharbel.com/s/z3qhh DeepSeek Harness Link: ...",
+      "vistas": 113364,
+      "miniatura": "https://i.ytimg.com/vi/EDxVn1q8udE/hqdefault.jpg"
+    },
+    {
+      "titulo": "The #1 AI meets the #1 CRM. Welcome to Claudeforce.",
+      "link": "https://www.youtube.com/watch?v=RZMj7C41AuQ",
+      "fuente": "Salesforce",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T22:53:46+00:00",
+      "extracto": "The #1 AI meets the #1 CRM. Welcome to Claudeforce. The Salesforce + @anthropic-ai partnership to build products that put your ...",
+      "vistas": 101391,
+      "miniatura": "https://i.ytimg.com/vi/RZMj7C41AuQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Best Ecommerce Email Marketing App? Omnisend MCP in 60 Seconds",
+      "link": "https://www.youtube.com/watch?v=qT01P1nkTJU",
+      "fuente": "AI Matrix",
+      "categoria": "youtube",
+      "fecha": "2026-08-30T12:24:39+00:00",
+      "extracto": "Looking for the Best Ecommerce Email Marketing App? Omnisend's new MCP integration lets ChatGPT and Claude instantly ...",
+      "vistas": 5619,
+      "miniatura": "https://i.ytimg.com/vi/qT01P1nkTJU/hqdefault.jpg"
+    },
+    {
+      "titulo": "This is why we use Claude 🫠",
+      "link": "https://www.youtube.com/watch?v=x4KWhMAtDHs",
+      "fuente": "The Hamilton Collection",
+      "categoria": "youtube",
+      "fecha": "2026-08-31T20:01:43+00:00",
+      "extracto": "",
+      "vistas": 103733,
+      "miniatura": "https://i.ytimg.com/vi/x4KWhMAtDHs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Can Do So Much More For You Now...",
+      "link": "https://www.youtube.com/watch?v=yshSzI1rAMs",
+      "fuente": "The AI Advantage",
+      "categoria": "youtube",
+      "fecha": "2026-08-28T18:53:03+00:00",
+      "extracto": "This week, ChatGPT and Claude both got updates to their online browsing capabilities, but which one should you actually be ...",
+      "vistas": 71406,
+      "miniatura": "https://i.ytimg.com/vi/yshSzI1rAMs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI + Whop Clipping = $6,500/Month (Full Tutorial)",
+      "link": "https://www.youtube.com/watch?v=6nGc3yCGByI",
+      "fuente": "Kamil Sattar | Make Money With AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-29T16:00:31+00:00",
+      "extracto": "Here is the cheat sheet with the prompts https://luminous-moonbeam-5488da.netlify.app/ In this video, I'll show you how to use ...",
+      "vistas": 63148,
+      "miniatura": "https://i.ytimg.com/vi/6nGc3yCGByI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Is Now FREE UNLIMITED 🤯",
+      "link": "https://www.youtube.com/watch?v=MQ7-L8-GdHc",
+      "fuente": "Vivek Mishra",
+      "categoria": "youtube",
+      "fecha": "2026-08-27T13:00:26+00:00",
+      "extracto": "In this video, I'm breaking down exactly how you can run Claude Code completely free and unlimited using a platform called ...",
+      "vistas": 46823,
+      "miniatura": "https://i.ytimg.com/vi/MQ7-L8-GdHc/hqdefault.jpg"
+    },
+    {
+      "titulo": "If you re using Claude Code, you need to install these 5 AI plugins and skills.",
+      "link": "https://www.youtube.com/watch?v=5Mh_LjMFFjc",
+      "fuente": "Nick Automates",
+      "categoria": "youtube",
+      "fecha": "2026-08-26T14:56:01+00:00",
+      "extracto": "If you're using Claude Code, you need to install these 5 AI plugins and skills. First is find-skills. You just tell it what you're building.",
+      "vistas": 40071,
+      "miniatura": "https://i.ytimg.com/vi/5Mh_LjMFFjc/hqdefault.jpg"
+    },
+    {
+      "titulo": "5 Formas De Ganar DÓLARES con CLAUDE (Sin Saber Programar)",
+      "link": "https://www.youtube.com/watch?v=6Z9gBleonQk",
+      "fuente": "Finanzas con Luis",
+      "categoria": "youtube",
+      "fecha": "2026-08-25T20:30:19+00:00",
+      "extracto": "Primera transacción GRATIS con Global66: https://share.global66.com/FCLGLOBAL ⭐️Registro en Nexo en nivel platinum: ...",
+      "vistas": 39360,
+      "miniatura": "https://i.ytimg.com/vi/6Z9gBleonQk/hqdefault.jpg"
     }
   ]
 }
