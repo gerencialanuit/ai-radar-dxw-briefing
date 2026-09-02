@@ -1,17 +1,5 @@
 {
   "vistos": [
-    "d3f74afa97c32672",
-    "13f6b6d1f1eb63c9",
-    "49f57077c48e5910",
-    "164b3c72340ddc4a",
-    "227cc75d091286f6",
-    "1245a9693f51fec8",
-    "ec137b819424d453",
-    "8e5ef22a03b874ae",
-    "12edf8fcbf494138",
-    "da3ad1ad86d8f2e1",
-    "9eae3c3370024bd5",
-    "10a5fd9ede6b985a",
     "94fc2f9199e80689",
     "80a8603f5aed0671",
     "aa3d8dbb2cf94d1b",
@@ -1999,105 +1987,21 @@
     "6eb0f9d894bfb27c",
     "0932fc63c8f35053",
     "7c4ef2659bed7272",
-    "0b162d01fb2f253d"
+    "0b162d01fb2f253d",
+    "f1b18e6e275f618d",
+    "bc198deb9e0e4288",
+    "7bed5f970c87268e",
+    "e6991cd5ae1d79c0",
+    "edbc211aa91db8d4",
+    "acc3a8e0749f6a0c",
+    "030a402ad42fabc4",
+    "e5796aa722194ca9",
+    "6ceb15f373ce46b3",
+    "b135cdf62090b9f2",
+    "b6e21bd5d5d1a69e",
+    "e451711e83d2da2a"
   ],
   "archivo": [
-    {
-      "titulo": "AI job search tips: 9 AI tools to help you land your next job",
-      "link": "https://zapier.com/blog/ai-job-search",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-09T22:00:00+00:00",
-      "extracto": "From writing your resume for you to automating networking emails, there are tons of ways AI can help streamline your job search. But more importantly, AI can also help you cut through the noise, secure interviews, and impress hiring managers—as long as you use it well. According to a survey from Software Finder, 75% of job seekers use AI tools as part of their job search, with 14% using AI throughout the entire application process. Those who did..."
-    },
-    {
-      "titulo": "One-click connection to nearly 70 MCP servers and when to use them",
-      "link": "https://blog.n8n.io/one-click-connection-to-nearly-70-mcp-servers-and-when-to-use-them/",
-      "fuente": "n8n Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-10T17:46:54+00:00",
-      "extracto": "You can now connect to dozens of MCP servers directly from the Node panel with a simple OAuth flow. Pick a server, sign in, and it's ready for your agent to use."
-    },
-    {
-      "titulo": "Google business profile glitch leaves small retailers in search limbo ahead of back-to-school season - Digital Journal",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONUV5dUs3dDRCWld2QmxWcWRJdnB4eXlHUmhFdjMwZy1FOHBNdzBzNE1PS0pZZmxUdFFwSEpmaVpTakdTTFR5by0zRk1pZ1Q4c0JaSTJlb2llN3ZTQmVyMmpXZVpxN3NzOExrVEc2T1RneUZkSGF0TVRwV2ZQMXVYd1IxTnV6SUZMb3k5eGRTN1ZsSjhlLS03Ykh5Q0JGZVQ1QWRHd0VoTC13YTFNcU13U3Y3d1gzNnd0bzF6MThRU3g4ZEVLVW5lV0dhLWZPWG1pZ1pRa2x4TQ?oc=5",
-      "fuente": "GN — Google Business Profile",
-      "categoria": "dxw",
-      "fecha": "2026-08-10T20:16:43+00:00",
-      "extracto": "Google business profile glitch leaves small retailers in search limbo ahead of back-to-school season Digital Journal"
-    },
-    {
-      "titulo": "Netic Partners with American Residential Services to Bring Frontier AI to One of America's Largest Home Services Providers - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUXNKSEg4QmxYcTdQcFBBeUNSYzNKd3VjWmw3SXU1eWU2M09Mb2pXWUlOeW5Pb3lJNmtuamNfLUl3c0s1X2hEcHktSE9Uam9vamprNFhYQ1FJYk45Wk1NU1p4OERvSmx2aDZCRzd2UFhRZlowcUs2UGdUelZlb2o0UTNmTmJFdGRFVlVaTHExdFNxMmM4M05lX1VncjRzLWlnQlowenJOV1Z3TFU4WE9ZNVE5WW1UaXc4My1nc3d0bk1RMDRZdGJ1cktzWkhOZHdTc3l1NU53Uk1Ca244bVhLQjBZaTBWQWFFUGRxcW8wdWsxR0JtZ0FSLU1EZU1WYXlfUlFLX2p6U2k?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-08-10T14:04:00+00:00",
-      "extracto": "Netic Partners with American Residential Services to Bring Frontier AI to One of America's Largest Home Services Providers PR Newswire"
-    },
-    {
-      "titulo": "Family Ties Air, Plumbing & Drain Partners with UpSmith to Transform Home Services Through AI-Powered Technology - EIN News",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSVpESHctRUJOMDZtek0yRk9JV3pFSG1YaEstM0Q4TUZfd1Fmek1zUjY5SUxxdE5rTDI5WkJKek8yQVJ3ZEtyaU5wQXNqbE9Da2JtdUphbkxWTjc3b1pQeUVlYUZsWkdVeW5tVHlZRWMtWWRjNDFvX3Vic3cyMGhjbzA0a1NWTmw4U25uaVU0cU1WY0c5NGtTaThxM1pnVlJpcmlpX2RIUDYzOExRalludk1Da2JIaGl6enZxZ2xxYkhoMUVpZ2t1WlZZRWZfeHBMR2VfZ1MwenhvMXpfbFB1TjJfWDUwQQ?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-08-10T15:28:00+00:00",
-      "extracto": "Family Ties Air, Plumbing & Drain Partners with UpSmith to Transform Home Services Through AI-Powered Technology EIN News"
-    },
-    {
-      "titulo": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "link": "https://openai.com/index/zapier",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-08-10T00:00:00+00:00",
-      "extracto": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
-    },
-    {
-      "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-08-10T00:00:00+00:00",
-      "extracto": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
-    },
-    {
-      "titulo": "v2.1.227",
-      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.227",
-      "fuente": "Claude Code — Releases",
-      "categoria": "releases",
-      "fecha": "2026-08-10T22:56:53+00:00",
-      "extracto": "What's changed Fixed feature flags being evaluated without the user's subscription tier when a session started with an expired login token, which could wrongly prompt Max plan users to enable usage credits for Fable Fixed every Bash command failing under claude-code-action with allowed_non_write_users on GitHub-hosted runners Fixed /tui bringing back a conversation that had been rewound to before its first message Improved slash-command menu: blu..."
-    },
-    {
-      "titulo": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "fuente": "Hugging Face Blog",
-      "categoria": "releases",
-      "fecha": "2026-08-11T13:37:10+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-11T13:00:00+00:00",
-      "extracto": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default."
-    },
-    {
-      "titulo": "Anthropic says it will watermark text generated by its AI models",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-11T12:13:47+00:00",
-      "extracto": "Anthropic will extend support for watermarking AI generations for older models as well."
-    },
-    {
-      "titulo": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-11T00:03:18+00:00",
-      "extracto": "San Francisco's housing market is in trouble again."
-    },
     {
       "titulo": "As AI-led attacks multiply, OpenAI launches a new cyber model",
       "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
@@ -14407,6 +14311,126 @@
       "categoria": "dxw",
       "fecha": "2026-09-01T17:41:00+00:00",
       "extracto": "BuzzBlast PR Positions Small Businesses for AI Search Visibility Through Distributed Media Coverage FinancialContent"
+    },
+    {
+      "titulo": "China Just Dropped A Free AI That Beats Claude Fable 5 (Here s How To Use It +21 AI Updates)",
+      "link": "https://www.youtube.com/watch?v=YYAMwM-F30o",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-08-30T12:42:22+00:00",
+      "extracto": "JOIN OUR FREE AI COMMUNITY Get the Ox Alpha guide, testing prompts, and practical AI updates: ...",
+      "vistas": 509739,
+      "miniatura": "https://i.ytimg.com/vi/YYAMwM-F30o/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Makes GTA 6 In Unreal Engine vs From Scratch",
+      "link": "https://www.youtube.com/watch?v=kHcXpGXzN6c",
+      "fuente": "Minimunch",
+      "categoria": "youtube",
+      "fecha": "2026-08-31T15:45:02+00:00",
+      "extracto": "Claude Opus 5 Makes GTA 6 2x, first from scratch (with html and javascript), then in unreal engine 5.8 (MCP) subscribe if you ...",
+      "vistas": 197673,
+      "miniatura": "https://i.ytimg.com/vi/kHcXpGXzN6c/hqdefault.jpg"
+    },
+    {
+      "titulo": "Dont take AI too seriously #ai #chatgpt #claude #aimodel #aisafety #llm #aiexplained",
+      "link": "https://www.youtube.com/watch?v=qT31L6BTLAk",
+      "fuente": "Mayankshah",
+      "categoria": "youtube",
+      "fecha": "2026-08-28T13:45:22+00:00",
+      "extracto": "ChatGPT never tells you you're wrong — and that's quietly dangerous. AI is trained to be helpful and agreeable, which means it ...",
+      "vistas": 106290,
+      "miniatura": "https://i.ytimg.com/vi/qT31L6BTLAk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Lo consiguió! Omniroute Regala la Mejor IA GRATIS y SIN Límites",
+      "link": "https://www.youtube.com/watch?v=q1hFEja170A",
+      "fuente": "Alejavi Rivera",
+      "categoria": "youtube",
+      "fecha": "2026-08-27T17:00:32+00:00",
+      "extracto": "Omniroute acaba de solventar los límites de la IA gratuita entre proveedores únificando toda la IA gratuita en un único lugar para ...",
+      "vistas": 167243,
+      "miniatura": "https://i.ytimg.com/vi/q1hFEja170A/hqdefault.jpg"
+    },
+    {
+      "titulo": "10 NEW Github Repos Every Claude User Must Use",
+      "link": "https://www.youtube.com/watch?v=LrHY1U03IRU",
+      "fuente": "Chase AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-30T16:42:18+00:00",
+      "extracto": "Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai FREE community ...",
+      "vistas": 93210,
+      "miniatura": "https://i.ytimg.com/vi/LrHY1U03IRU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Qwen 3.8 27B локально! Отменяю подписку на Claude?",
+      "link": "https://www.youtube.com/watch?v=2s6LBHqEz-E",
+      "fuente": "Студия Игор",
+      "categoria": "youtube",
+      "fecha": "2026-08-27T07:12:12+00:00",
+      "extracto": "Qwen 3.8 на 27 миллиардов параметров тестирую прямо на моём MacBook, бесплатно и без всякой подписки.",
+      "vistas": 92187,
+      "miniatura": "https://i.ytimg.com/vi/2s6LBHqEz-E/hqdefault.jpg"
+    },
+    {
+      "titulo": "Why Everyone Is Switching to MCP (And Why You Might Not Need To)",
+      "link": "https://www.youtube.com/watch?v=qYq1wG7JnhM",
+      "fuente": "ByteMonk",
+      "categoria": "youtube",
+      "fecha": "2026-08-27T04:10:53+00:00",
+      "extracto": "You already have REST APIs. Claude Code can already call them. So why is everyone suddenly building MCP servers?",
+      "vistas": 30295,
+      "miniatura": "https://i.ytimg.com/vi/qYq1wG7JnhM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Attio s MCP lets you ask Claude for your CRM in plain English",
+      "link": "https://www.youtube.com/watch?v=nJ4WHNp3Ew8",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-09-01T17:02:05+00:00",
+      "extracto": "Attio just shipped an MCP server, and it turns Claude into a front end for your entire CRM. Here's the problem it kills. Before every ...",
+      "vistas": 9828,
+      "miniatura": "https://i.ytimg.com/vi/nJ4WHNp3Ew8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Turn Any Book Into an AI Skill You’ll Actually Use",
+      "link": "https://www.youtube.com/watch?v=8PM_t3NWrAE",
+      "fuente": "Vicky Zhao",
+      "categoria": "youtube",
+      "fecha": "2026-08-27T14:15:24+00:00",
+      "extracto": "Join The Claude Code 5-Day Email Course to get started with AI agents for free: https://thinkinframeworks.co/cc Reading a great ...",
+      "vistas": 133414,
+      "miniatura": "https://i.ytimg.com/vi/8PM_t3NWrAE/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Save AI Credits With Higgsfield + Blender (No One Talks About This Workflow)",
+      "link": "https://www.youtube.com/watch?v=OiULPvTJ-0E",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-08-28T14:03:17+00:00",
+      "extracto": "I block every shot in Blender before generating — locked camera, locked timing, way fewer credits burned. The Prompts: ...",
+      "vistas": 439004,
+      "miniatura": "https://i.ytimg.com/vi/OiULPvTJ-0E/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude nutzen wie die Top 1 %: Schritt-für-Schritt-Anleitung",
+      "link": "https://www.youtube.com/watch?v=sAQdRSqXxXQ",
+      "fuente": "Doppelter Espresso mit Torben Platzer",
+      "categoria": "youtube",
+      "fecha": "2026-08-27T15:59:00+00:00",
+      "extracto": "Claude einrichten: Alles simpel, veranschaulicht und Schritt-für-Schritt erklärt ✓ Ich zeige dir, welche Features du unbedingt ...",
+      "vistas": 95254,
+      "miniatura": "https://i.ytimg.com/vi/sAQdRSqXxXQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built an AI Trading Bot for Crypto Trading: The Power of Claude AI",
+      "link": "https://www.youtube.com/watch?v=N5_Guyc2fB0",
+      "fuente": "Andrew Parker",
+      "categoria": "youtube",
+      "fecha": "2026-08-27T14:20:53+00:00",
+      "extracto": "Full resources & Text guide: https://tr.ee/osNrws I built an AI Trading Bot using Claude AI and tested it in real crypto markets.",
+      "vistas": 43082,
+      "miniatura": "https://i.ytimg.com/vi/N5_Guyc2fB0/hqdefault.jpg"
     }
   ]
 }
