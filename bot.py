@@ -55,6 +55,11 @@ PALABRAS_PRIORIDAD = [
     "design", "web design", "website", "branding", "visual identity",
     "brand identity", "design system", "operational systems", "operations",
     "customer experience", "growth", "implementation",
+    # Posicionamiento detallado (friction review, vertical home services)
+    "friction review", "process mapping", "quote", "dashboard",
+    "documentation", "data integration", "diagnostic", "roofing", "hvac",
+    "plumbing", "electrical", "construction", "remodeling", "landscaping",
+    "property management", "architecture", "real estate", "hospitality",
 ]
 PALABRAS_CLAUDE = ["claude", "anthropic"]
 BONUS_CLAUDE = 10

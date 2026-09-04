@@ -35,29 +35,87 @@ PALABRAS_DXW = [
     "design", "web design", "website", "branding", "visual identity",
     "brand identity", "design system", "operational systems", "operations",
     "customer experience", "growth", "implementation",
+    # Posicionamiento detallado (friction review, vertical home services)
+    "friction review", "process mapping", "quote", "dashboard",
+    "documentation", "data integration", "diagnostic", "roofing", "hvac",
+    "plumbing", "electrical", "construction", "remodeling", "landscaping",
+    "property management", "architecture", "real estate", "hospitality",
 ]
 
-DXW_CONTEXT = """DOUX.WORK is an independent design and technology studio helping
-relationship-driven service businesses improve how they look, operate, and
-grow. We work across digital design, websites, technology, and operational
-systems to solve the gaps that often appear as a business grows. Our
-current focus is on home-service businesses, where reputation, customer
-experience, local visibility, and strong operational systems all directly
-affect growth.
+DXW_CONTEXT = """DOUX.WORK is an independent studio that connects design,
+technology, and operations for service businesses that already have real
+demand, but whose internal systems didn't grow at the same pace as the
+business.
 
-Our approach brings design thinking together with practical
-implementation. We care about how something looks, but just as much about
-how it works, how it fits into the business, and whether it creates
-meaningful value over time. We work closely with our clients as a senior,
-hands-on team, helping turn ideas and opportunities into systems that
-actually get implemented.
+The problem we solve: nothing is usually "broken." The website works, the
+CRM works, the automations work, the team's processes work -- each piece
+on its own. But work gets lost in the gaps between them: a lead comes in
+through the site and nobody knows who followed up, a quote is lost because
+someone else called first, information lives scattered across the CRM, a
+salesperson's phone, and the owner's head. That friction never shows up on
+a financial statement -- it shows up as jobs that didn't close.
+
+Our framework has three layers, and we never start by picking a tool:
+- Design: does what people see match what the business actually built?
+- Technology: does information reach the person who needs it without
+  anyone re-typing it?
+- Operations: does the work get done the same way regardless of who does
+  it, even when the owner isn't watching?
+
+Core thesis: an agency can improve the brand, a vendor can install the
+CRM, and both can do good work and still leave the client worse off,
+because neither looks at the other's piece. DOUX.WORK doesn't sell one
+more piece -- we make the pieces that already exist work together.
+
+Our diagnostic, the "friction review," maps the business across two
+halves: what the client experiences (brand -> visibility -> lead capture
+-> sales -> customer experience -> service delivery) and what makes it
+possible internally (technology -> data -> CRM -> automation ->
+integrations -> processes -> operations). Most failures happen at the
+seam between those two lines. It's a fixed-price, read-only-access
+engagement that delivers a map of how work actually moves through the
+business today, where information breaks between tools, the three
+costliest friction points, and what to fix first -- the client keeps that
+plan whether or not they continue with us.
+
+If a client continues, we build: brand & design (positioning, identity,
+messaging, visual systems); digital experiences (sites, landing pages,
+e-commerce, mobile, conversion points); technology & automation (reviewing
+and configuring CRMs -- we don't build CRMs from scratch -- integrations,
+automation, data analytics, applied AI where it saves real hours); and
+operations (process mapping, documentation, clear ownership, visibility
+for leadership). Engagements run: intro call -> friction review -> scope
+agreement before building anything -> building inside the client's
+business with their trained team -> final handoff, where the client keeps
+the documentation and dashboards. We do not try to become permanent.
+
+Who we serve: service businesses with real, stable demand where a small
+number of people carry most of the operation and the systems have become
+too small for the business's current size. Current focus: home services
+(roofing, HVAC, plumbing, electrical, construction, remodeling,
+landscaping), where reputation, response speed, and operational
+discipline decide who grows. Broader territory we've worked in:
+professional services, architecture & engineering, real estate, property
+management, hospitality, B2B services.
+
+Not a fit: businesses without stable demand yet (that's a sales problem,
+not an operations one), anyone shopping for the cheapest version of a
+single piece, a problem that belongs to one person rather than the system
+around them, or a team with nobody able to spend time explaining how
+things work today.
+
+How we're different: not a branding agency, not a freelance developer,
+not a consultancy that hands over a PDF and leaves. We don't resell
+software licenses or take commission from any vendor -- if the right
+answer is "don't switch tools," that's the answer we give. We work
+directly with the people doing the work, with no layers of
+intermediaries.
 
 Current strategic priorities:
 - Launch DOUX.WORK successfully
-- Launch and improve the Review Engine MVP
-- Build a repeatable client journey
-- Validate our delivery model
-- Productize recurring client solutions
+- Sell and deliver the friction review as our lead diagnostic offering
+- Build a repeatable client journey from intro call through handoff
+- Validate our delivery model with home-service clients
 - Create operational intelligence for service businesses
 - Scale what works
 
@@ -67,7 +125,9 @@ Profile, CRM integrations, Twilio, customer communications, review
 management, reputation management, customer experience, small business
 SaaS, APIs, product design & UX, search (Google, OpenAI, Perplexity),
 voice AI, workflow automation, operational systems, operational
-intelligence."""
+intelligence, process mapping, lead and quote tracking, dashboards, and
+the home-services trades (roofing, HVAC, plumbing, electrical,
+construction, remodeling, landscaping)."""
 
 PREGUNTAS_LENTE = """- Does this help us build better products?
 - Does this improve how we serve service businesses?
