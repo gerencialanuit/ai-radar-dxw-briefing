@@ -1,19 +1,5 @@
 {
   "vistos": [
-    "a57363f23e54f37c",
-    "d6af0fab066b53cb",
-    "1d92dbae3001cc63",
-    "f0b69d486ccfa4a9",
-    "244f1fab3e710c37",
-    "9825a0660d42a5f8",
-    "504149c97baab7b9",
-    "42b77d5bb3ab30e3",
-    "48ad783c615924b1",
-    "fd9f73ba3199be19",
-    "5f6b5e51176916e4",
-    "91d3a962f2181862",
-    "0e930bdc0bf99241",
-    "c89a158c178a4b4a",
     "4229a5101e97a055",
     "7f083a6ef39d24f0",
     "b92c448599d7f716",
@@ -1999,121 +1985,23 @@
     "b883e5912d5935f5",
     "d45ec4d86fd1a97d",
     "f7310ad3c11e0f13",
-    "315efb08b13e9ec0"
+    "315efb08b13e9ec0",
+    "9950cb8b149d418e",
+    "0a807a74c4e7a2c8",
+    "9190b8bbc3e25588",
+    "da6af05baf8c44f9",
+    "0dcf4bc50b2950ba",
+    "64aeb010c87b3539",
+    "dc4b949bd49d3294",
+    "aa1a848f6b5a8ae7",
+    "8a812ccfd6cfc501",
+    "39572128d7836998",
+    "a754b9b303136e2d",
+    "5d2ab8fee8b0fdf1",
+    "2df1a595419d05ed",
+    "fdc7f2e25d01176f"
   ],
   "archivo": [
-    {
-      "titulo": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-08-13T13:30:00+00:00",
-      "extracto": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but features an updated app icon. The single [ ]"
-    },
-    {
-      "titulo": "Twitch streamers can now opt out from training Amazon’s AI",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-08-12T17:29:10+00:00",
-      "extracto": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [ ]"
-    },
-    {
-      "titulo": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-08-12T15:52:07+00:00",
-      "extracto": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing [ ]"
-    },
-    {
-      "titulo": "Anthropic could be worth $2 trillion when it goes public",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-13T13:58:56+00:00",
-      "extracto": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history"
-    },
-    {
-      "titulo": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-13T11:10:18+00:00",
-      "extracto": "The mark flags anything Claude processed, even human writing it only edited."
-    },
-    {
-      "titulo": "The web’s newest weapon against AI scrapers is a font",
-      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-12T22:02:25+00:00",
-      "extracto": "“ShieldFont” aims to poison AI training data without making pages unreadable for people."
-    },
-    {
-      "titulo": "Terabytes of credentials leaked in massive supply-chain attack",
-      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-12T21:43:21+00:00",
-      "extracto": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
-    },
-    {
-      "titulo": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-12T21:00:30+00:00",
-      "extracto": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\""
-    },
-    {
-      "titulo": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-12T15:19:17+00:00",
-      "extracto": "AI firms quietly bulk buying rare books face resistance from booksellers."
-    },
-    {
-      "titulo": "BBVA extiende la inteligencia artificial a los principales procesos de su banca de empresas - BBVA",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFhyYzhybHFDdC1UOERmeU8xeUNUNWhqUGFhOHZCRUhJVkdRYk55Q3lwdzRtNHpBbnRwR3FmYUR2a2dpYkdKd25FZU1NS2NNakZIRG45M2Q3OVlRNUZKeW5ueGpSM05WUHRhcEVkd2k1VTFKWElsUHFoaWZRa0NtYS1ZMVpnZzc0Zjg3ZThlYVBKNDM1aDBSaTMyZ3E5bmpEVjZybjRiTm1USWt6TDVYbWp6cGI3UVBQUTdFMlp3MDZJUzQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-13T06:25:48+00:00",
-      "extracto": "BBVA extiende la inteligencia artificial a los principales procesos de su banca de empresas BBVA"
-    },
-    {
-      "titulo": "Tendencias de inteligencia artificial: las 5 claves que definirán el futuro de las empresas - cronista.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX3VMelBFNDVia2JHSzhnYnVhRmlQTHZrV1kwa0lUS3RSOTRlRnVBX1JwUm94ZmdseTZEUi13aW5BMWU5V2dmdFBOcWZhWWh3VmdzUEtfcTJsMTYwMWF6aDdMeFBYNnBJaHRjTTVsdGc4VlZ5VnJMUjhac0xqVmVMQzBsMENiN1NmZ3lUb1lhSE1UckNFc0RiM2JjblFmNkZ2RU9mYmRaajVxYWVpd2g5VUdJbFV5WmtDTk5SQ3FvUWRDTGlKNHZhTVptdkxyY2RQOGY3TnJtSE0tZ9IB9AFBVV95cUxON0ljVjNoWVl3aFJsT3o1eU5NN0hBSHR6UjlmR1hsaGNRWnpscHV5SmFyRmNGb21qanlvNU9MMXhhOVlFMFU1cFl4cU9ua3FiV3I2RExOUjZvTWJQNU01VkdfWnR1SDdQLTU0SFR6V1c1ZHozQzZacko0cy1sZVlvYUYxOEh6V2lheWtTRnNad3o3MEsyLWlzZTFyb1MwVDFCSDJfdWt5Ym5YXzRrQm5wQXNyVW10SXZJbVE3amZGM3dQQmROZFNWeHByWF9sVXdqUDFSU1JwcWpJcHdUZk10OHJHdmp4cmNLaC1LamJ5R0ZWVFFf?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-13T13:24:08+00:00",
-      "extracto": "Tendencias de inteligencia artificial: las 5 claves que definirán el futuro de las empresas cronista.com"
-    },
-    {
-      "titulo": "IBM y OpenAI se alían para acelerar la implantación de la IA en empresas - Cinco Días",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOTE3RS0wQ1RkVldFdGh5cmRXNUQtZ0IxQm11RU5yU3dWS1VuOUU1Yk96RVJsa1BNdGM5aUdKek5NMVlxNXZuczBJNXF1V3dIQjc4QWhGNEJQaUllLTFIdnUwYVpiOTFVeFZKZkFWRDdZUFZPdXJRekNVcVpvR3FmdVZoeEt5VHlMeDBmRVduUFVOUE1abjNxQU1VVXJseXFPRzFYNHFnbFN2d0ZIZFN1TXRLLXNpUTBHOWZvQTJNRHNYWXVmaUHSAdoBQVVfeXFMTmo2dG9RS2lKdHFHdW15am81V2lrSzc0MHZGUVJxaV9uXzk4aEJoQWN0UnNUUGRac2dDd3pVZ2xZRmZhY3JERjZKc2E5aWNaZGdtRG5xZjRtWFFDbjJwV2t2R2RsZE5mWTNuODNSSjV2ZG9LSWNhb3g2Ty1haTQzbzkzaGtEUG5wR2tSQkVEUVdMMV83TkZ3VWVlajNXWlpjVG92cnM0NF9vZE5uRTR2VnIyZVhid1Y0MDlhbXNTSWQ3aXNQLTNUTVZDMlF3cVVaV2RfVkFiYUJoM2c?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-13T12:40:12+00:00",
-      "extracto": "IBM y OpenAI se alían para acelerar la implantación de la IA en empresas Cinco Días"
-    },
-    {
-      "titulo": "La última trampa de la inteligencia artificial - Revista Anfibia",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzV5M21rUVhTQW5IaWVLZHZfeXRhNnRSeUhtdnBBOVppT1k4V1B2YllvQ1RlVEJ2VnRVcHNnZmFVSXZwb01sQTNNc1liUi1YaFBqRXUwTlhwdXVxSE8yT2t3SUFKTnpLbFZHQjB0Q19yTTY0eUxxMHh4WXhjRUk0MktOb00?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-13T11:53:38+00:00",
-      "extracto": "La última trampa de la inteligencia artificial Revista Anfibia"
-    },
-    {
-      "titulo": "Inteligencia artificial en las empresas: los errores que siguen frenando su verdadero potencial - ESAN Graduate School Of Business",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU3pEZjRFZlIwaXNLZDQyaGxuTlpfQkw5ME1LLTlLd2pWeTRKT0JqZ09jWkdvbHZoYWZ3ZF91ekxsbDNKS09xakNjbmJ0X1ZNaTNrUm00UjdUaGNRU21YR3NHdDhFMkVfdzNMSXFEMkRXRzctT1dNaUlmbHQzbV80VW00c1huV1ZIZFQwd1lpV3lVMVpCblRiYmpRcEdiRHNxaTdfbEFYNmd6bzNqSTdEVnZDWHdrdFdpd1dSVW5neExrLVBPVV9qVUdRemY?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-12T22:31:20+00:00",
-      "extracto": "Inteligencia artificial en las empresas: los errores que siguen frenando su verdadero potencial ESAN Graduate School Of Business"
-    },
     {
       "titulo": "Agentes de Inteligencia Artificial ponen a prueba a las empresas - Boletin.mx",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWt1cHhka1E2aERVaTExMmJiVXNpN1kyckoyMlNjVFQ1TUtWNDRJeENqeUNuMGtBc1JSREZBQXJOazhfZkJIYk8xOFRVSEY5bFNmd2hjV3pXWHNHOHh5a2RVZ3UxeVplOGhlSTczMC04bjhKR2N0WXRkQ3Y5U2w5MVlzQk5XcG9za2w4R1JpMnpwc29kN3dzVU16MA?oc=5",
@@ -14401,6 +14289,146 @@
       "categoria": "dxw",
       "fecha": "2026-09-03T00:06:22+00:00",
       "extracto": "Answer Engine Optimization AEO Saves ATV Tour Days StartupHub.ai"
+    },
+    {
+      "titulo": "GPT-6 Astra Preview: FIRST LOOK, Opus 5.1, Claude s Downfall? HY4 - Best Open Model?! AI NEWS!",
+      "link": "https://www.youtube.com/watch?v=eKZaB71Y2ts",
+      "fuente": "WorldofAI",
+      "categoria": "youtube",
+      "fecha": "2026-08-30T06:15:16+00:00",
+      "extracto": "Free to start at arcade.dev — go build an agent that can actually do something: https://arcade.dev.plug.dev/moBwk4L GPT-6 Astra ...",
+      "vistas": 128438,
+      "miniatura": "https://i.ytimg.com/vi/eKZaB71Y2ts/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Start a 1-Person AI Business using Claude in 2026 (FREE COURSE)",
+      "link": "https://www.youtube.com/watch?v=JWMizuT_A8E",
+      "fuente": "Ishan Sharma",
+      "categoria": "youtube",
+      "fecha": "2026-08-31T15:17:20+00:00",
+      "extracto": "Check out Wispr Flow: https://ref.wisprflow.ai/ishansharma What if you could build an entire business with AI - from the idea and ...",
+      "vistas": 195980,
+      "miniatura": "https://i.ytimg.com/vi/JWMizuT_A8E/hqdefault.jpg"
+    },
+    {
+      "titulo": "Meet Claude Fable 5.1",
+      "link": "https://www.youtube.com/watch?v=uVS88gnaxcg",
+      "fuente": "Anthropic",
+      "categoria": "youtube",
+      "fecha": "2026-09-01T19:21:24+00:00",
+      "extracto": "Claude Fable 5.1 is the latest upgrade to our most capable class of models. It excels at complex, long-running tasks, and its ...",
+      "vistas": 126438,
+      "miniatura": "https://i.ytimg.com/vi/uVS88gnaxcg/hqdefault.jpg"
+    },
+    {
+      "titulo": "This Anthropic Hackathon Winner Just Released His Entire Claude Code Setup for Free - ECC",
+      "link": "https://www.youtube.com/watch?v=g3Mh8Hws-jo",
+      "fuente": "InsiderForce",
+      "categoria": "youtube",
+      "fecha": "2026-09-02T15:03:17+00:00",
+      "extracto": "Comment \"HUMAN\" and I'll send you the ebook. The Anthropic Hackathon Winner Just Released His Entire Claude Code ...",
+      "vistas": 213905,
+      "miniatura": "https://i.ytimg.com/vi/g3Mh8Hws-jo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude codes a sentence traveling through a brain",
+      "link": "https://www.youtube.com/watch?v=PK_twqwWqp4",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-09-01T18:23:01+00:00",
+      "extracto": "Claude built an interactive model of the human brain from scratch. It sculpts every fold of the cortex in code, then follows one ...",
+      "vistas": 139519,
+      "miniatura": "https://i.ytimg.com/vi/PK_twqwWqp4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Vibe Coding With Claude Fable 5.1",
+      "link": "https://www.youtube.com/watch?v=PjBgS57Hwtc",
+      "fuente": "BridgeMind",
+      "categoria": "youtube",
+      "fecha": "2026-09-01T23:42:45+00:00",
+      "extracto": "CLAUDE FABLE 5.1 JUST DROPPED. Anthropic just released Claude Fable 5.1 and we are testing it LIVE. Fable 5 has been the ...",
+      "vistas": 120676,
+      "miniatura": "https://i.ytimg.com/vi/PjBgS57Hwtc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code no tiene ni dos años. ¡Salió en febrero de 2025! Esto significa que si alguien volviese",
+      "link": "https://www.youtube.com/watch?v=ewvyUENcYD4",
+      "fuente": "midudev",
+      "categoria": "youtube",
+      "fecha": "2026-09-03T16:54:23+00:00",
+      "extracto": "Claude Code no tiene ni dos años. ¡Salió en febrero de 2025! Esto significa que si alguien volviese a trabajar y después de estar ...",
+      "vistas": 116550,
+      "miniatura": "https://i.ytimg.com/vi/ewvyUENcYD4/hqdefault.jpg"
+    },
+    {
+      "titulo": "How I Use Claude to Run My Video Podcast Production (Riverside MCP Walkthrough)",
+      "link": "https://www.youtube.com/watch?v=LMm7pWsbOyc",
+      "fuente": "Ryan Robinson",
+      "categoria": "youtube",
+      "fecha": "2026-09-01T13:02:52+00:00",
+      "extracto": "Imagine describing the clip you want and having it just appear, captions and all, without ever touching a timeline. That's my week ...",
+      "vistas": 4995,
+      "miniatura": "https://i.ytimg.com/vi/LMm7pWsbOyc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude unlocks AI power with four MCPs expanding research, browsing #ClaudeAI #MCPs #AItools",
+      "link": "https://www.youtube.com/watch?v=n713666Ba-o",
+      "fuente": "Rocky Vance | Markets & Crypto",
+      "categoria": "youtube",
+      "fecha": "2026-08-28T23:13:23+00:00",
+      "extracto": "Claude expanded its capabilities with four essential MCPs: Perplexity, Fire Crawl, Playwright, and Context Seven. These plugins ...",
+      "vistas": 3831,
+      "miniatura": "https://i.ytimg.com/vi/n713666Ba-o/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable 5.1 + Higgsfield AI = Insane Motion Graphics!",
+      "link": "https://www.youtube.com/watch?v=2OwMjg5As2g",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-09-02T14:51:17+00:00",
+      "extracto": "People are making $300 a day selling AI motion graphics. Everything in this video came from one message — no editing software, ...",
+      "vistas": 181408,
+      "miniatura": "https://i.ytimg.com/vi/2OwMjg5As2g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Token Tasarrufu: Graphify ile Yüzde 70 Azaltın",
+      "link": "https://www.youtube.com/watch?v=7AuGMf3HZ1I",
+      "fuente": "Alperen Erbay",
+      "categoria": "youtube",
+      "fecha": "2026-08-29T13:00:37+00:00",
+      "extracto": "Claude Code her oturumda kod tabanını baştan okuyor ve token tüketimi buradan şişiyor. Graphify kod tabanını bilgi grafiğine ...",
+      "vistas": 61400,
+      "miniatura": "https://i.ytimg.com/vi/7AuGMf3HZ1I/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude FINALLY Just Dropped /Design... WOW",
+      "link": "https://www.youtube.com/watch?v=op0q90XiY8o",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-08-30T22:08:29+00:00",
+      "extracto": "ALL Systems: https://bit.ly/4kol0y5 Zapier: https://bit.ly/3UrQZ7V Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 ...",
+      "vistas": 62779,
+      "miniatura": "https://i.ytimg.com/vi/op0q90XiY8o/hqdefault.jpg"
+    },
+    {
+      "titulo": "Qwen 3.8 + DeepSeek Harness Is My New Free Claude Code",
+      "link": "https://www.youtube.com/watch?v=N7Hkqznvc7I",
+      "fuente": "Leon van Zyl",
+      "categoria": "youtube",
+      "fecha": "2026-08-31T12:07:31+00:00",
+      "extracto": "Build enterprise AI agents with Oracle AI Agent Studio — free templates on GitHub: https://www.oracle.com/application/fusion-ai ...",
+      "vistas": 63245,
+      "miniatura": "https://i.ytimg.com/vi/N7Hkqznvc7I/hqdefault.jpg"
+    },
+    {
+      "titulo": "Seedance 2.5: How to Save AI Credits with Blender Higgsfield",
+      "link": "https://www.youtube.com/watch?v=CZ_FW1QDAxo",
+      "fuente": "JSFILMZ",
+      "categoria": "youtube",
+      "fecha": "2026-08-29T11:32:42+00:00",
+      "extracto": "https://higgsfield.ai/s/higgsfield-general-campaign-jsfilmz-DdiJtx Seedance 2.5 AI video generations can burn thousands of credits ...",
+      "vistas": 57819,
+      "miniatura": "https://i.ytimg.com/vi/CZ_FW1QDAxo/hqdefault.jpg"
     }
   ]
 }
