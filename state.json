@@ -1,22 +1,5 @@
 {
   "vistos": [
-    "bdfb466382967d55",
-    "58240782b1f7b73f",
-    "efdbb0c5c7306a7c",
-    "4f53c9d0b2d4f5ec",
-    "a137c813c43e6c76",
-    "a9c2c02de4bfd8d3",
-    "3e0dba6b2fe3d304",
-    "a13b0a25ff078d70",
-    "33e8df3d1b97f270",
-    "a3fbefe42a6405cb",
-    "fe9b7c0e83d20427",
-    "e0630641ae6a295c",
-    "acb6fe410629608f",
-    "8c6455e5bc234be8",
-    "e49e2ef52b8b86ad",
-    "1c6de0f612b9c74d",
-    "01243c932229b400",
     "b40205791a372841",
     "ebcab1f2aab24a91",
     "1e4893e6b979e416",
@@ -1999,145 +1982,26 @@
     "3050de70b013ea55",
     "ba09c9aa4cbc9aca",
     "fae2ddde5202b626",
-    "c8f9e16aa274e25a"
+    "c8f9e16aa274e25a",
+    "b2cf2be4e14d3ea1",
+    "45d070cf8b3b184d",
+    "34faa585b3f6a93a",
+    "476606c6338155de",
+    "daf761e5548cb723",
+    "e5799ac67e86a864",
+    "33c131d15b49514c",
+    "66c04da072fb2c2b",
+    "69a97006b06dcf6b",
+    "1eb90f9d0d67ad67",
+    "32cf255167e73906",
+    "a22d210db0e4f632",
+    "266cd0bc31851498",
+    "718b9df0399f30db",
+    "212582348af6d213",
+    "c9905f19dbffa7e7",
+    "2bd15ae8ec96efb2"
   ],
   "archivo": [
-    {
-      "titulo": "Daily Search Forum Recap: August 17, 2026",
-      "link": "https://www.seroundtable.com/recap-08-17-2026-41881.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T14:00:00+00:00",
-      "extracto": "Here is a recap of what happened in the search forums today..."
-    },
-    {
-      "titulo": "Hello, Ireland! Sending SMS in Twilio’s Ireland Region",
-      "link": "https://www.twilio.com/en-us/blog/developers/tutorials/product/send-sms-twilio-ireland-region",
-      "fuente": "Twilio Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-18T00:00:00+00:00",
-      "extracto": "Placehold"
-    },
-    {
-      "titulo": "Build a Phone Number Intelligence Tool with Twilio Lookup on Replit",
-      "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/phone-number-intelligence-tool-lookup-replit",
-      "fuente": "Twilio Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T00:00:00+00:00",
-      "extracto": "Learn to quickly create a phone number intelligence app using the Twilio Lookup v2 API and Replit. See how to validate numbers and reduce fraud."
-    },
-    {
-      "titulo": "How to make the case for LinkedIn CAPI",
-      "link": "https://zapier.com/blog/linkedin-capi-for-marketers",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T05:00:00+00:00",
-      "extracto": "So you want to close the loop between LinkedIn Ads and your CRM. Great! But now you have to convince your team. Most marketing teams already know their attribution has gaps. But often that's where the conversation stalls. Try standing in front of them and explaining why the fix involves a word like \"integration,\" and watch eyes glaze over before you've even made the ask. Making the case for connecting LinkedIn's Conversions API to your CRM just t..."
-    },
-    {
-      "titulo": "How to audit your LinkedIn conversion tracking setup",
-      "link": "https://zapier.com/blog/audit-linkedin-conversion-tracking-setup",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T05:00:00+00:00",
-      "extracto": "After setting up the Conversions API for LinkedIn Ads, most marketing teams do the same thing. They monitor it for a while to ensure it’s working as expected, adjust as needed, and move on to the next priority. After all, there's no shortage of work to do. But then something breaks, and it catches them by surprise. Don't fall into the set-it-and-forget it trap. Here's a quick framework you can use to help audit and troubleshoot your conversion tr..."
-    },
-    {
-      "titulo": "The best Slack apps for your workspace in 2026",
-      "link": "https://zapier.com/blog/best-slack-apps",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T04:00:00+00:00",
-      "extracto": "Slack has more than 2,600 apps in its app directory. Plenty of them are narrowly useful: for example, Slack's Vercel app is great if you're hosting web development projects, but it doesn't have any appeal outside of that. But most businesses using Slack have the same broad needs: communication, team building, project management, automation, onboarding, and getting work done without lots of context switching. Plus a bit of goofing off, of course...."
-    },
-    {
-      "titulo": "79% of company execs say employees work around their AI governance policies",
-      "link": "https://zapier.com/blog/ai-governance-report",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T04:00:00+00:00",
-      "extracto": "Companies have done the homework on AI governance. They've written the policies, built the frameworks, and filed the documentation. And 91% of executive leaders say their organizations have them. Gold star, everyone. But when you dig a little deeper, it turns out that the rules are a beautiful theoretical object, like a unicorn or a balanced budget. They exist in the document, but they're not in the room with us. According to a new Zapier survey..."
-    },
-    {
-      "titulo": "Drip marketing: 11 common types (with examples)",
-      "link": "https://zapier.com/blog/drip-marketing",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T04:00:00+00:00",
-      "extracto": "Have you ever signed up for an organization's newsletter and immediately felt out of the loop—like you missed a hundred emails leading up to the most recent one? That's because new newsletter subscribers only see the emails that come after they've signed up. Everything before that is lost to the void. Drip marketing is the solution. It involves sending emails in a particular order based on a schedule or user behavior so that every message feels i..."
-    },
-    {
-      "titulo": "Finch",
-      "link": "https://www.producthunt.com/products/finch-6",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T19:36:34+00:00",
-      "extracto": "A single place for your health data and tests Discussion | Link"
-    },
-    {
-      "titulo": "Taku AI",
-      "link": "https://www.producthunt.com/products/taku-ai",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-16T15:14:17+00:00",
-      "extracto": "Borrow the best AI setups and make them yours. Discussion | Link"
-    },
-    {
-      "titulo": "Shepherd Terminal",
-      "link": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T22:56:18+00:00",
-      "extracto": "A persistent terminal for Codex and Claude side by side Discussion | Link"
-    },
-    {
-      "titulo": "Dates by Agenda Hero",
-      "link": "https://www.producthunt.com/products/dates-by-agenda-hero",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-18T02:30:22+00:00",
-      "extracto": "Create a plan for anything. Share it with anyone. Discussion | Link"
-    },
-    {
-      "titulo": "Gauge",
-      "link": "https://www.producthunt.com/products/gauge",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T22:32:25+00:00",
-      "extracto": "Agent Led Growth: Get written into every customer's codebase Discussion | Link"
-    },
-    {
-      "titulo": "Controller AI",
-      "link": "https://www.producthunt.com/products/insight-ai",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-18T05:58:52+00:00",
-      "extracto": "Build deterministic agents that actually follow your process Discussion | Link"
-    },
-    {
-      "titulo": "ElevenLabs MCP in Claude",
-      "link": "https://www.producthunt.com/products/elevenlabs-mcp-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T14:15:56+00:00",
-      "extracto": "Create and manage ElevenLabs voice agents in your chat Discussion | Link"
-    },
-    {
-      "titulo": "Superflow AI",
-      "link": "https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T02:31:34+00:00",
-      "extracto": "AI agents that QA your website before launch Discussion | Link"
-    },
-    {
-      "titulo": "Google business profile scam: Scammers target customers of major food chains in Ghana - 3News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHBlZjl0dHoxSVFSTjlWS3lIRDZ5RmZITUItUVlXeGRsTURybklPd3JhR1NpQjJaRGJ2RXdwa0VQOGVxM1d4UkRZb2NGcEUyeXVvODZjS1AwUldzRUllaE04R19qM3NtZEJEMDFPOEk5Yi0zTkdmSERRN01BOUt1V3ljX0tHeC1UNzJQVkk2RUdIaVNYaDN5c3B2a1paYlRYSzVFdWRrdC1UVVU?oc=5",
-      "fuente": "GN — Google Business Profile",
-      "categoria": "dxw",
-      "fecha": "2026-08-17T17:23:15+00:00",
-      "extracto": "Google business profile scam: Scammers target customers of major food chains in Ghana 3News"
-    },
     {
       "titulo": "AudioCodes Gains Microsoft Teams Voice Agent Certification - Telecom Reseller / Technology Reseller News",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83aHZOcHVkd1dnZUFvVEVMRkxpc0tnZ3ZjRzdkSjZiZkl6SmtTTzBYb01iWEJRbjd3M2FnNURMSnVfUnkwbnM0bnpRLUpHN3lmeWlvb2M4MUZ1a2lEam5RR3hJQ0hENHFMVnlWa1lOWjJTcldoM0M2SG1mT2VoSzDSAX9BVV95cUxPN2h2TnB1ZHdXZ2VBb1RFTEZMaXNLZ2d2Y0c3ZEo2YmZJekprU08wWG9NYlhCUW43dzNhZzVETEp1X1J5MG5zNG56US1KRzd5Znlpb29jODFGdWtpRGpuUUd4SUNIRDRxTFZ5VmtZTloyU3JXaDNDNkhtZk9laEsw?oc=5",
@@ -14407,6 +14271,176 @@
       "categoria": "dxw",
       "fecha": "2026-09-09T01:12:33+00:00",
       "extracto": "Boomcycle Digital Marketing Publishes Free Digital Marketing Glossary for AI Search Era USA Today"
+    },
+    {
+      "titulo": "7 Claude AI Side Hustles That Can Replace Your Salary",
+      "link": "https://www.youtube.com/watch?v=dmEvo0C1xc8",
+      "fuente": "Ayushman Pandita",
+      "categoria": "youtube",
+      "fecha": "2026-09-04T14:59:32+00:00",
+      "extracto": "2026 is the best time to start an AI Side Hustle using AI tools like Claude and ChatGPT. This side hustle can help you generate a ...",
+      "vistas": 93318,
+      "miniatura": "https://i.ytimg.com/vi/dmEvo0C1xc8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Yapay Zekaların İstanbul’daki Gizli Lezzetleri: Claude",
+      "link": "https://www.youtube.com/watch?v=flYAiAulTqU",
+      "fuente": "Mert Genco",
+      "categoria": "youtube",
+      "fecha": "2026-09-08T18:33:54+00:00",
+      "extracto": "",
+      "vistas": 62389,
+      "miniatura": "https://i.ytimg.com/vi/flYAiAulTqU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Easiest FREE Way To Make Money With Claude AI (Within 24 hours)",
+      "link": "https://www.youtube.com/watch?v=7YJtacrq1NU",
+      "fuente": "Mr Reis",
+      "categoria": "youtube",
+      "fecha": "2026-09-04T14:59:56+00:00",
+      "extracto": "Sponsored by Higgsfield! Build your marketing content with Higgsfield Supercomputer: http://www.mrreis.io/higgsfield1 ...",
+      "vistas": 60469,
+      "miniatura": "https://i.ytimg.com/vi/7YJtacrq1NU/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built a Claude AI Trading Bot for Live Trading — 13-Hour Test Results",
+      "link": "https://www.youtube.com/watch?v=wP4Wr3DWkoA",
+      "fuente": "Andrew Parker",
+      "categoria": "youtube",
+      "fecha": "2026-09-05T09:05:53+00:00",
+      "extracto": "This wasn't a simulation. I tested my AI trading bot in real market conditions for crypto trading and crypto arbitrage. It searches for ...",
+      "vistas": 40779,
+      "miniatura": "https://i.ytimg.com/vi/wP4Wr3DWkoA/hqdefault.jpg"
+    },
+    {
+      "titulo": "7 REALISTIC Claude AI Side Hustles For People Over 50",
+      "link": "https://www.youtube.com/watch?v=le4E9ujiBKs",
+      "fuente": "Shane Hummus",
+      "categoria": "youtube",
+      "fecha": "2026-09-03T00:00:29+00:00",
+      "extracto": "ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/yt1livedes-09-03-2026 Apply For ...",
+      "vistas": 59346,
+      "miniatura": "https://i.ytimg.com/vi/le4E9ujiBKs/hqdefault.jpg"
+    },
+    {
+      "titulo": "GPT-6 Astra Made This Entire Video",
+      "link": "https://www.youtube.com/watch?v=dT5-x3u5nCg",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-09-04T21:45:41+00:00",
+      "extracto": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin My FREE resources: ...",
+      "vistas": 361803,
+      "miniatura": "https://i.ytimg.com/vi/dT5-x3u5nCg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Everyone s Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.",
+      "link": "https://www.youtube.com/watch?v=55rDzRkUVdE",
+      "fuente": "AI News & Strategy Daily | Nate B Jones",
+      "categoria": "youtube",
+      "fecha": "2026-09-04T14:00:09+00:00",
+      "extracto": "Claude Fable 5.1 review for knowledge work: why I run it on low effort to build spreadsheets, decks and documents, and when ...",
+      "vistas": 87190,
+      "miniatura": "https://i.ytimg.com/vi/55rDzRkUVdE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Run Claude Code With Unlimited Usage for Free - 9Router",
+      "link": "https://www.youtube.com/watch?v=21LvkiDcMi0",
+      "fuente": "InsiderForce",
+      "categoria": "youtube",
+      "fecha": "2026-09-04T15:04:19+00:00",
+      "extracto": "Comment \"HUMAN\" and I'll send you the ebook. You can now run Claude Code with unlimited usage completely free.",
+      "vistas": 85596,
+      "miniatura": "https://i.ytimg.com/vi/21LvkiDcMi0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Spending $5,000 Vibe Coding With Claude Fable 5.1",
+      "link": "https://www.youtube.com/watch?v=1Kongqi_HDs",
+      "fuente": "BridgeMind",
+      "categoria": "youtube",
+      "fecha": "2026-09-02T19:48:48+00:00",
+      "extracto": "FABLE 5.1 MAXXING. We are spending at least $5000 on Fable 5.1 today. ARR is at $196500. Today we push Claude Fable 5.1 ...",
+      "vistas": 89406,
+      "miniatura": "https://i.ytimg.com/vi/1Kongqi_HDs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Dropped the Biggest Claude Code Update Yet",
+      "link": "https://www.youtube.com/watch?v=B-YQANvDOq0",
+      "fuente": "Ray Amjad",
+      "categoria": "youtube",
+      "fecha": "2026-09-04T12:32:45+00:00",
+      "extracto": "40% OFF -- Last Week Before Lifetime is Removed: https://www.agenticcoding.school/?v=B-YQANvDOq0 ✉️ Stay at the ...",
+      "vistas": 62909,
+      "miniatura": "https://i.ytimg.com/vi/B-YQANvDOq0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Self-Hosting MCP Gateway on Raspberry Pi for All My AI Agents",
+      "link": "https://www.youtube.com/watch?v=WP2t26wrE3k",
+      "fuente": "Nidhi Singh",
+      "categoria": "youtube",
+      "fecha": "2026-09-07T16:15:31+00:00",
+      "extracto": "Set up your tools once with Executor, then use the same connections across Claude Code, Codex, Hermes and other AI Agents ...",
+      "vistas": 1528,
+      "miniatura": "https://i.ytimg.com/vi/WP2t26wrE3k/hqdefault.jpg"
+    },
+    {
+      "titulo": "4 MCP secrets pour CLAUDE AI #claudeai #prompt",
+      "link": "https://www.youtube.com/watch?v=w5xOBU6rIew",
+      "fuente": "CarlosGPT",
+      "categoria": "youtube",
+      "fecha": "2026-09-03T16:19:39+00:00",
+      "extracto": "Commente « BOMBE » pour recevoir les prompts.",
+      "vistas": 823,
+      "miniatura": "https://i.ytimg.com/vi/w5xOBU6rIew/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+      "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+      "fuente": "Two Minute Papers",
+      "categoria": "youtube",
+      "fecha": "2026-09-03T08:23:37+00:00",
+      "extracto": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The Claude Fable 5.1 paper is available ...",
+      "vistas": 191518,
+      "miniatura": "https://i.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg"
+    },
+    {
+      "titulo": "Build Your First AI Agent in 10 Minutes — No Coding",
+      "link": "https://www.youtube.com/watch?v=7ReHiROdPbE",
+      "fuente": "The Tech Girl",
+      "categoria": "youtube",
+      "fecha": "2026-09-05T13:00:33+00:00",
+      "extracto": "Build your first AI agent in just 10 minutes — no coding, APIs, or complicated automation workflows required. In this video, I'll show ...",
+      "vistas": 85610,
+      "miniatura": "https://i.ytimg.com/vi/7ReHiROdPbE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Free AI Chipotle Glitch?! 🤣🤣",
+      "link": "https://www.youtube.com/watch?v=qlWMGoJR4ww",
+      "fuente": "Zkave",
+      "categoria": "youtube",
+      "fecha": "2026-09-07T00:35:26+00:00",
+      "extracto": "",
+      "vistas": 105960,
+      "miniatura": "https://i.ytimg.com/vi/qlWMGoJR4ww/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + Blender + Seedance 2.5 = Insane Websites",
+      "link": "https://www.youtube.com/watch?v=mvfo3pUiCCA",
+      "fuente": "Kyle Skelly",
+      "categoria": "youtube",
+      "fecha": "2026-09-05T13:00:05+00:00",
+      "extracto": "Try Seedance 2.5 1080p now - https://higgsfield.ai/s/seedance-2-5-kyleslyf-SHQPxJ Learn this insanely powerful blender ...",
+      "vistas": 117526,
+      "miniatura": "https://i.ytimg.com/vi/mvfo3pUiCCA/hqdefault.jpg"
+    },
+    {
+      "titulo": "ChatGPT Just Went Free And Unlimited In This Hidden Tool",
+      "link": "https://www.youtube.com/watch?v=ws-SYW3pNVU",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-09-03T14:17:53+00:00",
+      "extracto": "JOIN OUR FREE AI COMMUNITY Get every prompt, resource and step-by-step guide used in this video: ...",
+      "vistas": 64074,
+      "miniatura": "https://i.ytimg.com/vi/ws-SYW3pNVU/hqdefault.jpg"
     }
   ]
 }
