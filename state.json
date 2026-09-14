@@ -1,30 +1,5 @@
 {
   "vistos": [
-    "437827a32ccdec29",
-    "09463a9bbe8120fa",
-    "1cea13eb7aa2e2d6",
-    "cf81f58dcf50fb39",
-    "17b9ac3d9e5d1e6b",
-    "92f122bb358daa2f",
-    "05f45dd4d9cc70b6",
-    "91e48aee10201957",
-    "c1c1e3cb931cd4f2",
-    "402c3234f9a34b0e",
-    "e6522c1fda90909c",
-    "47c1e02cc19a2387",
-    "b48ce1786b14528d",
-    "7eb5ca154fa86cac",
-    "9026a82d4c53eced",
-    "8b83a47b5a25a5a0",
-    "f0e3f0adb434e775",
-    "f86ed95698248033",
-    "580a8badd0267bac",
-    "5ae70645a14a02ad",
-    "4fc4ff6ad0ffeab1",
-    "d8f91478284d5b32",
-    "c99100987da56e7e",
-    "e517b4df83af6f1a",
-    "f13262f1a016a21b",
     "ee8606964ada4c5e",
     "3db24bdb1e60f2c0",
     "47472ffd48ec28a8",
@@ -1999,223 +1974,34 @@
     "ce1550670ff59e01",
     "5293f126626a6fc5",
     "2871320fb68b174f",
-    "2943b78cd8eb6ba4"
+    "2943b78cd8eb6ba4",
+    "3e1b42ea80ef251f",
+    "1449b4495c99b1dd",
+    "cd03f27987696f02",
+    "9736e3f3c3cbe449",
+    "9dadd2232c7edc55",
+    "f186e60d8a11119b",
+    "4c5bc3709e27d878",
+    "c241c8f6ab2acae9",
+    "9411ae89449787c9",
+    "8c055e9efb8f9a1c",
+    "9714d4e3f02e7970",
+    "1b379268d8e5c94a",
+    "1bac69682fb173a1",
+    "fbd17fcfd3d942dc",
+    "6f8c6146c5c6699c",
+    "8a4b2103c0f25a86",
+    "ba0354d119461c3d",
+    "5730b47e5ee9e026",
+    "5671842bc095f931",
+    "3488c8b7fd5ab50b",
+    "fd7c2d5ca38edda3",
+    "38852636db3b0dbf",
+    "79199e801ba0c32e",
+    "eb166ca09c1e938b",
+    "d53d6ac04956c706"
   ],
   "archivo": [
-    {
-      "titulo": "How to Generate Cinematic UGC Ads With Just One Prompt (Claude + Higgsfield MCP) 🎬✨",
-      "link": "https://www.youtube.com/watch?v=drOgocVecfk",
-      "fuente": "Sangeeth AI ",
-      "categoria": "youtube",
-      "fecha": "2026-08-15T13:00:08+00:00",
-      "extracto": "Want to produce high-end, professional UGC (User Generated Content) video ads without actors, studios, or expensive video ...",
-      "vistas": 302,
-      "miniatura": "https://i.ytimg.com/vi/drOgocVecfk/hqdefault.jpg"
-    },
-    {
-      "titulo": "Model Context Protocol (MCP) Explained in 10 Minutes | The Future of AI Agents LLMs",
-      "link": "https://www.youtube.com/watch?v=NjfWBWaD_ig",
-      "fuente": "TechTalk with Suyog",
-      "categoria": "youtube",
-      "fecha": "2026-08-16T05:00:16+00:00",
-      "extracto": "What is MCP (Model Context Protocol) and why is everyone in AI talking about it? In this video, I explain Model Context Protocol ...",
-      "vistas": 106,
-      "miniatura": "https://i.ytimg.com/vi/NjfWBWaD_ig/hqdefault.jpg"
-    },
-    {
-      "titulo": "OpusClip MCP: Connect to ChatGPT Claude AI #shorts",
-      "link": "https://www.youtube.com/watch?v=StIbryK8Ahs",
-      "fuente": "OpusClip",
-      "categoria": "youtube",
-      "fecha": "2026-08-17T18:03:18+00:00",
-      "extracto": "See the OpusClip MCP seamlessly integrated within Claude. Connect your tools effortlessly and streamline your workflow.",
-      "vistas": 377,
-      "miniatura": "https://i.ytimg.com/vi/StIbryK8Ahs/hqdefault.jpg"
-    },
-    {
-      "titulo": "Part 02 - CCAR-F: Claude Certified Architect - Foundations | Practice Questions with Answers",
-      "link": "https://www.youtube.com/watch?v=i92fbDw9jjE",
-      "fuente": "Cloud & AI Hub",
-      "categoria": "youtube",
-      "fecha": "2026-08-16T07:49:09+00:00",
-      "extracto": "Claude Certified Architect – Foundations (CCAR-F) Practice Questions | Part 2 (10 Questions Out of 175) ...",
-      "vistas": 102,
-      "miniatura": "https://i.ytimg.com/vi/i92fbDw9jjE/hqdefault.jpg"
-    },
-    {
-      "titulo": "AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!",
-      "link": "https://www.youtube.com/watch?v=9qix4oDB5aw",
-      "fuente": "Matthew Berman",
-      "categoria": "youtube",
-      "fecha": "2026-08-14T23:34:42+00:00",
-      "extracto": "Join My Newsletter for Regular AI Updates https://forwardfuture.com My Links X: https://x.com/matthewberman ...",
-      "vistas": 63652,
-      "miniatura": "https://i.ytimg.com/vi/9qix4oDB5aw/hqdefault.jpg"
-    },
-    {
-      "titulo": "Claude Mythos 6 = Model 2! HUGE Leaks, DeepSeek v4 Pro, Gemini 3.7 Flash, Codex 2.0, More! AI NEWS",
-      "link": "https://www.youtube.com/watch?v=IPV90it7UYU",
-      "fuente": "WorldofAI",
-      "categoria": "youtube",
-      "fecha": "2026-08-16T06:43:05+00:00",
-      "extracto": "Ready to take your AI projects to the next level? Check out Verda using the link in the description, and use code WORLD-OF-AI-35 ...",
-      "vistas": 63236,
-      "miniatura": "https://i.ytimg.com/vi/IPV90it7UYU/hqdefault.jpg"
-    },
-    {
-      "titulo": "TradingView s built-in AI is INSANE (full guide)",
-      "link": "https://www.youtube.com/watch?v=liAQayG1lBg",
-      "fuente": "Morin Trades",
-      "categoria": "youtube",
-      "fecha": "2026-08-14T14:10:39+00:00",
-      "extracto": "Free Resources from Video: https://tinyurl.com/MorinPromptsPack Private Community: ...",
-      "vistas": 88391,
-      "miniatura": "https://i.ytimg.com/vi/liAQayG1lBg/hqdefault.jpg"
-    },
-    {
-      "titulo": "v2.1.241",
-      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.241",
-      "fuente": "Claude Code — Releases",
-      "categoria": "releases",
-      "fecha": "2026-08-23T00:52:16+00:00",
-      "extracto": "What's changed Bug fixes and reliability improvements"
-    },
-    {
-      "titulo": "v2.1.240",
-      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.240",
-      "fuente": "Claude Code — Releases",
-      "categoria": "releases",
-      "fecha": "2026-08-22T14:45:30+00:00",
-      "extracto": "What's changed Bug fixes and reliability improvements"
-    },
-    {
-      "titulo": "Kids outlearn AI—and we still don’t know why",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "fuente": "MIT Technology Review — AI",
-      "categoria": "news",
-      "fecha": "2026-08-24T09:00:00+00:00",
-      "extracto": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT,"
-    },
-    {
-      "titulo": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-23T20:01:36+00:00",
-      "extracto": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
-    },
-    {
-      "titulo": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-23T15:30:00+00:00",
-      "extracto": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
-    },
-    {
-      "titulo": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-23T15:00:00+00:00",
-      "extracto": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
-    },
-    {
-      "titulo": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-22T21:46:56+00:00",
-      "extracto": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
-    },
-    {
-      "titulo": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-22T19:00:00+00:00",
-      "extracto": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
-    },
-    {
-      "titulo": "OpenAI says California should strengthen its AI safety bill",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-22T16:30:34+00:00",
-      "extracto": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
-    },
-    {
-      "titulo": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-08-22T16:00:00+00:00",
-      "extracto": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
-    },
-    {
-      "titulo": "Welcome to The Intimacy Economy Where Connection, Relevance and Meaning Matter Most",
-      "link": "https://www.marketingaiinstitute.com/blog/mitch-joel-marketing-forward-maicon-2026",
-      "fuente": "Marketing AI Institute",
-      "categoria": "business",
-      "fecha": "2026-08-24T13:30:00+00:00",
-      "extracto": "Saving time is not the goal of AI. Spending it on something better is."
-    },
-    {
-      "titulo": "Agentes de IA: cómo la IA está transformando empresas, administraciones y sectores estratégicos - telefonica.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1NJa3dLUmZUY3pTbkJYTVF4ckVkYTZ0NHRFSWVqX2dxRlpoV3VKVVhpeHdjaUttNHJodmRDcElKOEpBQmpGQ2t6Tzl0QXZmTmc1TVpiVDUtb25kSi1VZ19SVEJHcjQ2VTJSdTkwbjlfR3ljU1J6WnRZcWEzekdoZE8tY21kZExENDdjc3FXaFk?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-24T07:30:00+00:00",
-      "extracto": "Agentes de IA: cómo la IA está transformando empresas, administraciones y sectores estratégicos telefonica.com"
-    },
-    {
-      "titulo": "Estudio asegura que siete de cada diez empresas en Colombia no están listas para usar inteligencia artificial - Revista Semana",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObXFyOE9FWGpRQWx1SFNFWEgtaG11dmFuRmNPZXdsN2d6dGRtY0RPR2tQNnp1Y05BUEtDX1ZBVV95ajBzemNwLTc1d2szTVpBbXk5OUNjZjhvVXljZWN5YlBsRVBFRUdKUnVMZzR2M0RuM2g1NVA1ZnVuQUlTNEJRVTFOQ043T29GNENYN0ZuOU1VYU5yMThKcGQ5ZHlFd3JKT3ZOY240Y3lXRkpHcHlJaVc2aUxYWEstTHJqNU1rVnEwdnBEOHR3VUdIUzFqeFl3VE1JTENPOXBKOTdWN3lkY1FmSkxXTEYzcGRIR0NreG10ZWFuR2hULWs1d9IBgAJBVV95cUxPSXZvMVNBamJkTkFGRlk4VXF2YWdJYXhIUmpsN1hMbW1rS0ZuMEZScktKdFlqMENMd3NIUlJwM01XWFdIaDVwbWswQkFtanB0UUdIZnhteTIyX3lVSXR1SldQVTc0SGRqY1B1N24tZ25fS2t5b18xOGNPUmtqQjI0Z1M2MXN4MHZPRVdJeXVTYk1ZOTNKV0JGNzUySHdYS0xTLXZRUTVyY2NlVFFXbllGVHNoX0ZyV1UwZWUzWmVqN2R1UnZPX2xKdXdlRDZhc0IwTE1JOTE4TVMwM3B5ZzNjVjdnY1IxdzBFUDE1OHl3YkVLb1FqUGZUekMtTllMYUFC?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-23T23:43:30+00:00",
-      "extracto": "Estudio asegura que siete de cada diez empresas en Colombia no están listas para usar inteligencia artificial Revista Semana"
-    },
-    {
-      "titulo": "Inteligencia artificial en Colombia: 95 % de profesionales de redes sociales ya la utiliza en 2026 - Pulzo",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVlUaWMwXzI1a0dMa0ZLWXhYc2IwSU56dkdjZk9ZTGgyM1ctN2RDOW5GNlNWV1BtekI1SlRtMzIyNkJOMFZjUTh2dS16QWJmQXpOUzVfTmpKRHlNWmxUdXdjcEZEbFVmdnlqZ2NmZE1hMFQyLWJIX2lESFhJT2lkRER6N0I5NS1ycjBQV1ROQVZFdnZTVnhUNHpzLXhUM0VVSnpnNFhRMU10S3dMbWFwVnhNSDl1NlVtcmpNcTZRTk42Q2E4RkhoWW1iYnlmdXV4djhfS2JB?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-24T04:30:44+00:00",
-      "extracto": "Inteligencia artificial en Colombia: 95 % de profesionales de redes sociales ya la utiliza en 2026 Pulzo"
-    },
-    {
-      "titulo": "La inteligencia artificial entra en la era de la transparencia: qué cambia para las empresas con el AI Act - Diario Jurídico",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcl8yNERlaFY0SjdPZ2FkaURRRHV4cDVpOWNGYks1U09NSFg2bG44ZnZ4dl9GZC1fWmV6c3dHZmt4WFRhUVhsZ0NRN3VGQmVVLVo2TFBVcEowN1VuaDdrTDRYYWhVWlB4VnREOXU1akExaHhDbUtQVWV3cHVrTV90aWZKZjBpaDJLUzZ6NVBQdXZXRzk1Mnh6ZE9tNnpQMXpKa1ZmblFpLUxtSFJSV0FIb09jemNjOUFabHRQRjlUZ3FsMGYzR3dyUi1rSG1jUm5iRXpR?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-24T09:15:00+00:00",
-      "extracto": "La inteligencia artificial entra en la era de la transparencia: qué cambia para las empresas con el AI Act Diario Jurídico"
-    },
-    {
-      "titulo": "Inteligencia artificial en las empresas: de la prohibición a las políticas de uso - Infosertec",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLW15ZUVZT2JUQzBHdm9nUVVKSlBlbW9HbHR4enJXZzdyNTllZjR4WTJtTFlvM3lWZjByQ2huWEZIWTVXN19TS2xKWWVLbk1aaGd6Y1RVUUVySEVKY0NMdTFLWFpIX01rTEdwWmVrd3RzZzk3ekhJNEpVVV9Rdzl5eHBYZUd3dnI0OWdCeG11LXNtZklrSVlVMUw0c1RFbDlpdHpVQXZNSWlLZzBrN0dsT21XWjJJNTlu?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-24T11:00:00+00:00",
-      "extracto": "Inteligencia artificial en las empresas: de la prohibición a las políticas de uso Infosertec"
-    },
-    {
-      "titulo": "Advance APC analiza por qué la inteligencia artificial no sustituirá la ejecución en las empresas - Investing.com España",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORDBybzJlX2FBZHNCbW9qMlY1SUFiakhsV1RPNTRYQk93Z0ZTTnNpa28td0hOMC12bjVZaWhoUjQ2ZGdQejV4SC0xRFA3S3NheGlla3pBYUU2enlaRmQzaUdFeTNVaGo0MkdtcFZDSlJfQ0RwSi04VnMwX3dfS3JzQzdYMFVCZ3JWMDgyWjBsX0JCcHlWUHd3Y2VMZ3NadGVwaVBkZC0wOERqUUZBVkFFZHFRRDROYkZkelp6c1FseElQZEFfZEUyS255NV9YaS15WmRlZmlQSEpYZFZMeE1PMnRiZi1xR2Nv?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-23T12:05:00+00:00",
-      "extracto": "Advance APC analiza por qué la inteligencia artificial no sustituirá la ejecución en las empresas Investing.com España"
-    },
-    {
-      "titulo": "Sam Altman admitió que las empresas adoptan la IA más lento de lo esperado - iProfesional",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU1pKX21Xb3FDSzFKYWFUckpHa3c0MVdNUnhkMHpZSzJmM2lFVkhOcVZpYnBLX0ViejJ6TDQyVXFadklNLXA4cEgyVVptTjFBWVFSSXNUSzR3bDdCcUlfLWY4VnRXaC1DY3MyZDh5YXhGdk5pNkxyeXRwT3hSN2RZMEJqX2xDYThuV2FhMDFnY3NxLWVEUUtFemhHek5Dc25JS3FaZEluemJIN1RBQXJwNHlYVkhLU3UyMmZuUGhlZHRSMnZfN3M5NDN2TDNEa0tBTENPTtIB2gFBVV95cUxPZHhUX21FWTVNa0dxRkZzVzVaSWVmWEdibUpLRW9CTUhrTVlaRkpUY3E4SC1PaXdtM1FQSE5LeDd6a29JZHNSWlo0UldXVEhTcjEyRFZQWURQQUh4U2xNV1JXU3VKSDZsWFZib3dqMGVlMGVuM0I4WjhBQUt6ZVFhcVloYV9kTVhKdWd2eHZXdmM4TTZ0Y0NYZnBCZ0Z1V182UnBvbzRha2JCbl82NEJidUwyX0xBNUVWc2J5bHprYU1UUFVJb09RYmJXN2M0R25mclNJWnJ2RlNYUQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-24T13:15:00+00:00",
-      "extracto": "Sam Altman admitió que las empresas adoptan la IA más lento de lo esperado iProfesional"
-    },
     {
       "titulo": "¿Qué debería contemplar una política de uso de la Inteligencia Artificial en las empresas? - Agencia Andina",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHRjOThRdFQwdUdNcWRFMUpfMHFKRlEwSTh1cVVqRWpzaVdyMHRhMHoxTFFXMFdKR2Fvc0htTmZsbUdZckpNR2Z2dkY3c0dZMDU0N2x4Yl8xbzRQTHVZbFlVWkUwNmlROUdncVBTazQ3RTd3STF2c0tNeHZYR3pRTjNsNmlYOVJsUkRzUHFXc0d3NU5udEpSTERUTXpCbFBUcXM5RnhzN3RITUhZVUR0ekFzOThPZ1JSVXB0V05kcE1udENQ?oc=5",
@@ -14425,6 +14211,256 @@
       "categoria": "dxw",
       "fecha": "2026-09-14T14:03:00+00:00",
       "extracto": "Royal Air Maroc appoints Merkle MENA as SEO, Content and Generative Engine Optimization Partner Zawya"
+    },
+    {
+      "titulo": "Ex-Anthropic insider tells CNN how AI could kill all humans by 2030",
+      "link": "https://www.youtube.com/watch?v=i30jVPqQeOM",
+      "fuente": "CNN",
+      "categoria": "youtube",
+      "fecha": "2026-09-10T02:00:38+00:00",
+      "extracto": "\"We do not yet have a plan.\" After his warning post went viral, ex-Anthropic researcher Jacob Coxon joined CNN's Anderson ...",
+      "vistas": 7122167,
+      "miniatura": "https://i.ytimg.com/vi/i30jVPqQeOM/hqdefault.jpg"
+    },
+    {
+      "titulo": "New ChatGPT 6 Astra can do WHAT? 👀🚨 #chatgpt #claude #aitools",
+      "link": "https://www.youtube.com/watch?v=uEdyjnrmizw",
+      "fuente": "Superbash (BoxminingAI)",
+      "categoria": "youtube",
+      "fecha": "2026-09-09T03:40:11+00:00",
+      "extracto": "",
+      "vistas": 337327,
+      "miniatura": "https://i.ytimg.com/vi/uEdyjnrmizw/hqdefault.jpg"
+    },
+    {
+      "titulo": "GPT-6 Astra Is Finally Here And It Can Now Use Your Laptop For You (+14 AI Updates)",
+      "link": "https://www.youtube.com/watch?v=6OmqsFrRv4I",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-09-08T13:33:52+00:00",
+      "extracto": "TOOLS AND LINKS Access all updates, the tools, and the ones I actually recommend trying inside our free WhatsApp community: ...",
+      "vistas": 363014,
+      "miniatura": "https://i.ytimg.com/vi/6OmqsFrRv4I/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + MCP: I Turned Claude Into an AI Automation Agent",
+      "link": "https://www.youtube.com/watch?v=8T2mqiMHCRg",
+      "fuente": "Crypto SJ",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T06:27:56+00:00",
+      "extracto": "What happens when you connect Claude to multiple MCP servers? Claude becomes much more than a chatbot. In this video, I'm ...",
+      "vistas": 115612,
+      "miniatura": "https://i.ytimg.com/vi/8T2mqiMHCRg/hqdefault.jpg"
+    },
+    {
+      "titulo": "What s New in DaVinci Resolve 21.1",
+      "link": "https://www.youtube.com/watch?v=Wi44XLKQ3YA",
+      "fuente": "Blackmagic Design",
+      "categoria": "youtube",
+      "fecha": "2026-09-08T04:03:39+00:00",
+      "extracto": "DaVinci Resolve 21.1 features more than 100 new tools and controls, allowing for more intuitive editing and color grading. There's ...",
+      "vistas": 186805,
+      "miniatura": "https://i.ytimg.com/vi/Wi44XLKQ3YA/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI Used for Missile Guidance?",
+      "link": "https://www.youtube.com/watch?v=bdw1xIrOQuY",
+      "fuente": "Bilal Kirmani",
+      "categoria": "youtube",
+      "fecha": "2026-09-13T12:01:39+00:00",
+      "extracto": "Anthropic's latest report claims a Yemen-linked weapons cell allegedly tried using Claude AI for guidance software, coding ...",
+      "vistas": 174068,
+      "miniatura": "https://i.ytimg.com/vi/bdw1xIrOQuY/hqdefault.jpg"
+    },
+    {
+      "titulo": "The SIMPLEST Way To Make Money Online With Claude AI In 2026",
+      "link": "https://www.youtube.com/watch?v=-pp851qDmOY",
+      "fuente": "Money Talk With Leon",
+      "categoria": "youtube",
+      "fecha": "2026-09-10T19:43:29+00:00",
+      "extracto": "Here is the simplest way to make money online with Claude AI in 2026. Get Access To PDF Trend Lab: ...",
+      "vistas": 183879,
+      "miniatura": "https://i.ytimg.com/vi/-pp851qDmOY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Houthis Used Claude to Develop New Weapons#iran #iranisraelwar #houthi #houthis #claude #claudeai",
+      "link": "https://www.youtube.com/watch?v=GCQrN32n3uE",
+      "fuente": "Srijan Kalam",
+      "categoria": "youtube",
+      "fecha": "2026-09-12T08:49:15+00:00",
+      "extracto": "AI may be entering a new kind of battlefield. According to Anthropic, users linked to a Houthi-associated cell in northern Yemen ...",
+      "vistas": 135185,
+      "miniatura": "https://i.ytimg.com/vi/GCQrN32n3uE/hqdefault.jpg"
+    },
+    {
+      "titulo": "J ai fait créer la même app à GPT-6 Astra et Fable 5.1",
+      "link": "https://www.youtube.com/watch?v=v0l68jXVoUw",
+      "fuente": "Shubham SHARMA",
+      "categoria": "youtube",
+      "fecha": "2026-09-09T17:54:36+00:00",
+      "extracto": "Est-ce que GPT-6 Astra vaut vraiment le coup ? Je compare ses performances face à Fable 5.1 sur cinq projets concrets.",
+      "vistas": 403531,
+      "miniatura": "https://i.ytimg.com/vi/v0l68jXVoUw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Someone Made A Whip For Claude Code",
+      "link": "https://www.youtube.com/watch?v=-L4YNuNm0Pw",
+      "fuente": "Brainy Byte",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T10:30:39+00:00",
+      "extracto": "Someone really made a \"digital whip\" to make Claude work faster This is actually a real tool that interrupts Claude mid-response ...",
+      "vistas": 105630,
+      "miniatura": "https://i.ytimg.com/vi/-L4YNuNm0Pw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Is GPT-6 Astra Really That Good?",
+      "link": "https://www.youtube.com/watch?v=cbfDG0Bqmvk",
+      "fuente": "Can It Code?",
+      "categoria": "youtube",
+      "fecha": "2026-09-08T20:27:57+00:00",
+      "extracto": "Is GPT-6 Astra really a whole level above Claude Fable 5.1? I gave both AI models three increasingly difficult challenges in ...",
+      "vistas": 93145,
+      "miniatura": "https://i.ytimg.com/vi/cbfDG0Bqmvk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Run GPT-6 Astra + Claude Fable 5.1 On This Free AI Agent Workspace",
+      "link": "https://www.youtube.com/watch?v=e7zh0vt2zrk",
+      "fuente": "Calvin Hia | dainami ai ",
+      "categoria": "youtube",
+      "fecha": "2026-09-09T12:00:27+00:00",
+      "extracto": "Try Nami, my free AI agent workspace https://nami.dainami.ai ⭐️ Star Nami on Github ...",
+      "vistas": 120439,
+      "miniatura": "https://i.ytimg.com/vi/e7zh0vt2zrk/hqdefault.jpg"
+    },
+    {
+      "titulo": "prompts.chat launches biggest free AI prompt library #promptschat #AIlibrary #AImodels",
+      "link": "https://www.youtube.com/watch?v=uIam0YvjZHw",
+      "fuente": "AI Honeycove",
+      "categoria": "youtube",
+      "fecha": "2026-09-07T21:09:41+00:00",
+      "extracto": "prompts.chat launched the world's largest free, open-source AI prompt library with over 10000 prompts spanning writing, coding, ...",
+      "vistas": 61131,
+      "miniatura": "https://i.ytimg.com/vi/uIam0YvjZHw/hqdefault.jpg"
+    },
+    {
+      "titulo": "GPT-6 Astra 30 функций | Переезжаю с Claude Code на Codex",
+      "link": "https://www.youtube.com/watch?v=AiMIFgymJKY",
+      "fuente": "Никита Велc",
+      "categoria": "youtube",
+      "fecha": "2026-09-09T16:28:28+00:00",
+      "extracto": "AI.Цех — программа по AI-агентам и вайб-кодингу, старт 21 сентября: ...",
+      "vistas": 69246,
+      "miniatura": "https://i.ytimg.com/vi/AiMIFgymJKY/hqdefault.jpg"
+    },
+    {
+      "titulo": "The BETTER way to use the new Ai MCP in DaVinci Resolve Studio 21.1",
+      "link": "https://www.youtube.com/watch?v=dA6DuxffnRo",
+      "fuente": "MrAlexTech",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T22:35:36+00:00",
+      "extracto": "Check out Audiio! http://audiio.com/alex Alex70 (Audiio Pro IS needed for the APP!!!!) Grab MagicScript for FREE: ...",
+      "vistas": 60283,
+      "miniatura": "https://i.ytimg.com/vi/dA6DuxffnRo/hqdefault.jpg"
+    },
+    {
+      "titulo": "New DaVinci Resolve 21.1 + AI : The Future Of Video Editing?",
+      "link": "https://www.youtube.com/watch?v=rdF2mUkie7Q",
+      "fuente": "AkashKRavi",
+      "categoria": "youtube",
+      "fecha": "2026-09-10T14:22:12+00:00",
+      "extracto": "DaVinci Resolve 21.1 has changed the future of AI video editing. With the new native MCP Server, AI assistants like ChatGPT and ...",
+      "vistas": 39785,
+      "miniatura": "https://i.ytimg.com/vi/rdF2mUkie7Q/hqdefault.jpg"
+    },
+    {
+      "titulo": "DaVinci Resolve 21.1 + AI: Everything You Need to Know",
+      "link": "https://www.youtube.com/watch?v=2xp74AclwPE",
+      "fuente": "Luca Epifani",
+      "categoria": "youtube",
+      "fecha": "2026-09-08T09:15:03+00:00",
+      "extracto": "Color graded with my FILM LUTs - https://lucaepifani.short.gy/CemuZF All the new updates ...",
+      "vistas": 28479,
+      "miniatura": "https://i.ytimg.com/vi/2xp74AclwPE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Llega la IA con DaVinci Resolve 21.1",
+      "link": "https://www.youtube.com/watch?v=EP5ABaY0SvU",
+      "fuente": "Antonio J. Bazalo",
+      "categoria": "youtube",
+      "fecha": "2026-09-08T11:26:31+00:00",
+      "extracto": "Ahora sí que empieza el cambio. Desde hoy, podéis usar agentes de IA para controlar DaVinci Resolve de manera oficial. ¡Y ojo ...",
+      "vistas": 26704,
+      "miniatura": "https://i.ytimg.com/vi/EP5ABaY0SvU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude MCP setup: Firecrawl, Playwright and Context7",
+      "link": "https://www.youtube.com/watch?v=vhAJZWO6U14",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-09-09T15:40:40+00:00",
+      "extracto": "The three-MCP install prompt: ...",
+      "vistas": 15310,
+      "miniatura": "https://i.ytimg.com/vi/vhAJZWO6U14/hqdefault.jpg"
+    },
+    {
+      "titulo": "NEW DaVinci Resolve 21.1 Just Put Claude Inside Your Timeline | I Tested It And Set It Up!",
+      "link": "https://www.youtube.com/watch?v=xDIWP9pCGK4",
+      "fuente": "Andre Morgan Photography",
+      "categoria": "youtube",
+      "fecha": "2026-09-08T18:00:16+00:00",
+      "extracto": "DaVinci Resolve 21.1 tutorial: how to set up the new AI Assistant and connect Claude to your timeline. I install the DaVinci ...",
+      "vistas": 13910,
+      "miniatura": "https://i.ytimg.com/vi/xDIWP9pCGK4/hqdefault.jpg"
+    },
+    {
+      "titulo": "GPT-6 Astra Finally Solves AI Video Editing (full guide)",
+      "link": "https://www.youtube.com/watch?v=o3IEkKXXXvo",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-09-08T22:11:53+00:00",
+      "extracto": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin My FREE resources: ...",
+      "vistas": 264881,
+      "miniatura": "https://i.ytimg.com/vi/o3IEkKXXXvo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Defence Updates - India-Russia Big Defence Deals, Claude AI Use For Weapon, DRDO Next-Gen Shield",
+      "link": "https://www.youtube.com/watch?v=G3HMerm4TyE",
+      "fuente": "Defence Squad",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T16:25:51+00:00",
+      "extracto": "Top 5 Indian Defence Updates on today's episode are as follows : Join Our Telegram Channel Be the first to get defence ...",
+      "vistas": 130576,
+      "miniatura": "https://i.ytimg.com/vi/G3HMerm4TyE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Conectar Claude AI con Odoo en 5 minutos",
+      "link": "https://www.youtube.com/watch?v=vuXqCFlidS4",
+      "fuente": "XP Solution",
+      "categoria": "youtube",
+      "fecha": "2026-09-09T00:37:13+00:00",
+      "extracto": "Cómo conectar Odoo (desde la versión 19.4 en adelante) con Claude Desktop utilizando el protocolo MCP (Model Context ...",
+      "vistas": 143266,
+      "miniatura": "https://i.ytimg.com/vi/vuXqCFlidS4/hqdefault.jpg"
+    },
+    {
+      "titulo": "NEW! DaVinci Resolve 21.1 Details YOU NEED TO KNOW",
+      "link": "https://www.youtube.com/watch?v=2cJoshmcYxo",
+      "fuente": "Creative Video Tips",
+      "categoria": "youtube",
+      "fecha": "2026-09-08T04:50:25+00:00",
+      "extracto": "DaVinci Resolve 21.1 is a major update. Learn what's new like the quality of life upgrades as well as the brand new Agentic ...",
+      "vistas": 135569,
+      "miniatura": "https://i.ytimg.com/vi/2cJoshmcYxo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Someone just leaked the Full System Prompt of Claude Fable 5.1 and now its out in the open on Github",
+      "link": "https://www.youtube.com/watch?v=LaNMx5q261U",
+      "fuente": "Nick Automates",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T18:26:23+00:00",
+      "extracto": "Someone just leaked the full system prompt of Claude Fable 5.1. And this isn't some basic prompt. It's over 275000 characters ...",
+      "vistas": 93005,
+      "miniatura": "https://i.ytimg.com/vi/LaNMx5q261U/hqdefault.jpg"
     }
   ]
 }
