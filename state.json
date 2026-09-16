@@ -1,18 +1,5 @@
 {
   "vistos": [
-    "913db3f03ce9b577",
-    "b9b1225f2d1b012a",
-    "4c3035b6f3e17572",
-    "8332aa5c2d637514",
-    "74c31042b7ff2082",
-    "3cc5035278c3a622",
-    "f7345f3888e28dee",
-    "1f66a2dcdcf45d46",
-    "671c2ff00f8fb47e",
-    "905e3dddd212b406",
-    "a7107a6ee5ca61bd",
-    "5aad41d1ded5ad9e",
-    "faed9f81f566fa09",
     "c172c2253ce420a7",
     "7fdeb3f60a9f3b31",
     "9a637a2d088e489a",
@@ -1999,113 +1986,22 @@
     "20bc563e41fa0f94",
     "eb37e60529fe444c",
     "de37056999b342b2",
-    "37fd3fe72f8dceba"
+    "37fd3fe72f8dceba",
+    "8a454f36747d4d6a",
+    "4361d53e0547cf65",
+    "421e38a3d67b581d",
+    "f3f06ec2ceb65b0a",
+    "50d4582a8a84f16f",
+    "2bf71130da5e878c",
+    "e2a1f539eb555f8b",
+    "56055d949d059b77",
+    "46ee16c4516a4a19",
+    "e081bc022c033e4e",
+    "c782719373b740ea",
+    "fe609bc1e89b833a",
+    "5a5847494657a2f4"
   ],
   "archivo": [
-    {
-      "titulo": "The 6 best Dropbox alternatives in 2026",
-      "link": "https://zapier.com/blog/dropbox-alternatives",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-08-25T04:00:00+00:00",
-      "extracto": "A while back, a group of my friends, all professional photographers, were discussing the best place to store their digital photos. I couldn't relate: most of the photos on my camera roll are awkwardly framed photos of my dogs, and I store them…on my phone. It did get me thinking about where I should store everything else, though. Dropbox comes to mind because it's a low-maintenance app packed with hidden features that make file syncing and sharin..."
-    },
-    {
-      "titulo": "Termy",
-      "link": "https://www.producthunt.com/products/termy-language-learning",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-24T18:24:24+00:00",
-      "extracto": "Learn languages from games, videos, and websites Discussion | Link"
-    },
-    {
-      "titulo": "BaudBuddy",
-      "link": "https://www.producthunt.com/products/baudbuddy-serial-terminal",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-25T20:15:51+00:00",
-      "extracto": "A native macOS serial terminal with a file server built in Discussion | Link"
-    },
-    {
-      "titulo": "choclift for iPad",
-      "link": "https://www.producthunt.com/products/choclift-workflow-sweetener",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-24T18:06:20+00:00",
-      "extracto": "A touch-bar to control your Mac from your iPad Discussion | Link"
-    },
-    {
-      "titulo": "macadress",
-      "link": "https://www.producthunt.com/products/macadress",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-25T13:20:51+00:00",
-      "extracto": "MAC address intelligence for apps, networks and AI agents Discussion | Link"
-    },
-    {
-      "titulo": "HEVN U.S.",
-      "link": "https://www.producthunt.com/products/hevn-u-s-accounts-for-non-us-companies",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-26T00:25:56+00:00",
-      "extracto": "Hold USD and pay globally through U.S. sponsor banks Discussion | Link"
-    },
-    {
-      "titulo": "Mac mini",
-      "link": "https://www.producthunt.com/products/apple",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-25T18:29:04+00:00",
-      "extracto": "Now with M6 and M5 Pro chips Discussion | Link"
-    },
-    {
-      "titulo": "Warren",
-      "link": "https://www.producthunt.com/products/warren-5",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-25T15:57:03+00:00",
-      "extracto": "Infrastructure for coding-agent workloads Discussion | Link"
-    },
-    {
-      "titulo": "PostHog Desktop",
-      "link": "https://www.producthunt.com/products/posthog",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-25T18:55:26+00:00",
-      "extracto": "The product editor for product builders Discussion | Link"
-    },
-    {
-      "titulo": "Tellie Prompter 1.5",
-      "link": "https://www.producthunt.com/products/tellie-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-24T21:07:48+00:00",
-      "extracto": "The teleprompter that knows what you haven't said Discussion | Link"
-    },
-    {
-      "titulo": "OpenComputer",
-      "link": "https://www.producthunt.com/products/opencomputer",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-26T05:56:36+00:00",
-      "extracto": "Firebase for Agents Discussion | Link"
-    },
-    {
-      "titulo": "LoupeKit",
-      "link": "https://www.producthunt.com/products/loupekit",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-25T12:48:34+00:00",
-      "extracto": "See what any page is built with and how much of it is AI Discussion | Link"
-    },
-    {
-      "titulo": "x1",
-      "link": "https://www.producthunt.com/products/x1-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-25T05:52:16+00:00",
-      "extracto": "Lovable for iPhone apps. From idea to App Store Discussion | Link"
-    },
     {
       "titulo": "DeployHermes",
       "link": "https://www.producthunt.com/products/deployhermes",
@@ -14421,6 +14317,136 @@
       "categoria": "dxw",
       "fecha": "2026-09-16T13:51:52+00:00",
       "extracto": "5 Keyword Research Tools for AI Search Visibility (2026) Techloy"
+    },
+    {
+      "titulo": "Pilih Mana?? #chatgpt #gemini #grokai #metaai #claudeai",
+      "link": "https://www.youtube.com/watch?v=dbuJjGvUzso",
+      "fuente": "Akbar Alatas Official",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T10:30:22+00:00",
+      "extracto": "",
+      "vistas": 155112,
+      "miniatura": "https://i.ytimg.com/vi/dbuJjGvUzso/hqdefault.jpg"
+    },
+    {
+      "titulo": "Taller de Skills para Agentes de IA desde cero: Claude Code, OpenCode, Codex, Cursor, VS Code...",
+      "link": "https://www.youtube.com/watch?v=UGh6q6rKVM4",
+      "fuente": "MoureDev by Brais Moure",
+      "categoria": "youtube",
+      "fecha": "2026-09-10T18:05:07+00:00",
+      "extracto": "Curso completo de Skills para agentes de Inteligencia Artificial como Claude Code, OpenCode, Codex, Cursor o VS Code con ...",
+      "vistas": 84488,
+      "miniatura": "https://i.ytimg.com/vi/UGh6q6rKVM4/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Put Claude Code on a USB… And It’s Free Works Everywhere!",
+      "link": "https://www.youtube.com/watch?v=xPfZyV20_RY",
+      "fuente": "Tech Jarves",
+      "categoria": "youtube",
+      "fecha": "2026-09-12T11:37:48+00:00",
+      "extracto": "Claude Code AI Agent on USB lets you carry a portable AI coding setup across Windows, Mac, and Linux. Run Claude Code from ...",
+      "vistas": 69562,
+      "miniatura": "https://i.ytimg.com/vi/xPfZyV20_RY/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Save AI Credits With Claude + Blender (No One Talks About This Workflow)",
+      "link": "https://www.youtube.com/watch?v=9fC3pnf_Xew",
+      "fuente": "TutStick",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T18:46:54+00:00",
+      "extracto": "Download The FREE Plugin : https://higgsfield.ai/s/higgsfield-x-blender-yt-tutstick-KPHGBt Most creators burn hundreds of AI ...",
+      "vistas": 32214,
+      "miniatura": "https://i.ytimg.com/vi/9fC3pnf_Xew/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + Eden = Content Creation Cheatcode",
+      "link": "https://www.youtube.com/watch?v=v4zZ7KoisbA",
+      "fuente": "Eden",
+      "categoria": "youtube",
+      "fecha": "2026-09-15T15:38:42+00:00",
+      "extracto": "Your content brain: https://eden.so The Eden MCP: https://eden.so/features/mcp Topics covered: - How to connect Claude or ...",
+      "vistas": 20421,
+      "miniatura": "https://i.ytimg.com/vi/v4zZ7KoisbA/hqdefault.jpg"
+    },
+    {
+      "titulo": "Graphify vs CodeGraph: I Tested Both With Claude Code",
+      "link": "https://www.youtube.com/watch?v=Xr2MjfirjqA",
+      "fuente": "The Gray Cat",
+      "categoria": "youtube",
+      "fecha": "2026-09-15T16:00:23+00:00",
+      "extracto": "CodeGraph used 35% fewer Claude Code tokens than plain Claude in this test. It also produced the only version that passed both ...",
+      "vistas": 19372,
+      "miniatura": "https://i.ytimg.com/vi/Xr2MjfirjqA/hqdefault.jpg"
+    },
+    {
+      "titulo": "En İyi Açık Kaynak Kodlama Aracı?? Pi Code vs OpenCode",
+      "link": "https://www.youtube.com/watch?v=sfGDycIrD-w",
+      "fuente": "Ömer Göçmen | Yapay Zeka & Otomasyon",
+      "categoria": "youtube",
+      "fecha": "2026-09-14T18:28:58+00:00",
+      "extracto": "Pi Code vs OpenCode karşılaştırmasıyla karşınızdayım. Bu videoda son dönemde çok konuşulan açık kaynak AI kodlama aracı Pi ...",
+      "vistas": 7022,
+      "miniatura": "https://i.ytimg.com/vi/sfGDycIrD-w/hqdefault.jpg"
+    },
+    {
+      "titulo": "GPT 6 Astra vs Fable 5.1 Make A Viral Roblox Game",
+      "link": "https://www.youtube.com/watch?v=YX6A6x8s2ok",
+      "fuente": "AI PILLED",
+      "categoria": "youtube",
+      "fecha": "2026-09-12T18:35:47+00:00",
+      "extracto": "Game Link: https://www.roblox.com/games/89445317407395/Grow-The-Longest-Snake Today we have two of the biggest frontier ...",
+      "vistas": 139188,
+      "miniatura": "https://i.ytimg.com/vi/YX6A6x8s2ok/hqdefault.jpg"
+    },
+    {
+      "titulo": "Top 10 Claude AI Side Hustles That Can Pay A Full-Time Income (Ranked)",
+      "link": "https://www.youtube.com/watch?v=EqVJT2au7zk",
+      "fuente": "Shane Hummus",
+      "categoria": "youtube",
+      "fecha": "2026-09-10T00:00:22+00:00",
+      "extracto": "ONE-TIME YOUTUBE LIVE TRAINING THIS WEEK: https://go.thecontentgrowthengine.com/yt1livedes8am-09-10-2026 ...",
+      "vistas": 137377,
+      "miniatura": "https://i.ytimg.com/vi/EqVJT2au7zk/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Create Business Cartoons With AI 🤖 | Claude + Higgsfield | Make Money on YouTube",
+      "link": "https://www.youtube.com/watch?v=T6SU_P7gnZ8",
+      "fuente": "Shahid Anwar",
+      "categoria": "youtube",
+      "fecha": "2026-09-13T03:38:59+00:00",
+      "extracto": "https://www.shahidanwarllc.com/ Learn how to create professional business cartoons and animated videos using AI with Claude ...",
+      "vistas": 150120,
+      "miniatura": "https://i.ytimg.com/vi/T6SU_P7gnZ8/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Let Claude AI Run My Entire Dropshipping Business (Full Guide)",
+      "link": "https://www.youtube.com/watch?v=NbfZ9uj0jJk",
+      "fuente": "Lex AI",
+      "categoria": "youtube",
+      "fecha": "2026-09-15T17:23:56+00:00",
+      "extracto": "AutoDS 3-days trial for $1: https://www.autods.com/vftp If this video helped you, leave a like and subscribe for more AI tutorials, ...",
+      "vistas": 57636,
+      "miniatura": "https://i.ytimg.com/vi/NbfZ9uj0jJk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Stop Uploading PDFs to Claude—Try This First 👀",
+      "link": "https://www.youtube.com/watch?v=AEOBKxxpUkQ",
+      "fuente": "AI With Abhijay | Master Gemini, ChatGPT & Claude",
+      "categoria": "youtube",
+      "fecha": "2026-09-14T17:48:47+00:00",
+      "extracto": "Using PDFs in Claude? This simple workflow could help you save tokens and get more from your usage limits. Watch to see how.",
+      "vistas": 58790,
+      "miniatura": "https://i.ytimg.com/vi/AEOBKxxpUkQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Gave Claude Code 1.4 Billion FREE Tokens Every Month... (Here’s What Happened)",
+      "link": "https://www.youtube.com/watch?v=Z-3iamDTFeY",
+      "fuente": "Compile Future",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T10:27:08+00:00",
+      "extracto": "Stop paying for expensive AI coding bills or getting hit with strict token limits! In this video, I'm showing you how to get massive ...",
+      "vistas": 44602,
+      "miniatura": "https://i.ytimg.com/vi/Z-3iamDTFeY/hqdefault.jpg"
     }
   ]
 }
