@@ -1,16 +1,5 @@
 {
   "vistos": [
-    "388d32e85d4c04fb",
-    "f0b6b81d6c63f333",
-    "85b24decce592cca",
-    "3d16969fef9ea1e8",
-    "31bc4b868a7c0f0e",
-    "a29aeda12daff442",
-    "ec0d5dd3c317e4d5",
-    "0aac686378523b8c",
-    "57749dee59689ce8",
-    "f001e55fb3abf371",
-    "029dfe487c9366c8",
     "6268f7acdd8b3af6",
     "3e0fe628cf54f1ee",
     "e7542305ee9b7e0b",
@@ -1999,97 +1988,20 @@
     "8025aed856955938",
     "f7b6a4265eafa4b0",
     "2fcd3e2fa2deb7ab",
-    "b729b5b9dc19e90b"
+    "b729b5b9dc19e90b",
+    "391aad84b07d7e0d",
+    "46e2ef394621d462",
+    "0abd0dbfb882ad83",
+    "d2b610a8daa8720c",
+    "c320fa2abbd952ab",
+    "77c5a51ce0f791a3",
+    "d9d618e4df10b785",
+    "8ebdb5a529bef827",
+    "2ec890998fea62fd",
+    "6e8def411f343bf8",
+    "98239ca6e47848ae"
   ],
   "archivo": [
-    {
-      "titulo": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-27T12:58:59+00:00",
-      "extracto": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test."
-    },
-    {
-      "titulo": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-26T21:25:27+00:00",
-      "extracto": "Report shows Meta's challenges replacing people with AI agents."
-    },
-    {
-      "titulo": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-26T19:19:22+00:00",
-      "extracto": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome."
-    },
-    {
-      "titulo": "ÓRBITA 2026 llevará la inteligencia artificial a las empresas de Tunja - Caracol Radio",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3loU284S08zV2pXeHFfckVRMGJYbEZLaERvTHE5MVZ6Z2hWTHA1UGJCenFNYlhwUTFIS29fTlpwd1pkdmdZdVhvRWlWcGZGeU1pRWFGZTljeTBvbnZOamtLSWxNZDAtTGxJanpzRWdUZHc3M1BkOGtrb3dYaDZvZmZtVktYeFRIWmlCb3hMZmk0YUVyX2RmU1RjR1NhQ2ZZdUN3VTRIUnDSAbwBQVVfeXFMUEFXTkVVcmJZMEM3TGZTYXlpN2I2MndrUmVOb0s5dWVuYUk3ZUE2bkctdVJBdjNieXQxeERIdHBIb1NFZXYxRS1aM3BKNVI3eGM3SkFvbzBSTlRVdFJYRVBCX3Z0VmdPRmw4cldnRHBMX1NJeEo4WE9WYlU1UHN3WXFNRGY2MF83c1l2cmtTRU9ZckZMbTNFeEkwT2JhbDFfU0IwY2xmaDBfdzBfREt3QkNicDRtZXl1ZDJNWmc?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-27T16:45:12+00:00",
-      "extracto": "ÓRBITA 2026 llevará la inteligencia artificial a las empresas de Tunja Caracol Radio"
-    },
-    {
-      "titulo": "Empresas: ¿Inteligencia organizacional o inteligencia artificial? - LaRepublica.co",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOU1nTmFGUzlaLUM2RTVuQ0ZycUFfZXlPb2dsbTBCVFZ0UXFHRGhYRUM4aFp0TmFFN1V5UEY5QU5tZXhfSXE0Y1FYVXA2SklTcUpkekdkTVZ1dG1naGZTd3dVNFBMU1l3QUpHZjBGdzNXSE4xM3RxLUV0S2tfaTFkcE5lSmJZUzVmSDJOM0owb1R0NHh5UjVsSW5QUks4ZjE3Mk9tS3doblRnOEhoRWNTTnRDYk9abU5hMFNpUmJZdmNzZmlfWnhLcTd4eEJYWHRhMlZvamtTeHk1QdIB2gFBVV95cUxOa0tIenYzd29GUDVabDk1emJCZTAxLWlsZ3lQc21DQ3RnaGV5Nnc5NWJ3MDRzNzRGZk53T1JXXzBod0txMzJZVEs4VlVuMGt6dmJGUHpRVlVkeXEtaFFrQ2pZdTR5OFkwcVF6MzlQckU4VnVVNFluZDRkbG9XSDZxZEg5N3JoSF9aOThHMXhIR2lhYUJXa1ZHTDR5b2hFT2x0Y0lsRWl4cERMRzFZR0stdXNnem5VMkV3Z3MzVFo5QldRY2RweXBlekJHbi1uakVZV21Md0dVQk1pUQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-27T05:01:45+00:00",
-      "extracto": "Empresas: ¿Inteligencia organizacional o inteligencia artificial? LaRepublica.co"
-    },
-    {
-      "titulo": "Método creado por una colombiana combina diseño e inteligencia artificial para ayudar a empresas a vender más - Portafolio.co",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPak1ITmFZSlhLUVlkN1BpVnlBc21wQ0pvM2RzR1VnRnBHa0tpZFVBVkpjVGw3NTRRMm5jbGNjY1Q4bzNqRnhLTTZ1V2JmYTk0QU0tTEhneENiMWVxN2YxNUp4bkpwU0RzQ2dWYU1hSFRqeVplWHgxLUlNTlFyS3dLd3ptR25VWDF1WVMyeE5meDZJVXN3Z1BPcFF5RktKQkRXb0xOcGNYU2otcWVsNHhiTVNhNTc5czdvLTlBck5uQTIyV1JUUnJsYk9fZmNpcVpGQXNMcUpYRFF3UV9BQjV0N1NibUYwUUlqRDdwUDEydXphd9IB9wFBVV95cUxOODJ3bUpBUVd1dDN1Q1htRWkzU1hlMXMtVVR0V3dCSFBRa1dJNjRSaG4zSU1tdkZ5NTdrZW5vR1RPdUFFZWtJRDByY2s2RVp1eVZLWS0zOFduUjJHTEhVU285QjVMM3NaalRBSjNnYTM3WlJDanJZVUVGTzNMM0I1UG04dmhyS19Qb1oxdXh4ZTU3SFUyNFExQlE1ZGlKRzJjQU1nSUpicGhmbnJ6dFc1M0RSQ05YM2pKYTRoX2xJTTBvN0c0RkdoSGRHbFdQbGJCWEJFRjY5RzZuZ3FhOC1LdlVxd3hiUDhhMFZCWXd6RVJBdVRUbHFz?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-27T13:16:00+00:00",
-      "extracto": "Método creado por una colombiana combina diseño e inteligencia artificial para ayudar a empresas a vender más Portafolio.co"
-    },
-    {
-      "titulo": "Gobernanza de IA en empresas: Liferay habilita plataforma para mitigar riesgos de datos en empresas - Impacto TIC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVk53MDRwTHE1UlU4blJRanNWNDlHZ3EwSnowN2dCNlVKUk1CTmljc2tZUkkzcHZoRUdUUW5XWWxxV0tSR2RXVUVnNjlZd3paRjVxdzZIcnhBdktoakRzWEhaUENjMHlTdVdGWE9GY2o4U2VxQ1d6U1BfZ25mVTB4elNYWE9YbDhnemM4R0NIMVNCYVlJbmNRNEVRQ1ZUbkNj?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-27T21:42:20+00:00",
-      "extracto": "Gobernanza de IA en empresas: Liferay habilita plataforma para mitigar riesgos de datos en empresas Impacto TIC"
-    },
-    {
-      "titulo": "Finanzas, criterio e inteligencia artificial: el perfil que buscan las empresas - Universidad Externado de Colombia",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaXhTYnpkZUhuR1pLVDltbGR3dHlWdkp0M0Qxcngybmd5SDNIR1BIUU9ncUlpTExvcE40MEVtcVRjY0d5R3BuWUx2SWxtSWRmMExlMXFEVWlmX1ZfazBQNjFhTXRDU3RqVWQyLURJRThHRkVTVG5tdkkyaHFPY0hzVnhTUWhXOU10ZWtvdHFrakFnamRCS3g3ZmpjdVBFQkpVTUtXaEVWdlNjbmZzTFNkNGtOU3JkRXNkSjVkeDQ3N1lid1o5VG1nM2k3UlVZUmlSVnBOdlBNN0tkSjlPSWRIZXhxOVpLT3Rid0FvVXJNTHpCaGR5?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-26T21:03:10+00:00",
-      "extracto": "Finanzas, criterio e inteligencia artificial: el perfil que buscan las empresas Universidad Externado de Colombia"
-    },
-    {
-      "titulo": "IA agéntica: cómo las empresas pueden llevar la inteligencia artificial a producción y reducir costos - ITSitio",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeWlGTklqZ2pwNGFmTnhRODZMc3FyWVNqOEduYXNQbmVzV1Iwc0dsbEFaVG5kN25QTU1tckFyeDdBYlBnYWg1c0oxb1FsNl81bURaX3R0blJCVS1nakt1a3FTcnNqbFlGRHhoeEZBcXllY2d0X0NpVUQxOUFadm1wUk5kak9WckdDYkx3dVBZWmRvbi1uU3R6VDB2R0hnWGRIemVaVGpXdTNUS0xjREE2eW1YZDUyTllnYVBkTE5GN1loenctaElQcEwyejlzSTRzRWxmRVZ5cHE0ZVpYS0hCQjYxYklLNzQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-27T21:07:17+00:00",
-      "extracto": "IA agéntica: cómo las empresas pueden llevar la inteligencia artificial a producción y reducir costos ITSitio"
-    },
-    {
-      "titulo": "BBVA lanza Brújula para transformar con inteligencia artificial el asesoramiento a las empresas en América del Sur - Yahoo Finanzas",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakNKVkNVTTRkV2NqSU5RV1IxNkxTQ09ManNCTTE5Ung0dkFFdy1tU1prekFOMmxNeDVERTVHQmliX3FmWC1hNGNJa0I3eWNsSndYUkQ2MHhYRm04Y09KUFRkc1ZReXRRS2UtM2lVME9wSlVNbHZtd19zQ05tX3Q1a2lEUmRVVlo4c2NhVEZFTDRUU2E1T0MybVdOYXpuVnN3akhDZ0R6b2s?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-27T09:20:00+00:00",
-      "extracto": "BBVA lanza Brújula para transformar con inteligencia artificial el asesoramiento a las empresas en América del Sur Yahoo Finanzas"
-    },
-    {
-      "titulo": "Solo 1 de cada 10 empresas conecta ventas y marketing en la era de la inteligencia artificial - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcldIVmp6cmllRDVhS1o4RlF0bVVlLURGM0Q4N3dTZkNrVk1vbjk2OE5sRTdxM2JxRHJodW9xdU13YVJIRWJWS2R6UEFBM3psRENWTE82R2RObTNHVDUxRVRCZGtVMkxZTm53Tzk1OHVfbUdlMDdlZ2owVEYzX0pJZUhkVTFVOFVhLTYzaTVEN3FIdjdWOFgzbkczVXVRR0RvZHFMNndTZmRNMlowdUJmQjZXZjZ0SkxBODI1RGlVUDlzWE5BaXVyOGJVOVZfemtD0gHrAUFVX3lxTFAzNVVyalBHTUNUSS1Rcmp4RkR5d2YxTlVreHAwY3NDMVc2LW43S0pDZkdHeHFXMjJSd0RHT1lna2VfU1ZTa25OcU03TmhPX25DX21hTk9UdU92TW5RdklqV3BHaWlkUXQ5alNvYlNGZEllcHpVSjUtdnozLVlrd0QybzQwdEZGaVN0T0g3d0ctVjlTdUxlOUhsV3YyYXhTZDQ0UnlPeFRaMDJJb2VIT0lpVEhhTXBjS2h1aVJMclFOYURLUEJqaDVkTTZjekRoaE5EVmtHbkVidTlkVEpnWW9La3liMUZXcklyYVE?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-27T03:55:00+00:00",
-      "extracto": "Solo 1 de cada 10 empresas conecta ventas y marketing en la era de la inteligencia artificial Infobae"
-    },
     {
       "titulo": "Ciberseguridad en Colombia: la inteligencia artificial cambia el escenario de los ataques - El Espectador",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaDBvbXZCVDBGdXBSUzJfVEp5TU9RWmZHN2ZRTkc2ekc2YlBQbC1pLXVCWVJHY0ZMS0MtNExZdFhaTFJHZUJSYUpVZTFHTHhFYzJOMGo5WVlHM3J2MlBST0VIV2QwdzRSV01CLUZaNi1yZWs1emsxRnIwamJLSkpJUTBqUWlsMGpmOURFOUdFSkEtaDRxSHNRcE16clFzaWUyQ2doSFVFY2FtaURnTV94dkhQT3BadmFVRV9JTFNiTW14M294aXQyMDVkSDNUNkFIYlNF0gHnAUFVX3lxTFBndEQwT01Ic3RZa2hiM0x2ajJvdUlHRGhYLVpHdlhVYUZxSC0xVW13V3VNbDFHQ1JWNVlZVElvcmtvQjR3Mk5GT25iVGhUX3RlNUtPUjB3MEdSczBqTzlLU0xzOGxTSUhxaS0yeHVwM1d5cXh1ck85cHh6NG5pNWM3cENhN2pTbDJ5ampZZVBZS1ExX1E3bU9FakttTEZQTFpqNURRSUxvNnAwVVNOX2VrN2VmZHpCX3NDWFVMVXhRQkwwNFAtNE81aGNJbjZjVXhWbHNqU2xvYWkwQlZjR0QyM2ZTemFDVQ?oc=5",
@@ -14411,6 +14323,116 @@
       "categoria": "dxw",
       "fecha": "2026-09-16T20:14:17+00:00",
       "extracto": "Generative Engine Optimization: Estée Lauder Optimizes Beauty Brands for AI Discovery Trend Hunter"
+    },
+    {
+      "titulo": "Why 2027 will be the scariest year for AI ⚠️ #ChatGPT #TechShorts #TamilShorts",
+      "link": "https://www.youtube.com/watch?v=YJvcAGavpOo",
+      "fuente": "Madan Gowri",
+      "categoria": "youtube",
+      "fecha": "2026-09-16T08:57:08+00:00",
+      "extracto": "In this Tamil Shorts video, Madan Gowri explains how AI tools like ChatGPT and Claude are becoming more capable and what ...",
+      "vistas": 420886,
+      "miniatura": "https://i.ytimg.com/vi/YJvcAGavpOo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Así analizo ACCIONES con CLAUDE 🤖💥#Inversiones #InteligenciaArtificial #Acciones #FinanzasPersonales",
+      "link": "https://www.youtube.com/watch?v=C0l49qGQ2hQ",
+      "fuente": "InvierteConPepe",
+      "categoria": "youtube",
+      "fecha": "2026-09-10T23:15:41+00:00",
+      "extracto": "Una terminal de Bloomberg, la herramienta que usan los analistas de Wall Street para ver datos financieros en tiempo real, ...",
+      "vistas": 294573,
+      "miniatura": "https://i.ytimg.com/vi/C0l49qGQ2hQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Meet Claude Slides, Claude Design and Claude Docs",
+      "link": "https://www.youtube.com/watch?v=To5nrYqvR44",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-09-16T19:12:46+00:00",
+      "extracto": "A deck, a set of social images and a field one-pager from one launch brief, without leaving the conversation. Claude Slides ...",
+      "vistas": 267775,
+      "miniatura": "https://i.ytimg.com/vi/To5nrYqvR44/hqdefault.jpg"
+    },
+    {
+      "titulo": "[Aula 3] Claude Code: Como ter um exército de pessoas trabalhando pra você",
+      "link": "https://www.youtube.com/watch?v=2MRAM9UtaEw",
+      "fuente": "Hashtag No Code & IA",
+      "categoria": "youtube",
+      "fecha": "2026-09-17T03:10:56+00:00",
+      "extracto": "Link de Inscrição para o Programa Claude Impressionador ...",
+      "vistas": 77146,
+      "miniatura": "https://i.ytimg.com/vi/2MRAM9UtaEw/hqdefault.jpg"
+    },
+    {
+      "titulo": "The GPT 6 Astra Vs Claude Fable 5.1 Debate Is Finally Over",
+      "link": "https://www.youtube.com/watch?v=BwNNcob3-A0",
+      "fuente": "AI LABS",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T15:00:09+00:00",
+      "extracto": "GPT 6 Astra vs Fable 5.1: we tested Claude Fable 5.1 against OpenAI Astra on real client work. Sponsored by Zapier! Zapier SDK ...",
+      "vistas": 60259,
+      "miniatura": "https://i.ytimg.com/vi/BwNNcob3-A0/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Let AI Edit My Video in DaVinci Resolve... WOW!",
+      "link": "https://www.youtube.com/watch?v=v3hzMGTb7Es",
+      "fuente": "Justin Brown - Primal Video",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T06:17:57+00:00",
+      "extracto": "I let ChatGPT edit my video in DaVinci Resolve... and it totally blew me away! But there's one thing you'll want to fix to get results ...",
+      "vistas": 35780,
+      "miniatura": "https://i.ytimg.com/vi/v3hzMGTb7Es/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Build a WordPress Website with Claude AI (Wire MCP Tutorial)",
+      "link": "https://www.youtube.com/watch?v=y4m69Wjc3WU",
+      "fuente": "Saddam Kassim",
+      "categoria": "youtube",
+      "fecha": "2026-09-16T14:32:34+00:00",
+      "extracto": "Want to build a complete WordPress website using Claude AI without writing a single line of code? In this step-by-step Wire MCP ...",
+      "vistas": 8526,
+      "miniatura": "https://i.ytimg.com/vi/y4m69Wjc3WU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Engineer Explains: What to Build Instead of AI Agents",
+      "link": "https://www.youtube.com/watch?v=HIRDzMtuWFk",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-09-13T13:55:05+00:00",
+      "extracto": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin My FREE resources: ...",
+      "vistas": 248103,
+      "miniatura": "https://i.ytimg.com/vi/HIRDzMtuWFk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Cowork and chat are now one Claude",
+      "link": "https://www.youtube.com/watch?v=qMUf-jwSpMo",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-09-16T16:18:12+00:00",
+      "extracto": "You don't have to choose between chat and Claude Cowork anymore. Ask Claude a quick question or hand it a bigger task, and it ...",
+      "vistas": 161417,
+      "miniatura": "https://i.ytimg.com/vi/qMUf-jwSpMo/hqdefault.jpg"
+    },
+    {
+      "titulo": "ChatGPT vs Claude Make Ultra-Realistic Minecraft",
+      "link": "https://www.youtube.com/watch?v=WqmVGHYWt8U",
+      "fuente": "WeeklyHow",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T22:00:12+00:00",
+      "extracto": "ChatGPT 6 Astra vs Claude Fable 5.1. Let's see which one makes the best ultra-realistic Minecraft Support our community with ...",
+      "vistas": 145046,
+      "miniatura": "https://i.ytimg.com/vi/WqmVGHYWt8U/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Connected Claude to MCPs… Now It Can Create Videos Automatically 🤯",
+      "link": "https://www.youtube.com/watch?v=_lPEFp8_Yd0",
+      "fuente": "Mohammad Khalid Crypto",
+      "categoria": "youtube",
+      "fecha": "2026-09-11T06:40:25+00:00",
+      "extracto": "Claude is no longer just an AI chatbot. In this video, I'm connecting Claude to different MCP tools and showing how it can interact ...",
+      "vistas": 19607,
+      "miniatura": "https://i.ytimg.com/vi/_lPEFp8_Yd0/hqdefault.jpg"
     }
   ]
 }
