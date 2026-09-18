@@ -1,15 +1,5 @@
 {
   "vistos": [
-    "63ca59ef2ba0da2a",
-    "8b5f838c52ad0d35",
-    "a489481e5afbfab8",
-    "5fd01c14766e129b",
-    "0853266d6cca91a8",
-    "50d146480e5ea48e",
-    "6db82568d1c94459",
-    "7828624daea7f61c",
-    "194b6e0711a45d5a",
-    "7a7e36fb956cdbae",
     "191af8636accdaa1",
     "9f498cf64607dceb",
     "95289c1e612f0297",
@@ -1999,89 +1989,19 @@
     "d10596ec17b1e541",
     "cd7c416030fea5cb",
     "c84bb5c08e218435",
-    "8d4963bcea5bb71d"
+    "8d4963bcea5bb71d",
+    "a5467a1ea883ce4c",
+    "54de8236138f4d2d",
+    "9c1c2aed30ccb458",
+    "2e7f6a7b27d13175",
+    "e6a30cd1068026a6",
+    "993bb4aade32b42c",
+    "a0717fd18e67ee20",
+    "5aa3f895f870479e",
+    "9684bc4a74adef9d",
+    "ba51d37043b66a43"
   ],
   "archivo": [
-    {
-      "titulo": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-      "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-08-28T15:42:24+00:00",
-      "extracto": "Meta fixes AI glasses to stop recording any time users cover up the safety light."
-    },
-    {
-      "titulo": "El 61% de las empresas en Colombia considera la inteligencia artificial una prioridad estratégica - Portafolio.co",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeDBaUzdGWTNsenRta2pjMkszd3Ruc3ZWR09XbFFTakYwYmRiSzRjVzJGbV9TcUMzclJQRWljOW5kWF9vNng5bF9FZW53czRfeFFjcW1hUG1uWVVlM3RqOEpQNTEwS1g3cUE3azRxNm5nbUhURDctNkF3eGRhMVYta05zaFdzdmlYNmdzOFRGMkRNS0VKUmVVOUs4N25EQ1didG9XSG1TcXdOSk5Bd3drMEhra3haY0oydUItVFJJNGt5ckdsWG14bmh1V3ZHRnpMcml6NnJ2X2dRRG0t?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-28T15:06:44+00:00",
-      "extracto": "El 61% de las empresas en Colombia considera la inteligencia artificial una prioridad estratégica Portafolio.co"
-    },
-    {
-      "titulo": "El avance de la inteligencia artificial en las empresas colombianas, según Endeavor Data Unit - Marketers by Adlatina",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0VrUHN3cGJpU0NnRFVnZjF0MDhCMzZGN0RUS1MtUkp2dENmM1FiQWRhcnpkOFdUMXlFSkdIWnBsai1kY3NJYlBXVnFJRk1LTnBjNXNYeDFBYTBrd2JyZGZvWlNrbXBrMFRpeGdzd1FGS3RuTDBUMEFqdnZMUFJBQzBsZlVpSHdVc2IwcU5zd1NwUzNZRlNYTVFOT2xBNG1QMUtmWlBtbzZSOUstbWxxVlhscUFHVXNrTjVKS3RYZnd0bE9wbkJtMDNtOUZDcmxSV2JuTHVROF9fcGs?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-28T03:19:40+00:00",
-      "extracto": "El avance de la inteligencia artificial en las empresas colombianas, según Endeavor Data Unit Marketers by Adlatina"
-    },
-    {
-      "titulo": "Zayra Méndez Mora: la empresaria colombiana que está llevando la inteligencia artificial a las finanzas de las pequeñas empresas en Estados Unidos - Edomex Al Día",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNEZucVV1R1IydnRHVGVaZk5sYmIwRVowNkN5NFFTVVlLN3JIMEh5N3VZMW9PR1VNNXVzcV9HVDJKRTREcU04NVctcmEtb2RMOHdpbUkxR0RSS1pTTndhanhHODZFUm1MNU1JeEREOFdSZGlBMWM4cVhUeHAzdG0yelNyZ0tWTTdmLUh6a2ZpOFZTcS1mTGJGMzh4RUxQR2J5R28wQkc0Nkxic3NxVENRemhIM1Z6akNMSV9tRmNScE5GMjJDYzI5bzNNbDFYcnQxaDE2QXRHclRTREdVdWtnMzNTV2dxa2VaQkFQcmluTWR4VDhYNjVXQ3BqeDlKS0k?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-28T20:04:58+00:00",
-      "extracto": "Zayra Méndez Mora: la empresaria colombiana que está llevando la inteligencia artificial a las finanzas de las pequeñas empresas en Estados Unidos Edomex Al Día"
-    },
-    {
-      "titulo": "Google acelera Gemini Flash mientras el costo de la inteligencia artificial presiona a las empresas - DiarioBitcoin",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUlRZVUtibk43Wl9EMFdseUoyS0xwTUJLV2lOaVdtTzdlRXJjaFR3WkNRcWdLY2IzMkg5ZGpGWjloV19mN0pZazZ2b3lxdHYxbG1Nak1aYk5QUl95NldqcGltYmhRMEN0czVPUjVqYW1DVDZsYjAzTHZPTmh5QmRsLVpSUU9oTUpPM0R5TlkwUUFiM2pENkRKRHpwdFBPR05HU1lvWm5qOG5NZTVVdk51NnMtaE02RTZqSy1VWmoxbFZESE9MZ0g4ZmM1UGl3eEI5M29MY0JNUjA?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-28T06:42:59+00:00",
-      "extracto": "Google acelera Gemini Flash mientras el costo de la inteligencia artificial presiona a las empresas DiarioBitcoin"
-    },
-    {
-      "titulo": "El 88% de las empresas usa IA, pero solo el 39% ve resultados - ITSitio",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeE1EVUNPOXN1NVhwZldzazd1bUh6WklSYmltYnl4VC05YWRWTURlX0pkaG03UDVRTnB0dG5VU1pDOVE2a2oyUHNwZnh1bWdJenVIc20xVlRvSHNxUFU5bWlrVlZSY0pMbG5iWERLeldjeF81OUluRHJOdVJuM3YzV0VVSUxBZmx0WlFlNElycXh6OGxKN1ZKS2hWcTFXOXZWdjhGNlB5Y2Z1RkxHcHBz?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-28T15:35:24+00:00",
-      "extracto": "El 88% de las empresas usa IA, pero solo el 39% ve resultados ITSitio"
-    },
-    {
-      "titulo": "BBVA lanza Brújula para transformar con inteligencia artificial el asesoramiento a las empresas en América del Sur - BBVA",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWnZlZDl4NUhhdk8wTlFwd2dsekh4X2hKVllZenpUSHQ3RVFsUU1mejRsOExwaFBELWY1OTlFVFVSMDA1ZFhOU3diRTktdXVETWE5alhqR01waVJNb3gyQWZXSGhyLTlsNEphQkI1amRxZHBEdzFQYm5hQ0F3MnAxR1lnNnMwb2UyeTJlYzh6cGlWeGtFM0hPR1lteVJXclp2QXFYN3VHSU5pTFRyVDNQZVVnV0IzQVN3MkZTR3RFZjNoSUI5RWZkYWd6Zmk0WnhCSWtneWJXX1pfQ1UtaFRoR2VB?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-27T00:44:21+00:00",
-      "extracto": "BBVA lanza Brújula para transformar con inteligencia artificial el asesoramiento a las empresas en América del Sur BBVA"
-    },
-    {
-      "titulo": "OpenAI, Google, Oracle y otros gigantes tecnológicos alertan sobre ciberataques con IA | El Colombiano - El Colombiano",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3BzMWhXN2pOOEQtZGZZSGtUQTNpZTJ3ZzdyLVZhd3VrQmF6LWUxX2FOendXYndjbjV1bXdsTnpiVkxxRVJ4ekFWVVF1OS0zS2RLM1UzY3BoamxySnAyeDhHVTZFUjYtWjNiV2FjVDliZ1QtSGxtNEFsQUVsS2pRUUlidXpyT1BIZ0RSTThkLV8zN3YtRGZYQ3JHZXRMb3dSVjFhVGMwZzdGazhfRFVCWVFvdWxudTTSAbwBQVVfeXFMT012dEZJTkdhdnZqMkV3NnhiWmtHTE9Sd25rYU1zaU1BcWNfNlNFRmRhQi11ZlhBdklNNk9rM2QxdFhkQkhsM2Q0TVhfcjZlZTlGLVlIX2RsdWVJY2VOdUVZck9VZWk4Wk9mT1JUeFR5SjFSMi1ZeHJIc3hLQW9ITURlSzVXQk5HblhsclljS0h1eHdTcGoxTHdjNXVUMG1FSEZUVExpcUhGeFU0TUItTnhRdWYyemg2YWx0eUo?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-28T01:03:12+00:00",
-      "extracto": "OpenAI, Google, Oracle y otros gigantes tecnológicos alertan sobre ciberataques con IA | El Colombiano El Colombiano"
-    },
-    {
-      "titulo": "Método creado por una colombiana combina diseño e inteligencia artificial para ayudar a empresas a vender más - Portafolio.co",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPak1ITmFZSlhLUVlkN1BpVnlBc21wQ0pvM2RzR1VnRnBHa0tpZFVBVkpjVGw3NTRRMm5jbGNjY1Q4bzNqRnhLTTZ1V2JmYTk0QU0tTEhneENiMWVxN2YxNUp4bkpwU0RzQ2dWYU1hSFRqeVplWHgxLUlNTlFyS3dLd3ptR25VWDF1WVMyeE5meDZJVXN3Z1BPcFF5RktKQkRXb0xOcGNYU2otcWVsNHhiTVNhNTc5czdvLTlBck5uQTIyV1JUUnJsYk9fZmNpcVpGQXNMcUpYRFF3UV9BQjV0N1NibUYwUUlqRDdwUDEydXphdw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-27T13:16:00+00:00",
-      "extracto": "Método creado por una colombiana combina diseño e inteligencia artificial para ayudar a empresas a vender más Portafolio.co"
-    },
-    {
-      "titulo": "El próximo punto caliente que genera la IA agéntica para las empresas: la responsabilidad - COMPUTERWORLD ESPAÑA",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU05nenlPbEplOXRhOFlEQ2xBcTA2cnBNcFdZNVNIRDRYRjZiVzZUekxTV2RnQWVRNkhSbVJjZVo2Nl9zWUdDQ0NoR3REWHBaRlVOTFp3TVExVWlBMDY5eDlrdXpsb0lDeVBveExsOFIzbDBsU01hTWI2NXRKenpMcnRLWFJBN2c1NkhtS19JMWtENE5fTFhwcUNaQlRQcWVpWVplNVNNUW9wdzl4RkpiX3d4WHh2aE1HZEIwOWFHMlJDTXQtbXVYaV8yWFBBZ1hNZnpydQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-08-28T08:04:43+00:00",
-      "extracto": "El próximo punto caliente que genera la IA agéntica para las empresas: la responsabilidad COMPUTERWORLD ESPAÑA"
-    },
     {
       "titulo": "Las empresas españolas frenan sus proyectos de inteligencia artificial por motivos de gobernanza y cumplimiento normativo - RRHH Press",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWFIUVBIYzFiNHFYeTVRMEptaWJWdGczMHFxVlBMcGJnS1FsREtoUVNTOUFWY0dMZkxVZ1F3X2dxaVZYTTBFM2owT1JmRFN4ZkVidmxzSDA0cDkwbUpBMHBxbWtvenJ3NHZwOGxUVk50UnJJOEJKSTVNNEN3cTctOHV3MnppWm5kSGl6YnJiaWtaWHFxaXc?oc=5",
@@ -14413,6 +14333,106 @@
       "categoria": "dxw",
       "fecha": "2026-09-18T05:25:10+00:00",
       "extracto": "MK Pick | GF M C Presents Generative Engine Optimization (GEO) Strategies and Phased Consulting Solutions 매일경제"
+    },
+    {
+      "titulo": "Nyelamatin Pahlawan Utama Tapi Dilupain Dunia #GoogleGemini #ChatGPT #ClaudeAI #GrokAI #MetaAI",
+      "link": "https://www.youtube.com/watch?v=wdGDwqnRasA",
+      "fuente": "Akbar Alatas Official",
+      "categoria": "youtube",
+      "fecha": "2026-09-16T09:12:46+00:00",
+      "extracto": "",
+      "vistas": 431452,
+      "miniatura": "https://i.ytimg.com/vi/wdGDwqnRasA/hqdefault.jpg"
+    },
+    {
+      "titulo": "중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?",
+      "link": "https://www.youtube.com/watch?v=d0kRWcguYSU",
+      "fuente": "안될공학 - IT 테크 신기술",
+      "categoria": "youtube",
+      "fecha": "2026-09-13T07:28:14+00:00",
+      "extracto": "앤트로픽이 공개한 보고서에는 꽤 이상한 데이터 흐름이 등장합니다.딥시크와 키미 같은 중국 AI를 사용한 고객들의 요청 일부가 ...",
+      "vistas": 309165,
+      "miniatura": "https://i.ytimg.com/vi/d0kRWcguYSU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Iseng Ngasih Dilema Moral Canggih ke 5 AI Terpopuler#GoogleGemini #ChatGPT #ClaudeAI #GrokAI #MetaAI",
+      "link": "https://www.youtube.com/watch?v=l1Mc8JcxAm0",
+      "fuente": "Akbar Alatas Official",
+      "categoria": "youtube",
+      "fecha": "2026-09-17T08:45:17+00:00",
+      "extracto": "",
+      "vistas": 374411,
+      "miniatura": "https://i.ytimg.com/vi/l1Mc8JcxAm0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Dropped Claude 2.0 (Full Breakdown)",
+      "link": "https://www.youtube.com/watch?v=lrsW8k-dHSk",
+      "fuente": "Brock Mesarich | AI for Non Techies",
+      "categoria": "youtube",
+      "fecha": "2026-09-17T13:16:24+00:00",
+      "extracto": "Connect Claude to 9000+ Apps: https://bit.ly/4xzUk2H ✓ Claude Cowork: http://clau.de/BrockMesarich Join my Skool ...",
+      "vistas": 79321,
+      "miniatura": "https://i.ytimg.com/vi/lrsW8k-dHSk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude CodeとGPT、どちらが優れているか？",
+      "link": "https://www.youtube.com/watch?v=w7QfgixP8OI",
+      "fuente": "未来テック / MIRAI TECH",
+      "categoria": "youtube",
+      "fecha": "2026-09-13T22:05:10+00:00",
+      "extracto": "",
+      "vistas": 41753,
+      "miniatura": "https://i.ytimg.com/vi/w7QfgixP8OI/hqdefault.jpg"
+    },
+    {
+      "titulo": "【知らなきゃ損】CodexやClaude Codeの力を最大限引き出すAIのフォルダ設計を教えます",
+      "link": "https://www.youtube.com/watch?v=0dIW2HVFv3w",
+      "fuente": "いまにゅのAIプログラミング塾",
+      "categoria": "youtube",
+      "fecha": "2026-09-13T09:00:32+00:00",
+      "extracto": "本日はフォルダ設計とAIの仕組みについてお話させて頂きました！ ぜひご視聴ください！ ‍ ⬇︎AIやAIコーディングをもっと ...",
+      "vistas": 73573,
+      "miniatura": "https://i.ytimg.com/vi/0dIW2HVFv3w/hqdefault.jpg"
+    },
+    {
+      "titulo": "Sim Review | Turn Any Workflow into an MCP Server",
+      "link": "https://www.youtube.com/watch?v=rcytmPqDci8",
+      "fuente": "Tool Talk",
+      "categoria": "youtube",
+      "fecha": "2026-09-17T10:00:36+00:00",
+      "extracto": "Try Sim today - https://www.sim.ai/ Integrating custom business logic into external large language models used to be a massive ...",
+      "vistas": 1705,
+      "miniatura": "https://i.ytimg.com/vi/rcytmPqDci8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Why is GPT 6 Astra so good? #gpt6 #chatgpt #claudemythos #openai #gptastra",
+      "link": "https://www.youtube.com/watch?v=jMcIatfBRu4",
+      "fuente": "Mayankshah",
+      "categoria": "youtube",
+      "fecha": "2026-09-12T13:37:07+00:00",
+      "extracto": "GPT-6 Astra uses a \"secret\" architecture called a looped transformer — here's how it works in 1 minute, even if you know nothing ...",
+      "vistas": 88298,
+      "miniatura": "https://i.ytimg.com/vi/jMcIatfBRu4/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Found an Amazing AI Niche With Huge Potential (Full Tutorial)",
+      "link": "https://www.youtube.com/watch?v=0ALSR_7K6Zw",
+      "fuente": "Airyzen AI",
+      "categoria": "youtube",
+      "fecha": "2026-09-13T14:00:02+00:00",
+      "extracto": "In this full tutorial, I'll show you how to create viral AI quiz videos step by step using a master prompt. FREE Master Prompt: ...",
+      "vistas": 82271,
+      "miniatura": "https://i.ytimg.com/vi/0ALSR_7K6Zw/hqdefault.jpg"
+    },
+    {
+      "titulo": "FREE AI API KEYS! 🤯 Get FREE AI API KEY | GPT, Claude More (2026)",
+      "link": "https://www.youtube.com/watch?v=Ah8rlFXDH7Q",
+      "fuente": "The Ai Algorithm",
+      "categoria": "youtube",
+      "fecha": "2026-09-13T11:43:54+00:00",
+      "extracto": "Get Free AI API Keys with up to 5 to 10 Million Free Tokens daily! In this video, I will show you 2 completely free methods to get AI ...",
+      "vistas": 55130,
+      "miniatura": "https://i.ytimg.com/vi/Ah8rlFXDH7Q/hqdefault.jpg"
     }
   ]
 }
