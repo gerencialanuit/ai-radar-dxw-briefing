@@ -1,12 +1,5 @@
 {
   "vistos": [
-    "4b8ee76fd1b24761",
-    "3e8684faa386fedd",
-    "8a6a4def501dd14b",
-    "925508e6befcd77f",
-    "39d37efd63a45f50",
-    "e2fd9ca3b5f62c28",
-    "5fc911b610c8e780",
     "b2e47579626603bd",
     "64c27e892a8371a1",
     "eec286d06f89594b",
@@ -1999,65 +1992,16 @@
     "50812288c9ea5646",
     "db0ac08e5615f8a9",
     "f587af5327bfad7f",
-    "01c28126bd917647"
+    "01c28126bd917647",
+    "a55c971fb86db4c3",
+    "6a9e5e62bb4c7b0d",
+    "cb069128e5a9105e",
+    "6df642b84b1c2eef",
+    "fa618facd3473327",
+    "5662e850194e1eb1",
+    "c09a6c2139cb3a22"
   ],
   "archivo": [
-    {
-      "titulo": "Google: We Don't Penalize For Old Outbound Links With Shady Content",
-      "link": "https://www.seroundtable.com/google-old-shady-links-41987.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-08-31T18:59:00+00:00",
-      "extracto": "Google's John Mueller was asked if Google would penalize a site for old outbound links to a site that once hosted quality content and now changed ownership and hosts shady content. John said Google won't penalize such links; he said \"no\" and added, \"the web is full of turmoil.\""
-    },
-    {
-      "titulo": "ChatGPT automation: How to use the Zapier ChatGPT integration (GPT-5.6 + more)",
-      "link": "https://zapier.com/blog/automate-chatgpt",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-01T07:00:00+00:00",
-      "extracto": "OpenAI is rolling out new models all the time, and you can see the improvements and power even in a quick back-and-forth with ChatGPT. But as much as we all love shooting the breeze with an AI chatbot, the real question is how you can put the AI models to use in your work. All of ChatGPT's state-of-the-art models are available in Zapier. That means you can add ChatGPT-powered steps to your existing workflows, or securely access and take action in..."
-    },
-    {
-      "titulo": "The 6 best Hootsuite alternatives in 2026",
-      "link": "https://zapier.com/blog/hootsuite-alternatives",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-01T05:00:00+00:00",
-      "extracto": "In another life, I ran social for a number of small companies. And if I had a nickel for every time someone said, \"Social's easy. Just do [insert suggestion that's definitely been done before],\" I'd have long been retired. Building a social media strategy and executing it is anything but easy. That's why people turn to social media management giants like Hootsuite to streamline their efforts. It allows you to control your full social media presen..."
-    },
-    {
-      "titulo": "The 10 best SEO audit tools in 2026",
-      "link": "https://zapier.com/blog/best-seo-audit-tools",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-01T05:00:00+00:00",
-      "extracto": "If you're like most humans, the word \"audit\" gives you an instant twinge of anxiety. But if you're an SEO professional (and thus not like most humans), it might fill your head with grand visions of actionable marketing insights. Digital marketers depend on tools that generate these insights, so we can learn what's bringing traffic to a website, why content is plummeting on the SERP, and how copy on a page can be improved. I've used plenty of SEO..."
-    },
-    {
-      "titulo": "TrustedRouter",
-      "link": "https://www.producthunt.com/products/trustedrouter",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-31T16:38:25+00:00",
-      "extracto": "Every model with a unified interface. Privacy with proof. Discussion | Link"
-    },
-    {
-      "titulo": "Cosmic Agent Plugins",
-      "link": "https://www.producthunt.com/products/cosmic",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-01T03:12:53+00:00",
-      "extracto": "Connect Cosmic agents to any service with an MCP server Discussion | Link"
-    },
-    {
-      "titulo": "EAS Observe",
-      "link": "https://www.producthunt.com/products/expo",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-08-31T17:29:51+00:00",
-      "extracto": "Performance monitoring built for Expo and React Native Discussion | Link"
-    },
     {
       "titulo": "Happy Shrimp",
       "link": "https://www.producthunt.com/products/happy-shrimp",
@@ -14407,6 +14351,76 @@
       "categoria": "dxw",
       "fecha": "2026-09-22T07:36:14+00:00",
       "extracto": "PageLens Brings AI Search Visibility and Optimization Into One Platform India CSR"
+    },
+    {
+      "titulo": "END of World Loading? AI पर चेतावनी कितनी सच? Chat GPT, Claude, Musk की रेस मरवाएगी? Pinch Explainer",
+      "link": "https://www.youtube.com/watch?v=PFF9yK0FbRI",
+      "fuente": "News Pinch",
+      "categoria": "youtube",
+      "fecha": "2026-09-19T06:30:18+00:00",
+      "extracto": "AI END GAME? Is the World Heading Towards a Major Change by 2030? | ChatGPT, Claude, Google & Elon Musk's AI Race ...",
+      "vistas": 777793,
+      "miniatura": "https://i.ytimg.com/vi/PFF9yK0FbRI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Jev will 10x your Claude Code (Here s How)",
+      "link": "https://www.youtube.com/watch?v=tTnUcSj-QPA",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-09-21T10:40:43+00:00",
+      "extracto": "Get the Jev + Claude guide for free ➡ https://www.skool.com/robonuggets-free/classroom search for n74 Learn how to build AI ...",
+      "vistas": 249580,
+      "miniatura": "https://i.ytimg.com/vi/tTnUcSj-QPA/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude ChatGPT’s New Upgrades Are MIND BLOWING! (Claude for Small Business More)",
+      "link": "https://www.youtube.com/watch?v=SVzJ_vaqz-w",
+      "fuente": "Rob The AI Guy",
+      "categoria": "youtube",
+      "fecha": "2026-09-18T21:50:28+00:00",
+      "extracto": "This video shows you all of Claude AI and ChatGPT's latest updates from this week. Claude AI just got a brand new connector ...",
+      "vistas": 10905,
+      "miniatura": "https://i.ytimg.com/vi/SVzJ_vaqz-w/hqdefault.jpg"
+    },
+    {
+      "titulo": "MCP vs. Skills: What Is the Difference—and How Do They Work Together?",
+      "link": "https://www.youtube.com/watch?v=nhoq5anpxHs",
+      "fuente": "Avocado Theory 🥑 — AI & Tech",
+      "categoria": "youtube",
+      "fecha": "2026-09-20T00:00:06+00:00",
+      "extracto": "A fictional pottery shop needs a correct product page, not another confident promise. Build and test a small local MCP server, ...",
+      "vistas": 1226,
+      "miniatura": "https://i.ytimg.com/vi/nhoq5anpxHs/hqdefault.jpg"
+    },
+    {
+      "titulo": "So Much AI News: New ChatGPT Tools, NotebookLM Updates, Big Claude Changes, Grok Bot Live, + More!",
+      "link": "https://www.youtube.com/watch?v=SsHZaH2ml_U",
+      "fuente": "Paul J Lipsky",
+      "categoria": "youtube",
+      "fecha": "2026-09-18T13:00:31+00:00",
+      "extracto": "Sponsored by Wispr Flow! Download Wispr Flow for free and use code LIPSKY on desktop to get 1 month of Wispr Flow Pro with ...",
+      "vistas": 153023,
+      "miniatura": "https://i.ytimg.com/vi/SsHZaH2ml_U/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Rebuilt a Winning UGC Ad With AI | Maxfusion + Claude + Seedance 2.5",
+      "link": "https://www.youtube.com/watch?v=g9Hx7hb6UHY",
+      "fuente": "BMF MEDIA",
+      "categoria": "youtube",
+      "fecha": "2026-09-17T19:14:38+00:00",
+      "extracto": "Try this: https://maxfusion.ai/?via=dara What if you could study a winning UGC ad, keep the creative logic, and rebuild it for a ...",
+      "vistas": 44636,
+      "miniatura": "https://i.ytimg.com/vi/g9Hx7hb6UHY/hqdefault.jpg"
+    },
+    {
+      "titulo": "돈을 못 벌면 진짜 죽는 AI 에이전트가 나왔다 #ai #claude #claudecode #chatgpt #automaton",
+      "link": "https://www.youtube.com/watch?v=6oQM5Y8x7KA",
+      "fuente": "게으른빌더",
+      "categoria": "youtube",
+      "fecha": "2026-09-17T09:30:38+00:00",
+      "extracto": "고정댓글 확인해주세요! ✓ 구독하고 다음 영상도 바로 받아보세요 지갑 잔고가 0원이 되면 진짜로 꺼지는 오픈소스 에이전트 오토 ...",
+      "vistas": 61120,
+      "miniatura": "https://i.ytimg.com/vi/6oQM5Y8x7KA/hqdefault.jpg"
     }
   ]
 }
