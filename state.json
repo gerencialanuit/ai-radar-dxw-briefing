@@ -1,15 +1,5 @@
 {
   "vistos": [
-    "5b35db5371f24a55",
-    "e56a8040659604f3",
-    "a12a2bb9f9c5a275",
-    "3ffb68862b91590b",
-    "d6a16b1583caa182",
-    "59625d2255d1119e",
-    "0fa51b9dfcb34722",
-    "64f5401b0a38e545",
-    "66149732fea814f9",
-    "265241e80554d5bc",
     "17be6a53eeab99dc",
     "fd539c8f9879f56f",
     "fac294ceda702f05",
@@ -1999,89 +1989,19 @@
     "f766fcef9bd92271",
     "315efb08b13e9ec0",
     "da4ddbd13c07a4fb",
-    "6560d3f0b9b93a44"
+    "6560d3f0b9b93a44",
+    "fa567b913e401bcb",
+    "050b6643c763b73e",
+    "6b5d1dd99328700d",
+    "713dbc34b1e725b2",
+    "ca9c433c2b06fd7d",
+    "3c374b3ee37a0afc",
+    "aff00203587c6758",
+    "d17c0b06d76bc4f3",
+    "80c761f81d8be376",
+    "bf56851d43ced00a"
   ],
   "archivo": [
-    {
-      "titulo": "Google’s Gemini Spark can now manage your Google Photos library",
-      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-04T14:47:11+00:00",
-      "extracto": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers."
-    },
-    {
-      "titulo": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-04T14:00:00+00:00",
-      "extracto": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT."
-    },
-    {
-      "titulo": "The sameness problem behind those unappetizing AI-generated menus",
-      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-04T04:21:03+00:00",
-      "extracto": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
-    },
-    {
-      "titulo": "Crusoe reportedly raises $3B at a $30B valuation",
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-04T00:48:42+00:00",
-      "extracto": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
-    },
-    {
-      "titulo": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-03T19:36:29+00:00",
-      "extracto": "The high-profile startup's annual revenue run rate stands at over $100 million."
-    },
-    {
-      "titulo": "Abliteration.ai is making a business out of removing AI guardrails",
-      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-03T18:37:57+00:00",
-      "extracto": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
-    },
-    {
-      "titulo": "Meta is paying to peek at how you use their latest AI model",
-      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-03T18:19:56+00:00",
-      "extracto": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs."
-    },
-    {
-      "titulo": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-03T18:01:45+00:00",
-      "extracto": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
-    },
-    {
-      "titulo": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-09-04T16:05:57+00:00",
-      "extracto": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot [ ]"
-    },
-    {
-      "titulo": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-09-04T13:34:12+00:00",
-      "extracto": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [ ]"
-    },
     {
       "titulo": "Instagram’s AI detection is a mess (again)",
       "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
@@ -14371,6 +14291,106 @@
       "categoria": "dxw",
       "fecha": "2026-09-23T19:15:35+00:00",
       "extracto": "What Is Generative Engine Optimization (GEO)? Business.com"
+    },
+    {
+      "titulo": "Using Claude Opus 5.5 as your daily driver",
+      "link": "https://www.youtube.com/watch?v=jKRl_CSVxyI",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-09-23T16:41:37+00:00",
+      "extracto": "Opus 5.5 is faster than Opus 5, better at telling you what it did, and 20% cheaper per token. On Pro, Max, and Team plans your ...",
+      "vistas": 206015,
+      "miniatura": "https://i.ytimg.com/vi/jKRl_CSVxyI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Get Paid for Claude Code: Trajector Walkthrough",
+      "link": "https://www.youtube.com/watch?v=QbyuXYJks08",
+      "fuente": "PublicAI",
+      "categoria": "youtube",
+      "fecha": "2026-09-18T03:26:33+00:00",
+      "extracto": "Claude Code sessions you already run can pay. This is the full Trajector walkthrough: apply, install, login, enable one repo, switch ...",
+      "vistas": 237251,
+      "miniatura": "https://i.ytimg.com/vi/QbyuXYJks08/hqdefault.jpg"
+    },
+    {
+      "titulo": "Watch Me Vibe Code an Animated App with Claude Fable 5.1 + Seedance 2.5",
+      "link": "https://www.youtube.com/watch?v=29Vto7o2I2Q",
+      "fuente": "Jason Lee",
+      "categoria": "youtube",
+      "fecha": "2026-09-18T15:00:29+00:00",
+      "extracto": "Higgsfield ((API pricing + $15 free credits): https://higgsfield.ai/s/general-jasonleefinance-Yjhevw 00:00 Intro 00:56 App ...",
+      "vistas": 155654,
+      "miniatura": "https://i.ytimg.com/vi/29Vto7o2I2Q/hqdefault.jpg"
+    },
+    {
+      "titulo": "Así conseguí CLAUDE GRATIS + ILIMITADO",
+      "link": "https://www.youtube.com/watch?v=dKCifr4f6u8",
+      "fuente": "💀 SALVAJE 💀",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T17:33:18+00:00",
+      "extracto": "COMUNIDAD ➜ https://salvajes.club/ FORO DE INTELIGENCIA ARTICIAL ➜ https://foroia.com/ CASOS DE USO ...",
+      "vistas": 91256,
+      "miniatura": "https://i.ytimg.com/vi/dKCifr4f6u8/hqdefault.jpg"
+    },
+    {
+      "titulo": "O novo Claude Opus 5.5 é assustador criando vídeos e imagens!",
+      "link": "https://www.youtube.com/watch?v=R3n0-gmhQtk",
+      "fuente": "Azev • Renda Online com IA",
+      "categoria": "youtube",
+      "fecha": "2026-09-23T01:20:23+00:00",
+      "extracto": "USE O CLAUDE OPUS 5.5 COM O HIGGSFIELD https://higgsfield.ai/s/claude-opus-5-5-yt-azev300-jMcSXW GRUPO DE ...",
+      "vistas": 21235,
+      "miniatura": "https://i.ytimg.com/vi/R3n0-gmhQtk/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built My Entire Creative Workflow Inside Claude with ElevenCreative MCP",
+      "link": "https://www.youtube.com/watch?v=4FujVFzTlbw",
+      "fuente": "Liqui AI",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T20:55:55+00:00",
+      "extracto": "Try ElevenLabs: ...",
+      "vistas": 2691,
+      "miniatura": "https://i.ytimg.com/vi/4FujVFzTlbw/hqdefault.jpg"
+    },
+    {
+      "titulo": "NEW Claude Projects Changes Everything (with Opus 5.5)",
+      "link": "https://www.youtube.com/watch?v=NDTbUObZTlM",
+      "fuente": "Riley Brown",
+      "categoria": "youtube",
+      "fecha": "2026-09-21T17:57:08+00:00",
+      "extracto": "Claude just shipped Claude Code Projects, and I think it's the best update they've released all year. -A project is one main agent ...",
+      "vistas": 68126,
+      "miniatura": "https://i.ytimg.com/vi/NDTbUObZTlM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Jev AI Just Dropped, And.…",
+      "link": "https://www.youtube.com/watch?v=9C8opPBjAIk",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-09-19T20:31:20+00:00",
+      "extracto": "Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month) ALL Systems: https://bit.ly/4kol0y5 Free Resources: ...",
+      "vistas": 77679,
+      "miniatura": "https://i.ytimg.com/vi/9C8opPBjAIk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Complete Guide to building an AI Trading Bot with Claude for Beginners",
+      "link": "https://www.youtube.com/watch?v=oQdkFPhqaGk",
+      "fuente": "Ray Fu",
+      "categoria": "youtube",
+      "fecha": "2026-09-17T23:10:49+00:00",
+      "extracto": "Hey Guys! In this video, I show you the complete guide on building out an AI trading bot using Claude that will make trades for you ...",
+      "vistas": 73496,
+      "miniatura": "https://i.ytimg.com/vi/oQdkFPhqaGk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude s Creator Just Told Us How to Actually Use Claude in 2026",
+      "link": "https://www.youtube.com/watch?v=tRmLQZJYQdA",
+      "fuente": "AI Edge",
+      "categoria": "youtube",
+      "fecha": "2026-09-17T20:43:57+00:00",
+      "extracto": "Join My NEW Free Skool Community and Claim the Self-Verifying Claude System: https://www.skool.com/milesdeutscher All ...",
+      "vistas": 73979,
+      "miniatura": "https://i.ytimg.com/vi/tRmLQZJYQdA/hqdefault.jpg"
     }
   ]
 }
