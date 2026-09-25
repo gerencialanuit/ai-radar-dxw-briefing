@@ -1,16 +1,5 @@
 {
   "vistos": [
-    "00fc19dc61db6a47",
-    "34e29067b5583605",
-    "44084287147f6737",
-    "2290183e29f2a4ff",
-    "f0495e5f40b2a2cc",
-    "2646472356eb2dad",
-    "ad3b31359f3e1787",
-    "3e0ec804faeea633",
-    "ae4e60ce40ea1926",
-    "2b36a964842324f6",
-    "715d354d5f01b937",
     "7851a72d8a0a5775",
     "1ec7a893bf640061",
     "f2d12008b61beda5",
@@ -1999,97 +1988,20 @@
     "f1cf1b523d692688",
     "cc43d76ffd130640",
     "175d35670daba461",
-    "ae8b6bde5f1f5556"
+    "ae8b6bde5f1f5556",
+    "a8a6375b3abce362",
+    "a6f73d039aa86206",
+    "92df8ac0a5a22eb4",
+    "d3f6e69399bc6ee7",
+    "89660eabde9be79f",
+    "70e3723706216647",
+    "521a91996d371eab",
+    "25fd4d285c2c9184",
+    "e3bebfe32706d514",
+    "6d4eb4f53a1972e2",
+    "796d6fd1b1d0f280"
   ],
   "archivo": [
-    {
-      "titulo": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-05T22:49:55+00:00",
-      "extracto": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-    },
-    {
-      "titulo": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-05T19:35:24+00:00",
-      "extracto": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
-    },
-    {
-      "titulo": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-05T18:05:27+00:00",
-      "extracto": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
-    },
-    {
-      "titulo": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-09-06T23:36:04+00:00",
-      "extracto": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [ ]"
-    },
-    {
-      "titulo": "The complex corporate web behind a $3.2 billion AI data center",
-      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-07T11:00:03+00:00",
-      "extracto": "When multiple companies are behind one project, who bears responsibility for problems?"
-    },
-    {
-      "titulo": "Last Week in AI #343 - GPT-6, OpenAI’s agents chatted on a wiki, Fable 5.1",
-      "link": "https://lastweekin.ai/p/last-week-in-ai-343-gpt-6-openais",
-      "fuente": "Last Week in AI",
-      "categoria": "business",
-      "fecha": "2026-09-07T13:02:49+00:00",
-      "extracto": "GPT-6 Astra Is Here, Discovery of a new OpenAI agent message board, Anthropic launches Claude Fable 5.1 and says it s up to 45 percent cheaper for agentic work, and more!"
-    },
-    {
-      "titulo": "Talleres y curso gratis en inteligencia artificial, prototipado y más para tu empresa, negocio o emprendimiento en Bogotá: durante septiembre y octubre - Bogota.gov.co",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHpWaG55ZVc1R2laSTNWTTNVdl9xTWo0WE1DQmtzU1lCQkZXb24yTjFzMHhITnJ2ZUptNEhRaHM2azhycm1JNGxJZ1pjSGhzejBkeGRqLV94ZDJXVWREd1RRbzJTdUE0VVlZclpwT1QydDc3SG0xSHBRU0hGRmFTeE5CNHZuYms5ZFUyTzFSeGh6X0RjWUpqMWJKdEE5MjctMUpzdndUeTZLT1M2bWZRYWZ5ZWh4YkhVeU80?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-07T16:08:02+00:00",
-      "extracto": "Talleres y curso gratis en inteligencia artificial, prototipado y más para tu empresa, negocio o emprendimiento en Bogotá: durante septiembre y octubre Bogota.gov.co"
-    },
-    {
-      "titulo": "Los ejecutivos ya ven el daño de la IA en sus equipos: nueve de cada diez empresas no tienen plan para frenarlo - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPakI2RGdveU9ObG9VaWhBZmppRzVZV1hXWkVLUVJEY0ZoME5hTXlueC1HUDd3QlIxRTl4M2JCUEU1LU1pQjdSUUU5SzJTcDZ0ZlljS2VkU1QwM2ZwVEwzb0NSUEdNdE0tNlpRRUlfd1dsMEtTQm1CajBoSFR5UHNGWExONUhNNk44VGV2QVA5NHpTcHdNT0JuZ1N1VWFkeTNYSjd0ZjFCVWV0UUwxdlhXaWVTMUx4Uk1kRnJSbWlCaG1NcTFQcW9WOXJVMG56VnJCMDVhaE1Na0RsUXhGWlR3MmZBT29LYk3SAYICQVVfeXFMT3k4VGNmWmVJVkZsUEtXYjVGbEZFMUZXTXBmUzE1ZE5PbEUzeTFaZ2tVT1lZdG1NZVNUZVVQNkdMSzRCVEdua0JuMXUwRUkzMTRDWmluRW54bGFuNW45dllVUjYybUxGLS1kaGM1UTl2ZVlNLW5FdEZHSDZ6X0dtWFdjc2ZaNEdKeWh5R3JoVzBHX3dmbjJRYldWTDExMEJMMlk5bjZ0NXVCSTVHY3lDYUdURGRBUTVSY2ZuVm9kN3JPSDByYzdJNXdWSVBUbjVrMWh4Ry1nUktzOVBwSUxTUTVRYU10bElLYUxPdVNTRjJrc3RSUlMzYWdkdUtwWm5wQk5n?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-07T14:00:00+00:00",
-      "extracto": "Los ejecutivos ya ven el daño de la IA en sus equipos: nueve de cada diez empresas no tienen plan para frenarlo Infobae"
-    },
-    {
-      "titulo": "Cómo prepararse para venderle a una inteligencia artificial - La Nación",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkRycDh2T0FfOGNKR3h1UXVpdVpZeVp3REc3cXZsTGxEN3NzZ2VLOHYwNXpXWkdDRGt1OVRoYkQyRDVJb2V2aVoxaE40MG8xV2trQjFnN3lPeU1VVU41YXNndHczRmxzZ21XVGpSYnJ1UTJUQ3pMZHprQUpTZGFqenVxdkhXa2pKdjV2UkFPa0FhLVZkOTRrdzJ0dzExaFhfTmYzWE11eUg2NHlBdVFxMXhkWUd3MkxTUUE?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-07T13:01:00+00:00",
-      "extracto": "Cómo prepararse para venderle a una inteligencia artificial La Nación"
-    },
-    {
-      "titulo": "La inteligencia artificial está cambiando la forma de buscar en internet (y las empresas necesitan adaptarse) - El Independiente",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNHI5MWRYNnExTmJ0NHB1d3JVQ0dGcDNFZkJoYU53aC1PV2FQS1REUERmMzJSdlh6UHQ4MWotaV9laVZPUnpCT0JwT1lYSDhaTTdWNDZWTmJIUlRybFhIS0pTZm5LUXZGWUpnVlJ1VHJIY3RYRVo0dVpmeE4yV1hZZkNrOFJyTFpSTkJBNHE0cktMVVZHUloxUnVOVThoUXBoMjRaTWtHeWFwcXJaVkthRWlHWmZNOVdOUWVwSUtSTlY1ZVM5Q1ZPbEtBUkNaNVU4MU5RdVdfOEUwa201dWNSaVduUkJ1OGNEUUVzc3p2MNIB9AFBVV95cUxQenk0T2U1OWVzalNwOEdTWGZ1emlnMThSQTFoNkJaaVlWQnozbzJoRkE4bWNCN0did1ozRmgyTlVJODlvM1RoLTdPbDZrREpRVHUyVVVyc0pUUkRQdjV4U3RXa1JxZk8yaEtKdUJzRnJnTFVEUlBlXzBZeVdWVEs5ZkFPaGVzRzQzeGZIdlp4bjFsamNDdXFzRlBQczZsVjJJZUNoN3JjUi1DZUwzdG1VenJZOFBZSElob2phRVJobWpaamlOU2FteE5xSWhQVTRBN1B5d2J0WEZZQndaZEp4SC1KMFVyd3NMNjhDLVNwYm9TZWRy?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-07T14:25:09+00:00",
-      "extracto": "La inteligencia artificial está cambiando la forma de buscar en internet (y las empresas necesitan adaptarse) El Independiente"
-    },
-    {
-      "titulo": "Impacta IA 2026 reúne a más de 600 personas para acelerar la adopción de inteligencia artificial en los negocios - Fundación Chile | FCh",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVVk5Sm5rdWFoT3NQenFYeDc0VE9JcFJqMVQ0WXdrYnVIMkNjUjlJWTItN1RFVmg0VC1wRmcxbXZ0RW1NQlEwNklnRXg0OE9kNWVhVFQ4aW5OUHQ5azAtWlBvcEY5WmRHZDlDWm5IYzItSjZ5bVFNdE1sN1h1dXc0UFRweW1xckVTQTJGd1hmUEVGOG9UTkxseWtkb3B0NU14TlNDYWpiS0xFNWVfTVhJc0tLOFI3aVhNX2twZzd2WlFMUlR0UzAzMGN5RUhLS1hBNGNB?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-07T12:34:44+00:00",
-      "extracto": "Impacta IA 2026 reúne a más de 600 personas para acelerar la adopción de inteligencia artificial en los negocios Fundación Chile | FCh"
-    },
     {
       "titulo": "Inteligencia Artificial: las empresas cuentan sus estrategias para sacar provecho de las nuevas tecnologías - Clarin.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa01mTTU0ZmhubzROM01uVk9YVGdvYksyZ3RmTXJxRkZRT0lhNDNpX2E2dU5DbGdNMldlWkd4XzU3eG9mT3U2SUJxZFdMRGhBbVcwNnNXSk9SU3U4Wmt5UkZyNXRQdDh0WjFGSmUyMEZOY2M4dzJ3MVllb1JOcWZPOU5zZm9HekYwOXE2dnVwRm82UGxaZm45bjVLeUQzOXVjTUFnanlzaDZyUWdlNU5kaDQyanJ3MjF0U3hOR2pCZjk5WHZDRmx3a21obWlMc1BqNmc?oc=5",
@@ -14363,6 +14275,116 @@
       "categoria": "dxw",
       "fecha": "2026-09-25T10:10:16+00:00",
       "extracto": "Enliven Designers Launches Generative Engine Optimization (GEO) Services The National Law Review"
+    },
+    {
+      "titulo": "Claude Opus 5.5 builds daydreams that hold together",
+      "link": "https://www.youtube.com/watch?v=lCR9epzSNGc",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T16:32:15+00:00",
+      "extracto": "Describe a model or drop in a photo, and Claude designs it in bricks where every piece is actually connected, then you get the full ...",
+      "vistas": 399042,
+      "miniatura": "https://i.ytimg.com/vi/lCR9epzSNGc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Introducing Claude Opus 5.5",
+      "link": "https://www.youtube.com/watch?v=1f13Bl1sYkw",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T16:32:25+00:00",
+      "extracto": "For most tasks, Claude Opus 5.5 performs at the level of Claude Fable 5.1, our most intelligent model. It writes more clearly and ...",
+      "vistas": 257309,
+      "miniatura": "https://i.ytimg.com/vi/1f13Bl1sYkw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 IS THE Greatest AI Model EVER! Cheaper, Fast, Powerful! (FULLY TESTED)",
+      "link": "https://www.youtube.com/watch?v=rFCaGc7owT8",
+      "fuente": "WorldofAI",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T19:10:47+00:00",
+      "extracto": "Everything you're about to see, I benchmarked using the tool I made. If you want to run these tests yourself or test models on ...",
+      "vistas": 83893,
+      "miniatura": "https://i.ytimg.com/vi/rFCaGc7owT8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Certified Developer Foundations (CCDV-F) Certification Course",
+      "link": "https://www.youtube.com/watch?v=C_1QKZAcJjk",
+      "fuente": "freeCodeCamp.org",
+      "categoria": "youtube",
+      "fecha": "2026-09-21T12:12:42+00:00",
+      "extracto": "Prepare to pass the Claude Certified Developer - Foundations (CCDV-F) exam. This exam is Anthropic's official hands-on ...",
+      "vistas": 149573,
+      "miniatura": "https://i.ytimg.com/vi/C_1QKZAcJjk/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI Video Is Having Its Claude Code Moment - Flova AI Review",
+      "link": "https://www.youtube.com/watch?v=mo4m3-aDnFI",
+      "fuente": "Shark Numbers",
+      "categoria": "youtube",
+      "fecha": "2026-09-24T02:13:10+00:00",
+      "extracto": "Flova AI: https://www.flova.ai/?refCode=EGHH82BH Is AI video having its Claude Code moment? In this video, I test Flova AI, ...",
+      "vistas": 106312,
+      "miniatura": "https://i.ytimg.com/vi/mo4m3-aDnFI/hqdefault.jpg"
+    },
+    {
+      "titulo": "JEV vai melhorar seu Claude Code em 10x (Veja como)",
+      "link": "https://www.youtube.com/watch?v=hp6kG1bLMc4",
+      "fuente": "Rafa Voss | IA na Prática",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T13:04:39+00:00",
+      "extracto": "CAPACITE a sua EMPRESA TODA com AI PASS: https://hubaipass.com.br/ ...",
+      "vistas": 89228,
+      "miniatura": "https://i.ytimg.com/vi/hp6kG1bLMc4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Home Assistant + AI via MCP: Setup, Capabilities, and Limitations",
+      "link": "https://www.youtube.com/watch?v=axP6V465UAE",
+      "fuente": "Alex Kvazis - технологии умного дома",
+      "categoria": "youtube",
+      "fecha": "2026-09-20T13:00:15+00:00",
+      "extracto": "In this video, we'll explore how you can connect an external AI client to Home Assistant using the built-in MCP Server. I'll show the ...",
+      "vistas": 21433,
+      "miniatura": "https://i.ytimg.com/vi/axP6V465UAE/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to setup Unity with AI Agents and CLI!",
+      "link": "https://www.youtube.com/watch?v=ppFshgFOgXU",
+      "fuente": "Code Monkey",
+      "categoria": "youtube",
+      "fecha": "2026-09-23T15:00:01+00:00",
+      "extracto": "Get my Code Monkey Toolkit 50% OFF! https://cmonkey.co/toolkit ✓ 50+ Tools and Elements to help you make games BETTER ...",
+      "vistas": 20073,
+      "miniatura": "https://i.ytimg.com/vi/ppFshgFOgXU/hqdefault.jpg"
+    },
+    {
+      "titulo": "How I Built a Complete AI Ad Campaign From One Amazon Product Page | Claude + Buzzy MCP",
+      "link": "https://www.youtube.com/watch?v=iIE3725agaw",
+      "fuente": "Ryan Collins",
+      "categoria": "youtube",
+      "fecha": "2026-09-20T03:05:18+00:00",
+      "extracto": "Try Buzzy MCP with Claude: ...",
+      "vistas": 49904,
+      "miniatura": "https://i.ytimg.com/vi/iIE3725agaw/hqdefault.jpg"
+    },
+    {
+      "titulo": "GPS, explained by Claude Opus 5.5",
+      "link": "https://www.youtube.com/watch?v=K-pgPNFcAj4",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T16:32:22+00:00",
+      "extracto": "The satellites never hear a word from your phone. Each one broadcasts the time from an atomic clock, over and over, and your ...",
+      "vistas": 289849,
+      "miniatura": "https://i.ytimg.com/vi/K-pgPNFcAj4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Can You Actually 3D Print RC Axles?",
+      "link": "https://www.youtube.com/watch?v=Riqf29A9Y1k",
+      "fuente": "curv lab",
+      "categoria": "youtube",
+      "fecha": "2026-09-18T21:56:09+00:00",
+      "extracto": "This video is sponsored by Anthropic. #ad I've wanted to redesign these RC axles to be 3D printable for months, but I wasn't ...",
+      "vistas": 71207,
+      "miniatura": "https://i.ytimg.com/vi/Riqf29A9Y1k/hqdefault.jpg"
     }
   ]
 }
