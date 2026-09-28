@@ -1,23 +1,5 @@
 {
   "vistos": [
-    "1fcac2698cdeb2be",
-    "6bd4e0cb86ed80c1",
-    "6e929510129cd21e",
-    "e01ce0351d1c54ae",
-    "2a7dce4f72b0fedd",
-    "9fa0847e45a2a51e",
-    "b914bdc0407a9cfa",
-    "3934a62dee7c29b3",
-    "237b73496c2fc756",
-    "1e0e708459d445e7",
-    "b430f2670da159fa",
-    "ec128b91956707a6",
-    "ab06671979ed1d63",
-    "909b11dc2e93adce",
-    "8fec3344fb1607b3",
-    "8b9f6f36955d87b1",
-    "d619c95eea66f8d1",
-    "0e817d877f88a633",
     "7771ee97b426901e",
     "7c1c7e3e0a40c7b6",
     "6501e7414fd75850",
@@ -1999,153 +1981,27 @@
     "b2d14a7ec6d7763c",
     "1b3df8a55ab95485",
     "1937963cf670bf34",
-    "d253ad03e0463a00"
+    "d253ad03e0463a00",
+    "be30a56ba1727ff4",
+    "c74a912aa05b1364",
+    "80efc52c6a9b226b",
+    "011826de8c401910",
+    "78bfa0b928b159a0",
+    "041001d246ba87d2",
+    "0a400f995f8fe774",
+    "53345eccde9efce2",
+    "12537acfee21f64b",
+    "f02d760cfdd41eaa",
+    "3422a3ccf64afa4c",
+    "f1e5387494f585e5",
+    "b67624c59d645e86",
+    "edaec77927fc9cc5",
+    "a4c6e9f3df24e656",
+    "d2b9589eac52ef15",
+    "2f5f432159d4f0a3",
+    "b37f125772e8dfc6"
   ],
   "archivo": [
-    {
-      "titulo": "The 8 best AI voice generators in 2026",
-      "link": "https://zapier.com/blog/best-ai-voice-generator",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T05:00:00+00:00",
-      "extracto": "Recording a voiceover is challenging enough. You go through way too many takes to get what you want. You don't have enough time to rehearse and hit your tone and intention targets. You read endless audio editing software guides to make sure your voice sounds good. And even if you nail all of these things, if you don't have access to a studio, your perfect performance will be riddled with background noise. So should you give up and hire a voice ac..."
-    },
-    {
-      "titulo": "OpenAI models: Every model (including GPT-6) and what it's best for",
-      "link": "https://zapier.com/blog/openai-models",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T04:00:00+00:00",
-      "extracto": "Keeping track of all the new AI models getting released at the moment is practically a full-time job. The most recent model, GPT-6 Astra, was released about two months after the GPT-5.6 series, which itself was released less than three months after GPT 5.5—you get the picture. I've been writing about OpenAI's models for the past few years, and it feels like every time I publish an article, another new model drops. OpenAI seems to be serious about..."
-    },
-    {
-      "titulo": "Jasper vs. Copy.ai: Which is best? [2026]",
-      "link": "https://zapier.com/blog/jasper-vs-copy-ai",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T04:00:00+00:00",
-      "extracto": "Jasper and Copy.ai were two of the first AI text generators to hit the market in the pre-ChatGPT days. (Remember a world without ChatGPT? Me neither.) But once chatbots became ubiquitous and ridiculously powerful, there wasn't much competitive advantage in being a slightly-prettier text generator. As a result, both apps have pivoted upmarket: Copy.ai is now an AI go-to-market platform for sales, operations, and marketing teams, while Jasper is fo..."
-    },
-    {
-      "titulo": "AI Agent Reliability: Debug, Evaluate, and Monitor in Production",
-      "link": "https://blog.n8n.io/ai-agent-reliability-debug-evaluate-and-monitor-in-production/",
-      "fuente": "n8n Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T09:51:39+00:00",
-      "extracto": "Run AI agents reliably in production. Learn how to debug failures, evaluate performance, track key metrics, add guardrails, and monitor agent behavior with n8n."
-    },
-    {
-      "titulo": "Trancy Air",
-      "link": "https://www.producthunt.com/products/trancy-air",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T02:16:29+00:00",
-      "extracto": "Translate anything you see, write, or say with one hotkey Discussion | Link"
-    },
-    {
-      "titulo": "Catenary",
-      "link": "https://www.producthunt.com/products/catenary",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T02:32:49+00:00",
-      "extracto": "Spatial canvas IDE for AI coding agents Discussion | Link"
-    },
-    {
-      "titulo": "Pastea",
-      "link": "https://www.producthunt.com/products/pastea",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-07T19:45:19+00:00",
-      "extracto": "Save + search through links, snippets + screenshots you copy Discussion | Link"
-    },
-    {
-      "titulo": "Tables.so",
-      "link": "https://www.producthunt.com/products/tables-so",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-07T15:50:49+00:00",
-      "extracto": "AI that finds, qualifies and enriches your next customer Discussion | Link"
-    },
-    {
-      "titulo": "Knockin'",
-      "link": "https://www.producthunt.com/products/knockin",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-07T05:02:45+00:00",
-      "extracto": "Turns your static bio into an AI business card that replies Discussion | Link"
-    },
-    {
-      "titulo": "bonds",
-      "link": "https://www.producthunt.com/products/bonds-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T03:23:07+00:00",
-      "extracto": "AI messenger that builds shared apps inside your group chats Discussion | Link"
-    },
-    {
-      "titulo": "Lyrimuse",
-      "link": "https://www.producthunt.com/products/lyrimuse",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-07T17:58:59+00:00",
-      "extracto": "Word-synced macOS lyrics that pick the right version Discussion | Link"
-    },
-    {
-      "titulo": "Kopai",
-      "link": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-07T17:45:34+00:00",
-      "extracto": "The Cloud for AI Agents Discussion | Link"
-    },
-    {
-      "titulo": "Where voice as a contact center channel is headed in an AI world - No Jitter",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNekxzUmhHY21yQTJNazZ0SU1YM2E5ejBrTGJKQU5ydmpiOU5Mdl95TS1HbVFZTVBYQjN6amdibDdiMEZGeG9Md1paR1IxY0ZqRDVIUWhRTENJcUdxRUkzVGhuU2F6a0Zaei1PenpPZzRQTUhvOVZWbVRYYUVtanh5UUtvcUx2ckpfVUFkODhFU3B2a3JmQ3JXNU4tVnBFSVBhQ2tGRTdOLUY?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T09:07:39+00:00",
-      "extracto": "Where voice as a contact center channel is headed in an AI world No Jitter"
-    },
-    {
-      "titulo": "What we learnt building a voice agent on two frontier Indian AI models - the-ken.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1BXSHdsbzZMc3h0eFJJNnBlV0ppai1rSFd2bzVVd2s2bTh4SUVQVF9Pc3BXWEtadmhpclB6UVB5RXJmQkZ3YVotVjFKcXF3bGxSUnh2XzVQXzVkUFZreHFua0QzVTdFZDJSMDVYRk8xcjBZckdXc1pUV0JUMWx1MDZrNG9mcW5RTWdiQUFseFNwaEU3YUQ4c1M3UDJhQQ?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T06:12:54+00:00",
-      "extracto": "What we learnt building a voice agent on two frontier Indian AI models the-ken.com"
-    },
-    {
-      "titulo": "ShowMojo Helps Property Managers Win the 'First Five” with AI Outbound Voice Leasing Agent, Turning Tenant Leads into Happy Residents - The Manila Times",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRFR5X0JIWjM4Y1lHNEQ2UXRXZEtaWDNmMkNSblpReHAxaWV3YkI1dUpwLWJ2LWxJbmttQm80TjdFTkdaeHdpaXBHazNuQmdWeHZ2S3dhOUl6bVF4T3NvMWJzTnBKSHdqOU1WUzlGS3JfRGdZRzdWTVc1c0hkUkI4aUx0UVRDSUlUOEttVTBHaVN2dnFXWkg4WXpwYU40Q1AtYmM3Z2RRVEZfWjk5bkJ4bGRadUM5eDNWYkEtTjNfS2RxQ0FQX2pHNEI4eGxwbjh0TDEtN0RlWllXS2xBZjhXeDRaYXRMSFlwQk5Xbm9tQzVIWi1hNW94Rm9JVzJpSDQ4TllTcUtoNjIwQ1FBOWJfYWdGU2xjOVZjT2daTWhVZ0RUQXQ2dnlHaVRXNW7SAbICQVVfeXFMTy1DYmRsTXdzT0Y5d2xGX0dScW01WXRNdDlxXzFnbXF1SFl3UmF5RktDZXM4Wm9lSWp6WTNwUWZFTWlYdEhVb2tZRWV3dW52Yl9fSld0c3VZNFV0VzF5QWNOZHNqNWU2Z2RhNDVpUFFxa21JT3F2WERlUDJJcjR6SGxhOWEwTFVlRGRYZURTc0oxVTlXWWZsVkN2R2x4NVZaSnhjU1RObnZUc3NDemRyeDhYRmhKSDdmX3pyODNUNlFqclNKMUVMSlg2SzFwS0hkUDVBS3BBTHFyajRGbzA5bE5nUUhoczRGSkkxbEQ2X2lzQWdrMnpqNUlXaHlEMzJkY2VOYUpLMkkxRHNnZ2JTdV9ia0d6azlsS0MzTHdKd2FjYjV3blZRdVBGSGdQS3R5ZkFB?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T14:34:16+00:00",
-      "extracto": "ShowMojo Helps Property Managers Win the 'First Five” with AI Outbound Voice Leasing Agent, Turning Tenant Leads into Happy Residents The Manila Times"
-    },
-    {
-      "titulo": "SBC names InsightPlay.ai as SBC Summit AI solutions partner - igamingexpert.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYb3JGTGkyS1JHSkJuMUxLNjZRR2ZjMmkyaldJREljazBrZE02QjRWZWsxYVZib01rMkhTcjBuUjJqSDh4a2FzU0cxRDFDa1YzUkhCbE1wXzF4UVhGTHR6UHFpSFl4cllhdWI4cE9vOURJZ9IBekFVX3lxTE9hZkdidS1OaUh3VVRfcExlWUxuYjV6QmpQZ2JQSjV1S1ZDaElpTGN0aTJZcHptOWZuNXhuTE10aVdZbmlrcUh5R2FzVlNyTTU0THF5OG1EN3JEYUpfQWVZRXgtNTM2bGIyYXE3Nkg1RU9WSFJqYjhLOXVn?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-09-07T10:26:58+00:00",
-      "extracto": "SBC names InsightPlay.ai as SBC Summit AI solutions partner igamingexpert.com"
-    },
-    {
-      "titulo": "12 Best Generative Engine Optimization Agencies - sarasotamagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2g3MFFvR2ZIbG9oYnc2YlV4TVFwUTJuUEJ1UF9tNE1CcFljQTFoZzdTbUI2OEZBQW1xMWRWTWtEeU5KbVFEOTVvc215MXUxdm45ejROOVI4bkJGWHpqQ19VLVhZb09pQkJES1FUQVlTMlN0cXhqY1ZzOC1MWm9aUXkyVU95U1RkRjVTT2wzcENXa296dkU3RFhqVTh6enl4TmZITmtB?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T13:32:40+00:00",
-      "extracto": "12 Best Generative Engine Optimization Agencies sarasotamagazine.com"
-    },
-    {
-      "titulo": "Local Marketing Plus SEO Launches AI Search Visibility Reviews - FinancialContent",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSFY5RS0ySHN3cUxsbjc2MEpmdDI3dWhBdGVnaTR2N3NEMURjUzF6RHJ0UHJBZGRYdXJlb0p0LTNrZjR4bHJrNE94OFpkVkhEZkxlend3UUZjb1JseExhV04wZ0p3N0MxVExZeUk4RkNwVWVSVWdnSldmVThBMXBZdUhZYjZBYm9USEs1cno4TXpTbHFFMjAwaFpuVEpLTVVEOXdWcnJ0QmRpcHd0c3J1bEFKRlFReDRNV2ZKMllBa0d5NERMZG9SMzJKTGRzM1FkZHc?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T15:54:00+00:00",
-      "extracto": "Local Marketing Plus SEO Launches AI Search Visibility Reviews FinancialContent"
-    },
     {
       "titulo": "Generative Engine Optimization in PR for AI Search - NewsVoir",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iUjNZQ0F1eDRMS2hiaXRNY1NyRUJFY1plcUtMQkhMbFBOYlpnM09CQkFESXJ6LVRnU3BqbUQ3MnBZNEVMUVFhNUFaSFFncG96X1E4MjlmRjQ1MDIydDN0V1ZyV0c2TnQ5?oc=5",
@@ -14351,6 +14207,186 @@
       "categoria": "dxw",
       "fecha": "2026-09-28T17:04:53+00:00",
       "extracto": "Bowen AI Strategy Group Grows From a Local Pittsburgh Shop Into a National GEO, AEO, and AI Video Agency USA Today"
+    },
+    {
+      "titulo": "Playable art 🫪",
+      "link": "https://www.youtube.com/watch?v=BJ2d9QI375Y",
+      "fuente": "Cindy Zhu",
+      "categoria": "youtube",
+      "fecha": "2026-09-24T08:00:22+00:00",
+      "extracto": "Playable art Follow for more AI that actually works Find me @cindiezhu everywhere: Instagram: @cindiezhu TikTok: ...",
+      "vistas": 1956684,
+      "miniatura": "https://i.ytimg.com/vi/BJ2d9QI375Y/hqdefault.jpg"
+    },
+    {
+      "titulo": "GPT 6 Astra Vs. Claude Opus 5.5 #ai #gpt6 #claude #meme #funny",
+      "link": "https://www.youtube.com/watch?v=KxHAyo97cwI",
+      "fuente": "Jaden Williams",
+      "categoria": "youtube",
+      "fecha": "2026-09-24T19:30:36+00:00",
+      "extracto": "Website/Merch - https://www.jadenw.com GamerSupps - https://gamersupps.gg/jaden10 (10% OFF) Socials - ➤ Live Channel ...",
+      "vistas": 1614592,
+      "miniatura": "https://i.ytimg.com/vi/KxHAyo97cwI/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI hacks AI?! #ainews #news #anthropic #claude #openai #chatgpt #funny #comedy #ryankelly #ypr",
+      "link": "https://www.youtube.com/watch?v=2Jp_XZEW1Ts",
+      "fuente": "Ryan Kelly Comedy",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T23:18:17+00:00",
+      "extracto": "",
+      "vistas": 355923,
+      "miniatura": "https://i.ytimg.com/vi/2Jp_XZEW1Ts/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "fuente": "Two Minute Papers",
+      "categoria": "youtube",
+      "fecha": "2026-09-24T08:40:55+00:00",
+      "extracto": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, ...",
+      "vistas": 330107,
+      "miniatura": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Building verification loops in Claude Code",
+      "link": "https://www.youtube.com/watch?v=mQZB0l-rhxE",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T23:13:15+00:00",
+      "extracto": "Claude Code already runs your tests, type checks, and linters. This video shows how to give it more ways to verify its own work, ...",
+      "vistas": 239090,
+      "miniatura": "https://i.ytimg.com/vi/mQZB0l-rhxE/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Tested Opus 5.5 vs. GPT-6 Sol on 10 Real Use Cases",
+      "link": "https://www.youtube.com/watch?v=eF3yeJuifoQ",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-09-23T04:15:57+00:00",
+      "extracto": "FREE Scrollcraft website skill: ...",
+      "vistas": 193157,
+      "miniatura": "https://i.ytimg.com/vi/eF3yeJuifoQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Had Opus 5.5 Build me the Same App at Every Effort Level",
+      "link": "https://www.youtube.com/watch?v=QCkHIyEPIYo",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-09-24T20:35:45+00:00",
+      "extracto": "Get 10% off Hostinger plan with code NATEHERK: https://www.hostinger.com/nateconnector FREE First Client SOP: ...",
+      "vistas": 201450,
+      "miniatura": "https://i.ytimg.com/vi/QCkHIyEPIYo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Jev: Das kann das KI-Modell wirklich (10 Use Cases)",
+      "link": "https://www.youtube.com/watch?v=CenkPFVn-vo",
+      "fuente": "Julian Ivanov | KI-Automatisierung",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T17:35:48+00:00",
+      "extracto": "Die schnellste Abkürzung um KI & Automatisierung zu meistern: https://skool.com/ki-automatisierung Jev ist ein neues KI-Modell, ...",
+      "vistas": 150335,
+      "miniatura": "https://i.ytimg.com/vi/CenkPFVn-vo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Opus 5.5 Crushes Fable Astra",
+      "link": "https://www.youtube.com/watch?v=ijPsFZ1EHlI",
+      "fuente": "Chase AI",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T17:15:10+00:00",
+      "extracto": "Master Claude Code, Build Your Agency, Land Your First Client⚡ https://www.skool.com/chase-ai FREE community ...",
+      "vistas": 117725,
+      "miniatura": "https://i.ytimg.com/vi/ijPsFZ1EHlI/hqdefault.jpg"
+    },
+    {
+      "titulo": "This NEW Jev + Claude OS Just Changed Every AI Workflow",
+      "link": "https://www.youtube.com/watch?v=EOdXR6lU5ZA",
+      "fuente": "Chase AI",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T00:47:11+00:00",
+      "extracto": "Master Claude Code + Codex: https://www.skool.com/chase-ai FREE community: https://www.skool.com/chase-ai-community ...",
+      "vistas": 114179,
+      "miniatura": "https://i.ytimg.com/vi/EOdXR6lU5ZA/hqdefault.jpg"
+    },
+    {
+      "titulo": "This AI Ring Gives Claude My Entire Workday (MCP Test) | Vocci AI Ring",
+      "link": "https://www.youtube.com/watch?v=xzT9LNIFbpk",
+      "fuente": "Jon Law ",
+      "categoria": "youtube",
+      "fecha": "2026-09-27T06:56:42+00:00",
+      "extracto": "I wore an AI ring for a full workday. Then I let Claude read every conversation from that day through MCP. No exports, no uploads, ...",
+      "vistas": 74956,
+      "miniatura": "https://i.ytimg.com/vi/xzT9LNIFbpk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Your guide to the official Unity plugin for Claude Code",
+      "link": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
+      "fuente": "Unity",
+      "categoria": "youtube",
+      "fecha": "2026-09-23T16:31:23+00:00",
+      "extracto": "The official Unity plugin for Claude Code changes how you build in Unity from the terminal. In this video, we'll walk you through ...",
+      "vistas": 27345,
+      "miniatura": "https://i.ytimg.com/vi/NVT8JwUNDSA/hqdefault.jpg"
+    },
+    {
+      "titulo": "最新のClaude Opus 5.5 × Higgsfieldが凄すぎた！AIに全て丸投げして短編映画を作ってみた",
+      "link": "https://www.youtube.com/watch?v=ORvHV34w9cQ",
+      "fuente": "レベルマ【生成AI情報発信】",
+      "categoria": "youtube",
+      "fecha": "2026-09-24T10:00:29+00:00",
+      "extracto": "【Higgsfieldを試す 】https://higgsfield.ai/s/claude-opus-5-5-yt-levelma-ai-ciVOJs 話題の最新AI「Claude Opus 5.5」と動画 ...",
+      "vistas": 6951,
+      "miniatura": "https://i.ytimg.com/vi/ORvHV34w9cQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "These Are the Best AI Tools in 2026",
+      "link": "https://www.youtube.com/watch?v=aPSbZbOzB4s",
+      "fuente": "Dan Martell",
+      "categoria": "youtube",
+      "fecha": "2026-09-23T13:00:30+00:00",
+      "extracto": "Get Your FREE AI Company Operating System here: https://go.danmartell.com/4cU2T0M Join the waitlist for Apex: ...",
+      "vistas": 241307,
+      "miniatura": "https://i.ytimg.com/vi/aPSbZbOzB4s/hqdefault.jpg"
+    },
+    {
+      "titulo": "NEW Opus 5.5 vs GPT-6 Astra Building Video Games (NOT Close)",
+      "link": "https://www.youtube.com/watch?v=w4JMLjnY1xY",
+      "fuente": "Brendan Jowett",
+      "categoria": "youtube",
+      "fecha": "2026-09-23T13:24:44+00:00",
+      "extracto": "Claude: https://clau.de/BrendanJowett Full courses + unlimited support: ...",
+      "vistas": 241377,
+      "miniatura": "https://i.ytimg.com/vi/w4JMLjnY1xY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 Didn’t Need to Go This Hard",
+      "link": "https://www.youtube.com/watch?v=0t-eWrGFZyA",
+      "fuente": "Matt Wolfe",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T22:30:04+00:00",
+      "extracto": "Two new models in the same day?? Claude and ChatGPT. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ ...",
+      "vistas": 214934,
+      "miniatura": "https://i.ytimg.com/vi/0t-eWrGFZyA/hqdefault.jpg"
+    },
+    {
+      "titulo": "Making a Open World RPG w/ Claude Opus 5.5 [1]",
+      "link": "https://www.youtube.com/watch?v=bm67BRQHn_I",
+      "fuente": "tef",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T15:52:42+00:00",
+      "extracto": "Claude Opus 5.5 and Unreal Engine AND Higgsfield is broken Higgsfield: https://higgsfield.ai/s/claude-opus-5-5-yt-tef-ai-mdzrZx ...",
+      "vistas": 198054,
+      "miniatura": "https://i.ytimg.com/vi/bm67BRQHn_I/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Full Course 2026 | How Senior Engineers Actually Build with AI",
+      "link": "https://www.youtube.com/watch?v=u2QqWkMv3Lg",
+      "fuente": "JavaScript Mastery",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T12:37:19+00:00",
+      "extracto": "The JSM Agentic Engineering Course is LIVE NOW! 20% off launch discount ends September 29th. Invest in your future ...",
+      "vistas": 96764,
+      "miniatura": "https://i.ytimg.com/vi/u2QqWkMv3Lg/hqdefault.jpg"
     }
   ]
 }
