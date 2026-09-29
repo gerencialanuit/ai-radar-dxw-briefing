@@ -1,13 +1,5 @@
 {
   "vistos": [
-    "819cfe9d680e178f",
-    "d294fcaba9d63ab2",
-    "4b3266d3b025da00",
-    "62cc666a8c9d7d65",
-    "49089a626618d71f",
-    "96637c00cd5442c1",
-    "5824984a2f13aa97",
-    "3da99212aa65afed",
     "8f2301a1814fdcb4",
     "916d13b68541d3f3",
     "24ec270735b0763a",
@@ -1999,73 +1991,17 @@
     "8b938d36ba032adc",
     "35f153f364ccfafe",
     "a2b55221079cf8cc",
-    "c2db162ff64f7465"
+    "c2db162ff64f7465",
+    "a45e6471766613f6",
+    "04b9c5494d52b97e",
+    "4b5817eb63739c48",
+    "6459bbc4cf755f0c",
+    "9e7fcb3aa87a672b",
+    "be20d238cd9a1dd7",
+    "251b927f68229064",
+    "16ba44e58daea921"
   ],
   "archivo": [
-    {
-      "titulo": "How to write a memo: a step-by-step guide",
-      "link": "https://zapier.com/blog/how-to-write-a-memo",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-09T05:00:00+00:00",
-      "extracto": "For the first half of my working life, I worked in admin across a bunch of industries: healthcare, real estate, legal, and a quick (miserable) stint at a car dealership. As different as they all were, one thing was consistent: everyone wanted a memo to communicate…everything. Personally, I think most internal updates can live in an email or a Slack message if it's that quick. But that's not how every workplace operates, and, to be fair, for some..."
-    },
-    {
-      "titulo": "How to make a copy of a folder in Google Drive",
-      "link": "https://zapier.com/blog/copy-google-drive-folders",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-09T05:00:00+00:00",
-      "extracto": "Every year, I teach the same three courses part-time at a local college. This means that I repurpose the same teaching materials and lesson slides for each semester. And right before every semester, I bemoan the fact that despite its many innovations, Google Drive still doesn't offer a built-in way to quickly duplicate a folder and all of its files. But at least there's a not-too-terrible workaround. Here's how to make a copy of a folder in Googl..."
-    },
-    {
-      "titulo": "The 10 best competitor analysis tools in 2026",
-      "link": "https://zapier.com/blog/competitor-analysis-tools",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-09T04:00:00+00:00",
-      "extracto": "Personally, I don't like thinking about competition—it makes me anxious. I'd rather be like Matthew McConaughey at the 2014 Oscars and just compete with myself (or at least ramble about it until the exit music comes on). But in the business world, there's no way around thinking about your competitors. It's how brands know how to position themselves in the greater marketplace. The right competitor analysis software can make those efforts more info..."
-    },
-    {
-      "titulo": "The 8 best CPQ software vendors in 2026",
-      "link": "https://zapier.com/blog/cpq-software-vendors",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-09T04:00:00+00:00",
-      "extracto": "Two years ago, I bought a new SUV. Before setting foot in the dealership, I spent a while customizing it online. I picked the flashiest trim and added a tow package. The site informed me that the tow package needed the bigger engine, the bigger engine needed the upgraded brakes, and my total was now $8,000 over a number that was already out of my range to begin with. Annoying, but reasonable. Without those guardrails, a salesperson scribbles my o..."
-    },
-    {
-      "titulo": "The 7 best AI scheduling assistants in 2026",
-      "link": "https://zapier.com/blog/best-ai-scheduling",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T05:00:00+00:00",
-      "extracto": "Productivity starts with your calendar—but sometimes it ends there too. No one wants to reprioritize an entire week after an emergency, or play calendar Tetris to land a meeting with that busy lead sometime in the next two days. This is where an AI scheduling assistant can help: instead of working on your schedule, you can let AI calendar apps do it for you. I've been playing around with all sorts of AI tools recently. For this article, I conside..."
-    },
-    {
-      "titulo": "The best free graphic design software to create social media posts in 2026",
-      "link": "https://zapier.com/blog/graphic-design-tools-for-social-media-images",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T05:00:00+00:00",
-      "extracto": "As both a photographer and writer, I'm very aware of what gets engagement on social media. Whether you use Facebook, Instagram, X, LinkedIn, TikTok, Bluesky, Mastodon, or any other social network, visual posts, like photos, videos, and graphics, get more attention. The good news is you don't have to hire a designer or spend hundreds of dollars per year on software subscriptions to get great visuals; there are some awesome free graphic design apps..."
-    },
-    {
-      "titulo": "n8n vs. Power Automate: Which is best? [2026]",
-      "link": "https://zapier.com/blog/n8n-vs-power-automate",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T04:00:00+00:00",
-      "extracto": "n8n and Microsoft Power Automate both run multi-step workflows, connect to your business apps, and have spent the last few years adding AI to everything they ship. But they were built for completely different users: n8n for individual developers who want total control over their workflows, and Power Automate for big orgs that live in the Microsoft ecosystem. Here's everything you need to know about n8n vs. Microsoft Power Automate, including diff..."
-    },
-    {
-      "titulo": "45% of execs limit human AI oversight to high-stakes work—or don't have any oversight at all",
-      "link": "https://zapier.com/blog/ai-and-human-approval",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-08T04:00:00+00:00",
-      "extracto": "Every manager eventually learns that \"use your best judgment\" is not an instruction—it's a wager. You're betting the person's judgment resembles yours closely enough that you won't hear about the outcome from Legal. Companies are now placing that bet with software. An AI agent can have access to the company card, email account, and every customer record, even though its judgment can be, putting it nicely, flawed. AI often won't push back against..."
-    },
     {
       "titulo": "Introducing n8n Assistant",
       "link": "https://blog.n8n.io/introducing-n8n-assistant/",
@@ -14357,6 +14293,86 @@
       "categoria": "dxw",
       "fecha": "2026-09-29T01:50:07+00:00",
       "extracto": "Ignite Digital Integrates Generative Engine Optimization Into Client SEO Campaigns The Manila Times"
+    },
+    {
+      "titulo": "Claude Opus 5.5 is ridiculous",
+      "link": "https://www.youtube.com/watch?v=gX0L0aFA2xg",
+      "fuente": "AI Search",
+      "categoria": "youtube",
+      "fecha": "2026-09-24T03:25:26+00:00",
+      "extracto": "Claude Opus 5.5 review. #ai #ainews #llm #agi #singularity Thanks to our sponsor Higgsfield. Try it today ...",
+      "vistas": 778569,
+      "miniatura": "https://i.ytimg.com/vi/gX0L0aFA2xg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude JUST found hidden DNA...",
+      "link": "https://www.youtube.com/watch?v=H7KruLVX2Rk",
+      "fuente": "Wes Roth",
+      "categoria": "youtube",
+      "fecha": "2026-09-24T05:24:14+00:00",
+      "extracto": "Claude just helped uncover a previously unknown biological system—and how it found it might be the bigger story. Anthropic's ...",
+      "vistas": 272819,
+      "miniatura": "https://i.ytimg.com/vi/H7KruLVX2Rk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Opus 5.5 Just Changed Video Editing Forever (free skills)",
+      "link": "https://www.youtube.com/watch?v=7jHXoPGnA4c",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T23:54:59+00:00",
+      "extracto": "My FREE Hyperframes skills: ...",
+      "vistas": 175676,
+      "miniatura": "https://i.ytimg.com/vi/7jHXoPGnA4c/hqdefault.jpg"
+    },
+    {
+      "titulo": "Vibe Coding With Claude Opus 5.5 AND GPT 6 Sol",
+      "link": "https://www.youtube.com/watch?v=80EHH-kaa8g",
+      "fuente": "BridgeMind",
+      "categoria": "youtube",
+      "fecha": "2026-09-22T20:15:40+00:00",
+      "extracto": "DOUBLE DROP. CLAUDE OPUS 5.5 AND GPT 6 SOL JUST DROPPED AT THE SAME TIME. Anthropic released Claude Opus ...",
+      "vistas": 134461,
+      "miniatura": "https://i.ytimg.com/vi/80EHH-kaa8g/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Found the BEST FREE UNLIMITED AI Video Generator",
+      "link": "https://www.youtube.com/watch?v=Tm4EqRaBh7w",
+      "fuente": "Malva AI",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T10:52:42+00:00",
+      "extracto": "Turn one idea into a complete AI short film with Opus 5.5 in Higgsfield → https://higgsfield.ai/s/malvaai-TuPclM Free Prompt ...",
+      "vistas": 80647,
+      "miniatura": "https://i.ytimg.com/vi/Tm4EqRaBh7w/hqdefault.jpg"
+    },
+    {
+      "titulo": "The Truth About Claude Code Effort Levels #claudecode #ai",
+      "link": "https://www.youtube.com/watch?v=JYyzYnvad50",
+      "fuente": "DIY Smart Code",
+      "categoria": "youtube",
+      "fecha": "2026-09-26T12:37:46+00:00",
+      "extracto": "Claude Code effort levels, tested: Thariq from the Claude Code team ran Opus 5.5 and Fable 5.1 from low to max effort on the ...",
+      "vistas": 121324,
+      "miniatura": "https://i.ytimg.com/vi/JYyzYnvad50/hqdefault.jpg"
+    },
+    {
+      "titulo": "Jev + Claude Will Change How You Work Forever (Real Use Cases)",
+      "link": "https://www.youtube.com/watch?v=L2K__oshGds",
+      "fuente": "Ben AI",
+      "categoria": "youtube",
+      "fecha": "2026-09-23T07:00:05+00:00",
+      "extracto": "Join my AI Accelerator to get all my courses, skills & tech help: https://c.benai.co/jw1yc-accelerator ➡️ Work with my AI Agency: ...",
+      "vistas": 83885,
+      "miniatura": "https://i.ytimg.com/vi/L2K__oshGds/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 Might Be The Best!!! (3D, Web Design, Animation)",
+      "link": "https://www.youtube.com/watch?v=Da7ZuhyWACg",
+      "fuente": "Codex Community",
+      "categoria": "youtube",
+      "fecha": "2026-09-23T05:50:28+00:00",
+      "extracto": "Claude Opus 5.5 has been released, and it is a beast when it comes to web design and development. In this video I test how it ...",
+      "vistas": 92143,
+      "miniatura": "https://i.ytimg.com/vi/Da7ZuhyWACg/hqdefault.jpg"
     }
   ]
 }
