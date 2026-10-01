@@ -1,13 +1,5 @@
 {
   "vistos": [
-    "b773679619d77d02",
-    "a569431d820f1b5d",
-    "ffbafb83f6c0d417",
-    "1d24738c305e8e17",
-    "4cd8ff5d16b49abd",
-    "f316a73102dc9354",
-    "84ec62a2803c38a5",
-    "b8fdcb897dbd7903",
     "07124fa8cee4f80e",
     "90eec6313c995b79",
     "d01e38847ba76414",
@@ -1999,73 +1991,17 @@
     "d8355c1c0fcc239e",
     "106e0c8724a9de16",
     "ea518c647d485121",
-    "24156eceb6844ad8"
+    "24156eceb6844ad8",
+    "87eb4fca558fbb9e",
+    "804cae8eb2fee7ad",
+    "1482098e3a676145",
+    "705c49a13e86e2fb",
+    "b25b03322255da95",
+    "820a0fb62b6059b8",
+    "4093423e0219b18f",
+    "ae6d0bf7ec90dd7d"
   ],
   "archivo": [
-    {
-      "titulo": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-09-14T00:00:00+00:00",
-      "extracto": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-    },
-    {
-      "titulo": "How healthcare organizations use Claude Tag",
-      "link": "https://claude.com/blog/how-healthcare-organizations-use-claude-tag",
-      "fuente": "Claude Blog (mirror)",
-      "categoria": "releases",
-      "fecha": "2026-09-14T00:00:00+00:00",
-      "extracto": "How healthcare organizations use Claude Tag"
-    },
-    {
-      "titulo": "Claude for Financial Advisors",
-      "link": "https://claude.com/blog/claude-for-financial-advisors",
-      "fuente": "Claude Blog (mirror)",
-      "categoria": "releases",
-      "fecha": "2026-09-14T00:00:00+00:00",
-      "extracto": "Claude for Financial Advisors"
-    },
-    {
-      "titulo": "v2.1.270",
-      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.270",
-      "fuente": "Claude Code — Releases",
-      "categoria": "releases",
-      "fecha": "2026-09-12T19:45:44+00:00",
-      "extracto": "What's changed Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)"
-    },
-    {
-      "titulo": "DevFest is back",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "fuente": "Google AI Blog",
-      "categoria": "releases",
-      "fecha": "2026-09-14T16:00:00+00:00",
-      "extracto": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon"
-    },
-    {
-      "titulo": "AI agents blew the whistle on their cheating colleagues",
-      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "fuente": "MIT Technology Review — AI",
-      "categoria": "news",
-      "fecha": "2026-09-14T16:00:00+00:00",
-      "extracto": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in"
-    },
-    {
-      "titulo": "With iOS 27, I’m actually using Siri again",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-14T17:10:30+00:00",
-      "extracto": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
-    },
-    {
-      "titulo": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-09-14T17:00:00+00:00",
-      "extracto": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app."
-    },
     {
       "titulo": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
       "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
@@ -14333,6 +14269,86 @@
       "categoria": "dxw",
       "fecha": "2026-10-01T14:45:53+00:00",
       "extracto": "Fleet Street News Highlights the Growing Role of Digital PR in AI Search Visibility The Manila Times"
+    },
+    {
+      "titulo": "Jahat semua!!! #ChatGPT #GoogleGemini #ClaudeAI #GrokAI #MetaAI",
+      "link": "https://www.youtube.com/watch?v=Ja5CWAF8Y6U",
+      "fuente": "Akbar Alatas Official",
+      "categoria": "youtube",
+      "fecha": "2026-09-29T10:30:14+00:00",
+      "extracto": "",
+      "vistas": 225211,
+      "miniatura": "https://i.ytimg.com/vi/Ja5CWAF8Y6U/hqdefault.jpg"
+    },
+    {
+      "titulo": "GPT-6 Astra vs Claude Fable 5.1: robot AI miał wybrać chleb albo lalkę",
+      "link": "https://www.youtube.com/watch?v=KQTo0gbhblQ",
+      "fuente": "Marcin Krupiński",
+      "categoria": "youtube",
+      "fecha": "2026-09-26T21:08:23+00:00",
+      "extracto": "Test bezpieczeństwa robotów AI: laboratorium Robocurve, wrzesień 2026. GPT-6 Astra kontra Claude Fable 5.1 i MolmoAct2.",
+      "vistas": 201003,
+      "miniatura": "https://i.ytimg.com/vi/KQTo0gbhblQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Spent $31,141 1,000 Hours On Claude Code To Learn This",
+      "link": "https://www.youtube.com/watch?v=45K3zHckCnQ",
+      "fuente": "Nick Saraev",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T06:42:57+00:00",
+      "extracto": "Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about Get all course resources 100% free: ...",
+      "vistas": 103738,
+      "miniatura": "https://i.ytimg.com/vi/45K3zHckCnQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "ÇALIŞMAKTAN EN ZEVK ALDIĞIM MODEL | HER ŞEY MÜMKÜN!",
+      "link": "https://www.youtube.com/watch?v=JHZL7JbdJxc",
+      "fuente": "AI Mevzuları | Yapay Zeka",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T15:13:43+00:00",
+      "extracto": "Higgsfield'ı buradan dene: https://higgsfield.ai/s/claude-opus-5-5-yt-aimevzulari-SYAVri Claude'a tek bir brief verdim; senaryoyu ...",
+      "vistas": 11836,
+      "miniatura": "https://i.ytimg.com/vi/JHZL7JbdJxc/hqdefault.jpg"
+    },
+    {
+      "titulo": "클로드 x 카카오톡으로 나만의 AI 직원 만들기ㅣ커넥터, 아티팩트, Play MCP 실습 포함",
+      "link": "https://www.youtube.com/watch?v=lKBK0elPEtM",
+      "fuente": "메타코드M",
+      "categoria": "youtube",
+      "fecha": "2026-09-30T07:23:25+00:00",
+      "extracto": "클로드 #claude #업무자동화 나만의 카카오톡 AI 직원 만들기 | Claude x 카카오톡 MCP ✓영상속 강의자료 다운받기 ...",
+      "vistas": 12838,
+      "miniatura": "https://i.ytimg.com/vi/lKBK0elPEtM/hqdefault.jpg"
+    },
+    {
+      "titulo": "What is the Cinema 4D MCP Server?",
+      "link": "https://www.youtube.com/watch?v=H53drzzUFfo",
+      "fuente": "Maxon",
+      "categoria": "youtube",
+      "fecha": "2026-09-30T13:06:56+00:00",
+      "extracto": "Introducing Cinema 4D MCP Server: The bridge between your work and supported AI tools. Describe a task in plain language, ...",
+      "vistas": 9363,
+      "miniatura": "https://i.ytimg.com/vi/H53drzzUFfo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 Is Insane… But Muse is EVEN Bigger",
+      "link": "https://www.youtube.com/watch?v=_NRuT_d1PZE",
+      "fuente": "Riley Brown",
+      "categoria": "youtube",
+      "fecha": "2026-09-25T17:00:16+00:00",
+      "extracto": "This is an Agent Native Episode. Thanks to HubSpot for sponsoring this video. Grab HubSpot's free AI Agents Unleashed ...",
+      "vistas": 163005,
+      "miniatura": "https://i.ytimg.com/vi/_NRuT_d1PZE/hqdefault.jpg"
+    },
+    {
+      "titulo": "😱 Google Flow की 10 Sec Limit खत्म! अब बनाओ 10-12 Minute की AI Video FREE में 🔥",
+      "link": "https://www.youtube.com/watch?v=3EmfSdcIizA",
+      "fuente": "Techy Gyan99",
+      "categoria": "youtube",
+      "fecha": "2026-09-27T10:33:00+00:00",
+      "extracto": "Google Flow Unlimited Credits Trick 2026 | Consistent Character Long AI Video Tutorial Create and enhance10–12 minute AI ...",
+      "vistas": 169849,
+      "miniatura": "https://i.ytimg.com/vi/3EmfSdcIizA/hqdefault.jpg"
     }
   ]
 }
