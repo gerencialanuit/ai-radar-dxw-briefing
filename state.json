@@ -1,21 +1,5 @@
 {
   "vistos": [
-    "36485ce67e1ba118",
-    "d24b0a759be6bccd",
-    "dc00fb56ce6f7363",
-    "1b143e6efe730da6",
-    "67d5a2860a8244f5",
-    "c378d1cceffac848",
-    "4e4dfb6284254308",
-    "423535711a355c86",
-    "01db2810371ba737",
-    "027811ca1632d0f5",
-    "52752974efc060af",
-    "71646fffd914b496",
-    "e8e7441ac397b526",
-    "3cd0cbb150ad34c8",
-    "b121f3ccdf2aae2a",
-    "ce496cd82092696a",
     "af9006b6bcf25128",
     "b197d60a88e214b7",
     "c5362fb8109b8551",
@@ -1999,137 +1983,25 @@
     "f3680365b56a9117",
     "9cca8ca8ee638ad0",
     "58f273cc3f2447bd",
-    "056795477e226d82"
+    "056795477e226d82",
+    "e5478a1b000567b2",
+    "1a8245823aae0484",
+    "2a975c3462cc022e",
+    "97615ebeeccebd4b",
+    "b7272e257e77eebf",
+    "941d3af059bdb329",
+    "78caa19f5faf0d39",
+    "630ecc691ae6aec3",
+    "f270027413f56a3e",
+    "647f8ca7b72e719a",
+    "50f04c8efd0b9989",
+    "4897d8896958526e",
+    "7d117965cb48aeb2",
+    "d831c103f3d17b61",
+    "b19aa46b78005823",
+    "a0a962b40104bc7a"
   ],
   "archivo": [
-    {
-      "titulo": "Google Search Update September 4th That Reverted September 13th?",
-      "link": "https://www.seroundtable.com/google-search-ranking-update-94-42079.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T12:05:00+00:00",
-      "extracto": "I've been pretty quiet on posting reports Google updates recently, in fact, I have not posted about one since late August. But while most sites seem calm in the Google rankings, there was definitely some sort of ranking blip around September 4th, and in some cases, the September 4th impact reverted on September 13th. It is super weird."
-    },
-    {
-      "titulo": "Google Search Tests Blue More Link In Shopping Results",
-      "link": "https://www.seroundtable.com/google-blue-more-link-in-shopping-results-42077.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T11:51:00+00:00",
-      "extracto": "Google is testing a blue background color on the \"More\" link within the product results in Google Search. The link is normally just a basic \"more\" link with no prominence or color that calls it out but in this test, Google is using a blue highlight color for the link."
-    },
-    {
-      "titulo": "Google AI Mode More Query Expansion Interfaces",
-      "link": "https://www.seroundtable.com/google-ai-mode-more-query-expansions-42074.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T11:41:00+00:00",
-      "extracto": "Google continues to test new query expansion methods in AI Mode, beyond standard follow-up questions. Now Google is testing questions with multi-selection tools, a query refinement option and those recent paginated responses."
-    },
-    {
-      "titulo": "Google Search: It's Normal For Image Thumbnails To Be Slow To Update",
-      "link": "https://www.seroundtable.com/google-search-slow-image-thumbnails-42072.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T11:31:00+00:00",
-      "extracto": "Google's John Mueller said it is normal for Google Search to take a while to update image thumbnails in its search results with updated images from the website it pulls from. And it can take even longer if the image is still on the page, but was only moved down the page later, even if the image is within the recipe structured data as the primary."
-    },
-    {
-      "titulo": "Google Ads Product Value Optimization Beta",
-      "link": "https://www.seroundtable.com/google-ads-product-value-optimization-42071.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T11:21:00+00:00",
-      "extracto": "Google Ads has a new beta named Product Value Optimization that allows advertisers to configure value adjustments to guide automated bidding to optimize for the products that matter for your business goals."
-    },
-    {
-      "titulo": "Google Al Contribution Pilot - Paying Publishers For Use Of Content In AI",
-      "link": "https://www.seroundtable.com/google-al-contribution-pilot-42076.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T11:13:00+00:00",
-      "extracto": "Google is doing a small test where it is paying publishers for using their content within the Google AI Overviews, AI Mode, Gemini and other AI search features. This is called the AI contribution pilot, something we actually spotted back in April 2026, but are now learning more about today."
-    },
-    {
-      "titulo": "Google AI Overviews Practice Knowledge Quiz",
-      "link": "https://www.seroundtable.com/google-ai-overviews-global-general-knowledge-quiz-42054.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T11:11:00+00:00",
-      "extracto": "Did you know that Google AI Overviews can also quiz you on various knowledge topics? Google announced this with AI Mode a few weeks ago, but it is also available in Google Search."
-    },
-    {
-      "titulo": "What is sales automation? A complete guide",
-      "link": "https://zapier.com/blog/sales-automation",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T07:00:00+00:00",
-      "extracto": "I had a lawn mowing business for a summer growing up. My customers consisted mainly of my parents' friends and maybe a neighbor or two who felt charitable enough to let me defile their lawn. When someone needed their lawn cut, they typically told my parents, who told me, which I then wrote in a notebook that lived in the corner of my room. All of that manual transfer of data—into an unreliable database, no less—caused me to miss quite a few appoi..."
-    },
-    {
-      "titulo": "The 5 best AI search engines in 2026",
-      "link": "https://zapier.com/blog/best-ai-search-engine",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T05:00:00+00:00",
-      "extracto": "It often feels like Google search has gotten worse. While the issue is complicated, online search has never felt like such a chore. Not only do you have to hop through numerous links to pinpoint what you're searching for, but you also have to navigate a maze of ads, spam, and pop-ups. Even then, how often do you find the answers you need? AI search engines claim they're the solution, so let's see. The new breed of AI search engines combines the t..."
-    },
-    {
-      "titulo": "Prevent lock-in with AI model flexibility on Zapier",
-      "link": "https://zapier.com/blog/ai-model-flexibility",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T05:00:00+00:00",
-      "extracto": "Every AI provider comes with models of varying strengths. I'm a Claude stan because it just gets my writing style. But for some tasks, Claude's lineup doesn't cut it at all—when I need to process data at scale, for example, I might reach for Gemini. When I need a versatile generalist for classification or routing, GPT might be my pick. Other people across my team and at Zapier have altogether different preferences, which tend to change with every..."
-    },
-    {
-      "titulo": "AI agents for business automation (with 27 AI agent examples)",
-      "link": "https://zapier.com/blog/ai-agents-for-business",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T05:00:00+00:00",
-      "extracto": "Long before Zapier hired me to write for them, I was already a power user. I loved tinkering with automations and watching tasks take care of themselves. But as much as I leaned on those workflows, I always wished they could not only do work for me but also make decisions along the way. For example, what if an automation could tell the difference between an email that needed a reply and one that didn't? Or decide the best time to schedule a task..."
-    },
-    {
-      "titulo": "Google Sheets price list template: What it is and how to use it",
-      "link": "https://zapier.com/blog/google-sheets-price-list-template",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T04:00:00+00:00",
-      "extracto": "Present-day me isn't afraid to admit that early in my freelancing career, I quoted clients based on my memory of what I charged other clients. And when that memory failed me (which was often), I went with whatever number felt the least likely to scare a new prospect away. A Google Sheets price list gives you one place to lock in your rates and quickly build quotes customized to your client requests without digging through old emails for your last..."
-    },
-    {
-      "titulo": "The 4 best ChatGPT alternatives in 2026",
-      "link": "https://zapier.com/blog/chatgpt-alternatives",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T04:00:00+00:00",
-      "extracto": "ChatGPT is the biggest name in AI chatbots, but it's far from the only one around. And depending on what you're trying to do, it might not even be the best option for you. ChatGPT is a great general-purpose chatbot, but like most jacks-of-all-trades, it can lose out to more specific tools for certain jobs. So if you need something that better suits your needs, your workflows, or even your personality, there are plenty of ChatGPT alternatives to c..."
-    },
-    {
-      "titulo": "The 9 best AI visibility tools in 2026",
-      "link": "https://zapier.com/blog/best-ai-visibility-tool",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T04:00:00+00:00",
-      "extracto": "Your brand's reputation now lives inside a new algorithm: one that's based on AI searches made in tools like ChatGPT, Claude, and Gemini. One hallucinated fact, one competitor-favoring answer, and the trust, traffic, and sales can vanish overnight. And with ChatGPT usage soaring and Google's AI answers appearing in nearly half of all searches even on a traditional search engine, the risk (and opportunity) has never been bigger. Generative engine..."
-    },
-    {
-      "titulo": "Slashy Assistant",
-      "link": "https://www.producthunt.com/products/slashy-3",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T02:52:46+00:00",
-      "extracto": "The AI assistant that does email for you Discussion | Link"
-    },
-    {
-      "titulo": "appdesigns",
-      "link": "https://www.producthunt.com/products/appdesigns",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T00:19:15+00:00",
-      "extracto": "Design amazing appstore screenshots for free Discussion | Link"
-    },
     {
       "titulo": "Image to ASCII",
       "link": "https://www.producthunt.com/products/image-to-ascii-2",
@@ -14349,6 +14221,166 @@
       "categoria": "dxw",
       "fecha": "2026-10-01T16:57:17+00:00",
       "extracto": "Build your own app studio, powered by your real apps Discussion | Link"
+    },
+    {
+      "titulo": "Tips basic main claude saat kondisi kalah#mobilelegends #claude #kabuki",
+      "link": "https://www.youtube.com/watch?v=_2Z7StpvrTs",
+      "fuente": "xpmagang",
+      "categoria": "youtube",
+      "fecha": "2026-09-28T16:53:17+00:00",
+      "extracto": "mobilelegends #claude #kabuki Lagu: Egzod, Maestro Chives, Neoni - Royalty [NCS Release] Musik disediakan oleh ...",
+      "vistas": 215199,
+      "miniatura": "https://i.ytimg.com/vi/_2Z7StpvrTs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Egois Atau Berkorban? #ChatGPT #GoogleGemini #ClaudeAI #GrokAI #MetaAI",
+      "link": "https://www.youtube.com/watch?v=DLCfwMrROeU",
+      "fuente": "Akbar Alatas Official",
+      "categoria": "youtube",
+      "fecha": "2026-09-30T06:00:29+00:00",
+      "extracto": "",
+      "vistas": 179083,
+      "miniatura": "https://i.ytimg.com/vi/DLCfwMrROeU/hqdefault.jpg"
+    },
+    {
+      "titulo": "The Man Who Mastered Claude Code: The EASY Way To Use AI Agents To Make Money Build Automations",
+      "link": "https://www.youtube.com/watch?v=DD-SiFV93sQ",
+      "fuente": "The Calum Johnson Show",
+      "categoria": "youtube",
+      "fecha": "2026-09-28T12:00:28+00:00",
+      "extracto": "Upgrade your AI to take action with the Zapier MCP: https://bit.ly/47kEkXr Get $1000 off Vanta at https://Vanta.com/calum Grab ...",
+      "vistas": 78682,
+      "miniatura": "https://i.ytimg.com/vi/DD-SiFV93sQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Eu Deixo o Claude Code Programando 24/7 sem Pagar por Token",
+      "link": "https://www.youtube.com/watch?v=Q-yobCYc71A",
+      "fuente": "Attekita Dev",
+      "categoria": "youtube",
+      "fecha": "2026-09-28T14:59:26+00:00",
+      "extracto": "VPS utilizada no vídeo com até 73% de desconto: https://www.hostgator.com.br/53137-13-3-12.html Neste vídeo, eu mostro como ...",
+      "vistas": 100519,
+      "miniatura": "https://i.ytimg.com/vi/Q-yobCYc71A/hqdefault.jpg"
+    },
+    {
+      "titulo": "No, Seriously. Claude Code is Starting To Get Dangerous",
+      "link": "https://www.youtube.com/watch?v=Ktnwygcnd8U",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-09-27T20:38:25+00:00",
+      "extracto": "How I built an AI agency from 0 to over $1 million per year: ...",
+      "vistas": 67495,
+      "miniatura": "https://i.ytimg.com/vi/Ktnwygcnd8U/hqdefault.jpg"
+    },
+    {
+      "titulo": "Building a Real App with Claude Code (Start to Finish)",
+      "link": "https://www.youtube.com/watch?v=misjUj4Q_ho",
+      "fuente": "Tech With Tim",
+      "categoria": "youtube",
+      "fecha": "2026-09-28T12:29:51+00:00",
+      "extracto": "Get started with ImageKit for free: https://tinyurl.com/595kfr92 I'm a software engineer with 10+ years of experience, and in this ...",
+      "vistas": 87324,
+      "miniatura": "https://i.ytimg.com/vi/misjUj4Q_ho/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Ordered Food Online Using Voice Commands And Honestly This Fantastic AI Feature Feels Like Magic",
+      "link": "https://www.youtube.com/watch?v=ytSwCbmjVJs",
+      "fuente": "tech assistant for blind",
+      "categoria": "youtube",
+      "fecha": "2026-09-26T03:33:21+00:00",
+      "extracto": "Hi guys this video I am going to focus I Ordered Food Online Using Voice Commands And Honestly This Fantastic AI Feature ...",
+      "vistas": 2944,
+      "miniatura": "https://i.ytimg.com/vi/ytSwCbmjVJs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Nişi Buldu, Senaryoyu Yazdı, Videoyu Üretti! OPUS 5.5 ile Tanışın",
+      "link": "https://www.youtube.com/watch?v=PtgeK5WwpgE",
+      "fuente": "Berkan - Youtube Eğitim",
+      "categoria": "youtube",
+      "fecha": "2026-09-26T15:00:20+00:00",
+      "extracto": "Claude Opus 5.5 + Higgsfield'i denemek için: https://higgsfield.ai/s/claude-opus-5-5-yt-youtubegitim-ETgZYd Bu videoda Claude ...",
+      "vistas": 6286,
+      "miniatura": "https://i.ytimg.com/vi/PtgeK5WwpgE/hqdefault.jpg"
+    },
+    {
+      "titulo": "من بريف واحد لبراند جاهز في دقايق 🔥 شرح Higgsfield مع Claude Opus 5.5",
+      "link": "https://www.youtube.com/watch?v=J_lFGy1g5YU",
+      "fuente": "Abu Abdullah Online ",
+      "categoria": "youtube",
+      "fecha": "2026-09-26T13:05:14+00:00",
+      "extracto": "جرّب دمج Claude Opus 5.5 مع Higgsfield MCP بنفسك من هنا https://higgsfield.ai/s/claude-opus-5-5-yt-abuabdullahonline-CnOWfz ...",
+      "vistas": 1501,
+      "miniatura": "https://i.ytimg.com/vi/J_lFGy1g5YU/hqdefault.jpg"
+    },
+    {
+      "titulo": "25 Tricks to Level Up Claude Design in 13 Mins",
+      "link": "https://www.youtube.com/watch?v=_SVU3oC4JX8",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-09-27T07:50:47+00:00",
+      "extracto": "Get the 25 Claude Design Tricks guide for free ➡ https://www.skool.com/robonuggets-free/classroom search for n76 Learn how to ...",
+      "vistas": 121800,
+      "miniatura": "https://i.ytimg.com/vi/_SVU3oC4JX8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Stop Prompting Claude. (Use This 1% System Instead)",
+      "link": "https://www.youtube.com/watch?v=YbrrHwwBv1o",
+      "fuente": "One Person Empire",
+      "categoria": "youtube",
+      "fecha": "2026-09-27T22:45:21+00:00",
+      "extracto": "Claude Opus 5.5 just raised the ceiling. Most people will still get generic answers from it, because they prompt. The 1% run a ...",
+      "vistas": 122058,
+      "miniatura": "https://i.ytimg.com/vi/YbrrHwwBv1o/hqdefault.jpg"
+    },
+    {
+      "titulo": "ChatGPT vs Claude Make A Viral Roblox Game",
+      "link": "https://www.youtube.com/watch?v=elqpTtfFD40",
+      "fuente": "AI PILLED",
+      "categoria": "youtube",
+      "fecha": "2026-09-28T21:14:29+00:00",
+      "extracto": "Try Fish Audio free, sign up with my link and get 10000 free credits: https://fish.audio/?fpr=4voyn2 Join the Skool properly make ...",
+      "vistas": 83399,
+      "miniatura": "https://i.ytimg.com/vi/elqpTtfFD40/hqdefault.jpg"
+    },
+    {
+      "titulo": "How an Anthropic designer uses Claude Slides",
+      "link": "https://www.youtube.com/watch?v=bVXiNb9RyyI",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-01T18:07:41+00:00",
+      "extracto": "Make slides with Claude starting from a voice memo. Nate, a designer at Anthropic, talks through an idea on a walk and then turns ...",
+      "vistas": 82772,
+      "miniatura": "https://i.ytimg.com/vi/bVXiNb9RyyI/hqdefault.jpg"
+    },
+    {
+      "titulo": "🎁 ¡Claude Ahora REGALA 44 Empleados que trabajan por ti!",
+      "link": "https://www.youtube.com/watch?v=Q2ZXz1zy66s",
+      "fuente": "Manuel Murcia",
+      "categoria": "youtube",
+      "fecha": "2026-09-30T11:46:21+00:00",
+      "extracto": "Claude acaba de regalarte 44 empleados para tu negocio (y casi nadie lo sabe) Anthropic ha lanzado Small Business, un plugin ...",
+      "vistas": 41695,
+      "miniatura": "https://i.ytimg.com/vi/Q2ZXz1zy66s/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Let Claude Opus 5.5 Run My Entire AI Video Project — Higgsfield MCP",
+      "link": "https://www.youtube.com/watch?v=U6iS83PNME4",
+      "fuente": "James Tech AI⭐",
+      "categoria": "youtube",
+      "fecha": "2026-09-26T08:24:48+00:00",
+      "extracto": "Try Higgsfield with Claude Opus 5.5: https://higgsfield.ai/s/claude-opus-5-5-yt-jamestechai-jUqDIM What happens when you stop ...",
+      "vistas": 26608,
+      "miniatura": "https://i.ytimg.com/vi/U6iS83PNME4/hqdefault.jpg"
+    },
+    {
+      "titulo": "👉 Claude Can Now Search Amazon, TikTok, Reddit YouTube — Scavio MCP",
+      "link": "https://www.youtube.com/watch?v=_1UA3DKqMII",
+      "fuente": "𝘈𝘋𝘋𝘠'𝘚 𝘞𝘖𝘙𝘓𝘋",
+      "categoria": "youtube",
+      "fecha": "2026-09-27T16:27:34+00:00",
+      "extracto": "Try Scavio here: https://scavio.dev/?utm_source=youtube&utm_medium=sponsored&utm_campaign=addys-world What if Claude ...",
+      "vistas": 22754,
+      "miniatura": "https://i.ytimg.com/vi/_1UA3DKqMII/hqdefault.jpg"
     }
   ]
 }
