@@ -1,27 +1,5 @@
 {
   "vistos": [
-    "68172b7e5ee025f2",
-    "d12e1a833822d3cf",
-    "5558998317d4c9a5",
-    "35070e12cc31b7fe",
-    "2373f0f1c6863c26",
-    "7ff079926d9df176",
-    "547d2d02eb25b01f",
-    "eb778de9ec91ca84",
-    "ed4e01078cd0685f",
-    "09c4e7f26ee392da",
-    "b3e9d2f6b2c9a73b",
-    "9111d92039bb3a6a",
-    "d6cb7be8e515d125",
-    "fdbe9779ac4707a2",
-    "09143f5150f4fcec",
-    "e8ab0d20a8d724b0",
-    "6cdc2ee9a1377b49",
-    "80a89d476e7462a2",
-    "19b934251deb1577",
-    "a8f425bd96e48297",
-    "2553ccc481017a23",
-    "acaf9ac7a7329a7c",
     "b4d2e1975f1613b5",
     "625a5394c7b8f549",
     "44713f1f8c415d25",
@@ -1999,185 +1977,31 @@
     "ed718c94d99a21b3",
     "d33902045e963d5d",
     "043ad4c9780af3c6",
-    "1c3cde2fb98f9e23"
+    "1c3cde2fb98f9e23",
+    "1710c7b09c03e800",
+    "0decdf59b3b7f0e0",
+    "1e7b893709f84124",
+    "531a6189578e0bb8",
+    "9893fe6400a8b589",
+    "206e225143c32f50",
+    "bc8563d9e316ed59",
+    "74a97fb939de07a6",
+    "277bbe3a2aeb2901",
+    "364a59533e9cf880",
+    "76c9886347844c91",
+    "58ccb7a5c69890b2",
+    "fc90e297fa600c18",
+    "29eac094b1d4972f",
+    "af83321425c19750",
+    "ffc15fb4b8464321",
+    "694f8c0b82168d0b",
+    "a138ad65d5e7bcd2",
+    "377d24651d8481b2",
+    "629ca60676d1a31f",
+    "9ffeb97f8be33c09",
+    "ec6bc602ef373ef4"
   ],
   "archivo": [
-    {
-      "titulo": "Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. These 3 Are the Best of the Bunch - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzEzdWRCdGxnUkE3RVh0em80TUNqUFV1ZUdhb0pPdUNDUjNEWHc4T2VDSUpkbFpmMncyTnBYTTRvLVJNd3RKcExpcW9nRFl4ZG1vQ0haZVZhVlVTM2xsLWtJMDNyeGIxM0hibTNJbUNfUjY4SEhTcGJMZVQ5ZVRpQXZNeUF1ZjBuSV9rY2xvM0dxOWhGRVE?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-13T18:23:00+00:00",
-      "extracto": "Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. These 3 Are the Best of the Bunch The Motley Fool"
-    },
-    {
-      "titulo": "Jobs in AI: OpenAI expands marketing hiring across ads, growth and product marketing - Storyboard18",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1Q4ekI0MXlYLUcyblpQeXRQZVRFaml5cEt0UjhpeXltdF9kNDZmZ3FIM040dmlYdG92UlFWMWswY0l2Sy1sUWppaUFMZGVlajBJelNDYkp5bmZYMmRIazg4anEwaG9rT1VmY1YyNWtEeDB1S2Z6RFI4TEZBZFlabmJUQnM5V0QwZk52czl1SzFMLVFaX1BReHhFSnBjQVc4VGlTRU85bHllYUd0c3Jndm9nYy1GVUtuMUw3MDhGZjcyZUlCUm5iNXBCcGdjR1ha0gHWAUFVX3lxTE5Bbk9mV08xRURBSzRCUFFHOEVMeEFjTGdwcW5JWjNDYmkzNG5FSGNkZzFMYWF0UmxoMV9henhKQ2gyaG5YZHFVYzI4dzltT29WbGdZZGRWQklzbVNyUXNkOEt2T2N1MGNJQ2FCVzlTdzdGR3FuSjViLXRNTjU4S2NKVmtaZmZCQm9JVU0yZTY1UHF4UVVrX090V1U0eDdXTjZ5N0REcXAxcnZpYVVhb1VfUEhCNk9HX0REVS1mejFCV1NSc2ZKaXgtU3NnendaNlhYd05UV3c?oc=5",
-      "fuente": "GN — AI growth marketing (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-15T03:20:10+00:00",
-      "extracto": "Jobs in AI: OpenAI expands marketing hiring across ads, growth and product marketing Storyboard18"
-    },
-    {
-      "titulo": "Mahindra Manulife appoints Ruchika Malhan Varma as Chief Marketing & Customer Officer - bestmediainfo.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVElNcEJsbWZlWGItM0JJQjJyR1V1VFdCWkVrWnhCbFRIX0VXVUpvX0tLVHR0VkQ5REMzR09fTTJMSkRvZ25pemFjbWJrdjNubWR0Rl92a0FwTVB3ekNmVWl3MlNIX0gyS2hDMzFlRnMyMVpvSWQxRl9OWnJRYkJYV3ZVN3dfc0tVQ3hZRlFnRDlOenkybUNzQ1RHTWNoMGt6THRPWjRxd1VoYlNSb1UyRkhoWV9UbU1QOW9FOS1kV1FFSktPYUI1bjM0c1g1NFlnS2R1aGE0dXdEREtwVC1tZ3pR0gHiAUFVX3lxTFBUSU1wQmxtZmVYYi0zQklCMnJHVXVUV0JaRWtaeEJsVEhfRVdVSm9fS0tUdHRWRDlEQzNHT19NMkxKRG9nbml6YWNtYmt2M25tZHRGX3ZrQXBNUHd6Q2ZVaXcyU0hfSDJLaEMzMWVGczIxWm9JZDFGX05aclFiQlhXdlU3d19zS1VDeFlGUWdEOU56eTJtQ3NDVEdNY2gwa3pMdE9aNHF3VWhiU1JvVTJGSGhZX1RtTVA5b0U5LWRXUUVKS09hQjVuMzRzWDU0WWdLZHVoYTR1d0RES3BULW1nelE?oc=5",
-      "fuente": "GN — AI growth marketing (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-15T06:55:23+00:00",
-      "extracto": "Mahindra Manulife appoints Ruchika Malhan Varma as Chief Marketing & Customer Officer bestmediainfo.com"
-    },
-    {
-      "titulo": "Daily Search Forum Recap: September 15, 2026",
-      "link": "https://www.seroundtable.com/recap-09-15-2026-42088.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T14:00:00+00:00",
-      "extracto": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. I am seeing signs of a big update lurking with Google Search..."
-    },
-    {
-      "titulo": "Google Search Ranking Volatility Heats Up This Morning - September 15th",
-      "link": "https://www.seroundtable.com/google-update-42091.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T11:52:00+00:00",
-      "extracto": "Google Search seems to be heating up this morning, I am seeing a huge spike in chatter in the past few hours and the tools may be starting to heat up as well. We will know more tomorrow but I am suspecting we are seeing the start of a Google update, hopefully one Google will confirm soon but I doubt it."
-    },
-    {
-      "titulo": "Google Business Profile API Application Delays",
-      "link": "https://www.seroundtable.com/google-business-profile-api-application-delays-42085.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T11:51:00+00:00",
-      "extracto": "Google announced a delay in processing applications for access to the Google Business Profile API. This was posted by Victoria Kroll in multiple languages in the Google Business Profiles support forum."
-    },
-    {
-      "titulo": "Google AI Mode Tests Text Link Ads",
-      "link": "https://www.seroundtable.com/google-ai-mode-text-link-ads-42082.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T11:41:00+00:00",
-      "extracto": "Google is testing a text-based link format for ads within AI Mode. So the ads look like normal AI Mode responses, with normal looking text links with anchor text, but they are labeled as \"Sponsored\" above the AI-generated response."
-    },
-    {
-      "titulo": "Google Ads August 17 Target-Based Bidding Update Finished August 27",
-      "link": "https://www.seroundtable.com/google-august-17-bidding-update-finished-august-27-42090.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T11:32:00+00:00",
-      "extracto": "Google has posted the date of when the Google Ads bidding update, the target-based bid strategies rolled out, completed globally. It started on yes, August 17, 2026 and completed on August 27, 2026."
-    },
-    {
-      "titulo": "Google Ads PMax: Where Should People Go After Clicking Your Ads?",
-      "link": "https://www.seroundtable.com/google-ads-pmax-options-42087.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T11:31:00+00:00",
-      "extracto": "Google Ads added a new option within your Performance Max campaigns to select \"Where should people go after clicking your ads?\" The two available options for that question are (1) Your website and (2) Google Business Profile (optimized for ads)."
-    },
-    {
-      "titulo": "Early Data On Google Ads August 17 Bidding Update",
-      "link": "https://www.seroundtable.com/data-google-ads-aug17-bidding-update-42086.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T11:21:00+00:00",
-      "extracto": "The Google Ads August 17th bidding update happened about a month ago, and Google's various ad representatives spent a lot of time telling us that a lot won't change. It still caused a big stir in the community, but now we have some data to share."
-    },
-    {
-      "titulo": "Google European Ecosystem Carousel Live For Weather, Translations & More",
-      "link": "https://www.seroundtable.com/google-european-ecosystem-carousel-live-42083.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T11:11:00+00:00",
-      "extracto": "As you know, Google has new features in many European regions to promote vertical search services (VSS) by way of the Digital Markets Act. Many of those changes have been live for a while, but now the Ecosystem carousel seems to be live."
-    },
-    {
-      "titulo": "The 12 best online form builder apps in 2026",
-      "link": "https://zapier.com/blog/best-online-form-builder-software",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T16:00:00+00:00",
-      "extracto": "Forms have a reputation problem. Most people think they're just for getting feedback and collecting contact info, but forms are a great tool for other reasons: you can help customers submit support tickets, sign them up for an event, or even help your employees request new hardware for their departments. Having an excellent form builder will help you create the forms you need to handle all these use cases—and more—while staying true to your brand..."
-    },
-    {
-      "titulo": "The 10 best free survey tools and form builders in 2026",
-      "link": "https://zapier.com/blog/best-free-survey-tool-form-app",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T15:10:00+00:00",
-      "extracto": "Online forms and surveys are some of the best ways to get the information you need from your audience. And whether you're creating a simple registration form or a detailed market research survey, you need an app to help you collect the information—and then do something with it. There are countless form and survey tools available, and a lot of them cost a pretty penny. Here, we're looking at the ones you can get for free. I've been updating this a..."
-    },
-    {
-      "titulo": "The 7 best QuickBooks alternatives in 2026",
-      "link": "https://zapier.com/blog/quickbooks-alternatives",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T04:00:00+00:00",
-      "extracto": "Laying my cards on the table: I'm not an accountant. And I said goodbye to all the bookkeeping tasks associated with my freelance career many moons ago. So what qualifies me to write this article? When I was self-employed, I went through the nightmare of trying to find the right software to help me balance my books (I couldn't afford an accountant). Being the juggernaut that it is, QuickBooks came as one of the top recommendations. But back then,..."
-    },
-    {
-      "titulo": "Supabase vs. Firebase: Which backend platform is right for you? [2026]",
-      "link": "https://zapier.com/blog/supabase-vs-firebase",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T04:00:00+00:00",
-      "extracto": "You've got an app idea. You took it to a vibe coding platform and built it in a prompt. But once deployed, you notice that it doesn't actually remember things, such as user accounts and saved information. That's why backend-as-a-service (BaaS) platforms exist. They handle the complexity of user logins, access rules, and file storage—and a lot more—so you can plug everything together into a working app in an afternoon. Supabase and Firebase are tw..."
-    },
-    {
-      "titulo": "Kit vs. Mailchimp: Which is best? [2026]",
-      "link": "https://zapier.com/blog/convertkit-vs-mailchimp",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T04:00:00+00:00",
-      "extracto": "What do Lil Jon, Matthew McConaughey, and Mandy Moore have in common? The common thread isn't backing vocals on \"Get Low\" or cameos in Interstellar—it's actually email marketing. All of them use Kit (formerly ConvertKit). And while you won't find quite as many celebrities bragging about their Mailchimp usage, it's an essential tool for businesses as diverse as the Georgia Museum of Art, Jittery Joe's Coffee, and a brand of baby sunglasses called..."
-    },
-    {
-      "titulo": "PeekPaste",
-      "link": "https://www.producthunt.com/products/lucidbit",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T00:44:31+00:00",
-      "extracto": "Your clipboard, within reach Discussion | Link"
-    },
-    {
-      "titulo": "Kodro",
-      "link": "https://www.producthunt.com/products/kodro",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T18:14:09+00:00",
-      "extracto": "Code robots in an offline Python learning simulator Discussion | Link"
-    },
-    {
-      "titulo": "Buddy AI Access (MCP)",
-      "link": "https://www.producthunt.com/products/buddy",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T10:48:06+00:00",
-      "extracto": "Your agent needs more than your repo Discussion | Link"
-    },
-    {
-      "titulo": "OpenAI Agents API",
-      "link": "https://www.producthunt.com/products/openai",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T02:33:24+00:00",
-      "extracto": "Cloud agents, run on OpenAI's Codex harness Discussion | Link"
-    },
-    {
-      "titulo": "FATHER",
-      "link": "https://www.producthunt.com/products/father-web-monitoring",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-14T20:10:06+00:00",
-      "extracto": "A Mac dashboard for site traffic, deploys, uptime, and SEO Discussion | Link"
-    },
-    {
-      "titulo": "Portfolio Frame",
-      "link": "https://www.producthunt.com/products/portfolio-frame",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T06:13:16+00:00",
-      "extracto": "Frame, annotate, and export screenshots that look designed Discussion | Link"
-    },
     {
       "titulo": "Mailyte",
       "link": "https://www.producthunt.com/products/mailyte",
@@ -14331,6 +14155,226 @@
       "categoria": "dxw",
       "fecha": "2026-10-05T15:11:18+00:00",
       "extracto": "25 Prompts, Six AI Engines, 150 Answers: How to Measure AI Search Visibility techbullion.com"
+    },
+    {
+      "titulo": "How to Make Insane Motion Graphics With Opus 5.5",
+      "link": "https://www.youtube.com/watch?v=747ZnEtsRbg",
+      "fuente": "Lukas Margerie",
+      "categoria": "youtube",
+      "fecha": "2026-09-29T06:12:45+00:00",
+      "extracto": "Get the full Opus 5.5 video kit (every prompt, rule file, and template from this video): ...",
+      "vistas": 284324,
+      "miniatura": "https://i.ytimg.com/vi/747ZnEtsRbg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Sonnet 5.5 Is INSANE – Seriously, This Model Is Ridiculous!",
+      "link": "https://www.youtube.com/watch?v=ENWVpqtOdRI",
+      "fuente": "Bijan Bowen",
+      "categoria": "youtube",
+      "fecha": "2026-09-28T23:28:27+00:00",
+      "extracto": "Timestamps: 00:00 - Intro 00:50 - First Look 02:20 - Technical Look 03:39 - Starting Usage 04:12 - Browser OS Test 10:54 - C++ ...",
+      "vistas": 154386,
+      "miniatura": "https://i.ytimg.com/vi/ENWVpqtOdRI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Free AI Tools That Can Replace Paid AI Tools Like Claude, ChatGPT Astra, Higgsfield, Lovable",
+      "link": "https://www.youtube.com/watch?v=8boLI7cUzkw",
+      "fuente": "Ayushman Pandita",
+      "categoria": "youtube",
+      "fecha": "2026-10-01T13:31:29+00:00",
+      "extracto": "Join My AI Side Hustle Course ▻ https://www.upskills.club/course/build-side-income-with-ai?invite=AYSH-PNDT AI Tools like ...",
+      "vistas": 191280,
+      "miniatura": "https://i.ytimg.com/vi/8boLI7cUzkw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Crea tu propio producto digital con IA: así funciona mi kit de agentes para Claude Code",
+      "link": "https://www.youtube.com/watch?v=lUcuIsCPzyc",
+      "fuente": "La Obsesión Ciclista de Fred.",
+      "categoria": "youtube",
+      "fecha": "2026-09-29T19:58:54+00:00",
+      "extracto": "Kit de agentes de IA para Claude Code: crea tu producto digital desde 0, 100% asistido: ...",
+      "vistas": 196683,
+      "miniatura": "https://i.ytimg.com/vi/lUcuIsCPzyc/hqdefault.jpg"
+    },
+    {
+      "titulo": "What actually an AI bubble is? #aibubble #ai #chatgpt #claude",
+      "link": "https://www.youtube.com/watch?v=5eaHLIcZFJ4",
+      "fuente": "Mayankshah",
+      "categoria": "youtube",
+      "fecha": "2026-09-29T13:50:03+00:00",
+      "extracto": "What exactly do people mean when they say “AI bubble”? The problem is, everyone seems to have a different definition of an AI ...",
+      "vistas": 124418,
+      "miniatura": "https://i.ytimg.com/vi/5eaHLIcZFJ4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Mods Is The Biggest Claude Code Upgrade Since Skills",
+      "link": "https://www.youtube.com/watch?v=Rn4nmFRPe0s",
+      "fuente": "Chase AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-02T10:43:31+00:00",
+      "extracto": "Master Claude Code + Codex: https://www.skool.com/chase-ai FREE community: https://www.skool.com/chase-ai-community ...",
+      "vistas": 195298,
+      "miniatura": "https://i.ytimg.com/vi/Rn4nmFRPe0s/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 es...",
+      "link": "https://www.youtube.com/watch?v=FrNMcmMarUQ",
+      "fuente": "midudev",
+      "categoria": "youtube",
+      "fecha": "2026-09-29T14:32:18+00:00",
+      "extracto": "Anthropic vuelve a pisar el acelerador: probamos Claude Opus 5.5 y repasamos el nuevo Sonnet 5, sus benchmarks, precios y ...",
+      "vistas": 216890,
+      "miniatura": "https://i.ytimg.com/vi/FrNMcmMarUQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Made a Claude Code Plugin That Forces You to Learn",
+      "link": "https://www.youtube.com/watch?v=GckkaKEQ3vo",
+      "fuente": "Noah Kim",
+      "categoria": "youtube",
+      "fecha": "2026-10-01T11:30:07+00:00",
+      "extracto": "In this video I go over a Claude Code plugin I created called VibeWise that forces you to learn instead of giving you all the ...",
+      "vistas": 302243,
+      "miniatura": "https://i.ytimg.com/vi/GckkaKEQ3vo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Mods Are Game Changers. Set Up These 5 NOW.",
+      "link": "https://www.youtube.com/watch?v=9hetShMMp2s",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-10-02T21:59:19+00:00",
+      "extracto": "How I built an AI agency from 0 to over $1 million per year: ...",
+      "vistas": 157762,
+      "miniatura": "https://i.ytimg.com/vi/9hetShMMp2s/hqdefault.jpg"
+    },
+    {
+      "titulo": "HUGE Fable 5.5 LEAK + First Preview, Gemini 4 Argon, Claude Code Update, FREE Model, More! AI NEWS",
+      "link": "https://www.youtube.com/watch?v=N3REfH4N9Dg",
+      "fuente": "WorldofAI",
+      "categoria": "youtube",
+      "fecha": "2026-10-03T06:15:14+00:00",
+      "extracto": "The only scary part? How easy it is Start for free: https://try.printify.com/bu8fpbdhjwz8 Anthropic's Fable 5.5 is shaping up to be ...",
+      "vistas": 139712,
+      "miniatura": "https://i.ytimg.com/vi/N3REfH4N9Dg/hqdefault.jpg"
+    },
+    {
+      "titulo": "The Sol 6.1 Benchmarks Are STUPID, So I Tested It vs Sonnet 5.5",
+      "link": "https://www.youtube.com/watch?v=pVAxEpP79v0",
+      "fuente": "Chase AI",
+      "categoria": "youtube",
+      "fecha": "2026-09-30T05:33:44+00:00",
+      "extracto": "Higgsfield: https://higgsfield.ai/s/chase-h-ai-PhSvkH ⚡Master Claude Code + Codex: https://www.skool.com/chase-ai FREE ...",
+      "vistas": 156153,
+      "miniatura": "https://i.ytimg.com/vi/pVAxEpP79v0/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to set up the Cinema 4D MCP Server in 3 Steps",
+      "link": "https://www.youtube.com/watch?v=X-Udfoy0Wo0",
+      "fuente": "Maxon",
+      "categoria": "youtube",
+      "fecha": "2026-09-30T13:07:05+00:00",
+      "extracto": "Learn how to set up the Cinema 4D MCP server and connect it to AI assistants like Claude Desktop or OpenAI's ChatGPT Codex ...",
+      "vistas": 6501,
+      "miniatura": "https://i.ytimg.com/vi/X-Udfoy0Wo0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Agentic Video Editörüm: Higgsfield AI ve Opus 5.5 ile Video Editliyoruz",
+      "link": "https://www.youtube.com/watch?v=B04843qKigs",
+      "fuente": "Onur Tirpan",
+      "categoria": "youtube",
+      "fecha": "2026-10-03T06:00:18+00:00",
+      "extracto": "Videonun sponsoru, Higgsfield AI'a buradan ulaşabilirsiniz: https://higgsfield.ai/s/claude-opus-5-5-yt-onurtirpan-caOyKQ 5 kişiye ...",
+      "vistas": 8433,
+      "miniatura": "https://i.ytimg.com/vi/B04843qKigs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Da Vinci Resolve launches MCP server with Claude for full AI #AI #VideoEditing #DaVinciResolve",
+      "link": "https://www.youtube.com/watch?v=8YN73LF0OEg",
+      "fuente": "Egor Donde | AI News, No Hype",
+      "categoria": "youtube",
+      "fecha": "2026-10-01T19:48:58+00:00",
+      "extracto": "Da Vinci Resolve added an official MCP server that integrates with Claude Code or Codex to deliver full production-grade video ...",
+      "vistas": 3520,
+      "miniatura": "https://i.ytimg.com/vi/8YN73LF0OEg/hqdefault.jpg"
+    },
+    {
+      "titulo": "اصنع فيلم أكشن بصورتك بالذكاء الاصطناعي 🤯🔥",
+      "link": "https://www.youtube.com/watch?v=wQAUdhGi4D8",
+      "fuente": "محمود الجبلي - Mahmoud Al Jabaly",
+      "categoria": "youtube",
+      "fecha": "2026-10-03T15:59:23+00:00",
+      "extracto": "هل يمكن للذكاء الاصطناعي أن يصنع فيلم أكشن كامل من مجرد فكرة واحدة؟ جرّب Higgsfield بنفسك: ...",
+      "vistas": 2787,
+      "miniatura": "https://i.ytimg.com/vi/wQAUdhGi4D8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Da Vinci Resolve launches MCP server enabling AI-driven pro video #AI #VideoEditing #DaVinciResolve",
+      "link": "https://www.youtube.com/watch?v=f1TaJ3iOfx8",
+      "fuente": "Andrew Bishop",
+      "categoria": "youtube",
+      "fecha": "2026-09-29T19:39:56+00:00",
+      "extracto": "DaVinci Resolve added an official MCP server that integrates with Claude Code and Codex for advanced video editing.",
+      "vistas": 1603,
+      "miniatura": "https://i.ytimg.com/vi/f1TaJ3iOfx8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code integrates Stitch UI designs into production-ready code #AI #WebDevelopment #UIDesign",
+      "link": "https://www.youtube.com/watch?v=pWe3zurG-qA",
+      "fuente": "Egor Donde | AI News, No Hype",
+      "categoria": "youtube",
+      "fecha": "2026-10-02T18:43:57+00:00",
+      "extracto": "Claude Code integrates with Stitch to transform plain English app descriptions into complete UI designs, including screens and a ...",
+      "vistas": 1340,
+      "miniatura": "https://i.ytimg.com/vi/pWe3zurG-qA/hqdefault.jpg"
+    },
+    {
+      "titulo": "Everything You Know About Skills IS OUTDATED",
+      "link": "https://www.youtube.com/watch?v=e7TY56-yIvM",
+      "fuente": "Simon Scrapes",
+      "categoria": "youtube",
+      "fecha": "2026-10-01T15:38:23+00:00",
+      "extracto": "Join our paid community: https://skool.com/scrapes Be the brand AI recommends: https://dub.sh/rankspot-yt Get the Skill Audit ...",
+      "vistas": 222903,
+      "miniatura": "https://i.ytimg.com/vi/e7TY56-yIvM/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Tested Sonnet 5.5 vs Opus 5.5. What You Need to Know.",
+      "link": "https://www.youtube.com/watch?v=7eo-11K2e3c",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-09-29T00:14:17+00:00",
+      "extracto": "FREE Scrollcraft Website Design Skill: ...",
+      "vistas": 145073,
+      "miniatura": "https://i.ytimg.com/vi/7eo-11K2e3c/hqdefault.jpg"
+    },
+    {
+      "titulo": "How Claude EXPOSED my data hiding online",
+      "link": "https://www.youtube.com/watch?v=GU2lcFqZJL4",
+      "fuente": "Aevy TV",
+      "categoria": "youtube",
+      "fecha": "2026-10-03T17:07:30+00:00",
+      "extracto": "Follow us on Instagram here: https://www.instagram.com/aevytvdaily/ https://www.instagram.com/aevyvideoschool/ ...",
+      "vistas": 340149,
+      "miniatura": "https://i.ytimg.com/vi/GU2lcFqZJL4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Use AI To Combine ANY Game With ANOTHER GAME! - FULL WALKTHROUGH",
+      "link": "https://www.youtube.com/watch?v=LuityjCJ1Hg",
+      "fuente": "How to Everything",
+      "categoria": "youtube",
+      "fecha": "2026-10-03T21:07:36+00:00",
+      "extracto": "Use AI To MERGE ANY GAMES Together! - FULL STEP BY STEP GUIDE Use AI To Mod ANY Game Into ANOTHER GAME, Mod ...",
+      "vistas": 77745,
+      "miniatura": "https://i.ytimg.com/vi/LuityjCJ1Hg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Master AI Video Editing in 25 Minutes (Full Course)",
+      "link": "https://www.youtube.com/watch?v=AgUATWAOaKY",
+      "fuente": "Dan Kieft",
+      "categoria": "youtube",
+      "fecha": "2026-09-29T16:32:11+00:00",
+      "extracto": "Learn How To Edit videos with AI using GPT-6 Astra & Opus 5.5 Check out the MCP - http://dankieft.com/higgsfield Can AI actually ...",
+      "vistas": 97197,
+      "miniatura": "https://i.ytimg.com/vi/AgUATWAOaKY/hqdefault.jpg"
     }
   ]
 }
