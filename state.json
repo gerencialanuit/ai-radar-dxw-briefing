@@ -1,16 +1,5 @@
 {
   "vistos": [
-    "86d65d7eaaf355db",
-    "09636e518c5e35d7",
-    "2e8394611eb02a32",
-    "65115860295cfad2",
-    "bbf938d6b0b99bde",
-    "3198e94c732562d6",
-    "8380a1aa644e31bc",
-    "ed98ebb47c62f893",
-    "da479a827186aee8",
-    "df257933913225b2",
-    "c576007c4bd7662b",
     "f1a32f577cea496c",
     "e9744f1bd1eb1071",
     "bd5156d6057d5456",
@@ -1999,97 +1988,20 @@
     "fb39e41928241e73",
     "d3577d12be857024",
     "19381b72bacb0bd6",
-    "eb37e60529fe444c"
+    "eb37e60529fe444c",
+    "f608be38776b048b",
+    "d69f689e0b2faae8",
+    "e2d01e7cc9dabc0b",
+    "d13e06ad6968a1bb",
+    "569765433672d6bc",
+    "f16a1e2513f43d38",
+    "ff58743c2a48ac34",
+    "65e13aa1c5d57d6a",
+    "86c466ea1731ed7c",
+    "eefefa726604d27e",
+    "567b79b1cfe9322f"
   ],
   "archivo": [
-    {
-      "titulo": "Bing Tests Shopping Filters On Left Sidebar",
-      "link": "https://www.seroundtable.com/bing-sidebar-shopping-filters-42084.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T11:21:00+00:00",
-      "extracto": "Microsoft Bing is testing adding product/shopping related filters on the left sidebar of the search results. This makes the Bing all search tab look more like Google's all tab, when you search for product or shopping related queries."
-    },
-    {
-      "titulo": "Google Ads Spend Benchmarks Report Compares Your Competitors",
-      "link": "https://www.seroundtable.com/google-ads-spend-benchmarks-report-competitors-42097.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T11:11:00+00:00",
-      "extracto": "Google Ads is rolling out an update to the Spend benchmarks report that now shows you how your spend is comparable to businesses like yours. In short, it shows you if you are spending more, less or the same as your competitors on Google Ads."
-    },
-    {
-      "titulo": "Google: Google Search Console AI Position Reporting Will Evolve Over Time",
-      "link": "https://www.seroundtable.com/google-search-console-ai-reporting-change-42099.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T11:05:00+00:00",
-      "extracto": "Google's John Mueller said that he expects the position and impression tracking for AI Mode, AI Overviews and Google Search to \"evolve over time\" as Google Search, AI Mode and AI Overviews \"evolve too,\" he wrote."
-    },
-    {
-      "titulo": "Google Search Live Now Powered By Gemini 3.8 Live",
-      "link": "https://www.seroundtable.com/google-search-live-gemini-3-8-42094.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T17:58:00+00:00",
-      "extracto": "Google Search Live is now powered by Google's latest AI model, Gemini 3.8 Live. Search Live has been around for a couple years now, both in audio only format and then video format. Search Live was released globally in March, and before that, it removed the opt-in requirements."
-    },
-    {
-      "titulo": "Google Chrome User Experience Report (CrUX) With Ad Metrics",
-      "link": "https://www.seroundtable.com/google-ad-metrics-crux-42093.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T16:49:00+00:00",
-      "extracto": "Google announced new ad metrics that are being tested within the Chrome User Experience Report (CrUX). These metrics include Ad Count, Ad Density, Ad Weight (Network) and Ad Weight (CPU)."
-    },
-    {
-      "titulo": "How to convert Google Sheets to Excel: 2 methods",
-      "link": "https://zapier.com/blog/convert-google-sheets-to-excel",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T04:00:00+00:00",
-      "extracto": "As someone whose day job isn't related to numbers, there's only one good reason why I would use Excel over Google Sheets: the local college I teach part time at requires it (they live in the Microsoft universe). Plenty of people (hi, that's why you're here) bounce between the two spreadsheet apps for reasons that have nothing to do with personal preference—like file compatibility or client requirements. Or maybe you've built out your whole spread..."
-    },
-    {
-      "titulo": "How to see who viewed your Google Doc",
-      "link": "https://zapier.com/blog/how-to-see-who-viewed-your-google-doc",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T04:00:00+00:00",
-      "extracto": "If you send a Google Doc to a stakeholder and get crickets, it could mean one of two things: (1) they never opened it, or (2) they opened it but got sidetracked by something infinitely more engaging—like reading the entire terms and conditions of a software update. Instead of assuming they thought your ideas were trash and preemptively drafting your resignation (because what else would you do?), there's a way to actually see who's viewed your doc..."
-    },
-    {
-      "titulo": "Vibe coding security: How to be sure your vibe-coded apps are safe to use",
-      "link": "https://zapier.com/blog/vibe-coding-security",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T04:00:00+00:00",
-      "extracto": "Shipping your first app feels great. Your idea is finally out there for the entire world to see. You posted the link, people signed up, everything is smooth—until you get billed $4,000 in OpenAI usage credits for API calls you didn't make. Unfortunately, this is one of the most common ways a live vibe-coded project goes wrong. Someone looks up exposed keys in new apps, uses them to run an expensive AI model, and racks up a huge tab while you slee..."
-    },
-    {
-      "titulo": "The top AI text generators in 2026",
-      "link": "https://zapier.com/blog/ai-text-generator",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T04:00:00+00:00",
-      "extracto": "We're a few years into the latest AI boom, and things have matured a bit. It turns out AI is better at writing code than English, so it's computer engineers and not journalists who've had to radically rethink how they work. Still, AI writing generators are popular, widely available, and worth talking about. A few things to acknowledge before we get started. AI text generation is more of a feature in lots of apps than a standalone tool. For a whil..."
-    },
-    {
-      "titulo": "The best AI photo editors in 2026",
-      "link": "https://zapier.com/blog/best-ai-photo-editor",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T05:00:00+00:00",
-      "extracto": "While AI image generators are still attracting most of the headlines, AI photo editors—apps that take your image and use AI to edit or improve it in some way—have been starting to generate some buzz. And really, AI photo editors are the more useful tool. Most of the time, you aren't looking for some wild image of a Canadian man riding a moose through a maple forest in the style of a long-dead impressionist artist. Instead, you want the photos you..."
-    },
-    {
-      "titulo": "The 6 best AI writing generators in 2026",
-      "link": "https://zapier.com/blog/best-ai-writing-generator",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-15T05:00:00+00:00",
-      "extracto": "Since ChatGPT burst onto the scene a few years back, AI-powered writing tools are everywhere. Microsoft, Google, Apple, and near enough every other tech company have added them to their products, whether it's a document suite, email app, or even just a social messaging app. Most dedicated AI writing apps went from the cutting edge to irrelevant in the space of a year or two and have had to pivot to different business models and feature sets. Havi..."
-    },
     {
       "titulo": "UX Conference December Announced (Dec 2 - Dec 15)",
       "link": "https://www.nngroup.com/training/december/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
@@ -14359,6 +14271,116 @@
       "categoria": "dxw",
       "fecha": "2026-10-05T19:23:00+00:00",
       "extracto": "Financial Advisor AEO: AI Search Visibility Audits & Content Campaigns Updated FinancialContent"
+    },
+    {
+      "titulo": "LIAT SAMPE AKHIR #ChatGPT #GoogleGemini #ClaudeAI #GrokAI #MetaA",
+      "link": "https://www.youtube.com/watch?v=99w4W0pYFTI",
+      "fuente": "Akbar Alatas Official",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T03:39:39+00:00",
+      "extracto": "",
+      "vistas": 147324,
+      "miniatura": "https://i.ytimg.com/vi/99w4W0pYFTI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Diktator dari para AI??? #ChatGPT #GoogleGemini #ClaudeAI #GrokAI #MetaAI",
+      "link": "https://www.youtube.com/watch?v=nJEqisf1kl0",
+      "fuente": "Akbar Alatas Official",
+      "categoria": "youtube",
+      "fecha": "2026-10-03T07:19:12+00:00",
+      "extracto": "",
+      "vistas": 118957,
+      "miniatura": "https://i.ytimg.com/vi/nJEqisf1kl0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Mods in Claude Code: change how Claude Code works",
+      "link": "https://www.youtube.com/watch?v=yUuFvL1lK4k",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-05T19:18:43+00:00",
+      "extracto": "Claude Code now supports mods: functions you write that change what Claude Code renders, what goes into a prompt, and what ...",
+      "vistas": 196418,
+      "miniatura": "https://i.ytimg.com/vi/yUuFvL1lK4k/hqdefault.jpg"
+    },
+    {
+      "titulo": "He Finally 10x Claude Code With This Method",
+      "link": "https://www.youtube.com/watch?v=qLfSDQ5NGh0",
+      "fuente": "AI LABS",
+      "categoria": "youtube",
+      "fecha": "2026-10-02T15:00:25+00:00",
+      "extracto": "Loop engineering is how people get Claude Code to build on its own for hours. Thank you Upstash for sponsoring! Check them ...",
+      "vistas": 105008,
+      "miniatura": "https://i.ytimg.com/vi/qLfSDQ5NGh0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Cavalry 2.8 is now available!",
+      "link": "https://www.youtube.com/watch?v=ANkp9Lar1D8",
+      "fuente": "Cavalry",
+      "categoria": "youtube",
+      "fecha": "2026-10-01T09:27:02+00:00",
+      "extracto": "Our biggest release yet is packed with new tools, new shapes, filters, and workflow upgrades. What's new: New filters ...",
+      "vistas": 4325,
+      "miniatura": "https://i.ytimg.com/vi/ANkp9Lar1D8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Meta MCP Just Made WhatsApp API Setup Way Easier",
+      "link": "https://www.youtube.com/watch?v=uHR8Lex_gKY",
+      "fuente": "Lakshit Ukani | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-10-05T12:56:07+00:00",
+      "extracto": "In this video, I walk through connecting Claude to Meta's WhatsApp Business Tools MCP, sending a WhatsApp message and ...",
+      "vistas": 4310,
+      "miniatura": "https://i.ytimg.com/vi/uHR8Lex_gKY/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI News - Claude to use Vedanta Knowledge #ainews #claude",
+      "link": "https://www.youtube.com/watch?v=KkRO5u-OimE",
+      "fuente": "Saffron Sting",
+      "categoria": "youtube",
+      "fecha": "2026-10-02T06:52:01+00:00",
+      "extracto": "",
+      "vistas": 126385,
+      "miniatura": "https://i.ytimg.com/vi/KkRO5u-OimE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Master Al Video Editing in 20 Minutes | Claude Al Editing Masterclass in Hindi",
+      "link": "https://www.youtube.com/watch?v=hffQ4UleKUU",
+      "fuente": "Last moment tuitions",
+      "categoria": "youtube",
+      "fecha": "2026-10-01T15:46:51+00:00",
+      "extracto": "Is Video Editing Dead? | Claude AI Masterclass for Beginners in Hindi In this Video we have Explain How to Use Claude Opus ...",
+      "vistas": 155749,
+      "miniatura": "https://i.ytimg.com/vi/hffQ4UleKUU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Build an App With Claude Design",
+      "link": "https://www.youtube.com/watch?v=COJAZQM1aeQ",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-02T19:44:06+00:00",
+      "extracto": "Nate, a designer at Anthropic, uses Claude design in Claude Code to take his side project's onboarding from rough idea to ...",
+      "vistas": 130883,
+      "miniatura": "https://i.ytimg.com/vi/COJAZQM1aeQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Fully Automated My Video Editing Using Claude Code (Full Walkthrough)",
+      "link": "https://www.youtube.com/watch?v=HzXD4GVqXwM",
+      "fuente": "Christian Peverelli",
+      "categoria": "youtube",
+      "fecha": "2026-10-04T13:00:18+00:00",
+      "extracto": "Free Editing Skill: https://www.skool.com/wearenocode TOOLS Tella.tv Claude Hyperframes AI Sales Bond: https://askbond.ai/ ...",
+      "vistas": 84778,
+      "miniatura": "https://i.ytimg.com/vi/HzXD4GVqXwM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code: Build Your AI Social Media Team (Tutorial)",
+      "link": "https://www.youtube.com/watch?v=z-UrhJtlSE0",
+      "fuente": "Lex AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-03T09:07:44+00:00",
+      "extracto": "Try Blotato: https://blotato.com/?ref=lex Blotato AI is changing the way creators and businesses manage social media.",
+      "vistas": 35199,
+      "miniatura": "https://i.ytimg.com/vi/z-UrhJtlSE0/hqdefault.jpg"
     }
   ]
 }
