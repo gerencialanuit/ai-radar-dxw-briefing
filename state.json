@@ -1,12 +1,5 @@
 {
   "vistos": [
-    "9756676f6e702d5a",
-    "8407b9d91db07343",
-    "9c5fd06e1f13c6ab",
-    "ffde27ca8ac9f114",
-    "7b0c3603f14aaf9a",
-    "8b6c888638b3a196",
-    "c6f34fd12f91d269",
     "e71283d86fc7f97c",
     "3c297e03a0021432",
     "dafe82a4b5ae3323",
@@ -1999,65 +1992,16 @@
     "4be452c0cb1e6d28",
     "8a31ad0d3e1d2628",
     "5b280aaeca9e95de",
-    "5646e51b0ee5cdb7"
+    "5646e51b0ee5cdb7",
+    "39b84093add32432",
+    "db25e7dd16484954",
+    "4ae01614b3655515",
+    "fcfdf5562f6dd48b",
+    "cfbc353857e1e36e",
+    "609629d490d1a9ca",
+    "7226d4285e43f1c6"
   ],
   "archivo": [
-    {
-      "titulo": "Bitrise Remote Dev Environments",
-      "link": "https://www.producthunt.com/products/bitrise",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T16:33:13+00:00",
-      "extracto": "Cloud Macs your coding agents can actually build on Discussion | Link"
-    },
-    {
-      "titulo": "The Forge by Bob's Workshop",
-      "link": "https://www.producthunt.com/products/the-forge-by-bob-s-workshop",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T22:42:59+00:00",
-      "extracto": "Describe your idea & your team builds, deploys & operates it Discussion | Link"
-    },
-    {
-      "titulo": "Zella",
-      "link": "https://www.producthunt.com/products/zella",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-17T03:56:55+00:00",
-      "extracto": "Video recorder that edits itself on Mac and iPhone Discussion | Link"
-    },
-    {
-      "titulo": "S-Roll",
-      "link": "https://www.producthunt.com/products/s-roll",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-17T06:40:23+00:00",
-      "extracto": "An agentic harness that turns long videos into clips Discussion | Link"
-    },
-    {
-      "titulo": "Opyt",
-      "link": "https://www.producthunt.com/products/opyt",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T09:21:38+00:00",
-      "extracto": "Your attention is the context your AI is missing Discussion | Link"
-    },
-    {
-      "titulo": "Figo",
-      "link": "https://www.producthunt.com/products/figo-3",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T20:22:18+00:00",
-      "extracto": "See every move your competitors make Discussion | Link"
-    },
-    {
-      "titulo": "Higgsfield API",
-      "link": "https://www.producthunt.com/products/higgsfield",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-16T23:58:11+00:00",
-      "extracto": "One async API for 50+ generative media models Discussion | Link"
-    },
     {
       "titulo": "Compute:Arena",
       "link": "https://www.producthunt.com/products/compute-arena-local-ai-benchmarks",
@@ -14355,6 +14299,76 @@
       "categoria": "dxw",
       "fecha": "2026-10-06T09:25:07+00:00",
       "extracto": "Bright Ideas Ad Agency AI Search Visibility Audit For Local Businesses Announced StreetInsider"
+    },
+    {
+      "titulo": "The New Era of AI Has Just Begun",
+      "link": "https://www.youtube.com/watch?v=yhjxnrEk9mQ",
+      "fuente": "Alex Grankin",
+      "categoria": "youtube",
+      "fecha": "2026-10-01T13:02:33+00:00",
+      "extracto": "OpenAI's $200 ChatGPT Pro plan now covers half of what it used to at API prices, while free local AI models like Qwen 3.8 27B ...",
+      "vistas": 166154,
+      "miniatura": "https://i.ytimg.com/vi/yhjxnrEk9mQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Gemini 4, GPT 6.1, Plasma conjecture, Napoleon code solved, OpenAI Dots, Claude Sonnet 5.5: AI NEWS",
+      "link": "https://www.youtube.com/watch?v=lHmZoRHMZyM",
+      "fuente": "AI Search",
+      "categoria": "youtube",
+      "fecha": "2026-10-04T03:28:38+00:00",
+      "extracto": "HUGE AI NEWS: Gemini 4 Argon, GPT 6.1 Sol, Dots, Claude Sonnet 5.5, Flux 3, Elevenlabs V4 & more. Thanks to our sponsor ...",
+      "vistas": 345547,
+      "miniatura": "https://i.ytimg.com/vi/lHmZoRHMZyM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Just Dropped MODS. (Master it in 10 Minutes).",
+      "link": "https://www.youtube.com/watch?v=LDn7rQKIFro",
+      "fuente": "Tristen O'Brien",
+      "categoria": "youtube",
+      "fecha": "2026-10-05T13:00:34+00:00",
+      "extracto": "Connect the Higgsfield MCP to Claude in 30 seconds: https://higgsfield.ai?fpr=tristen15 FREE: Get the exact prompts I used to ...",
+      "vistas": 145796,
+      "miniatura": "https://i.ytimg.com/vi/LDn7rQKIFro/hqdefault.jpg"
+    },
+    {
+      "titulo": "5 MCP servers every Claude Code user needs #claude #coding",
+      "link": "https://www.youtube.com/watch?v=WJMW6-CpQHY",
+      "fuente": "Sharbel A.",
+      "categoria": "youtube",
+      "fecha": "2026-10-02T14:00:31+00:00",
+      "extracto": "https://sharbel.com/r/mcp?src=yt-desc All five claude mcp add commands as copyable blocks. Don't use Claude Code until you've ...",
+      "vistas": 25381,
+      "miniatura": "https://i.ytimg.com/vi/WJMW6-CpQHY/hqdefault.jpg"
+    },
+    {
+      "titulo": "TradingView + Claude: 9 Hazır Promptla Teknik Analiz",
+      "link": "https://www.youtube.com/watch?v=NkIJkicBZXc",
+      "fuente": "Doğukan Doğan",
+      "categoria": "youtube",
+      "fecha": "2026-10-05T17:00:11+00:00",
+      "extracto": "TradingView ve Claude AI hazırladığım promptlarla teknik analizi senin yerine yapsın! Bu videoda TradingView MCP ...",
+      "vistas": 6122,
+      "miniatura": "https://i.ytimg.com/vi/NkIJkicBZXc/hqdefault.jpg"
+    },
+    {
+      "titulo": "트레이딩뷰 공식 MCP 나왔습니다, 클로드 연결부터 한계까지",
+      "link": "https://www.youtube.com/watch?v=yEbJe1uILiM",
+      "fuente": "작동중",
+      "categoria": "youtube",
+      "fecha": "2026-10-04T03:00:17+00:00",
+      "extracto": "트레이딩뷰가 공식 MCP 서버를 공개 베타로 내놓았습니다. 클로드에 직접 연결해서, 제 얼러트 기록을 읽고 정리하는 투자 비서로 쓸 ...",
+      "vistas": 2639,
+      "miniatura": "https://i.ytimg.com/vi/yEbJe1uILiM/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI Merging Games in 2026 EXPLAINED!",
+      "link": "https://www.youtube.com/watch?v=CVwrRn7COyc",
+      "fuente": "MrToucan Explains Memes",
+      "categoria": "youtube",
+      "fecha": "2026-10-03T17:12:22+00:00",
+      "extracto": "Someone merged Modern Warfare 2, Skate 3 and Minecraft into one playable game, and half the internet called it fake. It's not.",
+      "vistas": 171056,
+      "miniatura": "https://i.ytimg.com/vi/CVwrRn7COyc/hqdefault.jpg"
     }
   ]
 }
