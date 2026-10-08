@@ -1,9 +1,5 @@
 {
   "vistos": [
-    "8d165b804af756b6",
-    "3eaf9931d879eb55",
-    "eda710ad7bf7130e",
-    "22c25a8ff140438c",
     "d37f5b2c59270d01",
     "07a03b3c017c8234",
     "35f28cf8bdd06a47",
@@ -1999,41 +1995,13 @@
     "488489127852a016",
     "4ca64a86677c45fd",
     "51259e44a6bf1e7b",
-    "04580b6beaf7cb65"
+    "04580b6beaf7cb65",
+    "e1488a7d3c1e34b8",
+    "156e889a612f44e3",
+    "4caf9cab69f1aa3c",
+    "48da21127aebb0c7"
   ],
   "archivo": [
-    {
-      "titulo": "The 8 best AI sales assistant software in 2026",
-      "link": "https://zapier.com/blog/ai-sales-assistant",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-18T05:00:00+00:00",
-      "extracto": "From acquiring leads to following up with cold accounts to handling customer queries, sales teams have a lot to do. Like shooting guards coming off a pick on the perimeter, sometimes they need an assist to close the deal. (Don't check my basketball theory—I haven't played since eighth grade.) AI sales assistant software uses machine learning, predictive analytics, generative AI, and smart automation to do all the above and more, helping sales tea..."
-    },
-    {
-      "titulo": "The 7 best HR software for small businesses in 2026",
-      "link": "https://zapier.com/blog/best-hr-software-for-small-businesses",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-18T04:00:00+00:00",
-      "extracto": "I've always dreaded filling out the paperwork that comes with starting a new job: tax withholding, direct deposit forms, I-9s, benefits enrollment, the list goes on. But it's worth remembering that someone has to send, review, and process all of those documents for every single hire. And that only scratches the surface of what HR entails. At mid-sized and larger companies, these responsibilities might be handled by a crack team of specialists. Bu..."
-    },
-    {
-      "titulo": "The 6 best conversational AI platforms in 2026",
-      "link": "https://zapier.com/blog/conversational-ai-platforms",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-18T04:00:00+00:00",
-      "extracto": "Last year, I went to Dublin and took the Jameson Distillery tour. After a few product samples, my friend (who has clearly read one too many investing books) asked the guide, \"How much does a bottle of Jameson appreciate over time?\" I watched the man short-circuit in real time before giving a long-winded, politician-esque speech that never really answered anything. That question clearly wasn't on the training script. Every time I run into a chatbo..."
-    },
-    {
-      "titulo": "The 9 best marketing automation software tools in 2026",
-      "link": "https://zapier.com/blog/best-marketing-automation-software",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-17T22:00:00+00:00",
-      "extracto": "Forget Dunkin'—the world runs on automation. Well, at least marketing teams with tons of assets to manage and campaigns to run. If the marketing agency I work for didn't automate some of our more tedious tasks, we'd waste a lot of time doing things that software could take off our hands. There are tons of marketing tools out there that enable you to build automated workflows, but some shine above the rest. After some extensive testing, here are m..."
-    },
     {
       "titulo": "The best employee onboarding software in 2026",
       "link": "https://zapier.com/blog/best-employee-onboarding-software",
@@ -14347,6 +14315,46 @@
       "categoria": "dxw",
       "fecha": "2026-10-07T22:17:33+00:00",
       "extracto": "Ranktracker Names Fuel Online Best Search Engine Optimization Agency of 2026 Digital Journal"
+    },
+    {
+      "titulo": "New: Agent can do your marketing close sales",
+      "link": "https://www.youtube.com/watch?v=uWnQLASl95U",
+      "fuente": "The Next New Thing",
+      "categoria": "youtube",
+      "fecha": "2026-10-07T19:10:03+00:00",
+      "extracto": "Get 30% off for the first 3 months by using this link. https://www.omnisend.com/thenextnewthing/ Link to Resources: ...",
+      "vistas": 10958,
+      "miniatura": "https://i.ytimg.com/vi/uWnQLASl95U/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude MCP for Marketing: Full VOSU Integration Tutorial",
+      "link": "https://www.youtube.com/watch?v=FY_3HOaANxo",
+      "fuente": "The Online Hustle Studio",
+      "categoria": "youtube",
+      "fecha": "2026-10-04T22:17:05+00:00",
+      "extracto": "vosu #vosuai #aitutorial #vosuai #vosuai #aitutorial #vosuaitutorial Generate hundreds of UGC ads from one product image using ...",
+      "vistas": 825,
+      "miniatura": "https://i.ytimg.com/vi/FY_3HOaANxo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Made Claude Even Better",
+      "link": "https://www.youtube.com/watch?v=FsDUOUV9Vs8",
+      "fuente": "Theo - t3․gg",
+      "categoria": "youtube",
+      "fecha": "2026-10-05T05:35:48+00:00",
+      "extracto": "Anthropic's latest blog post after releasing Opus 5.5 has a surprising amount of insight on how to make your work faster and better, ...",
+      "vistas": 153514,
+      "miniatura": "https://i.ytimg.com/vi/FsDUOUV9Vs8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 Is INSANE at Motion Graphics",
+      "link": "https://www.youtube.com/watch?v=OIAWkkSO4WY",
+      "fuente": "RandomAI",
+      "categoria": "youtube",
+      "fecha": "2026-10-02T18:57:21+00:00",
+      "extracto": "Claude Opus 5.5 can now create motion graphics that look like a professional motion designer spent hundreds of hours on them.",
+      "vistas": 137812,
+      "miniatura": "https://i.ytimg.com/vi/OIAWkkSO4WY/hqdefault.jpg"
     }
   ]
 }
