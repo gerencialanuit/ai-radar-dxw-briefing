@@ -1,10 +1,5 @@
 {
   "vistos": [
-    "ef87e3b0ab280005",
-    "4cbb438f4fdf5c0b",
-    "4c4abcff4acd2c4c",
-    "be2314c62992cc2b",
-    "068e562e05123807",
     "a4dec25709f445f4",
     "0d630a0053d088d2",
     "6e7a6b2b9f813d3d",
@@ -1999,49 +1994,14 @@
     "1614940bc5ffef38",
     "e89b2f204e43d1c1",
     "6c16d43d553bddd8",
-    "abdf74e35dfd3972"
+    "abdf74e35dfd3972",
+    "56b687c2049b11af",
+    "4019898192c298f0",
+    "f5a9b70ab8f234e3",
+    "d88b709906f5f71d",
+    "ca9415b73e872087"
   ],
   "archivo": [
-    {
-      "titulo": "Plume",
-      "link": "https://www.producthunt.com/products/plume-11",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-20T16:07:49+00:00",
-      "extracto": "Import your old CV, get a polished ATS-ready one in minutes Discussion | Link"
-    },
-    {
-      "titulo": "CC",
-      "link": "https://www.producthunt.com/products/google-labs",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-20T04:37:16+00:00",
-      "extracto": "Shared agent that helps keep your family in sync Discussion | Link"
-    },
-    {
-      "titulo": "SecAIQ Watch",
-      "link": "https://www.producthunt.com/products/secaiq-watch",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-20T09:44:03+00:00",
-      "extracto": "What are your AI tools really doing on your machine? Discussion | Link"
-    },
-    {
-      "titulo": "Flicka",
-      "link": "https://www.producthunt.com/products/flicka",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-20T08:57:52+00:00",
-      "extracto": "Launch-ready product demos, from a Chrome extension Discussion | Link"
-    },
-    {
-      "titulo": "slop-grader",
-      "link": "https://www.producthunt.com/products/slop-grader",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-20T17:10:58+00:00",
-      "extracto": "Jev-AI CLI tool that evaluates text against custom rulesets Discussion | Link"
-    },
     {
       "titulo": "OmniDICOM",
       "link": "https://www.producthunt.com/products/omnidicom",
@@ -14335,6 +14295,56 @@
       "categoria": "dxw",
       "fecha": "2026-10-08T07:20:46+00:00",
       "extracto": "Getfluence and OtterlyAI partner to turn AI Search Visibility Into editorial action The Manila Times"
+    },
+    {
+      "titulo": "GPT-7 Bel First Preview, Mythos 5.1 Access, Mistral Large 4, Claude Code Update, More! AI NEWS",
+      "link": "https://www.youtube.com/watch?v=-mv1Tf26Vms",
+      "fuente": "WorldofAI",
+      "categoria": "youtube",
+      "fecha": "2026-10-07T07:25:00+00:00",
+      "extracto": "Sponsored by Zapier! Zapier SDK levels you up, letting you build custom, code-based automations directly in your editor.",
+      "vistas": 190778,
+      "miniatura": "https://i.ytimg.com/vi/-mv1Tf26Vms/hqdefault.jpg"
+    },
+    {
+      "titulo": "9 NEW Claude Mods that can truly change how you work",
+      "link": "https://www.youtube.com/watch?v=lDrAZ1wAyVs",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-10-08T12:12:10+00:00",
+      "extracto": "Get the 9 Claude Mods PDF guide for free ...",
+      "vistas": 321417,
+      "miniatura": "https://i.ytimg.com/vi/lDrAZ1wAyVs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Reklamları Otomatik Üreten AI Aracı Yaptım! | Claude + BytePlus Seedance 2.5",
+      "link": "https://www.youtube.com/watch?v=vNjUtf4LrS4",
+      "fuente": "Ömer Göçmen | Yapay Zeka & Otomasyon",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T15:55:09+00:00",
+      "extracto": "BytePlus Seedance 2.5 Resource Plan: https://bit.ly/4gGiof3 Ücretsiz Workflow/Skill: ...",
+      "vistas": 2826,
+      "miniatura": "https://i.ytimg.com/vi/vNjUtf4LrS4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Someone Just Rebuilt Adobe for Free, and Claude Can Run Them All (7 apps tested)",
+      "link": "https://www.youtube.com/watch?v=Fuo1i_-9Frc",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-10-08T11:08:06+00:00",
+      "extracto": "Get the Craft Apps Automation Guide for free ...",
+      "vistas": 238324,
+      "miniatura": "https://i.ytimg.com/vi/Fuo1i_-9Frc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Revealed 10 NEW Rules for Claude Skills",
+      "link": "https://www.youtube.com/watch?v=VQyYzLJ6xos",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-10-05T07:49:31+00:00",
+      "extracto": "Get the 10 Skill Rules PDF guide + skill-creator-plus for free ...",
+      "vistas": 101267,
+      "miniatura": "https://i.ytimg.com/vi/VQyYzLJ6xos/hqdefault.jpg"
     }
   ]
 }
