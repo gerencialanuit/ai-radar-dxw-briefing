@@ -1,28 +1,5 @@
 {
   "vistos": [
-    "25698732c6b8e24b",
-    "106d9b92dc30795e",
-    "76170f5a2368f050",
-    "53ddef6230f10e58",
-    "58c157981303f5e3",
-    "2b20d4ed49fa866c",
-    "491b9aa53a5ff185",
-    "19d2b7079815d60b",
-    "0e304920b0f4af85",
-    "4bfebe572de3504c",
-    "af4d81a6d4338762",
-    "f2ca59cbacd13c35",
-    "2c1d98ae6fd9a977",
-    "e197b59ee2a10042",
-    "5c6e11c1b75d48e2",
-    "253d118be10168e9",
-    "7fa171ba518490b4",
-    "9c800138a53c0af9",
-    "fdc4e473e45a4444",
-    "9715f53d97af3276",
-    "d29f9026a868ae7e",
-    "c3bb530166656ea4",
-    "ba666fc69821a84d",
     "48fe4d66bcce5eed",
     "be7d47c00e7334cb",
     "9da6d81ae6b6622a",
@@ -1999,193 +1976,32 @@
     "13d681b16fbe7c2a",
     "fd5850f7e2074af2",
     "6c12d79023439ff3",
-    "2943b78cd8eb6ba4"
+    "2943b78cd8eb6ba4",
+    "8bfbc99409a2838e",
+    "d6c8143f6825e8d1",
+    "7869708485564959",
+    "d6d3c913c8acdd03",
+    "97db1820962c407e",
+    "a1877bbe4b456038",
+    "b82ac6e908c9c287",
+    "0cfbe22d131c2199",
+    "ce225d4af3eab650",
+    "1d68ee6386fc1488",
+    "235fa162fe07029c",
+    "b610b1aa959a9ff8",
+    "289d601bf1f74e78",
+    "b25e19f744f59569",
+    "aa5d7a2da3f8f80b",
+    "624e4fb80035a0b0",
+    "57d255fd5cd02c40",
+    "e46f0deae1c245d5",
+    "0790cc12595c7af5",
+    "5b13455a16d99d2f",
+    "b2f24f64fb281a52",
+    "295d46a7e6512456",
+    "967d6018848227ff"
   ],
   "archivo": [
-    {
-      "titulo": "El Gobierno regional impulsa una inteligencia artificial útil y segura para mejorar y potenciar los servicios públicos - CARM.es",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnVhUjlRSVZJZVRENFpOek1pcVpDT2IzRzkwd3JPcDB0dTZfU0sxV0lHQlc0cks3d3o0TEhZRmlndExKM2xpMjhkZ3N2UHJHdTJMNUVqa2phcEc1SDgwUFpXMDVPMlhtUmo1cEFXS0Rfck9hbjEtczk3ZTA5eHA4dHBn?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-22T10:25:25+00:00",
-      "extracto": "El Gobierno regional impulsa una inteligencia artificial útil y segura para mejorar y potenciar los servicios públicos CARM.es"
-    },
-    {
-      "titulo": "Rukin, CEO de Victo Postanova: las 8 preguntas que todo empresario hace sobre datos e IA - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZk9Vdmd2c05BYUtlSU9iRmg2MWx4SW14VHdUYW5XeHh2MzRCMWlTN0xTamxVLWYyWHNDU3hUUDdoM2llM0o5RkRlRGlXdllrSkFMMjJ4b2pJNVVDOUpGSnR4TkQzQlA1cnd1T2VFMlhwbWdXOHBnT3lqYjBVZnZWTVMwS05jc0c5WlhhUmFEUVNpcFh5cTh1QjN0MWVGeGl1RE1Jb3hoemkyT2ZUd1VCcUdtc1N1WlFw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-22T11:27:54+00:00",
-      "extracto": "Rukin, CEO de Victo Postanova: las 8 preguntas que todo empresario hace sobre datos e IA El Ecosistema Startup"
-    },
-    {
-      "titulo": "BCG presenta Agentic Marketing, modelo con IA para LATAM - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakpYXzhwaXRaRUZ2UDRKSnRZNjFCc2t1blllaVlhcDA5cGxTcTY5SWFnalcwenNYRkJFQXB5ay1JbC00Uk5OLU9GN1ViR2F0MFprdEZUSzFxd3lKbTVFR0lMM0FnTjFNSXRNMFd2b0ZJMzk5QWFmaWRYLWxFaFNBS0c3NjBReU5HeGJmSndNQQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-22T11:27:54+00:00",
-      "extracto": "BCG presenta Agentic Marketing, modelo con IA para LATAM El Ecosistema Startup"
-    },
-    {
-      "titulo": "Ofrecen Sezac y BUAZ diplomado en marketing e inteligencia artificial - La Jornada Zacatecas",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjZXNldUUl9lbV8wSGswZGZTdjFiTTQwX3F4MFZIVmZMS3pNUlJkcmdmMFFsWmVOX3VGa1VWR3NHMmFzMEJSaEFPQ3p2aUhDbEFWblp5WF9kTnVkOXh0dm9nWnQ3blh2UzhFODE1ZDNBUnVPTENUUndvLXM4RHlsSVJXTlVmbE1XYktybFhodW5mNmpfb21GMmc1ci0?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-22T06:51:06+00:00",
-      "extracto": "Ofrecen Sezac y BUAZ diplomado en marketing e inteligencia artificial La Jornada Zacatecas"
-    },
-    {
-      "titulo": "Wall Street cierra en verde y el Nasdaq marca un nuevo récord con el repunte de las empresas de inteligencia artificial - EFE - Agencia de noticias",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFh5bXk1eTJIM3ctVlQ4Vnd2aU5helRNQVFWUV9rcDNBYmtqeG02aTNJb096TzhydHFnMTZTX2hBM2tLWlhfOTlmYXZPRW1oUVp4cldfVEVXekNrZjFPVG1tVWVkLTJ5VjN1cjNrMms1QmxoOTF0VV9JNkktVGFKMHQ3Z0Q?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-21T20:58:50+00:00",
-      "extracto": "Wall Street cierra en verde y el Nasdaq marca un nuevo récord con el repunte de las empresas de inteligencia artificial EFE - Agencia de noticias"
-    },
-    {
-      "titulo": "Trump says US Justice Department could rein in AI companies if needed - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-22T15:54:35+00:00",
-      "extracto": "Trump says US Justice Department could rein in AI companies if needed Reuters"
-    },
-    {
-      "titulo": "Artificial intelligence and the apocalyptic narrative: how much is science and how much is marketing? - Science Media Centre España",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONTY0THc4M0xoaURrWEIwTlhNZzh4eEcydGNYZElLdlhFcjBUTEVwT2NZSFM4alZxM0FoSHFPV2NWVng5NzJkLU5MU3d4TE41WUlNSFZ4ODN1MGlqaGU4UHlKNVJJaDZOSWNWWXlxY0ZOSmpGMmtQYzJ1cThHVy1rUnFZTzZnVnBJWUZIdEtjRnJxdGI2UDgzc1E2ZlBNSnlPeWUwZFpWaXFQcWxfTmpSOHJ2eko0TXdYV1hsMG5MN2ZwbHFrTjBv?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-22T08:19:00+00:00",
-      "extracto": "Artificial intelligence and the apocalyptic narrative: how much is science and how much is marketing? Science Media Centre España"
-    },
-    {
-      "titulo": "SpaceX's AI Business Is Booming. Here's How Much Analysts Expect It to Generate by 2030 - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTHRqb1dxaklrYnJmRUp4ZElKRHlMd0VROVlVdmtnbFY2VVVVTWthU2w4cjBJNHl5TTkyNnFELWtWSUpzYm5JOVJrSWhUMThiV18wRzdrTURVYUVuSzBKTUU1VjlWS3Q3cEQ1YVZBb0kyREI4YTVuTG1JMFhVUnVHT2pYVnZnV3lQaUl1ajFrNWMtT2d0UkNnZjZTU0sxcHExbFZuSExMTXN2NHJTeWdhQjFHS2xIQUI1N1JvRkVOTDByS1NoTG9mQg?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-22T14:59:09+00:00",
-      "extracto": "SpaceX's AI Business Is Booming. Here's How Much Analysts Expect It to Generate by 2030 The Motley Fool"
-    },
-    {
-      "titulo": "Trump to decide whether to green light US-China artificial intelligence 'hotline' agreement: sources - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUVhGOEpJUVZTREFzOTFfdzQzdW5wTDZfZDRsWEdzSmJKVy1OUXNCSm9tZ3hxYXdpWEctVnN6bExVOXQwdGZiWVJJb0RKLWVGa20yLTQ2Qk9vTTlBLTdQMERNMG56R2ppWVRZTWhEZm1rWUtobTZFYWoxQWRfZXVqRFNXcG1uRVhmUFgxbl92d05DY1FQNG5aREhGRV9GV19xVU4wa2JnWU11Q2NJNjdCX284cVVIMVp0U1pXOXhsMTl0ckxXZlcw0gHMAUFVX3lxTE9sX2N6OVYtQ0tpdkt4dWpmbVg1SGUwMnhRVEpZSFpSMlh6cG12ck0xRWZZTGtDSlhJSWRhX1JQRVBNbWRvSW9RS3Bkb0dCNVI1WWpwck9hSUxXTTdRbDVPalVRblE4UmtXenBlNU96RTF1NUtPWFdMQ1JBV3B2SGF2RllTMjEydzVOWGRuamltaEVhQk1pZlBNTUhPVlFuQVFxQTFkQ0tpTllEWjl5ZVZud0tOUlNEaHhES3lIcGlxN0tCMG1nVUtkUXE0eQ?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-21T15:47:00+00:00",
-      "extracto": "Trump to decide whether to green light US-China artificial intelligence 'hotline' agreement: sources Fox Business"
-    },
-    {
-      "titulo": "Gemini broke into 3 companies, but Google kept it quiet because ‘no damage was done’ - csoonline.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMS1yQVJMTXlnQ1gxZzNPamV6ZnFUSGxUNXRLWjdxbnRDaTc3dXc4bVRCYXlJVmdNbWd3eWM2Mkl3alRudDktQl9SZ3RQSGFrcTdBODBHYUxNN0cyT0RzSEdVeHhzSTIxTFNBVDVQT2otbEhQQ0hJQndvcWJfV3VsdFNqZGVyRTVCSUZVUnNMai02Y2xBdkRRU1NDZFpRRnZyYjhwcGlyaEN4UDZ5U2w3enVBazRsUHhoMVNrVmEtQlQ4UC0yZEZZ?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-22T01:04:31+00:00",
-      "extracto": "Gemini broke into 3 companies, but Google kept it quiet because ‘no damage was done’ csoonline.com"
-    },
-    {
-      "titulo": "Climate Week Talks Balance Hope for Clean Energy Against Uncertainty Over Artificial Intelligence - U.S. News & World Report",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTUFBVnJnZS1RUzRpWnBHckFjQXlwN0dYeXNENkM4U2VuQmhFNzhMOW5rM1NMSXYwU2NPdlJPbVVzR2RWblhTT201aENTRTA2TmxWQk5nNlI2ZndfWldGN0lJeWtWZFZoRWVSVVVsakRzR0o3TWZFdWJ5dWM4YXJGejVHQW1EMWxYZWJ1LUlWMVp2M3BwR3NLYzloN2VKaWxZSFBWRTQyOGFWVzFtZjZuYzNMeUpveWRxS280U0xqX2dfblNadFZUVllWU051RXZfMDktUm53bkRHZ1U0d25WRDlKdTlZSE1YaXNtb3VCeHF4Nk1zbmYxQw?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-21T20:39:28+00:00",
-      "extracto": "Climate Week Talks Balance Hope for Clean Energy Against Uncertainty Over Artificial Intelligence U.S. News & World Report"
-    },
-    {
-      "titulo": "Google Merchant Center Auto Enables Native Checkout: Buy On AI Mode & Gemini",
-      "link": "https://www.seroundtable.com/google-native-checkout-emails-42140.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T15:20:00+00:00",
-      "extracto": "Google is sending email notifications to Google Merchant Center users if their e-commerce platform supports Universal Commerce Protocol (UCP) and if so, telling them that \"your products are now eligible for native checkout.\" This means that your eligible products are automatically included, so if you don't want people buying directly on Google, and you want them to buy on your site, then you need to turn it off."
-    },
-    {
-      "titulo": "Daily Search Forum Recap: September 22, 2026",
-      "link": "https://www.seroundtable.com/recap-09-22-2026-42134.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T14:00:00+00:00",
-      "extracto": "Here is a recap of what happened in the search forums today..."
-    },
-    {
-      "titulo": "Gemini Notebook Pages Spamming Google Search",
-      "link": "https://www.seroundtable.com/gemini-notebook-spam-google-search-42136.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T11:52:00+00:00",
-      "extracto": "It looks like spammers are taking advantage of Gemini Notebook, public NotebookLM, pages to spam Google with all sorts of content. This includes pages on sex toys, porn, peptides, coupon codes and more."
-    },
-    {
-      "titulo": "Google AI Overview Links Pushing You To AI Mode Over Web Pages",
-      "link": "https://www.seroundtable.com/google-ai-overview-links-to-ai-mode-42132.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T11:51:00+00:00",
-      "extracto": "Google is placing links, normal looking links, within the AI Overviews that take you into AI Mode instead of taking you to web pages and web sites. These links appear at the bottom of the AI Overview and prompt follow-up questions that take you into AI Mode."
-    },
-    {
-      "titulo": "Google Merchant Center Updates Requirements For Google Store Ratings",
-      "link": "https://www.seroundtable.com/google-merchant-center-google-store-ratings-42125.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T11:41:00+00:00",
-      "extracto": "Google added a new section to the Google Store ratings: An overview for Merchants within Google Merchant Center detailing the requirements for Google Store ratings. This was added a week or so ago, and it says you need at least 100 reviews, an average star rating of 3.5 to 5, a 24-hour timeframe and the ratings are geo-segmented."
-    },
-    {
-      "titulo": "Google Business Profiles Permanently Closed Option Gone?",
-      "link": "https://www.seroundtable.com/google-business-profiles-permanently-closed-42121.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T11:31:00+00:00",
-      "extracto": "In Google Business Profiles, businesses can go in and mark their business as \"Permanently closed.\" But it seems that option went missing a few days ago. I no longer see it as an option, along with the option to select \"temporarily closed\" and some others."
-    },
-    {
-      "titulo": "Google Business Profiles Email: Detected A Spike In Spam Reviews",
-      "link": "https://www.seroundtable.com/google-business-profiles-spike-in-spam-reviews-42123.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T11:21:00+00:00",
-      "extracto": "Google is now sending out Google Business Profile email notifications when its spam systems detect a spike in spam reviews on your Business Profile. The email says, \"Protecting your Business Profile from spam reviews,\" and adds, \"Google has detected a spike in spam reviews on your Business Profile and removed them so they do not affect your Google rating.\""
-    },
-    {
-      "titulo": "Google Sponsored Results Sitelinks Tests More From Advertiser Name Title",
-      "link": "https://www.seroundtable.com/google-sponsored-results-sitelinks-titles-42122.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T11:11:00+00:00",
-      "extracto": "Google Search is testing placing a title above the sitelinks for the sponsored results, the title says \"more from [advertiser name goes here].\" I think it makes it super clear where these sponsored links go to, but it may be a bit overkill."
-    },
-    {
-      "titulo": "Google Ads To Run Gun Accessory 6-Month Pilot",
-      "link": "https://www.seroundtable.com/google-ads-gun-accessories-42133.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T11:05:00+00:00",
-      "extracto": "Google Ads will allow some gun accessory ads to run in the United States starting in October 2026 for six months. The \"limited pilot\" of gun accessories includes bipods, sights, slings, mounts, and braces."
-    },
-    {
-      "titulo": "The 2026 CDP Shift: Why AI Agents Are Only as Smart as Your Data Infrastructure",
-      "link": "https://www.twilio.com/en-us/blog/insights/why-AI-agents-are-only-as-smart-as-your-data-infrastructure",
-      "fuente": "Twilio Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T00:00:00+00:00",
-      "extracto": "Modern AI agents are only as effective as the data infrastructure behind them. Discover how unified CDPs eliminate AI silos, deliver real-time context, and power seamless, personalized customer experiences at scale. Read the 2026 CDP Report."
-    },
-    {
-      "titulo": "Sending SMS with an Agentic AI using Twilio and Hermes Agent",
-      "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-agentic-ai-using-twilio-hermes-agent",
-      "fuente": "Twilio Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-21T00:00:00+00:00",
-      "extracto": "Sending SMS with an Agentic AI using Twilio and Hermes Agent - a tutorial and review of process"
-    },
-    {
-      "titulo": "More data won't make your AI smarter (here's what will)",
-      "link": "https://www.twilio.com/en-us/blog/insights/more-data-wont-make-ai-smarter",
-      "fuente": "Twilio Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-21T00:00:00+00:00",
-      "extracto": "Data collection was never the problem. 48% of companies say connecting that data across channels is their biggest obstacle."
-    },
     {
       "titulo": "What is content engineering?",
       "link": "https://zapier.com/blog/content-engineering",
@@ -14309,6 +14125,236 @@
       "categoria": "dxw",
       "fecha": "2026-10-10T23:20:03+00:00",
       "extracto": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility apg-wi.com"
+    },
+    {
+      "titulo": "Introducing Claude Dashboards and Claude Motion",
+      "link": "https://www.youtube.com/watch?v=en0GuyhieQk",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-08T18:52:44+00:00",
+      "extracto": "Claude Dashboards and Claude Motion are in beta today. Ask Claude to turn your data into live dashboards and your ideas into ...",
+      "vistas": 1063676,
+      "miniatura": "https://i.ytimg.com/vi/en0GuyhieQk/hqdefault.jpg"
+    },
+    {
+      "titulo": "The AI unlock has begun",
+      "link": "https://www.youtube.com/watch?v=h5zkzon0gM4",
+      "fuente": "AI Search",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T03:36:24+00:00",
+      "extracto": "How AI is used to mod games. Pass through mod, rebuilding in rust, porting mechanics. Claude Opus 5.5 game mod. Thanks to ...",
+      "vistas": 908861,
+      "miniatura": "https://i.ytimg.com/vi/h5zkzon0gM4/hqdefault.jpg"
+    },
+    {
+      "titulo": "LGTM (Looks Good to Me) - Claude Opus 5.5 music video",
+      "link": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+      "fuente": "Degenerative Pixels",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T00:38:43+00:00",
+      "extracto": "LGTM stands for \"looks good to me\". Lately it's what engineers type on code they never had time to read, because leadership ...",
+      "vistas": 808724,
+      "miniatura": "https://i.ytimg.com/vi/3TNpOD6bov8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude for Google Workspace™",
+      "link": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T17:02:37+00:00",
+      "extracto": "Claude works inside Google Docs, Sheets, and Slides, and one install covers all three. Claude reads the file you have open and ...",
+      "vistas": 347921,
+      "miniatura": "https://i.ytimg.com/vi/idJQMJwHtyM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Dropped Claude Motion, Dashboards + More (AI News)",
+      "link": "https://www.youtube.com/watch?v=LlwhNla5eQg",
+      "fuente": "Brock Mesarich | AI for Non Techies",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T17:45:40+00:00",
+      "extracto": "Claude Video: https://higgsfield.ai/s/FYtrqC Blotato: https://www.blotato.com/?ref=brock Another big week in AI, and your life ...",
+      "vistas": 272985,
+      "miniatura": "https://i.ytimg.com/vi/LlwhNla5eQg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
+      "link": "https://www.youtube.com/watch?v=5N1moUCsVhI",
+      "fuente": "Matt Loui",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T12:27:39+00:00",
+      "extracto": "This video is sponsored by Higgsfield. Sign up here: https://higgsfield.ai/s/mattloui-PxOiwv Here's how to automate your CapCut ...",
+      "vistas": 304481,
+      "miniatura": "https://i.ytimg.com/vi/5N1moUCsVhI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Getting started with Claude Code Projects",
+      "link": "https://www.youtube.com/watch?v=omihvjf0A2k",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T19:49:09+00:00",
+      "extracto": "A project in Claude Code is one ongoing conversation where Claude coordinates the work for you, running each task as its own ...",
+      "vistas": 290773,
+      "miniatura": "https://i.ytimg.com/vi/omihvjf0A2k/hqdefault.jpg"
+    },
+    {
+      "titulo": "Crea una Landing ESPECTACULAR con Claude Code",
+      "link": "https://www.youtube.com/watch?v=A4QYEDQCnaQ",
+      "fuente": "midudev",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T14:00:25+00:00",
+      "extracto": "Convierto 6 fotos de un restaurante real en una landing que se recorre como una película, con Claude Code y el MCP de ...",
+      "vistas": 212967,
+      "miniatura": "https://i.ytimg.com/vi/A4QYEDQCnaQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "10 Years Of Claude Code!",
+      "link": "https://www.youtube.com/watch?v=PT_Pewl5zxI",
+      "fuente": "Specular Torch",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T05:06:32+00:00",
+      "extracto": "Socials: https://specular.blog/socials Discord: https://discord.gg/specular Business Inquiries: specularbusiness@gmail.com ...",
+      "vistas": 154368,
+      "miniatura": "https://i.ytimg.com/vi/PT_Pewl5zxI/hqdefault.jpg"
+    },
+    {
+      "titulo": "클로드코드 미친 신기능 Mods #Shorts #Mods #모드 #클로드코드 #ClaudeCode",
+      "link": "https://www.youtube.com/watch?v=b61TfmQgUIk",
+      "fuente": "잔재미코딩(DaveLee)",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T01:00:04+00:00",
+      "extracto": "Claude Code에 새로 생긴 Mods를 제 맥북에서 직접 만들어 봤습니다. 원하는 걸 말로 부탁하면 Claude가 Mod를 만들고, Claude ...",
+      "vistas": 208418,
+      "miniatura": "https://i.ytimg.com/vi/b61TfmQgUIk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Now Does Video (FOR FREE) Thanks To JavaScript",
+      "link": "https://www.youtube.com/watch?v=rscb1DgJtNg",
+      "fuente": "Chase AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T17:00:09+00:00",
+      "extracto": "Master Claude Code + Codex: https://www.skool.com/chase-ai FREE community: https://www.skool.com/chase-ai-community ...",
+      "vistas": 140200,
+      "miniatura": "https://i.ytimg.com/vi/rscb1DgJtNg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Grok Bot Now Uses Claude Opus 5.5 + More (MASSIVE Update)",
+      "link": "https://www.youtube.com/watch?v=Z8H3MvLJwfs",
+      "fuente": "Brock Mesarich | AI for Non Techies",
+      "categoria": "youtube",
+      "fecha": "2026-10-07T13:20:05+00:00",
+      "extracto": "Grok Bot just got a massive update: it is no longer limited to Grok's own models, and it will start using other top AI models like ...",
+      "vistas": 102822,
+      "miniatura": "https://i.ytimg.com/vi/Z8H3MvLJwfs/hqdefault.jpg"
+    },
+    {
+      "titulo": "【革命】DaVinci Resolve × Claude｜全てが変わったAI編集を徹底解説",
+      "link": "https://www.youtube.com/watch?v=knbMxBC5q4U",
+      "fuente": "AKIYA MOVIE",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T09:00:03+00:00",
+      "extracto": "The Edit Room.｜DaVinci Resolve特化チャンネル まだ登録してない方は今のうちに！",
+      "vistas": 43227,
+      "miniatura": "https://i.ytimg.com/vi/knbMxBC5q4U/hqdefault.jpg"
+    },
+    {
+      "titulo": "Higgsfield Katana + Claude: Transform and Edit Any Video",
+      "link": "https://www.youtube.com/watch?v=d8wQHmbdJkc",
+      "fuente": "Dom the AI Tutor | Tech Tutor Zones",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T15:18:50+00:00",
+      "extracto": "In this showcase, I show how to use Higgsfield Katana directly inside Claude to create, edit, and recreate videos and motion ...",
+      "vistas": 18993,
+      "miniatura": "https://i.ytimg.com/vi/d8wQHmbdJkc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Connecter Claude à Home Assistant avec MCP : le tuto complet 2026",
+      "link": "https://www.youtube.com/watch?v=-TJFp5YHN4g",
+      "fuente": "Bolétique",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T18:14:33+00:00",
+      "extracto": "J'ai connecté Claude à mon Home Assistant via MCP, et je lui ai demandé de créer mes dashboards et mes automatisations à ma ...",
+      "vistas": 12240,
+      "miniatura": "https://i.ytimg.com/vi/-TJFp5YHN4g/hqdefault.jpg"
+    },
+    {
+      "titulo": "The New Home Assistant AI Menu Looks Easy. Is It?",
+      "link": "https://www.youtube.com/watch?v=Wk-STVMs29E",
+      "fuente": "KPeyanski",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T15:15:16+00:00",
+      "extracto": "THE PDF THAT GOES WiTH THIS VIDEO - https://automatelike.pro/ai-one-click ▻ MY FREE + SHIPPING BOOK \"HOME ...",
+      "vistas": 5144,
+      "miniatura": "https://i.ytimg.com/vi/Wk-STVMs29E/hqdefault.jpg"
+    },
+    {
+      "titulo": "FINALMENTE CHEGOU! IA para Vídeo e Imagem INFINITA 100% AUTOMÁTICO e ILIMITADO",
+      "link": "https://www.youtube.com/watch?v=K1SgKIFYUbg",
+      "fuente": "Nova Riqueza IA",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T14:43:12+00:00",
+      "extracto": "Nova IA Higgsfield MCP: https://higgsfield.ai/s/higgsfield-mcp-general-yt-novariquezaia-BbKibe Imagine transformar o Claude em ...",
+      "vistas": 5195,
+      "miniatura": "https://i.ytimg.com/vi/K1SgKIFYUbg/hqdefault.jpg"
+    },
+    {
+      "titulo": "What s new in Claude: September recap",
+      "link": "https://www.youtube.com/watch?v=ICGS7LlRfpI",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-07T15:41:05+00:00",
+      "extracto": "Chat and Cowork are now one Claude, and September's updates add docs, decks, and designs to any conversation. Work now ...",
+      "vistas": 273152,
+      "miniatura": "https://i.ytimg.com/vi/ICGS7LlRfpI/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI Agents Are Decompiling Every Video Game",
+      "link": "https://www.youtube.com/watch?v=rRQzrQLZRWM",
+      "fuente": "Slop Architect",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T06:13:03+00:00",
+      "extracto": "AI agents are turning finished video games back into source code, and modders are going wild with it. Minecraft inside Elden Ring ...",
+      "vistas": 222934,
+      "miniatura": "https://i.ytimg.com/vi/rRQzrQLZRWM/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Prompt Like a Director Using Opus 5.5 + Seedance 2.5 (Full Workflow)",
+      "link": "https://www.youtube.com/watch?v=kFKpcCHkuPI",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-07T12:27:27+00:00",
+      "extracto": "Make AI ads feel like a real shoot. Create a cinematic commercial with Higgsfield Cinema Studio and Seedance 2.5.",
+      "vistas": 209331,
+      "miniatura": "https://i.ytimg.com/vi/kFKpcCHkuPI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude s New Updates Are Insane… But Grok Bot Is EVEN Bigger",
+      "link": "https://www.youtube.com/watch?v=UFa8pXW9A3k",
+      "fuente": "Riley Brown",
+      "categoria": "youtube",
+      "fecha": "2026-10-10T20:03:25+00:00",
+      "extracto": "This week in AI: Claude Dashboards, Motion, Projects and Haiku 5.5; ChatGPT Intelligent UI and Codex updates; GrokBot ...",
+      "vistas": 174493,
+      "miniatura": "https://i.ytimg.com/vi/UFa8pXW9A3k/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Haiku 5.5: Anthropic s New Workhorse.",
+      "link": "https://www.youtube.com/watch?v=EqMxcTvJorQ",
+      "fuente": "Prompt Engineering",
+      "categoria": "youtube",
+      "fecha": "2026-10-07T20:09:51+00:00",
+      "extracto": "Anthropic just released Claude Haiku 5.5, which it calls its cheapest, fastest, and most capable small model yet. For prompts ...",
+      "vistas": 158948,
+      "miniatura": "https://i.ytimg.com/vi/EqMxcTvJorQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Merge Video Games With AI! (Full Tutorial)",
+      "link": "https://www.youtube.com/watch?v=jXsB-WMP0d0",
+      "fuente": "Brendan Jowett",
+      "categoria": "youtube",
+      "fecha": "2026-10-06T12:05:24+00:00",
+      "extracto": "Claude: https://clau.de/BrendanJowett Melty: https://melty.gg/ Full courses + unlimited support: ...",
+      "vistas": 106754,
+      "miniatura": "https://i.ytimg.com/vi/jXsB-WMP0d0/hqdefault.jpg"
     }
   ]
 }
