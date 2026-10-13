@@ -1,12 +1,5 @@
 {
   "vistos": [
-    "c5991de33e8bef69",
-    "dee28f7250c8a3ac",
-    "91169ef6aff2b7f7",
-    "fcb4f9ed9b514afa",
-    "aa4fc125e3627cdb",
-    "62d3dcd846278c3b",
-    "42deee4c9af22823",
     "28d19980e580d742",
     "b942f6f68ad42862",
     "9aed5b503f65fe22",
@@ -1999,65 +1992,16 @@
     "633bfd234cae0710",
     "5fa1499ee98ba9fe",
     "6683f1fa534702c9",
-    "73be414ae391a7a9"
+    "73be414ae391a7a9",
+    "ad3eac592542f251",
+    "932918f590e4c15c",
+    "09a6ceaf1d908410",
+    "f8c7334ec0968305",
+    "cbc153bb6a30299c",
+    "aa7e5a9db1793fc8",
+    "61b2b3c73dbcf0f4"
   ],
   "archivo": [
-    {
-      "titulo": "Claude 5.5: What you need to know about Anthropic's AI models and chatbot",
-      "link": "https://zapier.com/blog/claude-ai",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T04:00:00+00:00",
-      "extracto": "I've been using Claude long enough to remember when the main selling point was that it was a nicer chatbot to talk to than the alternatives. (That's still true, for what it's worth.) But Claude no longer just talks to you about your work; it also does your work for you. You can give Claude a project, head off to make a coffee, and check in occasionally when questions pop up. For enterprises looking to get real productivity gains from AI, Claude h..."
-    },
-    {
-      "titulo": "Dub Program Marketplace",
-      "link": "https://www.producthunt.com/products/dub",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T14:30:21+00:00",
-      "extracto": "Browse and apply to the best SaaS affiliate programs Discussion | Link"
-    },
-    {
-      "titulo": "Linguo Translate",
-      "link": "https://www.producthunt.com/products/linguo-translate-for-macos",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-21T17:44:45+00:00",
-      "extracto": "Offline & AI Translation for macOS Discussion | Link"
-    },
-    {
-      "titulo": "Koreshield",
-      "link": "https://www.producthunt.com/products/koreshield",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T12:47:36+00:00",
-      "extracto": "Security and evidence for AI support agents Discussion | Link"
-    },
-    {
-      "titulo": "Lightmeter",
-      "link": "https://www.producthunt.com/products/lightmeter-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T04:06:00+00:00",
-      "extracto": "Film Camera designed for everyday moments Discussion | Link"
-    },
-    {
-      "titulo": "Alexandria by Firecrawl",
-      "link": "https://www.producthunt.com/products/extract-by-firecrawl",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T17:16:10+00:00",
-      "extracto": "The knowledge library for superintelligence Discussion | Link"
-    },
-    {
-      "titulo": "Claude Opus 5.5",
-      "link": "https://www.producthunt.com/products/claude-fable-5-1",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-09-22T16:36:09+00:00",
-      "extracto": "Anthropic's first model in their new Claude 5.5 family Discussion | Link"
-    },
     {
       "titulo": "ToneBird",
       "link": "https://www.producthunt.com/products/tonebird",
@@ -14341,6 +14285,76 @@
       "categoria": "dxw",
       "fecha": "2026-10-13T17:50:25+00:00",
       "extracto": "Adobe's AI Search Visibility: What Investors Should Know - Adobe (NASDAQ:ADBE) Benzinga"
+    },
+    {
+      "titulo": "I Tried 100+ Github Repos for Claude. These 6 Are the Best",
+      "link": "https://www.youtube.com/watch?v=HhZdNYI4pJs",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T12:30:18+00:00",
+      "extracto": "FREE Scrollcraft Website Design Skill: ...",
+      "vistas": 167045,
+      "miniatura": "https://i.ytimg.com/vi/HhZdNYI4pJs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Сборка Claude Code бесплатно",
+      "link": "https://www.youtube.com/watch?v=Ofk6g_kXXvw",
+      "fuente": "AsTop",
+      "categoria": "youtube",
+      "fecha": "2026-10-08T08:37:30+00:00",
+      "extracto": "",
+      "vistas": 133921,
+      "miniatura": "https://i.ytimg.com/vi/Ofk6g_kXXvw/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Easily Connect GSC GA4 With Claude [Using MCP]",
+      "link": "https://www.youtube.com/watch?v=lNxZMKFkmMY",
+      "fuente": "A2Z Digital Academy",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T12:30:19+00:00",
+      "extracto": "Learn how to connect Google Search Console (GSC) and Google Analytics 4 (GA4) directly to Claude AI using Model Context ...",
+      "vistas": 1368,
+      "miniatura": "https://i.ytimg.com/vi/lNxZMKFkmMY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Testei o Claude Opus 5.5 pra GERAR VÍDEOS | SURREAL | + HIGGSFIELD",
+      "link": "https://www.youtube.com/watch?v=5VUrQwfjT34",
+      "fuente": "Negócios em Mente",
+      "categoria": "youtube",
+      "fecha": "2026-10-08T15:00:09+00:00",
+      "extracto": "Teste a Higgsfield e Gere Vídeos REALISTAS para os seus Projetos: https://higgsfield.ai/s/opus-5-5-negociosemmente-SeLRSA ...",
+      "vistas": 2220,
+      "miniatura": "https://i.ytimg.com/vi/5VUrQwfjT34/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude’s 11 Lakh Rupees Subscription #claude #anthropic #chatgpt #openai #samaltman #aipricing",
+      "link": "https://www.youtube.com/watch?v=BI_cfDWVMjY",
+      "fuente": "Mayankshah",
+      "categoria": "youtube",
+      "fecha": "2026-10-08T13:45:04+00:00",
+      "extracto": "Do you pay for Claude or ChatGPT every month? You're getting far more than you pay for. SemiAnalysis bought the $200 ...",
+      "vistas": 239759,
+      "miniatura": "https://i.ytimg.com/vi/BI_cfDWVMjY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Comment faire du Motion Design PRO avec Claude Opus 5.5 (guide complet)",
+      "link": "https://www.youtube.com/watch?v=DBQqB8eqpFI",
+      "fuente": "Maxence Tison",
+      "categoria": "youtube",
+      "fecha": "2026-10-07T13:36:15+00:00",
+      "extracto": "Mon système Editing OS + la bibliothèque d'animations, prêts à l'emploi ⤵️ https://www.skool.com/generation-ia Claude et ...",
+      "vistas": 105936,
+      "miniatura": "https://i.ytimg.com/vi/DBQqB8eqpFI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Trade Using Claude Ai Trading Bot | Trading For Beginners | Delta Exchange India MCP",
+      "link": "https://www.youtube.com/watch?v=_45lPcZ-3WE",
+      "fuente": "Neeraj joshi",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T13:30:06+00:00",
+      "extracto": "How To Trade Using Claude Ai Trading Bot | Model Context Protocol(MCP) | Delta Exchange India This video is based on How To ...",
+      "vistas": 135910,
+      "miniatura": "https://i.ytimg.com/vi/_45lPcZ-3WE/hqdefault.jpg"
     }
   ]
 }
