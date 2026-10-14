@@ -1,14 +1,5 @@
 {
   "vistos": [
-    "4a19c9abdcc198ed",
-    "de7583d0d2e5b85c",
-    "ff8bda4a60f0dd5e",
-    "469d8da91a36901d",
-    "5b3d93a3f872296d",
-    "00fc19dc61db6a47",
-    "34e29067b5583605",
-    "44084287147f6737",
-    "ee703fb82eb8e95d",
     "025fd5e35c0a3de5",
     "494de8dee85d1f8d",
     "be1a2faac6b60249",
@@ -1999,81 +1990,18 @@
     "18a96ebac75f9965",
     "315efb08b13e9ec0",
     "cb0e47701aeb9ec5",
-    "de37056999b342b2"
+    "de37056999b342b2",
+    "a1227e625e89bff5",
+    "f45d806482000d4d",
+    "f7347b6dca9e930f",
+    "aae5604d7ce46a87",
+    "976223091881cfb7",
+    "cf955f7fb61967d9",
+    "7545dfd59bd528ab",
+    "9026a08b7ee1a021",
+    "ca1d4330ca59a3d4"
   ],
   "archivo": [
-    {
-      "titulo": "Leaders of leading AI companies warned the UN about the risks of artificial intelligence to humanity - Українські Національні Новини (УНН)",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3RJeEhtaGhsbXJEVmlXNVg4Rl9obTF6dU14QWZWcEg4YndRVkQwVzNjUEs5U3NkanpmVU42RkVVeTFwOUdUNG5mejd4Z0N0UllQWVJkR0pmSXdVNjNvMG1iNVl6dklKdWVFOUh1bVpqN3dxeEtpamotVzIwNXhDZmZXQ19FYW03Wnotdnp1eE8yVHkyYk9zMk1GUDllenowY2c5dXRUOG8ybEdHZEJBdjR0enBiREN5SU1IY2ZlVlrSAb8BQVVfeXFMTkV1V0dCZEtaX0hydTJuWkd6ZThNcGNNYWFNc3ppeHZVcXVVdEM1RmlObGl6YTFPbS1IUWVKMG9wekluT1l4bVYyOGkzZUxHd1JjRTlEVk9TZjRYUU1WVFl2NzdVZUpyQ3o2RXh2QWVtZUROaDRaVEs4UVZZLVlrZ0g1Z0pUMG9MU0FZWmt5OE14M1VNTUpLM2ZnTGxvTGVrNWJiWlJvb2tobk83NVg0dW5NNlFLZ1Z6THlwUUxzXzA?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-24T08:06:26+00:00",
-      "extracto": "Leaders of leading AI companies warned the UN about the risks of artificial intelligence to humanity Українські Національні Новини (УНН)"
-    },
-    {
-      "titulo": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkc2S1Zlc0pCdDl6NjZnTl9zNXZQZnZaNTF1d3lkazNqZkJCSFhLaHNXT1ZZcTNQeFdNdzJ1S1FNeVNuSDNPcmFfQUxMbzdHLWhBQVpTd1BiYXp6d1VoRUVwX2xqVWlQWHdDU0tHRDZyQTdVZzJXUUs4a2czZ1BlM0J0aFRLcm9nUDNDTW5rZndjQQ?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-24T10:00:17+00:00",
-      "extracto": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher The New York Times"
-    },
-    {
-      "titulo": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - pbs.org",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVVhVHJiZGpsVUVGU0JPSFEwOW1PS2lGM3FjVjRnZmVQMVQ3SjBjbEEzNGdyaTFMUXZOaTQ4bkhDb1pSUE5SbnBNejFZUFlaTzE0SkFfdEZXUkJ5WFRrQ3JwT0NjanFDbmM5WF9lWURqb2R4MUFVZGMtRmFfU1pmVGg1Ynl5a2FJVzJENFNOTEt4Uk5XdDNyVURyRVA5VXRjVUFPRFdmanNlbEdWX04wUEx3S05iTTViWWVCdV9xLXNPdFpPcG1QQUhuRUdRUQ?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-23T18:10:58+00:00",
-      "extracto": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI pbs.org"
-    },
-    {
-      "titulo": "AI leaders warn UN of security risks as systems grow more powerful - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-23T10:05:00+00:00",
-      "extracto": "AI leaders warn UN of security risks as systems grow more powerful Reuters"
-    },
-    {
-      "titulo": "AI uses routine CT images to evaluate cardiovascular risk - cardiovascularbusiness.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXZ0a1VPSkt0WEprT0lHdU9oSGRkMmZ2THJxMzNzRUlIcmtUa2VPc3NTU1V1T2lRclRFbWxKYVZLUVRkVm1iRmhyVEZYbnFMSDdWYnBTdnNaWS1GWGhMZzBHZHlXZVA0SXkxNXUtM1E4bXVoTm5kNmpZLVRwMWxLV3U1MUVERk9qaDlDVENkakhRdDU5aThvOEFiRDBBR2R4blVlVVgyS3N4NWFQeEZCVFFKUklCSWFnemlwOQ?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-23T17:02:45+00:00",
-      "extracto": "AI uses routine CT images to evaluate cardiovascular risk cardiovascularbusiness.com"
-    },
-    {
-      "titulo": "MLB implements artificial intelligence in cameras - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GUUdUbWhjTDBzS1R6M0ctVHRZYmROY3dSeTh0ZC0wcFM0aWxhMXVwU2E4akZ4N0NOeXZCUk9XbkRhWWJuNHI0LW1hc1prb2l3cUZzcXdVNVBudW8?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-23T17:07:43+00:00",
-      "extracto": "MLB implements artificial intelligence in cameras Fox Business"
-    },
-    {
-      "titulo": "OpenAI’s Altman and Anthropic’s Amodei address UN security council - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40TGtvSHVVUE1jRnZNbWU2TG1lNmllWWc5NDhDLWVSenItS0JyMGcxY2hwaEVjLVZZeWZxNTFTLUhWZmwxSG9LM0U0VVViWXNyaHN3WFhkYnZwVlk2OFhHcExhOUViMzRHWml0RW0xUXk5aXNFMkppenMzUE9QRFk?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-23T21:16:00+00:00",
-      "extracto": "OpenAI’s Altman and Anthropic’s Amodei address UN security council The Guardian"
-    },
-    {
-      "titulo": "Australia says OpenAI agent hacked Medicare portal - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2RidlRlTElSSHh0MHVjbDFXZ2J2V0tJbjdtbGVJT09EM3JRVG5yMUtKN1RoZG9pcXNyd3ByYnJLSXhsRDIyeEJOVlRQMkstT2lnQnJ1UWJ1V2QwZXJmOHpVNEJ2aWlFMEZyWVRhT1RJWGJ5R3FVT1c1dmo5VlpuUDllVkxDQWp5bjRmampQYWNoU2N0YnfSAZsBQVVfeXFMUFRSTGtUVnlVR00zQkhLOGZKTTVRRE1IZ2hzQUUtM0REX0xaOThETThCTUxUZENEQVZmWXoxanlBMFVqWEdybmwtUUlheTRKYzJHOFlVNVFDdHBvdGRKSFpzejVjRjVXZUJkMTg1WUtFTmFGNzFCVXJkUVBsUHNqT0o2Vjl1MzZoZkZ6dm1Id0tyNi1tZ3c3VE90T0k?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-24T02:38:08+00:00",
-      "extracto": "Australia says OpenAI agent hacked Medicare portal Al Jazeera"
-    },
-    {
-      "titulo": "AI companies using fear for profit, say UK officials - The Times",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXZXcDhUTmRaVFlQSExBQk5idkpBUjU1eUE0WkZ5UGl6ZXVMVURRU01fMk5XS250dU5XTWVVWG1BSk9SSmJhejdUbXNSYU9tel90LWVHTXJOOXNQLTBlQXc3YzRlQm5mMk10RWJ2ZDVuLXJ1QnB4NUFJUEY5dndXakJWMWtTaHRaT0Y0MXBqbEpzcmxqODJvSUQ5RjZSSm9f?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-23T19:55:00+00:00",
-      "extracto": "AI companies using fear for profit, say UK officials The Times"
-    },
     {
       "titulo": "Announcing web multimodal Search performance reporting in Search Console",
       "link": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
@@ -14335,6 +14263,96 @@
       "categoria": "dxw",
       "fecha": "2026-10-14T05:59:33+00:00",
       "extracto": "Obsero Raises €1M for AI Search Visibility Konsulteer"
+    },
+    {
+      "titulo": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI s Math Backlash, France Riots",
+      "link": "https://www.youtube.com/watch?v=TBLHdXABwAg",
+      "fuente": "All-In Podcast",
+      "categoria": "youtube",
+      "fecha": "2026-10-10T02:28:10+00:00",
+      "extracto": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, ...",
+      "vistas": 522364,
+      "miniatura": "https://i.ytimg.com/vi/TBLHdXABwAg/hqdefault.jpg"
+    },
+    {
+      "titulo": "YAPAY ZEKA İLE VİDEO NASIL YAPILIR? 🔥 Claude + Higgsfield Katana",
+      "link": "https://www.youtube.com/watch?v=YYE4BU5PUFo",
+      "fuente": "Seym Lab",
+      "categoria": "youtube",
+      "fecha": "2026-10-12T11:00:24+00:00",
+      "extracto": "Yapay zeka ile video nasıl yapılır? Bu videoda Higgsfield Katana ve Claude AI kullanarak kendi yapay zeka karakterimle ...",
+      "vistas": 2003,
+      "miniatura": "https://i.ytimg.com/vi/YYE4BU5PUFo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Home Assistant MCP + Claude 2026: KI baut mein Dashboard selbst",
+      "link": "https://www.youtube.com/watch?v=Wq15OKg0y8o",
+      "fuente": "Project SmartLab",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T08:00:15+00:00",
+      "extracto": "Home Assistant mit Claude verbinden: Du betreibst Home Assistant bereits auf Proxmox und willst jetzt KI-Unterstützung in ...",
+      "vistas": 702,
+      "miniatura": "https://i.ytimg.com/vi/Wq15OKg0y8o/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude’s new Usage Policy. Anthropic bans ‘abusive or cruel behavior’ toward Claude #claude",
+      "link": "https://www.youtube.com/watch?v=78JEDXxz_4g",
+      "fuente": "Mayankshah",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T13:39:18+00:00",
+      "extracto": "On Oct 8, Anthropic announced a new usage policy that takes effect Nov 12, 2026. It bans \"sustained and needless abusive or ...",
+      "vistas": 126525,
+      "miniatura": "https://i.ytimg.com/vi/78JEDXxz_4g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude for Startups: How to Apply (Free Claude Team + $1,000 API Credits)",
+      "link": "https://www.youtube.com/watch?v=55pSC_P_PdQ",
+      "fuente": "Sumit Paul",
+      "categoria": "youtube",
+      "fecha": "2026-10-08T10:12:56+00:00",
+      "extracto": "How to apply for the Claude for Startups program, step by step. Anthropic now gives eligible startups a free year of Claude Team ...",
+      "vistas": 78513,
+      "miniatura": "https://i.ytimg.com/vi/55pSC_P_PdQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 Makes A Viral Roblox Game",
+      "link": "https://www.youtube.com/watch?v=Ylkkn7ZwAjM",
+      "fuente": "Dumbledore",
+      "categoria": "youtube",
+      "fecha": "2026-10-07T23:32:39+00:00",
+      "extracto": "This video took so long to make haha, so id be one happy wizard if you subscribeeeeedddddd!!! Also, first video on the channel, ...",
+      "vistas": 77373,
+      "miniatura": "https://i.ytimg.com/vi/Ylkkn7ZwAjM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Don t Waste Money On Claude Code Context #ai #developer",
+      "link": "https://www.youtube.com/watch?v=eIt4C-PATmE",
+      "fuente": "DIY Smart Code",
+      "categoria": "youtube",
+      "fecha": "2026-10-08T21:59:15+00:00",
+      "extracto": "How to use Claude Code without burning tokens: why Claude Code usage climbs in a long session, what the context window ...",
+      "vistas": 131865,
+      "miniatura": "https://i.ytimg.com/vi/eIt4C-PATmE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Is it over for Video Editors?",
+      "link": "https://www.youtube.com/watch?v=BbwOD26x-74",
+      "fuente": "Aasil Khan",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T09:30:49+00:00",
+      "extracto": "Get music and sound effects for your videos from Epidemic Sound: https://share.epidemicsound.com/aasilkhanOCT26 Join the ...",
+      "vistas": 83547,
+      "miniatura": "https://i.ytimg.com/vi/BbwOD26x-74/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Use Claude AI for Coding, Writing Productivity (2026)",
+      "link": "https://www.youtube.com/watch?v=hxddUbCzDjI",
+      "fuente": "Eren AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-08T10:51:59+00:00",
+      "extracto": "Try Claude AI: https://claude.ai/ Claude AI is one of the most powerful AI assistants for writing, coding, research, analysis, and ...",
+      "vistas": 38870,
+      "miniatura": "https://i.ytimg.com/vi/hxddUbCzDjI/hqdefault.jpg"
     }
   ]
 }
