@@ -1,16 +1,5 @@
 {
   "vistos": [
-    "92c58c1b95602643",
-    "f23573f8baf695c6",
-    "42ba56cb55d4ea72",
-    "d37ce11fa5e902fc",
-    "c32ca9e1c9d1d679",
-    "0fb1929c229c14c6",
-    "1852061b5cf6950b",
-    "06daba08af15aa42",
-    "06b8d0ad6f63e2ce",
-    "705bd6c095e82bdb",
-    "7909c613945e81a8",
     "15eb5b1c419aea07",
     "edd884e3eb651634",
     "7898549b95c3b8f5",
@@ -1999,97 +1988,20 @@
     "f1f0993afe4151fe",
     "01ad5662e4f888e7",
     "caaca89d6f2ec614",
-    "db1fb24ee7240c39"
+    "db1fb24ee7240c39",
+    "0bbaf1b787271c4c",
+    "e1d97a7fd07c8dc4",
+    "b77d4a3ea5639b48",
+    "b9e5b0f349c4a467",
+    "c30834fff6e0753f",
+    "06b994669ecfd52d",
+    "93ae189d9591785b",
+    "3fb299597745a508",
+    "6d1cb5dcbb77c089",
+    "60d4dcc418da9d88",
+    "9091198e5880f5b9"
   ],
   "archivo": [
-    {
-      "titulo": "Financing of historic AI buildout raises systemic risks in US, researcher says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTI0NGRQVHZXUklOa2xra3RUeVRIUnBhYjdYVENBX1UzTkJoZ1hsX1lvX185ajhhNG5xeWpCMWctSUlnVDFlcE93akVCblpGMy1QY0lCUEJDSVZyZnFWVVA4ZzRhSDM2eVlKelBJRDQ1dlh4UjRsYS0xdVBVX2lWRGQ5ZklQUi03NnZBVm9ncE1KU2JOR3hWRFZ6djBVR1dCak5zREE0VUp3UF9ieWRsQlk0VXUycXBQNTQ1eHdzbkdydw?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-24T10:07:31+00:00",
-      "extracto": "Financing of historic AI buildout raises systemic risks in US, researcher says Reuters"
-    },
-    {
-      "titulo": "Everyone is looking for AI ROI in the wrong places - Arabian Business",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEFLTUk2M3VXdnhBMW5OMWJidGw5dENMcFpSLW5Ec2lmeE8wSmNRNXBIVFZwRlRrUm1BeTRnOURVMmkyUkJkY0U4bTZNZHZQMDFMWlFOUGVVdWxOUHVJREJVWmd0NDhWekNuTklnWk5QR2NIejFKc3NEVHBpZTRIVnJETm5yWGpsdGhReU1aQndDUG81?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-25T09:46:01+00:00",
-      "extracto": "Everyone is looking for AI ROI in the wrong places Arabian Business"
-    },
-    {
-      "titulo": "Daily Search Forum Recap: September 25, 2026",
-      "link": "https://www.seroundtable.com/recap-09-25-2026-42166.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-25T14:00:00+00:00",
-      "extracto": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has released a new algorithm update, not a core update, but a spam update and this spam update will take two weeks..."
-    },
-    {
-      "titulo": "Search News Buzz Video Recap: Google September 2026 Spam Update Is Here, Goodbye Discover Traffic, Multimodal Search Reporting & CrUX Ad Metrics In Page Experience",
-      "link": "https://www.seroundtable.com/video-09-25-2026-42164.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-25T12:01:00+00:00",
-      "extracto": "This week, Google announced yet another spam update, the fourth of the year, the September 2026 Google spam update. Prior to that, we reported on more Google Search ranking volatility. Google Search Console released multimodal search filters..."
-    },
-    {
-      "titulo": "OpenAI Has Quality Raters, AI Trainers, & They Cheated With AI",
-      "link": "https://www.seroundtable.com/openai-quality-raters-ai-trainers-42149.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-25T11:51:00+00:00",
-      "extracto": "As you know, Google has thousands of quality raters they use to help test and improve the search results and AI results. OpenAI does the same thing, with AI trainers according to a report by 404 Media."
-    },
-    {
-      "titulo": "Google LSAs Showing Google Business Profile Number, Not Google Ads Number",
-      "link": "https://www.seroundtable.com/google-lsa-phone-number-42160.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-25T11:41:00+00:00",
-      "extracto": "Google seems to have made a change in which phone number they use for tracking calls, even when you tell Google to use the Google Ads number, it is still using the Google Business Profiles phone number. I am told this is a confirmed change and Google still has not changed it back, and it is unclear if Google will change it back."
-    },
-    {
-      "titulo": "Bing Testing Editable Labels On Images",
-      "link": "https://www.seroundtable.com/bing-images-editable-labels-42152.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-25T11:31:00+00:00",
-      "extracto": "Microsoft Bing is testing adding an editable icon in two formats on images within Bing Search that can be edited using Bing's AI image feature."
-    },
-    {
-      "titulo": "Google Ads Disables Editing Target ROAS While Promotion Mode Is Active",
-      "link": "https://www.seroundtable.com/google-ads-target-roas-promotion-mode-42150.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-25T11:21:00+00:00",
-      "extracto": "Did you know that you cannot edit your Target ROAS while promotion mode is active in Google Ads? Google will display a notification that reads, \"You can't edit your Target ROAS while promotion mode is active\" and then gives you the option to edit the ROAS tolerance instead."
-    },
-    {
-      "titulo": "Google Posts Cracks Down On Unverified Contact Information",
-      "link": "https://www.seroundtable.com/unverified-contact-information-google-posts-42159.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-25T11:11:00+00:00",
-      "extracto": "Google updated two of its Google Posts help documents to allow phone numbers in Google Posts only if they are verified contact information, but if it is unverified, it is not allowed."
-    },
-    {
-      "titulo": "Bing Tests Replacing Copilot With AI Mode In Search Tabs",
-      "link": "https://www.seroundtable.com/bing-ai-mode-search-tabs-42165.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-25T11:05:00+00:00",
-      "extracto": "Microsoft is testing replacing or renaming the Copilot search tab in Bing Search with the name AI Mode. AI Mode is the name Google uses for its AI search engine, Bing uses Copilot Search, but Microsoft is testing using Google's name here."
-    },
-    {
-      "titulo": "EP 275- Rankings Up, Calls Down: What AI Visibility Is Really Worth to Local Businesses (Part 2)",
-      "link": "https://www.nearmedia.co/ep-275-rankings-up-calls-down-what-ai-visibility-is-really-worth-to-local-businesses-part-2/",
-      "fuente": "Near Media (Local search)",
-      "categoria": "dxw",
-      "fecha": "2026-09-24T19:29:49+00:00",
-      "extracto": "Andrew Shotland & Mark Kabana join us for Part 2 to discuss what \"AI visibility\" actually is as an agency product, why nobody can tie it to revenue yet, and how ads are quietly taking the clicks that rankings used to deliver."
-    },
     {
       "titulo": "How to Test and Fix Voice AI Agent Prompts with Twilio Conversation Relay and Cekura",
       "link": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/test-voice-agent-cekura-conversation-relay",
@@ -14333,6 +14245,116 @@
       "categoria": "dxw",
       "fecha": "2026-10-15T12:36:08+00:00",
       "extracto": "Miracly.ai Launches With $2M Pre-Seed to Build AI Search Visibility and Marketing Platform Konsulteer"
+    },
+    {
+      "titulo": "인류 종말을 막고있는 클로드 근황",
+      "link": "https://www.youtube.com/watch?v=xHjhrlqnF4I",
+      "fuente": "통찰맨",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T02:37:27+00:00",
+      "extracto": "",
+      "vistas": 394917,
+      "miniatura": "https://i.ytimg.com/vi/xHjhrlqnF4I/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Just Dropped MOTION. (Get Ahead of 95% in 11 Minutes.)",
+      "link": "https://www.youtube.com/watch?v=yf2OwchM9nw",
+      "fuente": "Tristen O'Brien",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T15:31:12+00:00",
+      "extracto": "Connect Higgsfield to Claude and make your Claude Motion videos look premium: https://higgsfield.ai?fpr=tristen15 FREE: Get ...",
+      "vistas": 332199,
+      "miniatura": "https://i.ytimg.com/vi/yf2OwchM9nw/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Tested The Viral Github Repo To Reverse Engineer Anything",
+      "link": "https://www.youtube.com/watch?v=dAzs_rU6080",
+      "fuente": "Nick Saraev",
+      "categoria": "youtube",
+      "fecha": "2026-10-10T21:33:04+00:00",
+      "extracto": "Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about Get all course resources 100% free: ...",
+      "vistas": 1134486,
+      "miniatura": "https://i.ytimg.com/vi/dAzs_rU6080/hqdefault.jpg"
+    },
+    {
+      "titulo": "How the Top 1% Use Claude Code Differently",
+      "link": "https://www.youtube.com/watch?v=J9NQTYUP6k0",
+      "fuente": "Simon Scrapes",
+      "categoria": "youtube",
+      "fecha": "2026-10-10T16:24:57+00:00",
+      "extracto": "Join the Agentic Academy: https://skool.com/scrapes Get customers from ChatGPT: https://dub.sh/rankspot-yt Don't miss the ...",
+      "vistas": 181884,
+      "miniatura": "https://i.ytimg.com/vi/J9NQTYUP6k0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Grok Bot uses my Claude Code subscription. Here s how.",
+      "link": "https://www.youtube.com/watch?v=kebGZLyrvZg",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-10-09T02:03:27+00:00",
+      "extracto": "",
+      "vistas": 49532,
+      "miniatura": "https://i.ytimg.com/vi/kebGZLyrvZg/hqdefault.jpg"
+    },
+    {
+      "titulo": "J’ai donné les clés de mon Home Assistant à une IA",
+      "link": "https://www.youtube.com/watch?v=dE1veGmFk54",
+      "fuente": "Makernix",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T08:00:33+00:00",
+      "extracto": "J'ai branché une IA directement sur mon Home Assistant grâce au MCP… et elle a réparé mon garage toute seule. Contrôle ...",
+      "vistas": 15360,
+      "miniatura": "https://i.ytimg.com/vi/dE1veGmFk54/hqdefault.jpg"
+    },
+    {
+      "titulo": "ربط العملاقين Claude وPollo MCP والنتيجة درس بالصوت والحركة!",
+      "link": "https://www.youtube.com/watch?v=SCG4knOsBSo",
+      "fuente": "Infology",
+      "categoria": "youtube",
+      "fecha": "2026-10-15T09:44:28+00:00",
+      "extracto": "جرب Pollo AI الآن: https://pollo.ai/go/HVlbHaI وحاليًا، لفترة محدودة، ربط Pollo MCP يمنحك 20 رصيدًا إضافيًا. وفيه كمان عرض استخدام ...",
+      "vistas": 3024,
+      "miniatura": "https://i.ytimg.com/vi/SCG4knOsBSo/hqdefault.jpg"
+    },
+    {
+      "titulo": "The New Claude Motion Is Awesome",
+      "link": "https://www.youtube.com/watch?v=hbPvZvpu9KU",
+      "fuente": "Paul J Lipsky",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T13:00:38+00:00",
+      "extracto": "In this video I'll show you how to use Claude Motion to turn data into animated charts, create explainer videos, and match motion ...",
+      "vistas": 148773,
+      "miniatura": "https://i.ytimg.com/vi/hbPvZvpu9KU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 + Higgsfield Make Insane Motion Graphics! (Claude Motion)",
+      "link": "https://www.youtube.com/watch?v=5HYYXYYCrL4",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T17:19:23+00:00",
+      "extracto": "I push Claude Motion + Higgsfield through 3 challenges: an editable launch video, a 3D product ad, and a complete animated ...",
+      "vistas": 133126,
+      "miniatura": "https://i.ytimg.com/vi/5HYYXYYCrL4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 Made Clipping The Easiest Side Hustle of 2026!",
+      "link": "https://www.youtube.com/watch?v=rZvF_EWZoHw",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T13:29:57+00:00",
+      "extracto": "Learn how to make money clipping videos with AI. All Prompts and Assets: https://higgsfield.ai/s/katana-higgsfieldai-txbirb ...",
+      "vistas": 124903,
+      "miniatura": "https://i.ytimg.com/vi/rZvF_EWZoHw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 + JavaScript = INSANE 2D Animations (Full Tutorial)",
+      "link": "https://www.youtube.com/watch?v=MPDhk385gSg",
+      "fuente": "RandomAI",
+      "categoria": "youtube",
+      "fecha": "2026-10-10T19:04:18+00:00",
+      "extracto": "Claude Opus 5.5 can now create 2D animations that look like a professional animator spent weeks drawing them frame by frame, ...",
+      "vistas": 78707,
+      "miniatura": "https://i.ytimg.com/vi/MPDhk385gSg/hqdefault.jpg"
     }
   ]
 }
