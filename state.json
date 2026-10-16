@@ -1,15 +1,5 @@
 {
   "vistos": [
-    "9e7fcb3aa87a672b",
-    "be20d238cd9a1dd7",
-    "251b927f68229064",
-    "16ba44e58daea921",
-    "6a91381a429232e7",
-    "b5e5e43443d214df",
-    "8d3ad9997ff11917",
-    "aa76781336201c69",
-    "f897d5ca331156ad",
-    "20dbd5c833154619",
     "9228a2112bcaeb10",
     "0a622a33b8e3e3e9",
     "581ab3112c302ffe",
@@ -1999,89 +1989,19 @@
     "2b8e896e3fef8d55",
     "9d1763bf12d7fb9f",
     "9be1d00b91cc1621",
-    "4c08da9a40265771"
+    "4c08da9a40265771",
+    "ca7036569496bef2",
+    "9b5078bc8aae2cf9",
+    "9a765dedfb8bdd04",
+    "45ce49916ceabd1b",
+    "cd963d12c3a95172",
+    "aa8d3d801b86736c",
+    "acbb6e76a548e2d5",
+    "62f5e1c3664c2dc9",
+    "217d8a8c2ecec171",
+    "be3f2185b4d520b0"
   ],
   "archivo": [
-    {
-      "titulo": "Google Web Search Service API Documentation Has Been Removed",
-      "link": "https://www.seroundtable.com/google-web-search-service-api-documentation-removed-42168.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T11:41:00+00:00",
-      "extracto": "A couple of weeks ago, Google seemed to accidentally publish its Web Search Service API documentation, then pulled it down last week. Google doesn't offer a public Web Search Service API, so we really can't access it, but I assume it does have some partners with access, like Apple."
-    },
-    {
-      "titulo": "Several Google Merchant Center Policy Documents Updated",
-      "link": "https://www.seroundtable.com/google-merchant-center-policy-docs-updates-42167.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T11:31:00+00:00",
-      "extracto": "Google has updated several Google Merchant Center policy documents late last week. The documents include Products that enable dishonest behavior, Dangerous products, Counterfeit products, Sexual content, Editorial & professional requirements, the overarching Shopping ads policies overview and probably more."
-    },
-    {
-      "titulo": "Google Tests Replacing Show More Button On AI Overviews With Loading...",
-      "link": "https://www.seroundtable.com/google-ai-overviews-loading-button-42170.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T11:21:00+00:00",
-      "extracto": "Google is testing replacing the \"Show more\" button under the AI Overviews with a \"Loading...\" button. Also, earlier this year, Google tested \"Enter AI Mode\" for the button text but that obviously did not stick."
-    },
-    {
-      "titulo": "Google Merchant Center API Help Document Vastly Updated",
-      "link": "https://www.seroundtable.com/google-merchant-center-api-help-doc-update-42137.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T11:11:00+00:00",
-      "extracto": "Google has completely revamped the Google Merchant Center API help document page. It was previously named \"API access to Merchant Center\" and was renamed to \"Google Merchant Center API.\" Plus, the content on the page has been completely rewritten and expanded."
-    },
-    {
-      "titulo": "Google Search Profiles Follow Button Removed From Desktop Search Results",
-      "link": "https://www.seroundtable.com/google-search-profiles-follow-button-removed-42169.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T11:05:00+00:00",
-      "extracto": "Google seems to have removed the Follow button from the desktop search results page, but it is still on the mobile search results page. The follow button lets you quickly follow a Search profile for the individual or brand you searched for."
-    },
-    {
-      "titulo": "Google Tests More Sitelinks Designs",
-      "link": "https://www.seroundtable.com/google-test-more-sitelinks-designs-42172.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T09:45:00+00:00",
-      "extracto": "Google continues to test variations of designs and user experiences for Sitelinks within its search results. The new design spotted has the Sitelinks listed line by line, with a horizontal line across the left side of the mobile search result snippet."
-    },
-    {
-      "titulo": "Google's 28th Birthday Doodle Takes You To Google AI Mode Quiz",
-      "link": "https://www.seroundtable.com/googles-28th-birthday-doodle-42171.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T00:17:00+00:00",
-      "extracto": "Today is Google's 28th birthday and Google has a special Google Doodle to celebrate. The Doodle takes you back in time to an early Google logo. Plus, when you click on the Doodle, you are taken into AI Mode where you can take \"a fun trivia quiz about Google's company lore, historical quirks, and birthday traditions.\""
-    },
-    {
-      "titulo": "What is natural language generation (NLG)?",
-      "link": "https://zapier.com/blog/natural-language-generation",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T04:00:00+00:00",
-      "extracto": "A few days ago, my fitness app congratulated me on a \"great week of activity\" with a poetic recap of where I \"crushed it.\" I had spent most of that week visiting family, moving from the couch to the kitchen to the guest bedroom at the speed of continental drift. The app took my step counts, clearly rounded to the nearest thousand, and phrased them generously. Once you start noticing those AI quips, it's hard to stop; and it's not just on your fit..."
-    },
-    {
-      "titulo": "HubSpot AI tools: A complete guide to Agent Hub and Breeze",
-      "link": "https://zapier.com/blog/hubspot-ai-tools",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T04:00:00+00:00",
-      "extracto": "My local grocery store decided to be insufferable a few weeks ago and rearrange the aisles. I used to be able to walk through that place blindfolded if I wanted to. Now, it takes me 10 minutes to find the right beans because, for some reason, the dried and canned varieties are multiple aisles away (who does that?). HubSpot AI tools are also remodeling. Within the past few years, Breeze Studio became Agent Builder, Breeze Agents became Agent Hub,..."
-    },
-    {
-      "titulo": "The 5 best Kanban tools in 2026",
-      "link": "https://zapier.com/blog/best-kanban-apps",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-09-28T04:00:00+00:00",
-      "extracto": "If you're managing a project that's a bit too complex for a to-do list app but not complex enough that it requires a full-on project management app, you're looking for a Kanban app. I've used Kanban apps a lot over the years to manage totally different kinds of projects: as a blog manager to run a content calendar, as the head of a marketing department to manage projects with my team, and I still use it today as a freelancer to juggle projects an..."
-    },
     {
       "titulo": "PIP",
       "link": "https://www.producthunt.com/products/pip-9",
@@ -14333,6 +14253,106 @@
       "categoria": "dxw",
       "fecha": "2026-10-15T12:48:35+00:00",
       "extracto": "Norfolk Agency Expands AI Search Visibility Services for Welding and Fabrication Businesses Issuewire.com"
+    },
+    {
+      "titulo": "Comment “Erase” and I’ll send you the prompts 👇 #ai #claude #claudeprompts #privacy #digitalidentity",
+      "link": "https://www.youtube.com/watch?v=gaWJ7JPYFk4",
+      "fuente": "Maverick Maltin | ChatGPT, Claude, & AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T01:01:10+00:00",
+      "extracto": "Comment “Erase” and I'll send you the prompts #ai #claude #claudeprompts #privacy #digitalidentity.",
+      "vistas": 412660,
+      "miniatura": "https://i.ytimg.com/vi/gaWJ7JPYFk4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Clase 01 - Asistentes de IA desde cero con Claude Cowork y Gemini Gems",
+      "link": "https://www.youtube.com/watch?v=-6KC3hR36d4",
+      "fuente": "Daxus Latam",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T02:18:56+00:00",
+      "extracto": "Regalo: https://drive.google.com/drive/folders/1KZiTuxoaVH9MmJZjTBxsnI2x28Xwi2-x Inscríbete para entrar en el grupo de ...",
+      "vistas": 159967,
+      "miniatura": "https://i.ytimg.com/vi/-6KC3hR36d4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Mom 24/7 🥹❤️#claude #shorts",
+      "link": "https://www.youtube.com/watch?v=kg0Wyvu9ACo",
+      "fuente": "Tamil Tech - MrTT",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T04:22:47+00:00",
+      "extracto": "A heartwarming viral story about a son working in Iceland who reportedly used Claude AI and an old laptop to stay connected with ...",
+      "vistas": 223884,
+      "miniatura": "https://i.ytimg.com/vi/kg0Wyvu9ACo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Coding on the go with Claude Code",
+      "link": "https://www.youtube.com/watch?v=-OH1y7CjIew",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T18:54:54+00:00",
+      "extracto": "A cloud session in Claude Code runs in its own virtual machine in the cloud, not on your computer. It keeps going while you're ...",
+      "vistas": 180374,
+      "miniatura": "https://i.ytimg.com/vi/-OH1y7CjIew/hqdefault.jpg"
+    },
+    {
+      "titulo": "FABLE 5.5 THIS WEEK? OpenAI Employee ARRESTED?! HUGE Claude Code Update, Anthropic IPO! AI NEWS",
+      "link": "https://www.youtube.com/watch?v=bk1xyTwzsY8",
+      "fuente": "WorldofAI",
+      "categoria": "youtube",
+      "fecha": "2026-10-15T06:15:30+00:00",
+      "extracto": "Build 3D games and apps with Astra and Opus 5.5 on Abacus AI SuperComputer!: https://supercomputer.abacus.ai/ Anthropic's ...",
+      "vistas": 95186,
+      "miniatura": "https://i.ytimg.com/vi/bk1xyTwzsY8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Amazon Just Gave Claude Access to Seller Central",
+      "link": "https://www.youtube.com/watch?v=c5oYYQ7nn6o",
+      "fuente": "Chris Rawlings",
+      "categoria": "youtube",
+      "fecha": "2026-10-15T03:56:05+00:00",
+      "extracto": "I was at Amazon Accelerate in Seattle when Amazon announced its vision: giving sellers access to Seller Central's capabilities ...",
+      "vistas": 5288,
+      "miniatura": "https://i.ytimg.com/vi/c5oYYQ7nn6o/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Use REA To Clone Any Software In Minutes",
+      "link": "https://www.youtube.com/watch?v=FnB9tHKBJXQ",
+      "fuente": "Eric Tech",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T02:32:55+00:00",
+      "extracto": "Reverse Engineer Anything (REA) is the viral GitHub repo that lets AI agents like Claude Code and Codex look inside an app and ...",
+      "vistas": 296543,
+      "miniatura": "https://i.ytimg.com/vi/FnB9tHKBJXQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Don t Use Claude A Personal Diary",
+      "link": "https://www.youtube.com/watch?v=N_AfOPIVxDo",
+      "fuente": "UFD Tech",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T10:02:19+00:00",
+      "extracto": "Writer: Brett Stelmaszek Editor: Jayson van Kerckhoven Music by: @UFD-Music Word of advice. Don't document your crimes.",
+      "vistas": 181979,
+      "miniatura": "https://i.ytimg.com/vi/N_AfOPIVxDo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude automates cursor-following animations with design and testing checks #AI #AITools #Animation",
+      "link": "https://www.youtube.com/watch?v=KwWrxLllGFU",
+      "fuente": "Andrew Bishop",
+      "categoria": "youtube",
+      "fecha": "2026-10-10T23:19:51+00:00",
+      "extracto": "Claude Code demonstrated how to create animations that a simple GitHub skill. By installing the skill and typing commands, users ...",
+      "vistas": 94800,
+      "miniatura": "https://i.ytimg.com/vi/KwWrxLllGFU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Steal this 1 Claude AI landing page strategy until you hit $1M/mo",
+      "link": "https://www.youtube.com/watch?v=Xbevl9AdX7g",
+      "fuente": "Matt Clark",
+      "categoria": "youtube",
+      "fecha": "2026-10-11T12:15:02+00:00",
+      "extracto": "Discover the exact marketing strategies, funnels, ads, principles, and frameworks I'm using to scale my businesses.",
+      "vistas": 67585,
+      "miniatura": "https://i.ytimg.com/vi/Xbevl9AdX7g/hqdefault.jpg"
     }
   ]
 }
