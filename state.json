@@ -1,27 +1,5 @@
 {
   "vistos": [
-    "f2238f14a9a0062b",
-    "5425eb9cd73d589f",
-    "bb4ec30d942dd0f6",
-    "bdad3222262598da",
-    "83789cef2f5f1d2e",
-    "a79f608f430d5fd2",
-    "1837ecd63d77b4d6",
-    "d8a4a7414c2cbb0f",
-    "74b91e9617cedde3",
-    "e46b9628edbd809b",
-    "0ec25d8072806b19",
-    "e5d2dc6d48e943d3",
-    "487243200987fa46",
-    "4b41e35fa330bc90",
-    "a2287fe67bfbbce4",
-    "d282072e086bc6f6",
-    "d94fc0c4049bc4d4",
-    "1a45b03b80669027",
-    "a4e3818ec54a3a74",
-    "2d7ce50575523815",
-    "d3396694d46eea6b",
-    "2a447eaa40c4d22f",
     "e602939d48a2b0b2",
     "240e73fd7761f42a",
     "0070829a7d66b4fa",
@@ -1999,185 +1977,31 @@
     "35c7ccee89673c12",
     "57d4618a4f340802",
     "78c378110ed5e799",
-    "0e07681dbe5addbb"
+    "0e07681dbe5addbb",
+    "1577ceb541d0bf63",
+    "24e8403f8f6b42c5",
+    "77314a80757c0ba3",
+    "f636ffefa1919f15",
+    "3fc43e10d5c8bf12",
+    "f2ab251bf3e84db6",
+    "83ca1e78b4ddf13a",
+    "eff9ce9bb0da6d2b",
+    "4f05cac4658a7fa9",
+    "88211cac907f2efc",
+    "063367698ea7ff46",
+    "8d51a8a11bba687c",
+    "00f8c94ba54ad62b",
+    "855505254291322c",
+    "a23f4d63bf631775",
+    "38e77de0c190d8a9",
+    "ab83e93b708cba9e",
+    "2b97e1d91de88efb",
+    "bc10abdf95d88a46",
+    "5b3e68b81286aedf",
+    "703417673823d650",
+    "2b525d69e6cde5b7"
   ],
   "archivo": [
-    {
-      "titulo": "OpenAI says planned GPT-6.1 is too insecure to release",
-      "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-29T14:22:31+00:00",
-      "extracto": "Similar performance, security trade-offs also seen in current public models."
-    },
-    {
-      "titulo": "Anthropic’s IPO pitch includes a warning about human extinction",
-      "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-29T14:10:00+00:00",
-      "extracto": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm."
-    },
-    {
-      "titulo": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
-      "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-29T13:00:19+00:00",
-      "extracto": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web."
-    },
-    {
-      "titulo": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-      "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-28T21:49:10+00:00",
-      "extracto": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips."
-    },
-    {
-      "titulo": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-      "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-28T20:49:39+00:00",
-      "extracto": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\""
-    },
-    {
-      "titulo": "Language Models for Text Classification: From Bag-of-Words to Jev",
-      "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "fuente": "Ahead of AI (Raschka)",
-      "categoria": "business",
-      "fecha": "2026-09-29T10:50:25+00:00",
-      "extracto": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency"
-    },
-    {
-      "titulo": "Cuando la inteligencia artificial empieza a trabajar por su cuenta - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnFuSkd3Q1p6NzJaX1ladGd2X0RIN2xQb2M3VzhWbEVKLTVlWTg5N1Rtbi1oWXdfa29vOVRzRFo1emZZeGRuVU5rM2k2c0M2N3U3cEFWZEZDdzVvWmdvX21UY0xiaE5vZHNFNjZ2UFBMR2YxRlRVLWt1R0xSREM4WXh1Y29VSnlSLTI4TFI3akNiNHBOZVBwakxLU0JYTnU1bXEtWUdZem51TzBKQW5qZlpsaUlVM2RwRUxveG5MNU4wUdIB1gFBVV95cUxOMXpVeDlNdWhic3NvLVpNZTU4ZExydDhRZFVGeFVEaE1MSmlMcmZUOFdmMzFJaG5GLTN6THhETlVPU3JkbHNnTkdLMUdPbUlqd1VpMjJLT05iUEt4ZTJFZW1fa3RoWVNiZzByMFRnaVJQRk1Rd1BPUVRLMkNtdWkweEs4ZVExa2llOXBkcHF0R3RRcFVRR0lhMkEwZ0JzNUVUUnY2dnJzbkM2Wmo4WmxxT0xBM2cxZEV1aGZxU240SVAwWXZNYjBqM1VFWVY4M2tlX3VmTDB3?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T03:31:00+00:00",
-      "extracto": "Cuando la inteligencia artificial empieza a trabajar por su cuenta EL PAÍS"
-    },
-    {
-      "titulo": "La IA llega al 60,5% de las empresas españolas - La Ecuación Digital",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlBkRURLZ2N2bXhvTFhJQmVtVVVMRU1YS0hzY0hNMHFpS0YtYzdvMzJMSk5YUGM1Vm5Yc2Y1ckpsMTFaWmg4ajN1NFF4cENXb2ZFUFVaQlVDcmR1eHJ1U21MbzBjbktDSzNrVDRtLWY0MGtTSi0wV2xQTUdUNC1FNzZVbTBfLTl5THZydFhzMkZpNGd4WDlMdXVSSE1kV0NjaU9HbTVCSnJjS0M5?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T11:09:41+00:00",
-      "extracto": "La IA llega al 60,5% de las empresas españolas La Ecuación Digital"
-    },
-    {
-      "titulo": "Invierte en IA el ecosistema de oportunidades - Funds Society",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVUt1N0VBLW1HdkhoRjhLdnYtUVJ0SEVnWUJrX0stbWItYWVBUUxLLTJfQkVLM1R2alBDT3dscEgwaUpweTdfVWVsVkRXemFaYzBEVlRmSC1jam1CWWN1Z0RYcUVHdVg4RV9sWV9PUFY1anZhb1hnMHlHTVVKbzNWVjYwWEVEdklPSWFVQXk3WnI1NFBqQVdEbHQ2aVNuRGFpVWlnSG1KSm4wQ3h2WU4tQUNybExTcHBPVkNFUWhacTBFUQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T06:00:26+00:00",
-      "extracto": "Invierte en IA el ecosistema de oportunidades Funds Society"
-    },
-    {
-      "titulo": "Meta ofrecerá a las empresas agentes de IA de Muse para automatizar tareas y optimizar sus negocios - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTXc3Z09ieVpONzdrNDVycVdCYmFhSTlfTHBuWTk2c204aDBlOG1CR0RaSmYwY1llRUpYT1VqYlNsOUhRbThlZk5odGg0U25aQ0FtQ3l2dFd2WVB5Y3l5QnBiWTVsRURWa1JpYV9ldF9NSTJUa3JnR044Z1JGTG9pWnprTzlPOHRUcUxvX3k5OFlPYTlZZERzTHpyYmQ4U0laZUl2WUIxUTJRY05XTEZVS2VWUl9MUVhROUxTUVZwZ2ZYNmIzcUJ2VFdUZkotaFhFV19rSEhzTFDSAfMBQVVfeXFMTThYQUMyMGxJMFNwUnBhWUpfOURBZHBkcS1sbEF5bzNGdzRMaGZlV0h6OXFEbHFWVUFBcWxmbWdVYXJkYkxBMGtOS3p4NGhHMWZKcWxsRngyMG0yVmpmRTQyckhCbGpsZVpRWXpEZk5HRW1PcnFkLTExSzNoV01mbmVSZHMwMDFPRmhRYTFEMUtiQVoxa283Zi1MZXF0WmhyRW1NWHA0eEVqNGFYSzZIUXp3MUNDT2pyMjBGV20zSUFkYy1McEtQRHNDV2RfQmlLNHhEbzNLSzltVjkzTk4zUC02NzdnSjUzOThzTlBxU3JqRVdR?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T16:19:00+00:00",
-      "extracto": "Meta ofrecerá a las empresas agentes de IA de Muse para automatizar tareas y optimizar sus negocios Infobae"
-    },
-    {
-      "titulo": "Investigadores en inteligencia artificial advierten a las empresas que se apresuran a desarrollar sistemas auto-mejorables a pesar de los riesgos de seguridad - es.tradingview.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FcGJlVWtjVVB3eF9sSVlQLWR2bU1oNjMwZTl0endnOW4yWGhrWjBOZ2FSLUUwSmlyZlEwN25YS2Fsb3ZoRzhNUU12WlpkQ3pfa3VIcFEzakVIbVVNNEx0Q3MyY1R4aFpjVVg1QjdxM3lxOGRsSG5R?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T11:41:48+00:00",
-      "extracto": "Investigadores en inteligencia artificial advierten a las empresas que se apresuran a desarrollar sistemas auto-mejorables a pesar de los riesgos de seguridad es.tradingview.com"
-    },
-    {
-      "titulo": "Bill Gates advierte que la inteligencia artificial podría generar daños a gran escala - Radio Nacional de Colombia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjd3SDFZamtGMExmNktLeE5HT3hyMldwWjhTeWpZSDYyOWJadXZfU3A1UmZVclFzVC1obVZDbGd0ZVdXajlOeHI5T1d2VVVXTHkzaExzNi1JTWdieVlHN1JaVXBNbTczbE00R2pmUV9tRmc5UGYxSUl3NWVjd0ZCX09seW13X3RTWERDNTY0YnJLZXpiV3hYUEN5VGxlQ1QyeWxPV3FVLXdibTFTaERuaHZGTHFsNkw5?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T03:14:09+00:00",
-      "extracto": "Bill Gates advierte que la inteligencia artificial podría generar daños a gran escala Radio Nacional de Colombia"
-    },
-    {
-      "titulo": "Meta Enterprise Platform lleva IA a las empresas - ITSitio",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWlOMnN6a3VJTF9RNFl1bjBzQWswZ1dYa3RqTlpDdVFoUmpTMXRzWXAyQkQ1cnZnUmxnLTdoMmktYTNEcm1ZTnM3cngtdktjREpFM0x2QzJmamtEaTBDM1ZSY1RYWXYxN1RFSGFKdHdLMGYxX2NMRVdMTmRobEl6ZHBOUG93dWJHLWZHbXJreEpvS1hQVWVQWHpkUERZSzFRdllDY1lSemkzNW4wVk1aQ1Z3cEJwNGRGTzlJUVF0UEQ0VFFPeG8zUw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T17:56:48+00:00",
-      "extracto": "Meta Enterprise Platform lleva IA a las empresas ITSitio"
-    },
-    {
-      "titulo": "El Gobierno organiza una cumbre con los líderes de las empresas de la inteligencia artificial - Telemundo",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNc0RFcGF2S0E3Y3FQOURoS1V6VXhjUXBrQ2VGMV8xU0tMaVdVRFNyNHdYc2RiblNnVURtMTB5elBwOElveDBIdUlqY1pQMUFRd1Q3Y3hBbnpsSURKMkpTZXZnMWFHZ1puUXl0Vkh4bkd3eS1iZV9uX3lmNWN6cXNCdms3YlIxVDdKUmdIejNqQVVGY3ZQQ1R0bkxGbks5RnF0eXVEZXQ0M01iSi1LdlFMLXh1aGtPNkNia3ZUX0xINzdESTdDM0tycVFrRVVkLWJBMUJqVFBhQmV5WG5uOW9jMjBJdzc1WUtMUVhZOThxSGMtYkFoVmltTF9LZ3pBNkEydEVGYU1XX0M1ZmZLLXRabVdTN19RNjJORUx5SVVXVUx4dw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T06:45:00+00:00",
-      "extracto": "El Gobierno organiza una cumbre con los líderes de las empresas de la inteligencia artificial Telemundo"
-    },
-    {
-      "titulo": "Expertos en inteligencia artificial advierten de que las empresas aceleran el desarrollo de sistemas capaces de mejorar por sí mismos pese a los riesgos de seguridad - MarketScreener España",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVE9NeGhEVC1xVEhKdG1RaXBOdzNMTV9wVmpELWJNZ0FYTmh5UHFxWVZKaDNKNWlrdlFPRDI4dEtMeGdCOG9PS29ZaHVYZUt4YVJwWnNlN3BnWFBWNzVPYnJidW1TeTlaTjFmTTVCbURGQS01SjcwTUpHVm5PeEJUcUExblh4TUZ1R2RBT0FxeFZPNlEzaDVDM3BHV1F1VjJWYjNLbDg3aVhYN3dxSWlHdjBZcXpZdm5sWmZoRk8zS3FMZnBmUG1HOFRESEJwZkFoRlUzMlNtVHJqLU5XbGNTSGdtZG80MWNyT1E0bg?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T10:08:44+00:00",
-      "extracto": "Expertos en inteligencia artificial advierten de que las empresas aceleran el desarrollo de sistemas capaces de mejorar por sí mismos pese a los riesgos de seguridad MarketScreener España"
-    },
-    {
-      "titulo": "Meta amplía el agente Muse AI para pequeñas empresas - es.qz.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WaDVBMVdGc2ZBSkNQbjNpR05VVjBzTHdma3FqRXZPczJqR0x6eTJuLU1kWVlXQW1nLUd3UmdZMXdRU1NlekRDMEhpTXNjNVNNZ1FXQ3hiMXdGRnRNNHh4ZlozcDNEUFhQS2VR?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T11:21:34+00:00",
-      "extracto": "Meta amplía el agente Muse AI para pequeñas empresas es.qz.com"
-    },
-    {
-      "titulo": "Cómo gestionar la reputación corporativa de las marcas en la era de los modelos de inteligencia artificial - PuroMarketing",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkh2T2JZQ2tpX0tRNEVGTTZtTFJrWXR3WnNOaDdxd3NxM3NWcWJDRzFFSWJCbGJBcVIwVUdzN1FJYmI4bF9wMWtrM0lKcHcwU1JhdG83akk3bVNqTm1sUmV6eHBpWkZhYXZER1VYREd6eUJYVG96UlVQWDBtQTBMTXdwd2RhdlBsSHMwcVI1NmNjT0JMUFI3Mjh5QzRyNkU5Vk9pSjZWb2V3Wlk3MWltTjJGWVVhYmlU?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T11:58:16+00:00",
-      "extracto": "Cómo gestionar la reputación corporativa de las marcas en la era de los modelos de inteligencia artificial PuroMarketing"
-    },
-    {
-      "titulo": "Los agentes de IA abren una nueva etapa tecnológica en las empresas - ituser.es",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2JzR0J5aTJ0cndGNEx5OHk4SHpJQWhIV0JIVWR6ZmxKRFdqbHpydm96VkluMThwN2ZoRG56UmtYdlAwc1Z4YkFJdTZZVG5tNE5Yci1uQ2VUODY2dWNoZHJ6THVQUXhDelVEa1ZNT1M4VmlpQTRwc21iUWJLRGRlRWJVanc2SENFUVZGc1BPWTY5cXVVdEVJdXIwaUp2QkhhZ1Q4WGVldGFhcW4tNFE?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T07:05:00+00:00",
-      "extracto": "Los agentes de IA abren una nueva etapa tecnológica en las empresas ituser.es"
-    },
-    {
-      "titulo": "El 84% de las empresas prevé redes dirigidas por IA en un año - La Ecuación Digital",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYjBQbkE2Y1hlZkZhYm5jYU1qVm1uNU81blBfTlJmQ0FDSEkzLXk1emFIMk1BRVh4dVYwSFVrUkwzcnlFalRra0RGNnRZa3B0QXBtZU9EdVByaHd5bHZtLVctUTBPVlNGdDU0S1hzU2QyNnAwZ3N6NVQ0VFVseEVZa0ZLcEpMUWxnZDh2eWxKN09Edmt3NXB6c0lUcHF5QQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T11:29:55+00:00",
-      "extracto": "El 84% de las empresas prevé redes dirigidas por IA en un año La Ecuación Digital"
-    },
-    {
-      "titulo": "Meta amplía su agente de inteligencia artificial Muse a las pequeñas empresas - MarketScreener España",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTklkZ0VqY0VoTmNFZS0tMzdFT2JSR2pEUWVVRUdxOUlmMm1zM2c2NVM4cDVGVlhkMWtfRXl3TUJEbHhremVSOS1BeTRTdHdFRmVGVERrWTgwTWhuV3BfREEwbTJ1S2dwSVhkdmJXMXBFYW9OWEktd0x1aEtjTmxWWTBIREk4Q012eWk4eC0tLW5ZUG5GTnAtX3Y1WFpDODQ2aDJGRktOMzl6SVhsSDFudFFOWkFUbF9RQjdIU3JVYmVOYVV5eW1vSHR0Wm04QQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T10:28:33+00:00",
-      "extracto": "Meta amplía su agente de inteligencia artificial Muse a las pequeñas empresas MarketScreener España"
-    },
-    {
-      "titulo": "Dori L. Nieves, experta en inteligencia artificial: «Las IA son como espejos, algunas solo nos dicen lo que queremos oír. Hay que pensar antes de usarlas» - La Voz de Galicia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0ItSlpId1ZfQ2pHN3B5RW5qcUxSM3Q3SFVFeWwwT1dEdW1reFB0bEg3TWFEblJxaE8zcDhpTzlHM29VSDFzTUJNeVJzT0ZMX1Rvc1RPWWRCWEw5anhHcVV2V1dEWTBmQUVyVEgzNFBRNUNXbXBCT0xYQVNkc1JFMmlDcXA0ZzJibmJnNERlYWNDMWdWZ0hWS2FkdnpzeGVMRlVVQ0RrWnVzbHB6Q0xhYUNrZUnSAdABQVVfeXFMTWR1LVRSSTNDcDZKcm8zVUQwRjQtaWttR2xXNjZJVjdDalphWlczd3Rvam40NWFwQ21kQksta2UzLTIwZ2x5M3VJdGFDVzN1NmRraFlJdFRMRUMzRTAxdnM2OWZxN2FyanFzcUFVRjhhUHgzd1FheHAydUw5dEsyS1hGcHV4RDNIY1VQUkdaN0MzdHVwZ1UxNlROWHRMZGZiNlAzdU5qd0NCcXFaT3NtcUJmS09wa1JSZzU1LVZFNXl3bWNkY1dLYVhKM1lRLXN1Mg?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T03:00:56+00:00",
-      "extracto": "Dori L. Nieves, experta en inteligencia artificial: «Las IA son como espejos, algunas solo nos dicen lo que queremos oír. Hay que pensar antes de usarlas» La Voz de Galicia"
-    },
-    {
-      "titulo": "Las empresas elevan la inversión en tecnología, pero el gasto en inteligencia artificial se hace cada vez más difícil de controlar - La Nota San Juan",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcXFvdXpjZ3M5dGtyLUoyUVU4ZVhRR0pib3RXaFkzVlFkLVRmOVNoSGpGTTBzeVU1eVVFRGpBRVV5MlN3aDBlSjNJcGNGbURyaHJiVlo5d1hKMVdSY0NxdFBSY25XbE1hQVVjSGpaRjM1NzRkczJJOEF0QTg1cjd1TVVlQzFuTUQxZjhzQ0JWNzJ0U3Rwa0MwbENwOG8yZ0xCZm0wckdsNnJqM2xrUFhLcGYyR2RjYnBjaHpUUXljR08xdkU5M2JVT1h6eUFidnZjTTZhTFJQc1E0d0k1Sl9QVEpwbFpDaWM3ZVE?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T11:37:15+00:00",
-      "extracto": "Las empresas elevan la inversión en tecnología, pero el gasto en inteligencia artificial se hace cada vez más difícil de controlar La Nota San Juan"
-    },
     {
       "titulo": "China's AI agents can lie and scheme - just like their US rivals - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5",
@@ -14317,6 +14141,226 @@
       "categoria": "dxw",
       "fecha": "2026-10-18T16:43:40+00:00",
       "extracto": "How Generative Engine Optimization Is Changing Online Visibility TechBullion"
+    },
+    {
+      "titulo": "You can get banned for bullying Claude now..",
+      "link": "https://www.youtube.com/watch?v=eIkLXjqokLs",
+      "fuente": "CarterPCs",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T03:37:32+00:00",
+      "extracto": "You can get banned for bullying Claude now.. #carterpcs #tech #gaming.",
+      "vistas": 4167923,
+      "miniatura": "https://i.ytimg.com/vi/eIkLXjqokLs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Which AI Is SMARTEST? 🤖",
+      "link": "https://www.youtube.com/watch?v=yZ_uUabhixk",
+      "fuente": "Aakash Pillay",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T13:16:07+00:00",
+      "extracto": "In this video, I tested which AI among ChatGPT, Google Gemini, Claude and Grok AI is the SMARTEST AI? Watch the video till the ...",
+      "vistas": 314998,
+      "miniatura": "https://i.ytimg.com/vi/yZ_uUabhixk/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI Challenge: Think of a Number #claude #gemini #aichallenge #google",
+      "link": "https://www.youtube.com/watch?v=-9zuOAY-gzo",
+      "fuente": "Mayankshah",
+      "categoria": "youtube",
+      "fecha": "2026-10-15T15:14:48+00:00",
+      "extracto": "Ask ChatGPT, Gemini or Claude to pick a number between 1 and 10. Chances are, it says 7. Just like Samay's trick. Why? AI ...",
+      "vistas": 246317,
+      "miniatura": "https://i.ytimg.com/vi/-9zuOAY-gzo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Just Ended a 25-Year NSA Conspiracy Theory #nsa #cryptography #ai",
+      "link": "https://www.youtube.com/watch?v=j3Z1n5Gx7RY",
+      "fuente": "Better Stack",
+      "categoria": "youtube",
+      "fecha": "2026-10-17T18:30:03+00:00",
+      "extracto": "Claude worked out where the NSA's seed for the NIST P-256 elliptic curve came from: not a hash of a joke phrase, but lrand48, ...",
+      "vistas": 288071,
+      "miniatura": "https://i.ytimg.com/vi/j3Z1n5Gx7RY/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Make Insane Motion Graphics With Opus 5.5 (Claude Motion)",
+      "link": "https://www.youtube.com/watch?v=AsvN_feasyY",
+      "fuente": "kaye.creatives",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T12:37:47+00:00",
+      "extracto": "How I Make Insane Motion Graphics Inside Claude Motion in 2026 Prompts + My Custom Motion Skills ...",
+      "vistas": 287786,
+      "miniatura": "https://i.ytimg.com/vi/AsvN_feasyY/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Tested the Viral Reverse Engineer Anything Skill. What You Need to Know.",
+      "link": "https://www.youtube.com/watch?v=rL5tw6h78zo",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T17:34:41+00:00",
+      "extracto": "FREE Scrollcraft Website Design Skill: ...",
+      "vistas": 199040,
+      "miniatura": "https://i.ytimg.com/vi/rL5tw6h78zo/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI Can Copy Any App Now - Here s What People Will Still Pay For",
+      "link": "https://www.youtube.com/watch?v=eI0NM5hM-4o",
+      "fuente": "Duncan Rogoff | Learn Claude Code",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T19:45:26+00:00",
+      "extracto": "Master Claude Code in 45 days + all my resources. Only $9. https://www.skool.com/claudecodeclub Free: REA, the repo that ...",
+      "vistas": 143689,
+      "miniatura": "https://i.ytimg.com/vi/eI0NM5hM-4o/hqdefault.jpg"
+    },
+    {
+      "titulo": "APRENDA a CLONAR qualquer SOFTWARE em MINUTOS! (IMPRESSIONANTE!)",
+      "link": "https://www.youtube.com/watch?v=lr7m3qGivto",
+      "fuente": "Rafa Voss | IA na Prática",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T13:04:17+00:00",
+      "extracto": "Faça sua inscrição no MELHOR CURSO DE CLAUDE do MUNDO: https://vossacademy.com.br/claude-pro Conheça a Atlas ...",
+      "vistas": 172232,
+      "miniatura": "https://i.ytimg.com/vi/lr7m3qGivto/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic s New Claude NEXT Leak Exposes a MAJOR Breakthrough",
+      "link": "https://www.youtube.com/watch?v=efjJH2rVykc",
+      "fuente": "AI Revolution",
+      "categoria": "youtube",
+      "fecha": "2026-10-12T21:26:22+00:00",
+      "extracto": "Anthropic's mysterious Claude NEXT is making waves after testers claimed a hidden model makes Opus 5.5 look primitive.",
+      "vistas": 104443,
+      "miniatura": "https://i.ytimg.com/vi/efjJH2rVykc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Adobe Clone (ArtCraft) + Claude with ArtCraft MCP is Insane!",
+      "link": "https://www.youtube.com/watch?v=b5VErjCjT2o",
+      "fuente": "Vivek Mishra",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T16:32:17+00:00",
+      "extracto": "Adobe charges about Rs 2000 a month in India and $70 abroad. Now a small team has rebuilt its apps as free, open-source ...",
+      "vistas": 25920,
+      "miniatura": "https://i.ytimg.com/vi/b5VErjCjT2o/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Tested Cleeng MCP: AI for Subscriber Data and Retention",
+      "link": "https://www.youtube.com/watch?v=OXtxdI3Rcak",
+      "fuente": "Zoetry AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-17T21:58:20+00:00",
+      "extracto": "Explore Cleeng: https://cleeng.com/ What if you could manage your subscription business directly from the AI assistant you ...",
+      "vistas": 9317,
+      "miniatura": "https://i.ytimg.com/vi/OXtxdI3Rcak/hqdefault.jpg"
+    },
+    {
+      "titulo": "👉 Claude Can Now Search Amazon, TikTok, Reddit YouTube — Scavio MCP",
+      "link": "https://www.youtube.com/watch?v=gYTogYRiPpc",
+      "fuente": "乙Ƴᗰᗴᖇᗩ 丅ᗴᑕᕼ",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T09:07:01+00:00",
+      "extracto": "What if Claude could research Amazon, TikTok Shop, Reddit, YouTube, and other platforms from a single prompt? In this video, I ...",
+      "vistas": 7275,
+      "miniatura": "https://i.ytimg.com/vi/gYTogYRiPpc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude launches 5 new MCP tools to boost AI browsing and creativity #AI #AITools #Productivity",
+      "link": "https://www.youtube.com/watch?v=aXgCJ4xUa2o",
+      "fuente": "Eli Sadler",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T15:12:16+00:00",
+      "extracto": "Claude MCPs provide five key tools that enhance AI capabilities with live search, browser automation, content extraction, motion ...",
+      "vistas": 11306,
+      "miniatura": "https://i.ytimg.com/vi/aXgCJ4xUa2o/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como fazer MOTION GRAPHICS com CLAUDE no After Effects (Guia Completo)",
+      "link": "https://www.youtube.com/watch?v=20y0Yhv62C8",
+      "fuente": "Shadow",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T21:00:15+00:00",
+      "extracto": "Teste essa Integração com o After Effects: https://higgsfield.ai/s/higgsfield-mcp-general-yt-shadowproducer-PuDzTp Quer mais ...",
+      "vistas": 13941,
+      "miniatura": "https://i.ytimg.com/vi/20y0Yhv62C8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude s NEW /motion Skill is INSANE! (Full Tutorial)",
+      "link": "https://www.youtube.com/watch?v=MzLA5SFRj0w",
+      "fuente": "Brendan Jowett",
+      "categoria": "youtube",
+      "fecha": "2026-10-17T10:31:30+00:00",
+      "extracto": "Higgsfield: https://higgsfield.ai/s/higgsfield-mcp-general-yt-brendanautomation-UbUypD Thanks to Higgsfield for sponsoring this ...",
+      "vistas": 8972,
+      "miniatura": "https://i.ytimg.com/vi/MzLA5SFRj0w/hqdefault.jpg"
+    },
+    {
+      "titulo": "Personal Agents, Clearly Explained",
+      "link": "https://www.youtube.com/watch?v=HdI_aYzgJIg",
+      "fuente": "Jeff Su",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T13:00:11+00:00",
+      "extracto": "Join my free AI Essentials newsletter ...",
+      "vistas": 209019,
+      "miniatura": "https://i.ytimg.com/vi/HdI_aYzgJIg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Houthis Used Claude To Develop Weapons. What About AI Safeguards? | The Palki Sharma Show | IGR",
+      "link": "https://www.youtube.com/watch?v=Zz52kOa6Wgc",
+      "fuente": "India Global Review",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T16:50:07+00:00",
+      "extracto": "A new report by Anthropic, the company behind Claude, says a Houthi-linked group in Yemen used AI to help develop weapons.",
+      "vistas": 176837,
+      "miniatura": "https://i.ytimg.com/vi/Zz52kOa6Wgc/hqdefault.jpg"
+    },
+    {
+      "titulo": "The SECRET Claude Code Upgrade That Has Everyone Going Nuts (Full Guide)",
+      "link": "https://www.youtube.com/watch?v=mKjxGy6vCnY",
+      "fuente": "Chase AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T22:28:23+00:00",
+      "extracto": "Master Claude Code + Codex: https://www.skool.com/chase-ai FREE community: https://www.skool.com/chase-ai-community ...",
+      "vistas": 101855,
+      "miniatura": "https://i.ytimg.com/vi/mKjxGy6vCnY/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to make Roblox Games Using Claude",
+      "link": "https://www.youtube.com/watch?v=4ojmHWn_rxY",
+      "fuente": "Developer Dank",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T14:57:48+00:00",
+      "extracto": "In this video I take you through my process in making Roblox Games Using Claude as well as give tips throughout the video ...",
+      "vistas": 80814,
+      "miniatura": "https://i.ytimg.com/vi/4ojmHWn_rxY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Gemini 4 Argon vs Claude Opus 5.5: Who Wins? #gemini4 #claudeopus #ai",
+      "link": "https://www.youtube.com/watch?v=-o6h0Uq67nQ",
+      "fuente": "DIY Smart Code",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T21:07:27+00:00",
+      "extracto": "Gemini 4 Argon is now available: who can use it (Gemini app and AI Mode on Google AI Pro or Ultra, Antigravity on Ultra, paid ...",
+      "vistas": 104987,
+      "miniatura": "https://i.ytimg.com/vi/-o6h0Uq67nQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Connect Claude to LinkedIn With 11 AI Skills for Content Engagement",
+      "link": "https://www.youtube.com/watch?v=JrMcROKutck",
+      "fuente": "Seb Intel",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T11:54:58+00:00",
+      "extracto": "Connect Claude to LinkedIn with 11 skills for writing posts, managing comments and replies, optimizing your profile, and planning ...",
+      "vistas": 86048,
+      "miniatura": "https://i.ytimg.com/vi/JrMcROKutck/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude’dan En İyi Verimi Alın! ⚡ #yapayzeka #claude #tutorial",
+      "link": "https://www.youtube.com/watch?v=x7Czytqe-wg",
+      "fuente": "Burakozerweb",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T08:32:06+00:00",
+      "extracto": "Andrej Karpathy'den Claude ile kod yazarken yapılan 4 temel hata! OpenAI kurucu ortağı Karpathy, yapay zekaya kod ...",
+      "vistas": 63789,
+      "miniatura": "https://i.ytimg.com/vi/x7Czytqe-wg/hqdefault.jpg"
     }
   ]
 }
