@@ -1,18 +1,5 @@
 {
   "vistos": [
-    "3a9d05e34d47a577",
-    "2c8b225116dc3330",
-    "7f4eac51adb41ca5",
-    "3edccebbb50d6fcd",
-    "23adfc1b293cb3d8",
-    "04ad7bbb785d34b3",
-    "df86712cd178f2cd",
-    "e30b4e142dccbfea",
-    "6091f282f3710f01",
-    "4560b02604b24316",
-    "509d2d716af25a5a",
-    "d10c7fda4f94afdd",
-    "b2ec590ad20a6eef",
     "797ab3daf73cba32",
     "9c829b9f75913dd6",
     "3bedc79fac2cb6b4",
@@ -1999,113 +1986,22 @@
     "df08da2562782dce",
     "4cb5d5095380efc3",
     "4159976729a9ebbe",
-    "d71ad0631e169cfd"
+    "d71ad0631e169cfd",
+    "3055ffadbd28a378",
+    "8399f189a6bb5202",
+    "436c6e7206ed0ee1",
+    "b5a4a003fb52f80c",
+    "4ae0ad44a477b3d8",
+    "7ab5c0105f308b56",
+    "4f06381462bce39b",
+    "51fd5e39ea14211e",
+    "bc13c8fae09bbc18",
+    "57d2b6a4b2d77328",
+    "8c3e1996f4bda2ac",
+    "b1a8e90fb904f655",
+    "f22f2ef1ca949402"
   ],
   "archivo": [
-    {
-      "titulo": "Aplicación de la inteligencia artificial a los negocios y las ventas. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWRiSWtrR2RTVUFld0NKWnNPVFBGMFk3QXZHQVlLTmNDRjJKbnNQZTRxRnp2MUQ1TVpNRWIwX2FiQlVBbGUxNHVlSEtTbFFtSTkwX214bU8zaE1jM0lHdTlreFRoLTZHSlRMelNkQ1ZxU0oyWE1HNXlvemJiSGhvYg?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-30T03:09:40+00:00",
-      "extracto": "Aplicación de la inteligencia artificial a los negocios y las ventas. Vietnam.vn"
-    },
-    {
-      "titulo": "Trump: Las empresas de IA aceptan \"autorregularse\" - Globovisión",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalM5d0tFM29zanFIaTlhS0oycnVoVVhRSzZkSWdmZVRYdVlld19xcTdlZ2hGd3ZCLXdEMlVpdFFhUlVkOUdqRUhsTUpvdzIwVTV1czl3QWx2N3pEUExoeDZfTnhERmNvTTZydmkzTXJoRTVGRDNIT0lBLUZQUTJCUS04UzdqUUNQdFMtTDhrUkx6WXBtNC1Eek4wdw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-30T12:43:59+00:00",
-      "extracto": "Trump: Las empresas de IA aceptan \"autorregularse\" Globovisión"
-    },
-    {
-      "titulo": "La inteligencia artificial también quiere echar raíces en Cáceres: así puede ayudar a los emprendedores de negocios rurales - El Periódico Extremadura",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTm5ldVhpcG9MbjBTUTg1TkV5SWM5ZVRoNkJKbVlXdEExVU1Nb09MSWxuS3R2X2JIa1hIM2R2T0JXQ2M1d1ZxblA1akxIN0lvUlZfNmRKZngzT2hBcV81dHdPbEJlZGlBcDNEWmdPSXYwa2tnZjdGQUlFUEEyR3k3UVBFVzR5TEk4NVZwOVFjUGhGeW1nQkdmR2NrcVZaRXRuQmpINE5NWWVNMFhaRGR4eklxcGtBV0hWbjdGak5BTWJQSkVC0gHKAUFVX3lxTFB6VHBoVUwzSnRDdzdlR2o3MnN2VlNXRktSUjQ0Rkpnekhyb0E5N3V0QWtkN01iR3BZTnFrUjdiUjJiZGo4WHRVbVhLemdBenp0a21vSUdybWhaLUtteTJzbjJEUll0US1QSkF1R0FVTzhYeVVFVTVQenA1THZIWjFZeF9Lc3R3c1F0eVpVN3hFaDJJSVUtLVJ6clVsX2NDS3d3aVpFZThPWklnV18taDBRanZJZGRuZllvZ05KemdFaGpNZW9UVDdnb2c?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-30T08:00:47+00:00",
-      "extracto": "La inteligencia artificial también quiere echar raíces en Cáceres: así puede ayudar a los emprendedores de negocios rurales El Periódico Extremadura"
-    },
-    {
-      "titulo": "Hispatec lleva la inteligencia artificial a las tareas diarias de las empresas hortofrutícolas - eComercio Agrario",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWi1OSE5OdmlzYmZUdEZXcjZLZTZRcXcybVBHX2JPYWRWNXVmN3dQN3VBNm1jRExhUWoxeXBybDFSbHptZU1fM0JacjlZenVGdk5pVE93OUt6VWs1NWhwWUZrLXQ4TnJZOV9zVXpMUk5mUGdBd0h5ZVpsUWRmcU5kQUtqU2NkSXhpcVE3VzhyRGZvSW5xUHZKSVZEankyOHdPR3prX3ZOR2FhSWVub2ltdC1JSlBBdlM0ZDZoMUxoMUdvQQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-30T07:37:51+00:00",
-      "extracto": "Hispatec lleva la inteligencia artificial a las tareas diarias de las empresas hortofrutícolas eComercio Agrario"
-    },
-    {
-      "titulo": "La ambición por aprender IA avanza más rápido que la formación en las empresas - cio.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWVzOU5QY1RGWTlmU3JyajZNeDU0cnNPSDFCX2ZQc3I0ZVhxWVAwUnpOUnlNVEV3cmJxM1JsVmRLcjQtbkxBN28yMUxQclJkRXdiTWdzNTVKeXJ0aW9rWHAxNi1tX3JFbk8yTDI5RHItQndSVVNYaGtmaXBEVmZkMG9KdlJtd0pzUXJKcC1YbjhSbHc5ZlJaRUx3N0lvbW5uMkQ0amJqMU0yem1iUTIxSTZIWHEzak5xdkpB?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T17:53:49+00:00",
-      "extracto": "La ambición por aprender IA avanza más rápido que la formación en las empresas cio.com"
-    },
-    {
-      "titulo": "Trump asegura que las empresas tecnológicas firmaron un acuerdo para “autorregular” el desarrollo de la IA - Telemundo",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTkJhcnpZZkRtamNXYlpxaFVVQmk3LUJZYm0zc24xZXVLel9oa3dnWE1yQmxOR3dsbjFuWnVGdFpJcEdobVJLMVdnMGRxUlAtLTZiVHlOclItSmtuY2lqTDAzVkllRTFFaGJKS0w4VXRnZGhvX0ljY1dZVml3TlhUV1FzTVhZLUxnSzljMTJLdzV6eTV4WnN0VjZzSUZVeVZTa285ZGZteWtmN0VqTFlOWXZTVXV4Uy1KN3oxdHN3WkItVURoTUhza1M0R1JYWnlrMmdGdVZob01QTVZCMFVzSXNCR3l0eExLUFlCWQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T21:36:02+00:00",
-      "extracto": "Trump asegura que las empresas tecnológicas firmaron un acuerdo para “autorregular” el desarrollo de la IA Telemundo"
-    },
-    {
-      "titulo": "Código de Buenas Prácticas: Puntos Clave del Acuerdo Firmado por Gigantes de la IA - N+",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcHBDX3h6MzVJX1pldVNKcmwxRVVrai1PWU5fLUt2VUNvM2VmRFVYZlJsVEVzREludGdlYXF2UTFHc2tOVnJHcnBaNkg2X08tNjByR3FLa3N4UEY3d29FVFhQTmRRMHQta2JaZ2o2UHhHZlk2UjdGdGdXWlBySXQtYThJbElOWmdjVGNnLUg5T2U4Szg5YzN3cnRfSkVqQm5WaUpIbEgtNFJyU281cjBZLXo1bGlWa3h1cmIxTF94eTE5NjJvckV2dXJIRQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-30T16:17:15+00:00",
-      "extracto": "Código de Buenas Prácticas: Puntos Clave del Acuerdo Firmado por Gigantes de la IA N+"
-    },
-    {
-      "titulo": "Trump dice que empresas tecnológicas firmaron acuerdo para \"autorregular\" desarrollo de IA - independentespanol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRVJTUjFyaXRBTnVRVzlRYjJzc3ZvZ2tnNzVteEgxSEdTM1dLUWtqNEJrbFp5aUtMLWc1THlIRmxmcVhBenA0dWs5dkJHYjBkdkJQUlNGLVkzeHVhMEJNMFFXTkxMRlhFd1FfbnkxanEyVl91S1A4MzhORXVIaU1ZcGpkeWtCdmdJTWFkT3kyU09tTEtvQWhEZ25VckpvdlZmc0NhdW1GX0psYkFab055ZndBSm1ITGtjWVVXWlFuQ0tRN01DU2xaSzk2RjgzdTV1ZXFzUlpncEU4VEl2ejFMdENIRUotVVdJVzUw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-29T23:27:00+00:00",
-      "extracto": "Trump dice que empresas tecnológicas firmaron acuerdo para \"autorregular\" desarrollo de IA independentespanol.com"
-    },
-    {
-      "titulo": "Adiós al jefe autoritario: la comunicación y la empatía son las habilidades más buscadas en tiempos de inteligencia artificial - Economía Digital",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTDJoQXVwaUdlU1JjZmppNjhiNW5kQjBuMEFZZXQtTmVVcFJEa3hrWmw1bndOSjI2d3FQOHFfT0hUTW1mcVlpRDlMSVV1VkZLSUJXa2FhMkZWQnFDcVpQTlJ2RXJNNzZCdkV3R2oxNGdzNS1FTlpPWUZJOWNFV28yZ25weDBrZGMzTGdzTVMydmtKYkpYR29UZV9tREo0LUN5YlRVYWVNeEZOdUlJNlBGbzNoV0duS1BRSDY0RTlvTVpIdnJMb1pOSXNKOWhQeXRLNG95R3NpLW_SAd4BQVVfeXFMTWZGaUpfNWQ0NGo1dWdFQ1pCQldLSy1DV0JITVpaV1Q5MU13WWIyRWtBY2hab292SzFFOGJEZzhMOWZWNGlGalBNZFVXd0loZjdzcWN2SWMxSFZFeHYwQlRvbWVPU09UWnFvRXNPNFFGTXpHNzJ1SVhIUXc1SGczeU5OZVpaUXIxS2pHdDV5b21QWW5oQklEWnFBUlZsMW45bnZVZ1RSS3pWWmdEamZBNVhvdnFLYW9JYlhtdmlVYmZNT3lZSEpaN0lRdWdidnBqV3JHM1E4OWhacmxVTmZR?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-30T10:35:24+00:00",
-      "extracto": "Adiós al jefe autoritario: la comunicación y la empatía son las habilidades más buscadas en tiempos de inteligencia artificial Economía Digital"
-    },
-    {
-      "titulo": "Trump says top tech firms have signed accord to 'self-police' AI development - NPR",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3VtMGRJZnVDLWpGRXNpemMydzVIa3hEOU83Z0RqbERHSW9BVTk1eUc0RjRVNWh5VTVFazFzT2V3T2VhcldOclVZbU1nSElIY1piZnkwMGxYY1BER09jaHlaY192cEs0amFELTliLUo0ZmxkUmhSTVprajB0Z2RGTk1ZNA?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-30T06:54:43+00:00",
-      "extracto": "Trump says top tech firms have signed accord to 'self-police' AI development NPR"
-    },
-    {
-      "titulo": "AI Companies Are Raising Millions From Music They Took Without Permission (Guest Post) - Variety",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUnk0dFNfeFVrQXRJbGI2YW9sc0hfR1Njc2RzYl8tRXhMREE4WGhlSlV0S2RxNTdJSU5FVHBabUJXTlUydGNEd3JEX1d4aHhvWTRPRllITE0tZEFGd2M5NlVQUG5aTTFIRHB5akRLeWhKSEVjUVVaWDRLWWF5cVh3SVJDVmdkMDU1UEJKcWU4bDlnMEhyVThOWldCMlZ6Rjl5WTNmdmtaTlRjMERLNGlj?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-30T14:00:00+00:00",
-      "extracto": "AI Companies Are Raising Millions From Music They Took Without Permission (Guest Post) Variety"
-    },
-    {
-      "titulo": "A timeline of developments in AI safety since the attack on Hugging Face - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2tOUGI4OFV0XzA4dW1yR0htSDU0RDdDUHI1eXdRSFZJTlBxei1zMnNDTC1HcEpvOEZQcXQ0dEdPNnpmbDd3R3RBVXI4NlM2MGZzaEhSa3ByaHdhQ2trTXZ5RXJCQkdIdEhnNWZXRjJydktldjAwVmhCZGtsTDREM0VwTEhTcVMwdXgyNUpGVk1zUGJpajB6MmN30gGfAUFVX3lxTE9PRnJXSGpCN3EyN0hKXzRxOEh1bTR1T2ttak9QRGt4TFA3Yk1NUGlPMktJcnNZTDdSSm1QMmhFZjVUM182cnZOT1EzYmJlNXhvaFRldDdocEJ0bnNGMVNqNmZBQTVPTDg0LWhSRHhFMzlEM3REWk5LRlBpYXhYakZQMkRPcHoySVNvc3JxQmtNdXM1VTRuMDFpbkc5R1d2bw?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-30T15:29:46+00:00",
-      "extracto": "A timeline of developments in AI safety since the attack on Hugging Face ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-      "titulo": "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue - WHYY",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVE3NUU4cjJyaVNfcGdwNThPd0ZLVktndS1ta2N2VVNQY1ctUGFWNVhpcUxmdElJX0JtajA0VjBPQ3RFTV9icHpkVnBaSkZqOHNjNFdmSUFYVVNrZWRidzB6ekFvUDlhRzZZaDN2UzdYSHFSQm1zVU50MS0xT1N3VFdKMGUtVEZMcHNZdA?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-09-30T09:03:07+00:00",
-      "extracto": "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue WHYY"
-    },
     {
       "titulo": "Trump AI deal rebrands ‘artificial intelligence’ as ‘superintelligence’ - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFVZQVZWMk1XVVREWXRWcVZaWGZrb0dGSURLVkl4MUg0ZHFoTHNWckY5WU9hWXJuOXhnU21xY1NHM0hMM2FiQkRKdUtmWlpRcHdGbEg1MmphUXFWaEE1VC1YSGgwTlJIVlhwX0tOcl9HV2F1UnhMOHZPV3hQMkEwdWI3c2N6TGxYOWVJS052Q3E3UmM?oc=5",
@@ -14345,6 +14241,136 @@
       "categoria": "dxw",
       "fecha": "2026-10-20T01:02:21+00:00",
       "extracto": "Generative Engine Optimization: A practical guide for businesses in Malaysia Citizens Journal"
+    },
+    {
+      "titulo": "GPT-6 ASTRA vs CLAUDE OPUS 5.5 (10,000 ELO CHESS)",
+      "link": "https://www.youtube.com/watch?v=sskvj1_ehx4",
+      "fuente": "GothamChess",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T13:35:05+00:00",
+      "extracto": "Get My New Intermediate Book Out NOW: https://sites.prh.com/gothamchessbook BOOK EVENTS NYC: ...",
+      "vistas": 1377197,
+      "miniatura": "https://i.ytimg.com/vi/sskvj1_ehx4/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Gave My AI Assistant the Power to Reverse Engineer ANYTHING!",
+      "link": "https://www.youtube.com/watch?v=84CkBM_jF4g",
+      "fuente": "Zubair Trabzada | AI Workshop",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T18:06:55+00:00",
+      "extracto": "Want the finished JARVIS? Skip the build and get the 5-minute install inside the AI Workshop ...",
+      "vistas": 285135,
+      "miniatura": "https://i.ytimg.com/vi/84CkBM_jF4g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Made My Old Android TV Feel Brand New!",
+      "link": "https://www.youtube.com/watch?v=fP2SGGVsaB0",
+      "fuente": "Ansub Khan",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T16:03:24+00:00",
+      "extracto": "Join my free community where we build stuff like this with Claude Code: https://www.skool.com/staffed-claude-code-ai-5304 My ...",
+      "vistas": 503488,
+      "miniatura": "https://i.ytimg.com/vi/fP2SGGVsaB0/hqdefault.jpg"
+    },
+    {
+      "titulo": "This Free Tool Cuts Claude Code Token Usage by 49x on Large Codebases",
+      "link": "https://www.youtube.com/watch?v=ELsXhePjBxI",
+      "fuente": "InsiderForce",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T15:06:50+00:00",
+      "extracto": "Comment \"HUMAN\" and I'll send you the ebook. 1 free tool just permanently solved the biggest token problem in Claude Code.",
+      "vistas": 184589,
+      "miniatura": "https://i.ytimg.com/vi/ELsXhePjBxI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Watch Me Vibe Code an Animated App with Claude Opus 5.5 (It s Super Smooth)",
+      "link": "https://www.youtube.com/watch?v=Rk6t9Uq1y9M",
+      "fuente": "Jason Lee",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T14:00:38+00:00",
+      "extracto": "Create stunning presentations with Gamma 5: https://gam.link/JASON-LEE Higgsfield: ...",
+      "vistas": 150933,
+      "miniatura": "https://i.ytimg.com/vi/Rk6t9Uq1y9M/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Connect Claude AI To Roblox Studio - Tutorial",
+      "link": "https://www.youtube.com/watch?v=w404b0vcb0s",
+      "fuente": "GuideRealm",
+      "categoria": "youtube",
+      "fecha": "2026-10-17T01:00:35+00:00",
+      "extracto": "Learn how to connect claude ai to roblox studio in this videi. For more videos like this then please leave a like. GuideRealm is the ...",
+      "vistas": 18220,
+      "miniatura": "https://i.ytimg.com/vi/w404b0vcb0s/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude launches 5 MCPs to enhance AI with live search, automation, and motion graphics #AI #AITools",
+      "link": "https://www.youtube.com/watch?v=C3FHl6NG3ig",
+      "fuente": "Eli Sadler",
+      "categoria": "youtube",
+      "fecha": "2026-10-19T17:44:18+00:00",
+      "extracto": "Claude introduced five powerful MCPs that enhance AI functionality by integrating live data, automating web tasks, extracting ...",
+      "vistas": 15711,
+      "miniatura": "https://i.ytimg.com/vi/C3FHl6NG3ig/hqdefault.jpg"
+    },
+    {
+      "titulo": "Run NotebookLM From Claude Code to Automate Content",
+      "link": "https://www.youtube.com/watch?v=wdde_lvs1RE",
+      "fuente": "Kayvon Jafarzadeh",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T10:45:56+00:00",
+      "extracto": "Want to start building your own AI business? Join the Zero to Founder Incubator waitlist ...",
+      "vistas": 12349,
+      "miniatura": "https://i.ytimg.com/vi/wdde_lvs1RE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude MOTION is Unreal for Video. Master it in 12 minutes.",
+      "link": "https://www.youtube.com/watch?v=Eg08Lr3zqdw",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T03:39:31+00:00",
+      "extracto": "Get the Claude Motion Guide PDF for free ...",
+      "vistas": 149811,
+      "miniatura": "https://i.ytimg.com/vi/Eg08Lr3zqdw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Houthis Use AI To Develop Missiles | The Palki Sharma Show | IGR | India Global Review",
+      "link": "https://www.youtube.com/watch?v=DsaVhLWLK3k",
+      "fuente": "India Global Review",
+      "categoria": "youtube",
+      "fecha": "2026-10-13T18:24:03+00:00",
+      "extracto": "A new report by Anthropic, the company behind Claude, says a Houthi-linked group in Yemen used AI to help develop weapons.",
+      "vistas": 129429,
+      "miniatura": "https://i.ytimg.com/vi/DsaVhLWLK3k/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic just shared how they use Claude differently (Master it in 12 mins)",
+      "link": "https://www.youtube.com/watch?v=NarezKh3w4o",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-10-17T22:52:03+00:00",
+      "extracto": "Get the 3 Types of AI Ambition PDF guide + /be-ambitious skill for free ...",
+      "vistas": 117427,
+      "miniatura": "https://i.ytimg.com/vi/NarezKh3w4o/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Tested the Viral Reverse Engineer Anything Skill | Complete Masterclass",
+      "link": "https://www.youtube.com/watch?v=fCSNcSHLyWc",
+      "fuente": "Vivek Mishra",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T15:25:14+00:00",
+      "extracto": "In this video, I'm breaking down REA (Reverse Engineer Anything), the GitHub repo that crossed 2 lakh stars in a few weeks and ...",
+      "vistas": 158593,
+      "miniatura": "https://i.ytimg.com/vi/fCSNcSHLyWc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 + Roblox Studio is SCARY.",
+      "link": "https://www.youtube.com/watch?v=QD76dnNGZSA",
+      "fuente": "Cole",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T16:09:43+00:00",
+      "extracto": "Try ForgeGUI: https://forgegui.com AI Game Developers Community (All Builds + Game Remake Skill) ...",
+      "vistas": 81973,
+      "miniatura": "https://i.ytimg.com/vi/QD76dnNGZSA/hqdefault.jpg"
     }
   ]
 }
