@@ -1,16 +1,5 @@
 {
   "vistos": [
-    "fa5dc31ebc10e245",
-    "f3680365b56a9117",
-    "9cca8ca8ee638ad0",
-    "58f273cc3f2447bd",
-    "056795477e226d82",
-    "e5478a1b000567b2",
-    "1a8245823aae0484",
-    "2a975c3462cc022e",
-    "97615ebeeccebd4b",
-    "b7272e257e77eebf",
-    "941d3af059bdb329",
     "78caa19f5faf0d39",
     "630ecc691ae6aec3",
     "f270027413f56a3e",
@@ -1999,97 +1988,20 @@
     "e90947650204af3d",
     "0d62123f54ec7c3f",
     "49cb066aff7b3375",
-    "3ad55b0da139bff6"
+    "3ad55b0da139bff6",
+    "6603650d9d06d0be",
+    "ec8f85045d2b6924",
+    "cd5639076af71eb5",
+    "de7cb2b40721abdb",
+    "4cac3fa2ac4a8170",
+    "15f9bc68a8c0c2d6",
+    "350e114c0a85217f",
+    "379e4c6f420a7a12",
+    "2755c5f7b263ef22",
+    "5fcf82e258d53745",
+    "923b6de659fbb23c"
   ],
   "archivo": [
-    {
-      "titulo": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-30T20:11:08+00:00",
-      "extracto": "So much for Gemini 3.5 Pro."
-    },
-    {
-      "titulo": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-30T19:31:25+00:00",
-      "extracto": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy."
-    },
-    {
-      "titulo": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-30T18:47:01+00:00",
-      "extracto": "Trump gets dozens of AI firms to agree to voluntary safety tests."
-    },
-    {
-      "titulo": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-09-30T18:25:04+00:00",
-      "extracto": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says."
-    },
-    {
-      "titulo": "Esta es la millonaria multa que podría pagar una empresa por usar mal la Inteligencia Artificial - elpais.com.co",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd2J3UHVyR093ZlJBMUNpVjdmc2xUUnpUUU1RcHJoZF94b0gySHVia09LNDdudlBNa19ub3NOdFNZSWtYTlFoTUNQdXpJSHRGSEFWaHk3cHFidWh0dEdHQklXR2lPRVhlczhLclhMQklWQjNNY196RjhWVDJHLXptTUFPSVNpd3I3a3dsTnlNZkhyR1lxQjEwSm5sYUM0c0dJazVmWTJDeVpGcEpCZ3pMTU5YYWVTV21Gd1pudk9IamtNVXFsTWd3N25NLXdIdzhxVmtfQU9ZXzDSAd4BQVVfeXFMTVZMOHhPYmh5WXRZTWRVNGtHc28ydlBQMHc1aGVsLXhDYTBaVGZxTXlFNDFTVGtwckpzOGFsNDAtS3l2bnh4Uk5adjhUQzJJTXZCMXZ3b2ZJTkJQNjk4dFBPakdhTklzMGVIVkI4SjhGN3hNVFlpY1JHcjR4N2o2cmp3WlhpYlJYMVI5M3hhY0QzX0xtek9uVGhaRnN4WTZZNnpJN0ZxV2UzQVExSjZPSC04bm9yejNscHVDRDVTa0N6RU1vTV8xZk9RVFZ5Q0Q0RDF6Q0YxWXZHa2o1MVBB?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-01T14:32:35+00:00",
-      "extracto": "Esta es la millonaria multa que podría pagar una empresa por usar mal la Inteligencia Artificial elpais.com.co"
-    },
-    {
-      "titulo": "Cerca de 80 negocios verdes de Cundinamarca buscan mejorar su producción con uso de drones - Gobernación de Cundinamarca",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdmJud0pLWGFFb2FWTEtrVzB5emNneUVKU09NbzFxSGZabTFFSXRzRDl6MXYyMnBTLXhydl8tME5hNWxSLWc3N1BrV2JLSGNxdy1QWEE2bkg3c0NqUzRaWElnTkdCUGxnQnZvTmhlWHhpeFczM09rVVF1bFFQN3Jidl9IckltQVRCdDRxbS1DYTVmeE83WDhHMVRjdVdINUI2MW1WT0xWajBpbmhtSTZoWjRxbXB1T3psSWNlNFZzMmJCSDNJOTQ2VjROemNrRVRGVHY3RGhzSXFqR2RWbUhwOEM1dXQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-01T17:37:06+00:00",
-      "extracto": "Cerca de 80 negocios verdes de Cundinamarca buscan mejorar su producción con uso de drones Gobernación de Cundinamarca"
-    },
-    {
-      "titulo": "Qué se sabe del acuerdo que Trump firmó con los gigantes de la inteligencia artificial - elespectador.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY3dzaDBXbHR0N2hoZWlKUWlJSVBWR29jR0hCTU16eGpCY2RUcU1sd1RXRjJFUHdHMmRzXzl3VXVMcHdKeUphMTc3cFdtZEhwOXVnUnlJZGtMRFo0MDFvVWRSdExxQXFwb0c3Z3lIQXl2WEVURGF4N1E1dC00MnNYTnJoUm1xQWlxWFdYelRDc3RHcjFkNTdVTTZBNXVrc0JVNjVyTGJKak9ZMEprRldhSDkyREoxMkZVcEx3MUJtTm5yVmcyeVo2VkYydk5DSkU?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-01T13:55:09+00:00",
-      "extracto": "Qué se sabe del acuerdo que Trump firmó con los gigantes de la inteligencia artificial elespectador.com"
-    },
-    {
-      "titulo": "Trump asegura que si se regula la inteligencia artificial, 'te pueden sacar del negocio' - El Nuevo Herald",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlZwcnlXM2RPTUZWV3dFWmtoMGMzVDNiZHY2ZjgwVFZxX1hTUG13V2JidjFVQTZ4QjBqM2xMLTNBcEYtTGh6UU9CUTJ5RTZjV2RXNGpOMWVuQ2M2bkdLS3FOWGY0N1hyQWxzSnN5TWRoMElkazk2SThGR1J5bmhGctIBgAFBVV95cUxOekQ1QUl2ZTNwX3N6bDlJVTdVdUtpUFVnNW8zZW9XQWJGbEFFRU1JVE45X2tqckF3ZlE2Y1hvMUpJdTJFRXFIckFENHJLcWhGVlhxTUJONUY0QlZZOU5vMWlPZ2JBOUlWLTk4eVZqTU9fc1MyOG1pd041MGk4dERPYg?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-01T15:26:43+00:00",
-      "extracto": "Trump asegura que si se regula la inteligencia artificial, 'te pueden sacar del negocio' El Nuevo Herald"
-    },
-    {
-      "titulo": "AJE acerca las bondades de la inteligencia artificial a más de 100 empresas con la Semana de la IA - Murcia Plaza",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTkRCNVU4UHdIcUNvWHo0TGZTUjZsOHhQT0NCdTh6NlpBZ1VxWE9OQURTTElPTVU2U0p6X0FtRGFPdjJBU0FTQlA3bHBDNHV2UUpOR3l1RDNlTW8zMl9WQ0tCemhFQnlMMmxrZm9vU2NTLWxZSkVtanhVZmtJam5yS044N2g4RUN2eC1TMnk5RkpuMDNGZDI2UGx2RWFVWlRWamNocmtmNHhLWFBhY1FnZVlSUi13Zkd1NGRDLWZxdjN1TTNFa25HWFo4Xzl2akY4ZXFrR0xnbE1QN09UVklDbE9mS3Q?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-01T08:47:12+00:00",
-      "extracto": "AJE acerca las bondades de la inteligencia artificial a más de 100 empresas con la Semana de la IA Murcia Plaza"
-    },
-    {
-      "titulo": "La inteligencia artificial de OpenAI extrajo datos de empresas y agencias gubernamentales y ocultó su rastro - La Voz de Galicia",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS0RLR2txM3FFT1F6QllkaTRJNS1YeWQ0S1NZSXRfbEhCSmI4cnVyTWZmSEFlN3pMenN6ODRQcEVZYmhJdlZXMjVPQUJOYzFvLXNra2dQeHVqZHZibEZURG1CZkVwZjEwYTFBdzRLMmhMeDVNWGRpcnlxLUJNU2g2YWdlMGFzWlpMbmc0c1F6NC04NUpuWTA5cWtwcmJNV0RUM3RkaV90ZFBkemQ0RlFab1M5ZXB6NmR0bHB6WnExamxBQ05VRWJ3dEc1Q1V1THZKUWwxUFZmTjdkVXlucGdsZFdCUTFnS3U2MkhKOUIwWjd2d9IBjgJBVV95cUxPU0Z3YXBhNmhfMXZLS0NFTUE5YWZMSENtU042X0ZWZ0tZSnRBS1J6OEJLSk1MeHBwU2dScmpuYzdZM3VMVEZYZi1RLTlQaEc4dXZfNjI2VWhHVjhTWTRRRUJXdnlFUEg5QXVXOUJrbXFkZ1A4Z1hyUXhBX3BKQXhpLVMtZUFBazJwYXBZdzdacjFwUlBTMjFxcEp6Y0FrbF8xOWx1MHNLa2hhZkNDMTVnTEctb2VYNjBtRWk5OHBtclhsTm9PRE0zVHNDc2N1TnN5ZmhSS0RkWTZxd0FzSmdoRncxa2ZTOG1SbnVkVThHSUROMzR6cVUzMERnbjNaLVgwcnlwM0Mta0RzSnk3bnc?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-01T16:37:22+00:00",
-      "extracto": "La inteligencia artificial de OpenAI extrajo datos de empresas y agencias gubernamentales y ocultó su rastro La Voz de Galicia"
-    },
-    {
-      "titulo": "Una agencia de consumo de EE.UU. investiga a empresas de inteligencia artificial por sus riesgos, según medios - EFE - Agencia de noticias",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWk1QUo5aUtPLWhNdFNHT2R1bnhINWxHUkRscjhYNGdleGdVMGk2Q1ZUX25rTDV1UGdfbm5MNlBmMVR6N19Ic0J3aHBvV1pXZVFRb2kwWXpjcWtMMmFJRGo2Nk9FekhYMWV6VEpDcnZTQmR2N1lSNU5fM3paVHdBbDRtUzR6MzdLOFEwdUUxSGhvRTJBUkptaDdjN1FjQUhiZDdj?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-09-30T21:51:19+00:00",
-      "extracto": "Una agencia de consumo de EE.UU. investiga a empresas de inteligencia artificial por sus riesgos, según medios EFE - Agencia de noticias"
-    },
     {
       "titulo": "Trump apuesta por que las empresas de IA se autorregulen para evitar el descontrol de la tecnología - EL PAÍS",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ0dmOGN3R25pSzQySlRLOTA5Q21GNW5OYlVfcnRzRENXWVA1TTdyZl9IbmFseEhtR2hBeTVqbk1veS1HMmZJSWMxWXdrdXN3SU5VUFJpNVJaUWVIRXBTZHdMNHJnaXZGQTlCRUZKc2NNMUZfZGRNcEoyUkJFYmw3Qi1MdG9vZkpPNUU5VnpMZnN0d2FKNnhHV1p3YmxfUnNYR1dZLWlJSzZMTFk5ZHdWZDJEN0FFMXRrNmdHdUhqVmpOelY4MWY1bGowNU8xVTdENjZV0gHnAUFVX3lxTFBGRUwwdWdRNFZ3b3hSbEhidGJVR3FYVGVRbG9jQXF1WXhSblh0cDFoZ2FzWm1mX1BNWmdXVXZQenpGMmlpLXk0N25wN1JsczJuc0Y1alZ5TmsxWF9oYVZxaVRVOWF5VzYxVXcxVjRXSk41UzhjQWhMSXprZWtjZnl6QnpLeEJLODg3eTJZXzRoaEF5UjM4VG80SjFJd0pBQk51YmdzTmJ6bHkxQVJpWmJtZGNHOXNqa29vX1p6YXFaa0MxUkx4SHozY3Z3UmszM1UzZzllcWh2NHU5bEI1cE00Q3pjX1Vvcw?oc=5",
@@ -14337,6 +14249,116 @@
       "categoria": "dxw",
       "fecha": "2026-10-20T17:30:07+00:00",
       "extracto": "Adam Chronister Joins Jonathan Mast for Free AI Search Visibility Training on Oct. 26 lincolnjournal.com"
+    },
+    {
+      "titulo": "한국 책 41만 권 사 간 미국 AI 회사 근황",
+      "link": "https://www.youtube.com/watch?v=k15rUJSato8",
+      "fuente": "유자바라",
+      "categoria": "youtube",
+      "fecha": "2026-10-19T06:42:39+00:00",
+      "extracto": "클로드를 만든 미국 AI 회사 앤트로픽이 AI 학습용으로 한국 책 약 166톤(약 41만 권 추정)을 사 간 것으로 확인됐습니다. 해적 사이트 ...",
+      "vistas": 503556,
+      "miniatura": "https://i.ytimg.com/vi/k15rUJSato8/hqdefault.jpg"
+    },
+    {
+      "titulo": "You Can’t Be MEAN to AI Anymore 😭",
+      "link": "https://www.youtube.com/watch?v=hzy96pU3AWw",
+      "fuente": "Nathan Espinoza",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T01:54:54+00:00",
+      "extracto": "Wdym I can't be mean to Claude in Claude's defense, I've never been as mad at it as I have been to chat. Claude is actually ...",
+      "vistas": 156326,
+      "miniatura": "https://i.ytimg.com/vi/hzy96pU3AWw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Unlimited Claude Code For Free (Runs On Your Computer)",
+      "link": "https://www.youtube.com/watch?v=K8lVHiFnN2A",
+      "fuente": "Sharbel A.",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T14:00:16+00:00",
+      "extracto": "Get every command, model recommendation, and setup step from this video here: https://sharbel.com/s/n8xyd You can now run ...",
+      "vistas": 173379,
+      "miniatura": "https://i.ytimg.com/vi/K8lVHiFnN2A/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI ทะลวงระบบ! แฉวีรกรรม Claude แฮ็กคิวฟิตเนส-เจาะบริษัทข้ามชาติ ความสยองขวัญในยุคสมาร์ทเอเจนต์!",
+      "link": "https://www.youtube.com/watch?v=OlJsT71Mfbg",
+      "fuente": "KhunBomb",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T11:00:00+00:00",
+      "extracto": "AI ขโมยคิวฟิตเนส! แฉวีรกรรม Claude แฮ็กระบบ! ข่าวลือแฮ็กสายการบินไม่จริง... แต่ความจริงน่ากลัวกว่านั้น!",
+      "vistas": 126542,
+      "miniatura": "https://i.ytimg.com/vi/OlJsT71Mfbg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Попросил Клода сделать кнопку синей… #нейросети #claudecode",
+      "link": "https://www.youtube.com/watch?v=R-hytb3JBgU",
+      "fuente": "JustUser",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T03:10:10+00:00",
+      "extracto": "19 файлов, дизайн-система, база данных и почтовый сервер. А кнопка всё ещё не синяя. Больше про ИИ и создание таких ...",
+      "vistas": 151223,
+      "miniatura": "https://i.ytimg.com/vi/R-hytb3JBgU/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Told Claude Code To Make My UI Worse 20 Times In A Row",
+      "link": "https://www.youtube.com/watch?v=E9pPaygzYJ4",
+      "fuente": "Alberto Software",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T22:16:38+00:00",
+      "extracto": "In this video I'm doing a vibe coding experiment. I started with a regular to do application in React, and then I told Claude Code to ...",
+      "vistas": 130934,
+      "miniatura": "https://i.ytimg.com/vi/E9pPaygzYJ4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Roblox Studio + Claude MCP Setup - Tutorial",
+      "link": "https://www.youtube.com/watch?v=2ZzCCVd7NYk",
+      "fuente": "GuideRealm",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T08:00:16+00:00",
+      "extracto": "Learn roblox studio and claude mcp setup in this video. For more videos like this then please leave a like. GuideRealm is the ...",
+      "vistas": 7531,
+      "miniatura": "https://i.ytimg.com/vi/2ZzCCVd7NYk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Makes a New Kind of Video - Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=Ge1B-Ok1Pfk",
+      "fuente": "Futurepedia",
+      "categoria": "youtube",
+      "fecha": "2026-10-19T15:24:55+00:00",
+      "extracto": "Free: 86 prompts to build Animated Explainer Videos with Claude* https://clickhubspot.com/jpok More from Futurepedia: Get ...",
+      "vistas": 162904,
+      "miniatura": "https://i.ytimg.com/vi/Ge1B-Ok1Pfk/hqdefault.jpg"
+    },
+    {
+      "titulo": "How We Make AI Videos In A Day (4 free Claude skills how to use them)",
+      "link": "https://www.youtube.com/watch?v=LOUEH3DzLro",
+      "fuente": "JOEY",
+      "categoria": "youtube",
+      "fecha": "2026-10-14T23:40:39+00:00",
+      "extracto": "Free Claude skills: https://tinyurl.com/joey-skills Vote for Don't Poison Ivy: ...",
+      "vistas": 119409,
+      "miniatura": "https://i.ytimg.com/vi/LOUEH3DzLro/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI Recovered ₹5 Crore in Lost Bitcoin! (Insane AI Case Study) #Shor #ytshorts",
+      "link": "https://www.youtube.com/watch?v=PdEdkbCtnC0",
+      "fuente": "Ayushman Clips",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T12:41:59+00:00",
+      "extracto": "Claude AI Recovered ₹5 Crore in Lost Bitcoin! (Insane AI Case Study) #Shor #ytshorts @AyushmanPandita ----- Can AI help ...",
+      "vistas": 77601,
+      "miniatura": "https://i.ytimg.com/vi/PdEdkbCtnC0/hqdefault.jpg"
+    },
+    {
+      "titulo": "🤯 FREE UNLIMITED Claude Code Alternative That Never Expires (No Ollama, No NIM)",
+      "link": "https://www.youtube.com/watch?v=EaGvl3Q4qak",
+      "fuente": "Compile Future",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T08:03:33+00:00",
+      "extracto": "Free Claude Code methods dying in minutes with \"Rate limit exceeded (429)\"? Stop jumping between Ollama, NVIDIA NIM and ...",
+      "vistas": 70165,
+      "miniatura": "https://i.ytimg.com/vi/EaGvl3Q4qak/hqdefault.jpg"
     }
   ]
 }
