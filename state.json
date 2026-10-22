@@ -1,16 +1,5 @@
 {
   "vistos": [
-    "79dc25414ce6e5e6",
-    "5efc68863bdcaf9c",
-    "9117d90b6bdae8bc",
-    "fd9b25689cc0f7d6",
-    "abe0785a56d0b1f9",
-    "5edd42e45ba65b87",
-    "feb0c7e692b4067c",
-    "e5b9649c1d0926d1",
-    "f4fd14ab86ba8cb7",
-    "5c10cfcc60241515",
-    "d3140e20330af22b",
     "1cbba6c78c60a7ef",
     "2185c0a837d3f801",
     "29dd7dd41142d543",
@@ -1999,97 +1988,20 @@
     "cf5888088c91f670",
     "ffaa373071085409",
     "71ef0916a1689ca6",
-    "2de3a9cf90df8525"
+    "2de3a9cf90df8525",
+    "824a7fb529d8d8c2",
+    "bff9dacbc85a58d5",
+    "cee18c2503308f04",
+    "049a2f1eb52ad419",
+    "317d4e659ff9456b",
+    "6ba08322429ca6a8",
+    "a9c765c262541a5c",
+    "3491fd0819e4c6f0",
+    "23b73939e38f2c28",
+    "14a700b494548904",
+    "6e420b800144de43"
   ],
   "archivo": [
-    {
-      "titulo": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-01T20:11:55+00:00",
-      "extracto": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue."
-    },
-    {
-      "titulo": "Daily Search Forum Recap: October 2, 2026",
-      "link": "https://www.seroundtable.com/recap-10-02-2026-42220.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T14:00:00+00:00",
-      "extracto": "Here is a recap of what happened in the search forums today..."
-    },
-    {
-      "titulo": "Search News Buzz Video Recap: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad & Terrible and more",
-      "link": "https://www.seroundtable.com/video-10-02-2026-42210.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T12:01:00+00:00",
-      "extracto": "This week, we covered the first impact felt by the Google September 2026 spam update. And then on Wednesday and Thursday we had the second impact of this spam update. Remember the AI contribution report..."
-    },
-    {
-      "titulo": "Google Loyalty Customer Match Expands To AI Mode & More Regions",
-      "link": "https://www.seroundtable.com/google-loyalty-customer-match-expands-42216.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T11:51:00+00:00",
-      "extracto": "Google made several changes to the about merchant loyalty program within the Google Merchant Center help documentation. The key changes are that Loyalty Customer Match expanded to AI Mode and Gemini and to more regions, but there are even more changes noted in the help documentation."
-    },
-    {
-      "titulo": "Google Tests URL Tracking Parameters To AI Overviews & AI Mode",
-      "link": "https://www.seroundtable.com/google-ai-overview-link-tracking-parameters-42219.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T11:46:00+00:00",
-      "extracto": "Google seems to be testing adding tracking parameters to the link URLs within AI Overviews. If this rolls out fully, this will help you decipher when you get a click from an AI Overview in Google Search or just a click from the main Google Search web results."
-    },
-    {
-      "titulo": "Google Local Service Ads Hiding Phone Number By Default",
-      "link": "https://www.seroundtable.com/google-local-service-ads-hides-phone-number-42207.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T11:41:00+00:00",
-      "extracto": "Google Local Service Ads seems to hide the phone number until you hover your mouse over the ad. I am not sure if this is new or not, but there is a big button that says \"Get phone number\" which is not needed because the phone number does show up as soon as you move your mouse near the ad."
-    },
-    {
-      "titulo": "Bing Product Results With Recommended By Section",
-      "link": "https://www.seroundtable.com/bing-recommended-by-products-section-42193.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T11:31:00+00:00",
-      "extracto": "Microsoft Bing is testing a new'ish section labeled \"Recommended by\" followed by the company making the recommendations. The weird thing is, the specific product thumbnails link to various retailers and not the place that recommended it."
-    },
-    {
-      "titulo": "Google Ads Sponsored Products Results Missing Images",
-      "link": "https://www.seroundtable.com/google-sponsored-products-results-missing-images-42213.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T11:21:00+00:00",
-      "extracto": "Google Ads may have a bug or maybe it is testing, not showing images on sponsored product results. You can see from the screenshot below, the images that are generally shown above the ad titles and descriptions are missing from the Sponsored products carousel in Google Search."
-    },
-    {
-      "titulo": "Google Ads Sitelinks Format In AI Mode",
-      "link": "https://www.seroundtable.com/google-ads-sitelinks-ai-mode-42206.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T11:11:00+00:00",
-      "extracto": "Google Ads show up a lot within AI Mode these days and with that, Google is testing various ad formats to see which formats get the highest click-through rate (unlike links in AI Mode). Here is a screenshot of what may be the Google Ads Sitelinks within AI Mode."
-    },
-    {
-      "titulo": "Google Ads To Allow Some Advertisers To Use Different Business Names",
-      "link": "https://www.seroundtable.com/google-ads-business-name-policy-42214.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T11:05:00+00:00",
-      "extracto": "Google Ads will update its business name policy to allow some advertisers to use a business name that differs from the ad's destination domain. This is limited to certain cases, specifically three cases and it also excludes advertisers who are not the direct verified brand."
-    },
-    {
-      "titulo": "Google Helpful Content Doc With New Main Content & EOT/SA Sections",
-      "link": "https://www.seroundtable.com/google-helpful-content-main-content-and-eot-sa-42218.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-02T10:00:00+00:00",
-      "extracto": "Google has updated the creating helpful, reliable, people-first content help document to primarily add two new sections. First, it added that the main content is super critical, added what is main content and then explained how Search Quality raters review content quality of the main content."
-    },
     {
       "titulo": "Google: Manually Factcheck & Review AI-Generated Content For Accuracy",
       "link": "https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html",
@@ -14343,6 +14255,116 @@
       "categoria": "dxw",
       "fecha": "2026-10-21T03:28:20+00:00",
       "extracto": "Omnia Retail grows AI search to 29% of its qualified leads in nine months, working with 2 Steps Ahead Digital Journal"
+    },
+    {
+      "titulo": "why is claude like this",
+      "link": "https://www.youtube.com/watch?v=UQ5wiKCkR88",
+      "fuente": "Good Work",
+      "categoria": "youtube",
+      "fecha": "2026-10-21T15:49:44+00:00",
+      "extracto": "what's with all the fancy words #business #news #claude.",
+      "vistas": 792350,
+      "miniatura": "https://i.ytimg.com/vi/UQ5wiKCkR88/hqdefault.jpg"
+    },
+    {
+      "titulo": "POV: you just made a Tesla Roadster concept site",
+      "link": "https://www.youtube.com/watch?v=ykYAHJeZObU",
+      "fuente": "WebLove",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T17:11:44+00:00",
+      "extracto": "How I build with Claude Academy link in the pinned comment Full prompt goes in the Academy soon. It took hours of testing ...",
+      "vistas": 571499,
+      "miniatura": "https://i.ytimg.com/vi/ykYAHJeZObU/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to debloat your Android TV with Claude Code",
+      "link": "https://www.youtube.com/watch?v=YAaxqBvd1sY",
+      "fuente": "TechPP",
+      "categoria": "youtube",
+      "fecha": "2026-10-18T10:17:12+00:00",
+      "extracto": "Is your Android TV slow, laggy, or filled with unnecessary apps and advertisements? In this video, I show you how I used Claude ...",
+      "vistas": 91226,
+      "miniatura": "https://i.ytimg.com/vi/YAaxqBvd1sY/hqdefault.jpg"
+    },
+    {
+      "titulo": "J ai fait coder la même app à Claude sur chaque niveau d effort",
+      "link": "https://www.youtube.com/watch?v=5yfqmrjcQPQ",
+      "fuente": "Shubham SHARMA",
+      "categoria": "youtube",
+      "fecha": "2026-10-19T15:00:32+00:00",
+      "extracto": "Testez les exemples en live: https://sharma.fr/niveau-effort?utm_source=youtube&utm_campaign=niveau-effort-claude Les ...",
+      "vistas": 105280,
+      "miniatura": "https://i.ytimg.com/vi/5yfqmrjcQPQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "No more Claude or ChatGPT - Local AI on your GPU + DaVinci Resolve Studio 21.1 - MCP Server",
+      "link": "https://www.youtube.com/watch?v=cXYUulbxQZs",
+      "fuente": "Team 2 Films",
+      "categoria": "youtube",
+      "fecha": "2026-10-16T01:21:42+00:00",
+      "extracto": "https://audiio.com/team2films Yearly Pro Subscription DISCOUNT CODE: Team2Films70 (normally $199, with our code only $60, ...",
+      "vistas": 68005,
+      "miniatura": "https://i.ytimg.com/vi/cXYUulbxQZs/hqdefault.jpg"
+    },
+    {
+      "titulo": "11 repos GitHub indispensables à brancher sur Claude Code",
+      "link": "https://www.youtube.com/watch?v=7tS6TixLpS4",
+      "fuente": "Baptiste Simard - IA",
+      "categoria": "youtube",
+      "fecha": "2026-10-17T08:41:26+00:00",
+      "extracto": "Récupère le guide des 11 outils (liens, prompts d'installation, cas d'usage) : https://l.baptistesimard.com/ressource-ytb60 ...",
+      "vistas": 33004,
+      "miniatura": "https://i.ytimg.com/vi/7tS6TixLpS4/hqdefault.jpg"
+    },
+    {
+      "titulo": "How an Anthropic engineer uses Claude Docs",
+      "link": "https://www.youtube.com/watch?v=SkFmiMHDN38",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-20T16:40:09+00:00",
+      "extracto": "Most docs at work are shared, so Claude Docs is built for a team. Claude works in the doc alongside everyone: it pulls the ...",
+      "vistas": 129243,
+      "miniatura": "https://i.ytimg.com/vi/SkFmiMHDN38/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Engineering Lead: Stop Using Claude Like It’s 2024",
+      "link": "https://www.youtube.com/watch?v=D-SVFneJ_Nk",
+      "fuente": "Silicon Valley Girl",
+      "categoria": "youtube",
+      "fecha": "2026-10-20T16:49:57+00:00",
+      "extracto": "Your first AI agent in 20 minutes* — get the guide through my free newsletter: ...",
+      "vistas": 100929,
+      "miniatura": "https://i.ytimg.com/vi/D-SVFneJ_Nk/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Made a Website With AI, No Code (Claude Tutorial)",
+      "link": "https://www.youtube.com/watch?v=Tpo8hqguuM4",
+      "fuente": "ELAS AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-17T13:44:44+00:00",
+      "extracto": "I don't know how to code, but I just made this website I only talked to AI I show you the prompts, how to change it and how to put ...",
+      "vistas": 45955,
+      "miniatura": "https://i.ytimg.com/vi/Tpo8hqguuM4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Changed Completely - Every NEW Concept Explained",
+      "link": "https://www.youtube.com/watch?v=YAuWBqZ_gjs",
+      "fuente": "Simon Scrapes",
+      "categoria": "youtube",
+      "fecha": "2026-10-17T17:52:04+00:00",
+      "extracto": "Join Agentic Academy for the full course: https://skool.com/scrapes Get customers from ChatGPT: https://dub.sh/rankspot-yt ...",
+      "vistas": 89848,
+      "miniatura": "https://i.ytimg.com/vi/YAuWBqZ_gjs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code integrates with X Tool to build and install iPhone apps via #AI #iOSDevelopment #Swift",
+      "link": "https://www.youtube.com/watch?v=9efRLbsrXz8",
+      "fuente": "Alex Nex",
+      "categoria": "youtube",
+      "fecha": "2026-10-21T00:22:23+00:00",
+      "extracto": "Claude Code can now build entire iPhone apps and install them directly onto your device using an open source tool called X Tool.",
+      "vistas": 78066,
+      "miniatura": "https://i.ytimg.com/vi/9efRLbsrXz8/hqdefault.jpg"
     }
   ]
 }
