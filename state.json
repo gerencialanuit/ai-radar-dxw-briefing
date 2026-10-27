@@ -1,10 +1,5 @@
 {
   "vistos": [
-    "c22a19c84f846e2b",
-    "92ee8715e396159a",
-    "2705f7c6dfb8fe9f",
-    "b10f4f1b1ba02443",
-    "818fca84d01c3c33",
     "8c6455e5bc234be8",
     "94386fc9a128a8f4",
     "f66d9b1aceb9da4b",
@@ -1999,49 +1994,14 @@
     "dc7e532e2f85db6c",
     "3510713c3b184bb2",
     "3064b2b9b8a9a99c",
-    "eeb337d844319233"
+    "eeb337d844319233",
+    "3ca3ceeef4bb52cb",
+    "c5897f7f9be6c1a8",
+    "33c7d729e7364413",
+    "ee090359475b3f32",
+    "3eec8bc95b491d05"
   ],
   "archivo": [
-    {
-      "titulo": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPek92bW43WU9RZ1dyajlJYWMzYkZvZzRPRW92d3NRaEhBMEQ2OUdQMlh2bUR4MW1EMzUxMUNxMHJHdjZFX05KcTRCb0E4Tk9yWjJwa2JSSUlsSFY4UE03NlpsUVRZTTNLVnN6eUdpSHNTQUpRNUxLZ1JFMjB6NlNJTkpIbXJtcHUtXzlQZXFJY28zd2xweWo2UA?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-06T12:04:55+00:00",
-      "extracto": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges The New York Times"
-    },
-    {
-      "titulo": "Daily Search Forum Recap: October 7, 2026",
-      "link": "https://www.seroundtable.com/recap-10-07-2026-42249.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T14:00:00+00:00",
-      "extracto": "Here is a recap of what happened in the search forums today..."
-    },
-    {
-      "titulo": "Google Drops Review Snippets For Healthcare Web Pages",
-      "link": "https://www.seroundtable.com/google-drops-healthcare-review-snippets-42248.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T11:51:00+00:00",
-      "extracto": "Google seems to no longer be showing review rich reviews in Google Search when review schema or structured data is added to healthcare web pages."
-    },
-    {
-      "titulo": "Google AI Overviews Add To Calendar Feature",
-      "link": "https://www.seroundtable.com/google-ai-overviews-add-to-calendar-42233.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T11:41:00+00:00",
-      "extracto": "Google is testing allowing AI Overviews to add items to your calendar with an add to calendar link on event dates. I can't replicate this and the truth is, every time i refresh the queries I am testing on, I get a slightly different AI Overview, so who knows."
-    },
-    {
-      "titulo": "Google Ads Updated Billing Menu With More Links",
-      "link": "https://www.seroundtable.com/google-ads-updated-billing-menu-42242.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T11:31:00+00:00",
-      "extracto": "Google Ads is testing a new billing menu bar or tab that adds more options and links to the billing section. It looks like Google added double the amount of links in the menu."
-    },
     {
       "titulo": "Google Merchant Center New UCP Integration Hub",
       "link": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
@@ -14317,6 +14277,56 @@
       "categoria": "dxw",
       "fecha": "2026-10-27T06:54:22+00:00",
       "extracto": "F N Group Selects Addlly AI as GEO Partner Issuewire.com"
+    },
+    {
+      "titulo": "What happens when AI runs a city for 15 days? 🤯",
+      "link": "https://www.youtube.com/watch?v=hS9tNGsBtTQ",
+      "fuente": "Ravate",
+      "categoria": "youtube",
+      "fecha": "2026-10-26T05:00:07+00:00",
+      "extracto": "Did you know researchers put ChatGPT, Claude, Gemini, and Grok into a virtual society for 15 days, and it turned into pure chaos?",
+      "vistas": 881545,
+      "miniatura": "https://i.ytimg.com/vi/hS9tNGsBtTQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Open AI’s Profit Margins will blow your mind! #aimodel #deepseekai #chatgpt #claude #openai #ai",
+      "link": "https://www.youtube.com/watch?v=GmqYtcYp1hY",
+      "fuente": "Mayankshah",
+      "categoria": "youtube",
+      "fecha": "2026-10-23T14:11:50+00:00",
+      "extracto": "DeepSeek just open-sourced DeepInfer, the inference engine that runs its AI, and revealed real numbers: one cluster serves 155 ...",
+      "vistas": 352016,
+      "miniatura": "https://i.ytimg.com/vi/GmqYtcYp1hY/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Made This Viral Reel Using ONLY EffectCraft Claude Code",
+      "link": "https://www.youtube.com/watch?v=DceFrd65KUg",
+      "fuente": "MoSidd",
+      "categoria": "youtube",
+      "fecha": "2026-10-25T14:00:32+00:00",
+      "extracto": "Want more leads or views? Join the community & Take this short survey (takes 1 minute): https://tally.so/r/RGXj5Q I'll be offering a ...",
+      "vistas": 15193,
+      "miniatura": "https://i.ytimg.com/vi/DceFrd65KUg/hqdefault.jpg"
+    },
+    {
+      "titulo": "1 ta prompt — 3 xil lokatsiya | Claude + Higgsfield MCP",
+      "link": "https://www.youtube.com/watch?v=TZBHFeJbhww",
+      "fuente": "Jahongir Ziyaratov",
+      "categoria": "youtube",
+      "fecha": "2026-10-22T08:31:30+00:00",
+      "extracto": "Higgsfield'ni Claude'ga 30 soniyada ulang https://higgsfield.ai/s/higgsfield-mcp-general-yt-jahongir-ziyoratov-cTfgBZ Claude ...",
+      "vistas": 7505,
+      "miniatura": "https://i.ytimg.com/vi/TZBHFeJbhww/hqdefault.jpg"
+    },
+    {
+      "titulo": "Use Todoist in Claude",
+      "link": "https://www.youtube.com/watch?v=wEqzYYiLHVQ",
+      "fuente": "Todoist",
+      "categoria": "youtube",
+      "fecha": "2026-10-22T13:17:39+00:00",
+      "extracto": "Want to plan, triage, and capture tasks without leaving your Claude conversation? Connect Todoist to Claude via the Todoist ...",
+      "vistas": 3275,
+      "miniatura": "https://i.ytimg.com/vi/wEqzYYiLHVQ/hqdefault.jpg"
     }
   ]
 }
