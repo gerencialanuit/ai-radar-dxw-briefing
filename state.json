@@ -1,16 +1,5 @@
 {
   "vistos": [
-    "064636260305b0a3",
-    "975c560c7a7deff3",
-    "b1336b9d3224db5b",
-    "eb51f38e25d04303",
-    "2353380c5173e6b8",
-    "1d0e58d49165834b",
-    "8128a37e57bc3629",
-    "51be547e04d4fed6",
-    "de065161b3726b63",
-    "84630f813939b14d",
-    "3336dd4fafef3ca8",
     "057f53e8f45be0ce",
     "edf51307a089b5ae",
     "32687754d1322efb",
@@ -1999,97 +1988,20 @@
     "308340226818f6a0",
     "c41dc3759d9b4e63",
     "eb37e60529fe444c",
-    "b3ab599fd986f313"
+    "b3ab599fd986f313",
+    "df0349554b357965",
+    "4661da653d36d7cf",
+    "e09f0dd14caefb4d",
+    "2fe1affa31832d30",
+    "41387f484fc5676c",
+    "1429ce8cbeb66237",
+    "7e1e6a33a8ba5475",
+    "a1c0fe41c77d8176",
+    "04a8d256ba7ab4b0",
+    "44eeef45bd5c456b",
+    "e111c42b91c06b1d"
   ],
   "archivo": [
-    {
-      "titulo": "Termaxa",
-      "link": "https://www.producthunt.com/products/termaxa",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T21:24:04+00:00",
-      "extracto": "See what an AI agent's command would destroy before it runs Discussion | Link"
-    },
-    {
-      "titulo": "Epilude Narrator",
-      "link": "https://www.producthunt.com/products/epilude",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T21:03:10+00:00",
-      "extracto": "Listen to any article, doc or text on your Mac Discussion | Link"
-    },
-    {
-      "titulo": "Simo",
-      "link": "https://www.producthunt.com/products/simo-3",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T20:38:11+00:00",
-      "extracto": "The judgment layer for software that acts Discussion | Link"
-    },
-    {
-      "titulo": "judged.systems",
-      "link": "https://www.producthunt.com/products/judged-systems",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T19:10:29+00:00",
-      "extracto": "The judgment API platform for support systems. Discussion | Link"
-    },
-    {
-      "titulo": "BotBus",
-      "link": "https://www.producthunt.com/products/botbus",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T08:49:08+00:00",
-      "extracto": "Manage your local coding agents from your phone Discussion | Link"
-    },
-    {
-      "titulo": "Hark",
-      "link": "https://www.producthunt.com/products/hark-3",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T01:29:22+00:00",
-      "extracto": "The personal AI that handles life before you have to Discussion | Link"
-    },
-    {
-      "titulo": "Liquid Inference",
-      "link": "https://www.producthunt.com/products/liquid-inference",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T08:14:41+00:00",
-      "extracto": "LLM router where providers compete for every prompt Discussion | Link"
-    },
-    {
-      "titulo": "Clippo",
-      "link": "https://www.producthunt.com/products/clippo-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T19:03:43+00:00",
-      "extracto": "Orchestrate AI agent teams on a visual canvas Discussion | Link"
-    },
-    {
-      "titulo": "aegis",
-      "link": "https://www.producthunt.com/products/aegis-14",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T18:33:50+00:00",
-      "extracto": "Smart personal safety app connected to 24/7 dispatch Discussion | Link"
-    },
-    {
-      "titulo": "Hallmonitor",
-      "link": "https://www.producthunt.com/products/hallmonitor",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T16:49:17+00:00",
-      "extracto": "See and answer every coding agent from your notch Discussion | Link"
-    },
-    {
-      "titulo": "SineFrame M3",
-      "link": "https://www.producthunt.com/products/sineframe-m3",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-07T15:54:49+00:00",
-      "extracto": "Test MCP servers and the agents that call them in pytest Discussion | Link"
-    },
     {
       "titulo": "Simple Workout Log",
       "link": "https://www.producthunt.com/products/simple-workout-log",
@@ -14313,6 +14225,116 @@
       "categoria": "dxw",
       "fecha": "2026-10-27T15:31:54+00:00",
       "extracto": "New free audit checks AI search visibility for small businesses as ChatGPT and Google AI answers reshape discovery The Manila Times"
+    },
+    {
+      "titulo": "Превращаю СберТВ в Apple TV 🥴",
+      "link": "https://www.youtube.com/watch?v=sZo6_HWAM20",
+      "fuente": "Overtake lab",
+      "categoria": "youtube",
+      "fecha": "2026-10-23T14:44:47+00:00",
+      "extracto": "У меня есть телевизор от Сбера на Салют ТВ, но он постоянно тормозил, показывал рекламу и плохо работал с YouTube ...",
+      "vistas": 2020168,
+      "miniatura": "https://i.ytimg.com/vi/sZo6_HWAM20/hqdefault.jpg"
+    },
+    {
+      "titulo": "7 Proven Ways to Make Money With AI (No Experience)",
+      "link": "https://www.youtube.com/watch?v=hriu0irRcpE",
+      "fuente": "Mark Tilbury",
+      "categoria": "youtube",
+      "fecha": "2026-10-24T11:33:52+00:00",
+      "extracto": "FREE CHALLENGE: Let's build a $373/day AI Income LIVE (Nov 7th-15th, 2026): https://link.consulting.com/7-proven-ways ...",
+      "vistas": 641762,
+      "miniatura": "https://i.ytimg.com/vi/hriu0irRcpE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Shipped Claude 2.0 (Master it in 17 minutes)",
+      "link": "https://www.youtube.com/watch?v=yMnFHFf43Qg",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T01:48:38+00:00",
+      "extracto": "Get the Claude 2.0 Guide PDF for free ...",
+      "vistas": 355804,
+      "miniatura": "https://i.ytimg.com/vi/yMnFHFf43Qg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Remove all Ads and Bloatware Apps from your TV With Claude Code and this Github Repo",
+      "link": "https://www.youtube.com/watch?v=-s8wFpNUd9Y",
+      "fuente": "Nick Automates",
+      "categoria": "youtube",
+      "fecha": "2026-10-24T08:18:22+00:00",
+      "extracto": "Comment \"TV\" to get Clean your TV of Ads and Bloatware with Claude Code. People are now hacking their TVs with Claude Code ...",
+      "vistas": 223976,
+      "miniatura": "https://i.ytimg.com/vi/-s8wFpNUd9Y/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI in Home Assistant: Genius or Dangerous?",
+      "link": "https://www.youtube.com/watch?v=IXx-mVG53Jc",
+      "fuente": "Smart Home Solver",
+      "categoria": "youtube",
+      "fecha": "2026-10-24T17:47:10+00:00",
+      "extracto": "I built an AI that's 100% local and very powerful! But is AI in Home Assistant a good thing? UGREEN HomeAgent HA100 (Reserve ...",
+      "vistas": 128916,
+      "miniatura": "https://i.ytimg.com/vi/IXx-mVG53Jc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Design 3.0 fundamentos en 30 minutos",
+      "link": "https://www.youtube.com/watch?v=kXI4hCuwTU0",
+      "fuente": "Lorena Bordonaba - Inteligencia Artificial",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T08:33:27+00:00",
+      "extracto": "Herramientas: ➜ Claude nueva: claude.com ➜ Claude Antigua: claude.ai/design ➜ Herramientas de inspiración de diseño ...",
+      "vistas": 5197,
+      "miniatura": "https://i.ytimg.com/vi/kXI4hCuwTU0/hqdefault.jpg"
+    },
+    {
+      "titulo": "클로드 하나로 이미지 부터 영상까지, 광고 영상 제작법 (힉스필드 MCP)",
+      "link": "https://www.youtube.com/watch?v=tSg8zs1RYwo",
+      "fuente": "디지털거북이",
+      "categoria": "youtube",
+      "fecha": "2026-10-26T00:00:28+00:00",
+      "extracto": "힉스필드(Higgsfield) 바로가기 : https://higgsfield.ai/s/higgsfield-mcp-general-yt-digital-turtle-sFiHqt 클로드에서 대화하는 것만으로 ...",
+      "vistas": 6620,
+      "miniatura": "https://i.ytimg.com/vi/tSg8zs1RYwo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Complete AI Masterclass for Students🔥 | Earn Money Using AI | Prashant Kirad",
+      "link": "https://www.youtube.com/watch?v=u_G9_w7EAHY",
+      "fuente": "ExpHub - Prashant Kirad",
+      "categoria": "youtube",
+      "fecha": "2026-10-24T14:50:38+00:00",
+      "extracto": "AI Masterclass for Students | 5 AI Skills Everyone Must Learn | Prashant Kirad In this video, Prashant Kirad shares 5 powerful AI ...",
+      "vistas": 865718,
+      "miniatura": "https://i.ytimg.com/vi/u_G9_w7EAHY/hqdefault.jpg"
+    },
+    {
+      "titulo": "This Makes Any Android TV 10x Faster!",
+      "link": "https://www.youtube.com/watch?v=ckw_amuisog",
+      "fuente": "Beebom",
+      "categoria": "youtube",
+      "fecha": "2026-10-25T11:15:39+00:00",
+      "extracto": "You can make any Android TV 10 times faster with just a single prompt. And in this video, I will show you how to do it. Basically ...",
+      "vistas": 418844,
+      "miniatura": "https://i.ytimg.com/vi/ckw_amuisog/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Reverse Engineered Mario 64 to Make My Own Game",
+      "link": "https://www.youtube.com/watch?v=6MpHBHw30OE",
+      "fuente": "Stefan 3D AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-22T12:48:55+00:00",
+      "extracto": "I built a 3D platformer using Reverse Engineer Anything + Claude Opus 5.5 and the result is much better than I expected.",
+      "vistas": 176766,
+      "miniatura": "https://i.ytimg.com/vi/6MpHBHw30OE/hqdefault.jpg"
+    },
+    {
+      "titulo": "CLAUDE AI Changed My Android TV’s Vibe! (Full Tutorial - HINDI)",
+      "link": "https://www.youtube.com/watch?v=dCS4er4Xcjo",
+      "fuente": "Sarcastic Sindhi",
+      "categoria": "youtube",
+      "fecha": "2026-10-25T13:16:25+00:00",
+      "extracto": "Doston is video me Claude ko use krke apne android tv ki vibe flip kardi hai and tutorial bataya hai Repo Link ...",
+      "vistas": 139919,
+      "miniatura": "https://i.ytimg.com/vi/dCS4er4Xcjo/hqdefault.jpg"
     }
   ]
 }
