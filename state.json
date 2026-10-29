@@ -1,18 +1,5 @@
 {
   "vistos": [
-    "b103ef977ef4ffe1",
-    "9d05032766d2df09",
-    "07cc25959476ff66",
-    "99fd39ef99a336c4",
-    "9bfdc756aa2638e6",
-    "77d7317cc78cfa39",
-    "4f257472fff4b941",
-    "04f12c06a39d19d8",
-    "53fb4ef1c209b99e",
-    "ca31ccff8a8c96ee",
-    "f3116f68c90257d3",
-    "005c4fd4220a55aa",
-    "d3a1a90ff54087d5",
     "ebb4a901c0a90172",
     "33ad057a298325ad",
     "4c82a91e25429431",
@@ -1999,121 +1986,22 @@
     "9eec5bc497866a74",
     "2306971cbef07522",
     "7f3b42b1ec3f8f68",
-    "046d2844f37fc14e"
+    "046d2844f37fc14e",
+    "d7d89eba67306425",
+    "0bff4f3dff023609",
+    "05f7b39056c80ade",
+    "e38e170858ac0efb",
+    "28823f39c1358d40",
+    "25e5e3587edf7188",
+    "182bb9f98515bf6f",
+    "375faeeab7571847",
+    "5eefb426b9a27866",
+    "6f20cc2e8bad1973",
+    "d4fa670be6609918",
+    "90d4a13366731626",
+    "71cf2a9872f81091"
   ],
   "archivo": [
-    {
-      "titulo": "9 NEW Claude Mods that can truly change how you work",
-      "link": "https://www.youtube.com/watch?v=lDrAZ1wAyVs",
-      "fuente": "Jay E | RoboNuggets",
-      "categoria": "youtube",
-      "fecha": "2026-10-08T12:12:10+00:00",
-      "extracto": "Get the 9 Claude Mods PDF guide for free ...",
-      "vistas": 321417,
-      "miniatura": "https://i.ytimg.com/vi/lDrAZ1wAyVs/hqdefault.jpg"
-    },
-    {
-      "titulo": "Reklamları Otomatik Üreten AI Aracı Yaptım! | Claude + BytePlus Seedance 2.5",
-      "link": "https://www.youtube.com/watch?v=vNjUtf4LrS4",
-      "fuente": "Ömer Göçmen | Yapay Zeka & Otomasyon",
-      "categoria": "youtube",
-      "fecha": "2026-10-06T15:55:09+00:00",
-      "extracto": "BytePlus Seedance 2.5 Resource Plan: https://bit.ly/4gGiof3 Ücretsiz Workflow/Skill: ...",
-      "vistas": 2826,
-      "miniatura": "https://i.ytimg.com/vi/vNjUtf4LrS4/hqdefault.jpg"
-    },
-    {
-      "titulo": "Someone Just Rebuilt Adobe for Free, and Claude Can Run Them All (7 apps tested)",
-      "link": "https://www.youtube.com/watch?v=Fuo1i_-9Frc",
-      "fuente": "Jay E | RoboNuggets",
-      "categoria": "youtube",
-      "fecha": "2026-10-08T11:08:06+00:00",
-      "extracto": "Get the Craft Apps Automation Guide for free ...",
-      "vistas": 238324,
-      "miniatura": "https://i.ytimg.com/vi/Fuo1i_-9Frc/hqdefault.jpg"
-    },
-    {
-      "titulo": "Anthropic Just Revealed 10 NEW Rules for Claude Skills",
-      "link": "https://www.youtube.com/watch?v=VQyYzLJ6xos",
-      "fuente": "Jay E | RoboNuggets",
-      "categoria": "youtube",
-      "fecha": "2026-10-05T07:49:31+00:00",
-      "extracto": "Get the 10 Skill Rules PDF guide + skill-creator-plus for free ...",
-      "vistas": 101267,
-      "miniatura": "https://i.ytimg.com/vi/VQyYzLJ6xos/hqdefault.jpg"
-    },
-    {
-      "titulo": "Meta releases its first frontier model, Muse Wonder",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-12T17:56:56+00:00",
-      "extracto": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
-    },
-    {
-      "titulo": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-12T17:19:14+00:00",
-      "extracto": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
-    },
-    {
-      "titulo": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-12T15:45:00+00:00",
-      "extracto": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
-    },
-    {
-      "titulo": "Microsoft president says UK is best placed to drive AI regulation",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-12T15:31:19+00:00",
-      "extracto": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
-    },
-    {
-      "titulo": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-12T15:27:59+00:00",
-      "extracto": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
-    },
-    {
-      "titulo": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-12T14:00:00+00:00",
-      "extracto": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second."
-    },
-    {
-      "titulo": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-12T12:47:59+00:00",
-      "extracto": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context."
-    },
-    {
-      "titulo": "Will the HomeView be Apple’s first smart home success?",
-      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-11T21:14:40+00:00",
-      "extracto": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
-    },
-    {
-      "titulo": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-11T19:00:00+00:00",
-      "extracto": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
-    },
     {
       "titulo": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
       "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
@@ -14325,6 +14213,136 @@
       "categoria": "dxw",
       "fecha": "2026-10-28T22:35:00+00:00",
       "extracto": "AI Search Visibility Snapshot: Free Tool to Check If AI Recommends Competitors FinancialContent"
+    },
+    {
+      "titulo": "致力于钓鱼执法让用户拿到大后果#Claude #AI #钓鱼执法 #逆天",
+      "link": "https://www.youtube.com/watch?v=2WUJL62aChU",
+      "fuente": "555grtg",
+      "categoria": "youtube",
+      "fecha": "2026-10-27T00:32:16+00:00",
+      "extracto": "",
+      "vistas": 376100,
+      "miniatura": "https://i.ytimg.com/vi/2WUJL62aChU/hqdefault.jpg"
+    },
+    {
+      "titulo": "[Aula 1] Introdução ao Claude e seu primeiro projeto de automação",
+      "link": "https://www.youtube.com/watch?v=na6CGy5hlRs",
+      "fuente": "Hashtag No Code & IA",
+      "categoria": "youtube",
+      "fecha": "2026-10-27T01:06:47+00:00",
+      "extracto": "Link de Inscrição para o Programa Claude Impressionador ...",
+      "vistas": 194611,
+      "miniatura": "https://i.ytimg.com/vi/na6CGy5hlRs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Ho Trasformato Claude in un Trader Automatico 24/7",
+      "link": "https://www.youtube.com/watch?v=EG4yKGT7DEc",
+      "fuente": "Giuseppe Castagna",
+      "categoria": "youtube",
+      "fecha": "2026-10-23T16:45:21+00:00",
+      "extracto": "Trading con l'AI: ho dato a Claude un conto da 100.000$ virtuali e regole scritte: ora investe da solo, 24 ore su 24. Esperimento ...",
+      "vistas": 216784,
+      "miniatura": "https://i.ytimg.com/vi/EG4yKGT7DEc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code löscht die Werbung von deinem TV",
+      "link": "https://www.youtube.com/watch?v=74ANEMK4s5w",
+      "fuente": "Worth Making | KI. Produkt. Business.",
+      "categoria": "youtube",
+      "fecha": "2026-10-26T10:08:12+00:00",
+      "extracto": "Leute hacken gerade ihre Fernseher mit Claude Code und werfen Werbung, Bloatware und Tracking runter. Angefangen hat's ...",
+      "vistas": 149984,
+      "miniatura": "https://i.ytimg.com/vi/74ANEMK4s5w/hqdefault.jpg"
+    },
+    {
+      "titulo": "EGM: Google s New Way To Use Claude Code Is Insane",
+      "link": "https://www.youtube.com/watch?v=xxf6D9jynFw",
+      "fuente": "AI LABS",
+      "categoria": "youtube",
+      "fecha": "2026-10-25T15:01:21+00:00",
+      "extracto": "This Claude Code workflow from Google tears apart your plan before your agent builds anything. We show how to use Claude ...",
+      "vistas": 168221,
+      "miniatura": "https://i.ytimg.com/vi/xxf6D9jynFw/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to give Claude video powers 🤖 #Claude #Higgsfield #AI",
+      "link": "https://www.youtube.com/watch?v=4OgXgxKpTwE",
+      "fuente": "Sanji Nai-Chien",
+      "categoria": "youtube",
+      "fecha": "2026-10-26T23:30:32+00:00",
+      "extracto": "Learn to connect Claude to Higgsfield to generate custom AI videos using a simple connector link. This guide demonstrates how ...",
+      "vistas": 2952,
+      "miniatura": "https://i.ytimg.com/vi/4OgXgxKpTwE/hqdefault.jpg"
+    },
+    {
+      "titulo": "구독료 0원 AI 녹음기?! GPT·Claude 연동에 MCP까지?! (feat. 서앤오) | 뚜gear #7",
+      "link": "https://www.youtube.com/watch?v=Jw9dT0ln0wo",
+      "fuente": "판교 뚜벅쵸",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T11:00:07+00:00",
+      "extracto": "상세 정보는 영상 내 \"제품 보기\" 혹은 아래 링크를 참고해 주세요 ‍♂️ https://naver.me/IGsPKDzB (위 링크는 네이버 쇼핑 커넥트 ...",
+      "vistas": 4690,
+      "miniatura": "https://i.ytimg.com/vi/Jw9dT0ln0wo/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Give Claude Unlimited Usage",
+      "link": "https://www.youtube.com/watch?v=NBCM_ZoWZo8",
+      "fuente": "Theo - t3․gg",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T19:05:28+00:00",
+      "extracto": "Claude should have a limit...right? You would think so. But today I'm going to show you how to run Claude for WEEKS Thank you ...",
+      "vistas": 158876,
+      "miniatura": "https://i.ytimg.com/vi/NBCM_ZoWZo8/hqdefault.jpg"
+    },
+    {
+      "titulo": "I hacked my camera with AI (and so can you)",
+      "link": "https://www.youtube.com/watch?v=lbtUnjWh1_c",
+      "fuente": "Tony & Chelsea Northrup",
+      "categoria": "youtube",
+      "fecha": "2026-10-26T20:19:00+00:00",
+      "extracto": "AI just made it possible for anyone to hack their camera's firmware, no programming required. I used Claude to make my ...",
+      "vistas": 298317,
+      "miniatura": "https://i.ytimg.com/vi/lbtUnjWh1_c/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Use REA GitHub to Reverse Engineer Anything in Claude Code",
+      "link": "https://www.youtube.com/watch?v=v_XdN5-ya9A",
+      "fuente": "Outskill",
+      "categoria": "youtube",
+      "fecha": "2026-10-23T19:30:01+00:00",
+      "extracto": "I tested REA - Reverse Engineer Anything, the viral GitHub repo that lets AI rebuild any app with no source code. Free Whatsapp ...",
+      "vistas": 163190,
+      "miniatura": "https://i.ytimg.com/vi/v_XdN5-ya9A/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI News: Claude Duet Crushes; Amazing Grok Bot Updates; and NotebookLM Upgrade",
+      "link": "https://www.youtube.com/watch?v=vDYqh1FGrgQ",
+      "fuente": "Paul J Lipsky",
+      "categoria": "youtube",
+      "fecha": "2026-10-23T13:00:11+00:00",
+      "extracto": "Sponsored by Wispr Flow! Wispr Flow is faster and more efficient than any other dictation tool. Download Wispr Flow today (it's ...",
+      "vistas": 130489,
+      "miniatura": "https://i.ytimg.com/vi/vDYqh1FGrgQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "If you use AI, download Claude Duet immediately",
+      "link": "https://www.youtube.com/watch?v=jC26BnJseAw",
+      "fuente": "Alex Finn",
+      "categoria": "youtube",
+      "fecha": "2026-10-22T20:11:53+00:00",
+      "extracto": "Anthropic just released Claude Duet and it's incredible Join the Claude Duet waitlist: ...",
+      "vistas": 116327,
+      "miniatura": "https://i.ytimg.com/vi/jC26BnJseAw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Automate Your CapCut Editing With Claude (Step by Step + Free Skill)",
+      "link": "https://www.youtube.com/watch?v=U-AdnIz1jIk",
+      "fuente": "Matt Loui",
+      "categoria": "youtube",
+      "fecha": "2026-10-23T12:45:03+00:00",
+      "extracto": "Sign up for Higgsfield here: https://higgsfield.ai/s/mattloui-kBNuih Claude edited this entire CapCut video. 117 cuts on my talking ...",
+      "vistas": 129148,
+      "miniatura": "https://i.ytimg.com/vi/U-AdnIz1jIk/hqdefault.jpg"
     }
   ]
 }
