@@ -1,17 +1,5 @@
 {
   "vistos": [
-    "395d1ec66d5742cc",
-    "18a96ebac75f9965",
-    "315efb08b13e9ec0",
-    "cb0e47701aeb9ec5",
-    "de37056999b342b2",
-    "a1227e625e89bff5",
-    "f45d806482000d4d",
-    "f7347b6dca9e930f",
-    "aae5604d7ce46a87",
-    "976223091881cfb7",
-    "cf955f7fb61967d9",
-    "7545dfd59bd528ab",
     "9026a08b7ee1a021",
     "ca1d4330ca59a3d4",
     "fa14b8f7db4605df",
@@ -1999,105 +1987,21 @@
     "625ef186c824bf16",
     "c829f2f487f931cc",
     "113cf23dbf38d4bc",
-    "ae012fddd01eba24"
+    "ae012fddd01eba24",
+    "ae034cbb7f7c263f",
+    "b5882c3691675d68",
+    "82b66a0631dcc023",
+    "adb2d908f17f0f06",
+    "a50e620488e44564",
+    "5a9681ee5bd9e762",
+    "07b8de2c82ee7dbc",
+    "ec488097bf91ecc8",
+    "27d37b4084075ad0",
+    "2c9ae3fb2ecb83ec",
+    "a23c472cc6f9f793",
+    "76f1833a24318f69"
   ],
   "archivo": [
-    {
-      "titulo": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T18:00:00+00:00",
-      "extracto": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to [ ]"
-    },
-    {
-      "titulo": "Facebook will let you customize your feed algorithm using AI",
-      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T17:01:31+00:00",
-      "extracto": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this [ ]"
-    },
-    {
-      "titulo": "Google makes it easier to launch your vibe-coded apps",
-      "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T17:00:00+00:00",
-      "extracto": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code [ ]"
-    },
-    {
-      "titulo": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T16:42:51+00:00",
-      "extracto": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST FAN\" in bold black letters. [ ]"
-    },
-    {
-      "titulo": "Google finally releases Gemini 4 Argon",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T16:00:00+00:00",
-      "extracto": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that [ ]"
-    },
-    {
-      "titulo": "Epic shifts to AI-accelerated development for upcoming Disney game",
-      "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T15:12:59+00:00",
-      "extracto": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game. According [ ]"
-    },
-    {
-      "titulo": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-      "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T13:55:45+00:00",
-      "extracto": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace from Resident Evil [ ]"
-    },
-    {
-      "titulo": "Apple launches HomeView, its first smart display for the home",
-      "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T13:00:00+00:00",
-      "extracto": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying photos, and providing information at a glance with Apple's [ ]"
-    },
-    {
-      "titulo": "Character.AI files for bankruptcy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T10:32:23+00:00",
-      "extracto": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing [ ]"
-    },
-    {
-      "titulo": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T18:23:33+00:00",
-      "extracto": "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
-    },
-    {
-      "titulo": "Google wants to host your personal vibe-coded apps in the Play Store",
-      "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T17:00:39+00:00",
-      "extracto": "Google plans to help turn those personal AI-generated apps into wide releases."
-    },
-    {
-      "titulo": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T16:00:02+00:00",
-      "extracto": "Developers will get 50 percent discounted API rates through November."
-    },
     {
       "titulo": "They war-gamed dimming the Sun. It went even worse than you think.",
       "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
@@ -14297,6 +14201,126 @@
       "categoria": "dxw",
       "fecha": "2026-10-29T21:43:00+00:00",
       "extracto": "Bazaarvoice & Profound team up on AI search visibility Australia"
+    },
+    {
+      "titulo": "Claude is the entire dev team",
+      "link": "https://www.youtube.com/watch?v=33aOBxGulMQ",
+      "fuente": "Verzen",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T17:26:18+00:00",
+      "extracto": "memesdaily #meme #memes #shorts #funny #funnymemes #relatable In this humorous video, funny text (\"Roblox 'developers' ...",
+      "vistas": 1123709,
+      "miniatura": "https://i.ytimg.com/vi/33aOBxGulMQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "ช่วยหมาหรือโจร!! #ai #claude #chatgpt #viral #loveme #spiderman",
+      "link": "https://www.youtube.com/watch?v=ehf3Qj7xyQc",
+      "fuente": "InvisibleStax",
+      "categoria": "youtube",
+      "fecha": "2026-10-26T10:13:02+00:00",
+      "extracto": "",
+      "vistas": 507580,
+      "miniatura": "https://i.ytimg.com/vi/ehf3Qj7xyQc/hqdefault.jpg"
+    },
+    {
+      "titulo": "What Claude Code Can Do That You Haven t Tried - Gui Ferreira - NDC Oslo 2026",
+      "link": "https://www.youtube.com/watch?v=P3TCZ2xrvbo",
+      "fuente": "NDC Conferences",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T09:47:02+00:00",
+      "extracto": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper Attend the next ...",
+      "vistas": 39627,
+      "miniatura": "https://i.ytimg.com/vi/P3TCZ2xrvbo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code: Build Your First AI Agent in 20 Minutes (100% No Coding)",
+      "link": "https://www.youtube.com/watch?v=F8jidmEkIeM",
+      "fuente": "Grace Leung",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T13:00:10+00:00",
+      "extracto": "Try Claude Code on the Max plan: https://clau.de/GraceLeung You can use AI every day and still do most of the work yourself.",
+      "vistas": 7904,
+      "miniatura": "https://i.ytimg.com/vi/F8jidmEkIeM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Released A New System For Using Claude Code",
+      "link": "https://www.youtube.com/watch?v=S49gppZl8H0",
+      "fuente": "AI LABS",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T15:18:27+00:00",
+      "extracto": "Claude Code says the task is done, but is it? Here's how to use Claude Code the way Anthropic's Claude Code team checks its ...",
+      "vistas": 7651,
+      "miniatura": "https://i.ytimg.com/vi/S49gppZl8H0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Grok Bot Drops Artifacts, Claude Duet, Security Issues + more (AI News)",
+      "link": "https://www.youtube.com/watch?v=Q1m25CQrjFY",
+      "fuente": "Brock Mesarich | AI for Non Techies",
+      "categoria": "youtube",
+      "fecha": "2026-10-24T15:00:31+00:00",
+      "extracto": "Generate Images and Videos: https://higgsfield.ai/RqQDAH Another big week in AI, and your life shouldn't be all AI research, ...",
+      "vistas": 38917,
+      "miniatura": "https://i.ytimg.com/vi/Q1m25CQrjFY/hqdefault.jpg"
+    },
+    {
+      "titulo": "O novo Claude está INSANO! Todas as novidades explicadas",
+      "link": "https://www.youtube.com/watch?v=gNC3Tyhr0P8",
+      "fuente": "Eli Rigobeli - IA",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T12:00:31+00:00",
+      "extracto": "Conecte a Higgsfield ao Claude e crie imagens, vídeos e anúncios: ...",
+      "vistas": 10770,
+      "miniatura": "https://i.ytimg.com/vi/gNC3Tyhr0P8/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Connected Claude to Instagram and the Results Are INSANE!",
+      "link": "https://www.youtube.com/watch?v=FAk7ezvFIfU",
+      "fuente": "MundoAI",
+      "categoria": "youtube",
+      "fecha": "2026-10-25T18:34:20+00:00",
+      "extracto": "How to Connect Claude to Instagram | Step by Step (2026) Connect Claude to Instagram using Composio to automate your social ...",
+      "vistas": 2244,
+      "miniatura": "https://i.ytimg.com/vi/FAk7ezvFIfU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Why is there So Many AI Low Poly Animation Accounts?",
+      "link": "https://www.youtube.com/watch?v=XxQKl0crUf8",
+      "fuente": "Ayy Lmao",
+      "categoria": "youtube",
+      "fecha": "2026-10-26T05:34:44+00:00",
+      "extracto": "In my last video i covered the low poly ai animation channels popping up, so why is there so many of them? Let me explain. So the ...",
+      "vistas": 282731,
+      "miniatura": "https://i.ytimg.com/vi/XxQKl0crUf8/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Create Cinematic AI Short Films Using Seedance 2.5 (Step-by-Step Tutorial)",
+      "link": "https://www.youtube.com/watch?v=wFbgrPmVXb0",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-24T13:11:52+00:00",
+      "extracto": "All Prompts and Assets: https://higgsfield.ai/s/ai-action-film-higgsfieldai-AqKXgv Learn how to make a cinematic AI short film with ...",
+      "vistas": 183711,
+      "miniatura": "https://i.ytimg.com/vi/wFbgrPmVXb0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Learn 99% Of Claude Code in One Video",
+      "link": "https://www.youtube.com/watch?v=3TwbE7gv6qo",
+      "fuente": "Tech With Tim",
+      "categoria": "youtube",
+      "fecha": "2026-10-24T14:00:00+00:00",
+      "extracto": "Get started with Claude Code: https://clau.de/TechWithTim Most people install Claude Code, type a prompt, and never touch the ...",
+      "vistas": 169763,
+      "miniatura": "https://i.ytimg.com/vi/3TwbE7gv6qo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + Google Vids = Full Stickman Animations on Autopilot",
+      "link": "https://www.youtube.com/watch?v=vx10qHNXRIo",
+      "fuente": "The AI Blueprint",
+      "categoria": "youtube",
+      "fecha": "2026-10-24T15:55:44+00:00",
+      "extracto": "Make full stickman animation videos on autopilot: Claude builds the whole video for you inside Google Vids, with zero editing.",
+      "vistas": 134565,
+      "miniatura": "https://i.ytimg.com/vi/vx10qHNXRIo/hqdefault.jpg"
     }
   ]
 }
