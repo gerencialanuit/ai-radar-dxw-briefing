@@ -1,24 +1,5 @@
 {
   "vistos": [
-    "849b423196d125cc",
-    "a01e02239da0a38e",
-    "59cd647799e0e90a",
-    "92397f60ed2c65b2",
-    "74e7597016b33680",
-    "3aa373b031ffc603",
-    "880299e0e86d95f9",
-    "4832252a0b4a8b85",
-    "a0e5cc16f6d813f6",
-    "3f82d3b5c45228fd",
-    "6e59afaba737efb4",
-    "4dc4b1af9a4bc26e",
-    "85f73f9094f8639a",
-    "90bb877635182928",
-    "5f047132a0c2a265",
-    "5f261f8d09101946",
-    "f574d6b69979a309",
-    "d6c98090942a268e",
-    "16af82df22e357c2",
     "6f502c5df3d94a5b",
     "93fd72245aad6ae6",
     "96979c461f832598",
@@ -1999,161 +1980,28 @@
     "0a34b08ab32d08c9",
     "8bd2150c4a4a0260",
     "ce838d805ea2e901",
-    "e5af2b489c965e39"
+    "e5af2b489c965e39",
+    "3234e8514c89d7a2",
+    "96659f7216ed776b",
+    "c66043797083db30",
+    "9ebd78c1e802ccf4",
+    "f0668200f7a944ea",
+    "bc040a5938ca8401",
+    "7829f22b68e3e547",
+    "e9bdc41d2daa937c",
+    "91b356e616110221",
+    "942c95fabfe1fb6e",
+    "0ca91f85dfdb336a",
+    "0bf03710db8f0b0f",
+    "20253b662929ddd8",
+    "4c8623a38ad65767",
+    "e9f393dac0ac7a65",
+    "d761b9c220d2271e",
+    "cf8c6c8e0c458e64",
+    "4d05a3ffff257676",
+    "4a56519789d8f3ed"
   ],
   "archivo": [
-    {
-      "titulo": "The EU’s next chapter in AI is agentic",
-      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-10-14T00:00:00+00:00",
-      "extracto": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-    },
-    {
-      "titulo": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "link": "https://www.anthropic.com/news/singapore-office-opening",
-      "fuente": "Anthropic News (mirror)",
-      "categoria": "releases",
-      "fecha": "2026-10-14T00:00:00+00:00",
-      "extracto": "Anthropic opens Singapore office and signs MOU with the Government of Singapore"
-    },
-    {
-      "titulo": "v2.1.299",
-      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.299",
-      "fuente": "Claude Code — Releases",
-      "categoria": "releases",
-      "fecha": "2026-10-14T02:49:42+00:00",
-      "extracto": "What's changed Added CLAUDE_CODE_DISABLE_FILE_MENTIONS environment variable: Claude gets the paths of @ file mentions to read with its file tools, not the files' contents Added idle compaction in the terminal: a 200K+ token conversation left idle for about 54 minutes is compacted before its one-hour prompt cache expires, so your next message doesn't reprocess it all Added CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS to change idle compaction's 200K-token..."
-    },
-    {
-      "titulo": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "fuente": "Google DeepMind",
-      "categoria": "releases",
-      "fecha": "2026-10-14T02:00:14+00:00",
-      "extracto": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-    },
-    {
-      "titulo": "Developing Gemini 4 Argon responsibly and safely",
-      "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "fuente": "Google DeepMind",
-      "categoria": "releases",
-      "fecha": "2026-10-13T19:43:07+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "Gemini 4 Argon for Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "fuente": "Google DeepMind",
-      "categoria": "releases",
-      "fecha": "2026-10-13T16:01:58+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "Gemini 4 Argon: Built to solve your hardest problems",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "fuente": "Google DeepMind",
-      "categoria": "releases",
-      "fecha": "2026-10-13T16:01:52+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "fuente": "Hugging Face Blog",
-      "categoria": "releases",
-      "fecha": "2026-10-14T16:12:42+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "Deezer will soon let you filter out AI-generated music",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-14T15:16:04+00:00",
-      "extracto": "Deezer said that the new toggle will be rolled out by the end of the year."
-    },
-    {
-      "titulo": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-14T15:13:24+00:00",
-      "extracto": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI."
-    },
-    {
-      "titulo": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-14T15:08:00+00:00",
-      "extracto": "Zenzap is used by organizations including Starbucks and Taco Bell."
-    },
-    {
-      "titulo": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-14T15:00:00+00:00",
-      "extracto": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
-    },
-    {
-      "titulo": "TechCrunch Disrupt 2026: Day 2",
-      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-14T14:30:00+00:00",
-      "extracto": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass."
-    },
-    {
-      "titulo": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-14T11:00:00+00:00",
-      "extracto": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
-    },
-    {
-      "titulo": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T23:13:31+00:00",
-      "extracto": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
-    },
-    {
-      "titulo": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T23:05:34+00:00",
-      "extracto": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
-    },
-    {
-      "titulo": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T23:00:00+00:00",
-      "extracto": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
-    },
-    {
-      "titulo": "Cerebras CEO pushes back on AI doomsday warnings",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T22:36:59+00:00",
-      "extracto": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
-    },
-    {
-      "titulo": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-13T20:36:44+00:00",
-      "extracto": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
-    },
     {
       "titulo": "Epic s new games launcher is ‘vibe coded’",
       "link": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
@@ -14307,6 +14155,196 @@
       "categoria": "dxw",
       "fecha": "2026-11-02T19:28:11+00:00",
       "extracto": "InnovAit AI Publishes Agentic Search Guide for Enterprise CMOs TradingView"
+    },
+    {
+      "titulo": "AI taking over Humanity | ChatGPT, Gemini, Claude",
+      "link": "https://www.youtube.com/watch?v=Ia09PrgoCxo",
+      "fuente": "GelNox",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T02:42:53+00:00",
+      "extracto": "Join GelNox Today https://www.youtube.com/gelnox/join #meme #memes #gelnox #funnymemes meme memes funny memes ...",
+      "vistas": 2565944,
+      "miniatura": "https://i.ytimg.com/vi/Ia09PrgoCxo/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI’s First Brain Surgery #ai #aimedicine #aidoctor #claude #aifordoctors",
+      "link": "https://www.youtube.com/watch?v=dZUatzFQ79M",
+      "fuente": "Mayankshah",
+      "categoria": "youtube",
+      "fecha": "2026-10-31T03:13:48+00:00",
+      "extracto": "On Oct 28, an Oxford PhD and startup founder claimed an AI agent planned and performed brain surgery on a living mouse: it ...",
+      "vistas": 586190,
+      "miniatura": "https://i.ytimg.com/vi/dZUatzFQ79M/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Told Claude to Make it better 100 Times (It Went Too Far)",
+      "link": "https://www.youtube.com/watch?v=DByAR5Su1Yw",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T00:45:46+00:00",
+      "extracto": "FREE Scrollcraft Website Design Skill: ...",
+      "vistas": 446645,
+      "miniatura": "https://i.ytimg.com/vi/DByAR5Su1Yw/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI vs Software Engineers 😂 | ChatGPT Claude Taking Over? #Shorts",
+      "link": "https://www.youtube.com/watch?v=ZWh7Zze88T0",
+      "fuente": "SofticEra - Institute & Software House",
+      "categoria": "youtube",
+      "fecha": "2026-10-27T10:01:48+00:00",
+      "extracto": "Software Engineers vs AI — Who's Winning? ChatGPT and Claude are changing the way developers work. But what happens ...",
+      "vistas": 351797,
+      "miniatura": "https://i.ytimg.com/vi/ZWh7Zze88T0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude s new mobile app updates are here",
+      "link": "https://www.youtube.com/watch?v=SkpwzfR4A1E",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-10-29T18:02:37+00:00",
+      "extracto": "A few upgrades to the Claude mobile apps this week. • On iPad and iPhone Duo, what Claude makes opens beside the chat • You ...",
+      "vistas": 359815,
+      "miniatura": "https://i.ytimg.com/vi/SkpwzfR4A1E/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Found 12,154 Hidden Photos on This Android Phone?! #ClaudeCode #Android #PhonePrivacy #Shorts",
+      "link": "https://www.youtube.com/watch?v=ZBWK2mtYYJY",
+      "fuente": "Custom Adventurist",
+      "categoria": "youtube",
+      "fecha": "2026-10-31T00:49:18+00:00",
+      "extracto": "Did Claude Code find 12154 hidden photos on an Android phone? A viral post claims a flashlight app secretly saved front-camera ...",
+      "vistas": 461873,
+      "miniatura": "https://i.ytimg.com/vi/ZBWK2mtYYJY/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Spent 100 Hours Making a Game With Claude (this is cooked)",
+      "link": "https://www.youtube.com/watch?v=tpbXZyRxWNY",
+      "fuente": "Brendan Jowett",
+      "categoria": "youtube",
+      "fecha": "2026-10-29T11:06:20+00:00",
+      "extracto": "Full courses + unlimited support: ...",
+      "vistas": 249076,
+      "miniatura": "https://i.ytimg.com/vi/tpbXZyRxWNY/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make Viral Animated Shorts Using Claude (Full Workflow)",
+      "link": "https://www.youtube.com/watch?v=OtbLL6OBNE4",
+      "fuente": "Mr omi",
+      "categoria": "youtube",
+      "fecha": "2026-11-01T06:15:41+00:00",
+      "extracto": "How to make viral animated shorts with Claude, step by step. I gave Claude a channel's latest 20 shorts, it studied them frame by ...",
+      "vistas": 244351,
+      "miniatura": "https://i.ytimg.com/vi/OtbLL6OBNE4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude 2.0 es una locura (todas las novedades explicadas)",
+      "link": "https://www.youtube.com/watch?v=nZaOSQffA8M",
+      "fuente": "Xavier Mitjana",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T15:56:37+00:00",
+      "extracto": "Descarga GRATIS la guía de Claude: ...",
+      "vistas": 217260,
+      "miniatura": "https://i.ytimg.com/vi/nZaOSQffA8M/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built the Ultimate Website Design Skill (Copy Me)",
+      "link": "https://www.youtube.com/watch?v=DCwh7SIfWL4",
+      "fuente": "Jack Roberts",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T21:40:16+00:00",
+      "extracto": "Claude Image & Video: https://bit.ly/4zU5l08 🛠️ Free 3D Website Skill: https://bit.ly/4jH1y1t Agentic OS + Claude Code ...",
+      "vistas": 28032,
+      "miniatura": "https://i.ytimg.com/vi/DCwh7SIfWL4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Segampang Ini Bikin Konten Pakai Claude + Higgsfield MCP",
+      "link": "https://www.youtube.com/watch?v=-yvXO4EQa5I",
+      "fuente": "Kristian Ekachandra",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T03:42:24+00:00",
+      "extracto": "https://higgsfield.ai/s/higgsfield-mcp-general-yt-aichandre-RFufgh sambungin Higgsfield ke Claude dan mulai bikin konten pakai ...",
+      "vistas": 15645,
+      "miniatura": "https://i.ytimg.com/vi/-yvXO4EQa5I/hqdefault.jpg"
+    },
+    {
+      "titulo": "SketchUp 2027 AI Tutorial: Build a Garage with Claude MUZWalls",
+      "link": "https://www.youtube.com/watch?v=_zQjPIyzUIM",
+      "fuente": "MUZWalls",
+      "categoria": "youtube",
+      "fecha": "2026-10-27T16:35:23+00:00",
+      "extracto": "Can AI design and build a complete architectural model in SketchUp? In this tutorial, discover how to combine SketchUp 2027, ...",
+      "vistas": 4419,
+      "miniatura": "https://i.ytimg.com/vi/_zQjPIyzUIM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Transformou Animações por Código com Modelos de Vídeo",
+      "link": "https://www.youtube.com/watch?v=M6n74ShLW80",
+      "fuente": "ViktorKav",
+      "categoria": "youtube",
+      "fecha": "2026-10-31T13:50:45+00:00",
+      "extracto": "Teste o Higgsfield MCP e automatize seus processos de vídeo: https://higgsfield.ai/s/higgsfield-mcp-general-yt-vkav-GsUNyy ...",
+      "vistas": 4749,
+      "miniatura": "https://i.ytimg.com/vi/M6n74ShLW80/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Make $10,000/Month With Higgsfield (No Experience)",
+      "link": "https://www.youtube.com/watch?v=vOBKA8n15vg",
+      "fuente": "Iman Gadzhi",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T16:54:25+00:00",
+      "extracto": "If you found this video valuable, I want to invite you to my upcoming FREE LIVE AI Income Challenge, where we'll build a ...",
+      "vistas": 843916,
+      "miniatura": "https://i.ytimg.com/vi/vOBKA8n15vg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code for Free With 7 Billion Tokens a Month",
+      "link": "https://www.youtube.com/watch?v=exkQTYOm47c",
+      "fuente": "Eric Tech",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T15:14:40+00:00",
+      "extracto": "Try TestSprite, the open-source verifier for your agent loop: https://www.testsprite.com/?via=eric Run Claude Code for free with ...",
+      "vistas": 145979,
+      "miniatura": "https://i.ytimg.com/vi/exkQTYOm47c/hqdefault.jpg"
+    },
+    {
+      "titulo": "China Just Dropped A Free AI That Almost Matches Claude Opus 5.5 (Here’s How To Use It)",
+      "link": "https://www.youtube.com/watch?v=QZ6OlRUDjqs",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-10-27T15:23:48+00:00",
+      "extracto": "TOOLS AND LINKS Get all the AI tools, updates, prompts, and the Kimi K3.1 Pro setup guide inside our free Community: ...",
+      "vistas": 141424,
+      "miniatura": "https://i.ytimg.com/vi/QZ6OlRUDjqs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Tested 100,000 Price Action Strategies (Here’s What Works)",
+      "link": "https://www.youtube.com/watch?v=z97PnFIPoFg",
+      "fuente": "AI Pathways",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T13:00:30+00:00",
+      "extracto": "AI Trading Community: https://www.skool.com/aipathways Work With Me 1:1: https://www.aipathways.io Claude tested over ...",
+      "vistas": 141091,
+      "miniatura": "https://i.ytimg.com/vi/z97PnFIPoFg/hqdefault.jpg"
+    },
+    {
+      "titulo": "You re Using Claude the Hard Way. This Is the New Way",
+      "link": "https://www.youtube.com/watch?v=1MLGhb-jvws",
+      "fuente": "Vaibhav Sisinty",
+      "categoria": "youtube",
+      "fecha": "2026-10-29T15:39:58+00:00",
+      "extracto": "Get every Claude Code prompt from this video, plus a checklist of all the commands, free in our WhatsApp community: ...",
+      "vistas": 140159,
+      "miniatura": "https://i.ytimg.com/vi/1MLGhb-jvws/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic faces disruption as Graphify cuts Claude Code token costs drastically #AI #AITools",
+      "link": "https://www.youtube.com/watch?v=OfvygaQEzZM",
+      "fuente": "Andrew Bishop",
+      "categoria": "youtube",
+      "fecha": "2026-10-29T02:34:20+00:00",
+      "extracto": "Graphify disrupted Claude Code's pricing model by solving token inefficiency in codebase sessions. Claude Code traditionally ...",
+      "vistas": 168949,
+      "miniatura": "https://i.ytimg.com/vi/OfvygaQEzZM/hqdefault.jpg"
     }
   ]
 }
