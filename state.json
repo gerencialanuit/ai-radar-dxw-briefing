@@ -1,12 +1,5 @@
 {
   "vistos": [
-    "36efc1e9dec9160b",
-    "3a13c2b7afcfedab",
-    "67db8c18be8a3ae1",
-    "d7605e917f11831e",
-    "58a143428535102b",
-    "5097c6ad37de1c29",
-    "a6eb0ef254a9dca1",
     "f96733e9528af91b",
     "5b04ed39f71c1fb3",
     "fe5542e2a2ab7e13",
@@ -1999,65 +1992,16 @@
     "5f2e9a8b5b8c613c",
     "7c4ef2659bed7272",
     "f5f7c46710f97956",
-    "8b4cc68e18ebe303"
+    "8b4cc68e18ebe303",
+    "1788628112174bc8",
+    "3ad32befad9041ff",
+    "1e82e5358d30d40c",
+    "69891057f9413966",
+    "3634a7f55e3666ea",
+    "87ed66c3b29b1e90",
+    "fc6409d3709eb29b"
   ],
   "archivo": [
-    {
-      "titulo": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T14:30:00+00:00",
-      "extracto": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [ ]"
-    },
-    {
-      "titulo": "Nobody is safe from celebrity AI deepfakes",
-      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T14:03:42+00:00",
-      "extracto": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song \"Single [ ]"
-    },
-    {
-      "titulo": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-      "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T14:00:00+00:00",
-      "extracto": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the creator and media spaces for his work investigating [ ]"
-    },
-    {
-      "titulo": "Google launches its universal online shopping cart ahead of the holidays",
-      "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T13:00:00+00:00",
-      "extracto": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier [ ]"
-    },
-    {
-      "titulo": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-      "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T12:00:00+00:00",
-      "extracto": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And [ ]"
-    },
-    {
-      "titulo": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T11:00:00+00:00",
-      "extracto": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where [ ]"
-    },
-    {
-      "titulo": "McKinsey is making job applicants spar with a fake AI client",
-      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-14T22:53:31+00:00",
-      "extracto": "Consulting firm McKinsey Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the [ ]"
-    },
     {
       "titulo": "Eight states sue OpenAI, saying ChatGPT isn t safe for kids",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
@@ -14327,6 +14271,76 @@
       "categoria": "dxw",
       "fecha": "2026-11-03T06:16:39+00:00",
       "extracto": "PageLens Launches Agency Model, Letting Agencies Sell AI Search Visibility Under Their Own Brand India CSR"
+    },
+    {
+      "titulo": "Use any coding agent directly in Android Studio",
+      "link": "https://www.youtube.com/watch?v=1rwOVPybnDc",
+      "fuente": "Android Developers",
+      "categoria": "youtube",
+      "fecha": "2026-10-28T20:19:29+00:00",
+      "extracto": "Android Studio now supports over 40 ACP compatible AI agents directly inside your development environment, allowing you to ...",
+      "vistas": 1604055,
+      "miniatura": "https://i.ytimg.com/vi/1rwOVPybnDc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Hacking Camera Software with AI is Getting Crazy",
+      "link": "https://www.youtube.com/watch?v=sJYBs5CLywk",
+      "fuente": "Breno Loves Cameras",
+      "categoria": "youtube",
+      "fecha": "2026-10-29T00:15:32+00:00",
+      "extracto": "AI is no longer just for generating false images; people are using it to reverse-engineer and rewrite actual camera software.",
+      "vistas": 588541,
+      "miniatura": "https://i.ytimg.com/vi/sJYBs5CLywk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Что делать, если зомбиапокалипсис застал тебя в гараже? #ai #claude #вайбкодинг #zombie #зомби",
+      "link": "https://www.youtube.com/watch?v=NqR_IG6DyEA",
+      "fuente": "m3nsory",
+      "categoria": "youtube",
+      "fecha": "2026-11-02T03:39:00+00:00",
+      "extracto": "",
+      "vistas": 432972,
+      "miniatura": "https://i.ytimg.com/vi/NqR_IG6DyEA/hqdefault.jpg"
+    },
+    {
+      "titulo": "From Low-Code to Pro-Code with Joule Studio | SAP TechEd 2026",
+      "link": "https://www.youtube.com/watch?v=hwDTcYH2pGw",
+      "fuente": "SAP",
+      "categoria": "youtube",
+      "fecha": "2026-10-29T10:53:31+00:00",
+      "extracto": "What happens when you take an AI agent from Joule Studio into your favorite coding environment? Discover how pro-code ...",
+      "vistas": 1751,
+      "miniatura": "https://i.ytimg.com/vi/hwDTcYH2pGw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Suno MCP Is a GAME CHANGER! Make Music with ChatGPT Claude",
+      "link": "https://www.youtube.com/watch?v=6Z9SISly5_s",
+      "fuente": "Applorable",
+      "categoria": "youtube",
+      "fecha": "2026-10-29T22:50:08+00:00",
+      "extracto": "Suno MCP is here! You can now connect Suno to ChatGPT and Claude to create AI-generated music and songs through your AI ...",
+      "vistas": 1577,
+      "miniatura": "https://i.ytimg.com/vi/6Z9SISly5_s/hqdefault.jpg"
+    },
+    {
+      "titulo": "31 Life-Changing Ways to Use Claude in 2027",
+      "link": "https://www.youtube.com/watch?v=KDyPHt4lW60",
+      "fuente": "Nick Saraev",
+      "categoria": "youtube",
+      "fecha": "2026-11-02T22:16:58+00:00",
+      "extracto": "Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/31-life-changing-ways Get all prompts 100% free: ...",
+      "vistas": 229239,
+      "miniatura": "https://i.ytimg.com/vi/KDyPHt4lW60/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Make Faceless YouTube Shorts with Claude (Free Skill/Automation)",
+      "link": "https://www.youtube.com/watch?v=n1N_ZIP5x3M",
+      "fuente": "Nafay 3D",
+      "categoria": "youtube",
+      "fecha": "2026-11-01T19:27:49+00:00",
+      "extracto": "Use Zapier for free: https://zc.s.gy/un77IW I built a Claude skill that makes faceless YouTube Shorts for you, 100% free. It writes the ...",
+      "vistas": 201561,
+      "miniatura": "https://i.ytimg.com/vi/n1N_ZIP5x3M/hqdefault.jpg"
     }
   ]
 }
