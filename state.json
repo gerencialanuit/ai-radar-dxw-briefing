@@ -1,15 +1,5 @@
 {
   "vistos": [
-    "f350282c12c189c8",
-    "fe4bb30d56a4dddd",
-    "41a4fac713b92a5c",
-    "180814d3c35b4405",
-    "a732cbaeb6e09013",
-    "b2453eefe8965def",
-    "eb901a22b4142fe9",
-    "baadcac90c95375f",
-    "92d1db8e488cc9d7",
-    "059eb5fa54e5178a",
     "f9f8186c37561458",
     "a73dee93208b9f35",
     "df5399c7f9d2448e",
@@ -1999,89 +1989,19 @@
     "01f6df6ec1359c8d",
     "ae192e6fcf85086d",
     "97fa77f075be85ec",
-    "cd613c742dec8fb5"
+    "cd613c742dec8fb5",
+    "86f905d4dfaed2e2",
+    "291fad6a85265c96",
+    "a9d94b0608f929b0",
+    "ad1f679ac0e80c9e",
+    "6bb60b0266c471fd",
+    "c09963df1eaa4421",
+    "a90ec7860612114b",
+    "fd826700245f0a4a",
+    "553e5910ad0f98f9",
+    "03b65e4d62ca1229"
   ],
   "archivo": [
-    {
-      "titulo": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-16T12:55:09+00:00",
-      "extracto": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
-    },
-    {
-      "titulo": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T23:44:56+00:00",
-      "extracto": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
-    },
-    {
-      "titulo": "Meta launches an open-weight AI model that runs on Macs",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T20:04:53+00:00",
-      "extracto": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
-    },
-    {
-      "titulo": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T19:55:25+00:00",
-      "extracto": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
-    },
-    {
-      "titulo": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T19:14:26+00:00",
-      "extracto": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
-    },
-    {
-      "titulo": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T18:56:46+00:00",
-      "extracto": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience."
-    },
-    {
-      "titulo": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T18:00:00+00:00",
-      "extracto": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business."
-    },
-    {
-      "titulo": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-16T15:00:00+00:00",
-      "extracto": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [ ]"
-    },
-    {
-      "titulo": "Meta’s new terms may allow it to train AI on news sites for free",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-16T14:02:40+00:00",
-      "extracto": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [ ]"
-    },
-    {
-      "titulo": "ChatGPT can peek at your Chrome tabs now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-15T22:43:23+00:00",
-      "extracto": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [ ]"
-    },
     {
       "titulo": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
       "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
@@ -14319,6 +14239,106 @@
       "categoria": "dxw",
       "fecha": "2026-11-04T06:17:46+00:00",
       "extracto": "NTT East launches AI search visibility service for small businesses Telecompaper"
+    },
+    {
+      "titulo": "AI Chose Blackmail Over Shutdown. Here’s Why That’s Scary. #shorts #ai #claude #fyp #didyouknow",
+      "link": "https://www.youtube.com/watch?v=lARPM6E-wlI",
+      "fuente": "Manu Kahat",
+      "categoria": "youtube",
+      "fecha": "2026-11-02T12:06:09+00:00",
+      "extracto": "What happens if an AI is given a goal and then learns that humans are about to shut it down? Anthropic tested this in a controlled ...",
+      "vistas": 357951,
+      "miniatura": "https://i.ytimg.com/vi/lARPM6E-wlI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Every Claude 2.0 Concept Explained for Normal People",
+      "link": "https://www.youtube.com/watch?v=tcb5q_6jwvY",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T23:25:18+00:00",
+      "extracto": "My FREE AI OS course: ...",
+      "vistas": 148688,
+      "miniatura": "https://i.ytimg.com/vi/tcb5q_6jwvY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Ho collegato Claude Code alla mia vecchia Android TV: ecco cosa è successo",
+      "link": "https://www.youtube.com/watch?v=nFxwqU3gCB8",
+      "fuente": "Simone Rizzo",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T14:44:25+00:00",
+      "extracto": "Entra nella mia Accademia AI: https://www.rizzoaiacademy.com/ Vuoi sviluppare soluzioni AI avanzate: https://inferentia.xyz IG: ...",
+      "vistas": 171898,
+      "miniatura": "https://i.ytimg.com/vi/nFxwqU3gCB8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + VPS + Doppler : le setup que j’aurais dû connaitre bien plus tôt",
+      "link": "https://www.youtube.com/watch?v=v8hMT8HYoNk",
+      "fuente": "Shubham SHARMA",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T20:10:05+00:00",
+      "extracto": "Héberger vos outils open source sur un VPS Hostinger (code SHUBHAMSHARMA -10%): https://sharma.fr/hostinger-vps-claude ...",
+      "vistas": 132322,
+      "miniatura": "https://i.ytimg.com/vi/v8hMT8HYoNk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Figma MCP مع Claude: الـ AI يقرا الـ Design الحقيقي بدل ما يخمنه من Screenshot.",
+      "link": "https://www.youtube.com/watch?v=jkzmHctIlL0",
+      "fuente": "Tech With Ziad",
+      "categoria": "youtube",
+      "fecha": "2026-11-02T15:40:31+00:00",
+      "extracto": "Figma MCP مع Claude: الـ AI يقرا الـ Design الحقيقي بدل ما يخمنه من Screenshot. Anthropic قدمت MCP في 25 نوفمبر 2024 كـ open ...",
+      "vistas": 2828,
+      "miniatura": "https://i.ytimg.com/vi/jkzmHctIlL0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude launches 5 new MCP tools to boost AI browsing and creativity #AI #AITools #Productivity",
+      "link": "https://www.youtube.com/watch?v=fmRjh_Gg4k8",
+      "fuente": "Eli Sadler",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T15:24:38+00:00",
+      "extracto": "Claude MCPs provide five key tools that enhance AI capabilities with live search, browser automation, content extraction, motion ...",
+      "vistas": 5387,
+      "miniatura": "https://i.ytimg.com/vi/fmRjh_Gg4k8/hqdefault.jpg"
+    },
+    {
+      "titulo": "CHATGPT Agora CRIA SÉRIES de DORAMAS LONGOS com UM ÚNICO COMANDO!",
+      "link": "https://www.youtube.com/watch?v=sPENfanWULc",
+      "fuente": "Cavidade 77",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T21:52:33+00:00",
+      "extracto": "Já imaginou usar a Higgsfield https://higgsfield.ai/s/higgsfield-mcp-general-yt-cavidade77-GYfLBq para criar SÉRIES DE ...",
+      "vistas": 1713,
+      "miniatura": "https://i.ytimg.com/vi/sPENfanWULc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Do you still need MCP if Claude can write code?",
+      "link": "https://www.youtube.com/watch?v=vk1gQpPpFPw",
+      "fuente": "AIUnderTheHood",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T15:00:14+00:00",
+      "extracto": "Do you still need an MCP server, or can Claude just write its own connection to an app? Both work. Here they are side by side.",
+      "vistas": 1892,
+      "miniatura": "https://i.ytimg.com/vi/vk1gQpPpFPw/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Edit VIRAL Talking Head Videos Using ONLY Claude! (New Minimal Style)",
+      "link": "https://www.youtube.com/watch?v=g9xoKm5DEeU",
+      "fuente": "Joseph | Video Editing",
+      "categoria": "youtube",
+      "fecha": "2026-10-31T15:00:03+00:00",
+      "extracto": "Join Ultimate Editors 2.0 - Master the Viral Editing Styles of 2026, AI Video Editing, and Make $2000/mo! (14 Days left) ➡️Click ...",
+      "vistas": 144038,
+      "miniatura": "https://i.ytimg.com/vi/g9xoKm5DEeU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude FREE PLAN 🤑 Make Free Videos in Claude Motion Graphics #claude #ai",
+      "link": "https://www.youtube.com/watch?v=u2AXS9KHUro",
+      "fuente": "Raj Photo Editing and Much More",
+      "categoria": "youtube",
+      "fecha": "2026-11-02T13:19:39+00:00",
+      "extracto": "Create Stunning Videos for FREE with Claude AI!** Want to create professional-looking video effects and motion graphics without ...",
+      "vistas": 149103,
+      "miniatura": "https://i.ytimg.com/vi/u2AXS9KHUro/hqdefault.jpg"
     }
   ]
 }
