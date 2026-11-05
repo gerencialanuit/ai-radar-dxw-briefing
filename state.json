@@ -1,16 +1,5 @@
 {
   "vistos": [
-    "f21127a82f593eb0",
-    "5fc9899acd55330e",
-    "319959feb246f36e",
-    "97ec8ddab5ec6777",
-    "a2074c2683e743a3",
-    "002dced8eb6a47dc",
-    "45fbc978f29bc0cb",
-    "3833bbb35a22eecd",
-    "83e0e2d711353535",
-    "d024388ec952ade8",
-    "fbd08eb001397087",
     "4d301bf80f1e82ea",
     "a65929200d136f49",
     "7280baa0ecc79db5",
@@ -1999,97 +1988,20 @@
     "315efb08b13e9ec0",
     "f766fcef9bd92271",
     "5696c844bef85ca0",
-    "45d8b904e10ad689"
+    "45d8b904e10ad689",
+    "c5fd054c58787bea",
+    "83afa3e0f9b6aef2",
+    "e94b099d30f773c6",
+    "ead6313da10001dd",
+    "4966648da3cf9e21",
+    "e57605ff62e1e48f",
+    "ef8d98d3cd5e6785",
+    "cac9a0d9cd50a610",
+    "4c494e13166193d5",
+    "e4c11669b391d0c6",
+    "3ed4470f33294be4"
   ],
   "archivo": [
-    {
-      "titulo": "AI game clones are making indie developers afraid to show their work",
-      "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-19T16:59:22+00:00",
-      "extracto": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs."
-    },
-    {
-      "titulo": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-19T14:45:43+00:00",
-      "extracto": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents."
-    },
-    {
-      "titulo": "Anthropic gives outside AI watchdog “employee-like” access",
-      "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-18T16:25:19+00:00",
-      "extracto": "The outside watchdog can publish its findings without Anthropic's approval."
-    },
-    {
-      "titulo": "Agentes de inteligencia artificial accedieron a datos confidenciales de empresas en India - HSB Noticias",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONE1mUnRnLWR3NS1DZGFqQVlfcFFOZ3YyV1NrZXR2Um8zUG94aEN6aklCSjhfOHhFWWVxcTd4d19oakNlSXFOQldJVFhRZEZkcFlKLUFaV2xpbUN2cWxoRFRycUROd2pMVUlXQ3BIMTBNbkl2ZzdJSk9xOXdnSDFnSjdISkIyQkw2WGg3RXRyU0FvNVZJNHAtc1hERmJNaXNUUjdwUEFlSDlkS1VLc1R1NmxSdzdxWkVmUHg3Y2hZUQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-19T16:56:10+00:00",
-      "extracto": "Agentes de inteligencia artificial accedieron a datos confidenciales de empresas en India HSB Noticias"
-    },
-    {
-      "titulo": "Los cinco cambios que la inteligencia artificial traerá al marketing en 2027 - Forbes Argentina",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjN0QV93cVkta3Q1cnozb1BDNHJ2b3hSeHB4MmdZUWlXYjRJREpmZmVOaW9FZ25lZGFCclpfQ20ybDRhSGxoUGxuaThnRXpPOGd2ZkJ2Q1Z5cm5LUHJFQjhSdEwwSDF4Tl9xMU1McEN5dmFCSFlOUG51WnR1MVVTaXE1b2NSVlFNSnAwa2VSQ1l2Ml9QMHZ4Y2ZGeWl2WU92U0FMWnNYNzF4YnBxRjdCZUt3SEXSAboBQVVfeXFMT2xxTXFCamhDREpPRjMtc29Nck5JcXVlOUZITmVVSDZLeUVaWHA0c3FHR0FtZmJYeUlNX1NyTjVROUhibDNZbnhkaXVYdXhldmlBWWo5bDFpck52dHJyb0FqNWJfUkRfc21Kd2VTQXJiLXZCUDZDa1I1eHdUVWFaRmsyN004c3BSY19CQU9rV3Y5N3NYTXIzZXZYTkdmU0swQ2hUMHpWbzFNVmVEWW9yZWIxS19GRkJhdnN3?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-19T10:10:00+00:00",
-      "extracto": "Los cinco cambios que la inteligencia artificial traerá al marketing en 2027 Forbes Argentina"
-    },
-    {
-      "titulo": "Torres (BBVA) destaca el potencial de la inteligencia artificial para impulsar la transformación de las empresas y la economía - El Periódico",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYURXVk1VcWlycUZ3WjB3MU55czZrVU1VamtUaVlUbkdGSTNfWVdoSmdqMHVrYi11a3hrNWFadlBGblcwc1piT1A1SDBlLUpHLXBlYmFCZk1TYVVlZmJLVnA1ZjlJdWJiSzBFcURCNEJjeW1GdGFjcGlBOXZxUGIzTWVwX003cWNNMUxPRUxhSnNYd3lIeWxkUDE2dGhmZnlmLW1V?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-19T18:21:02+00:00",
-      "extracto": "Torres (BBVA) destaca el potencial de la inteligencia artificial para impulsar la transformación de las empresas y la economía El Periódico"
-    },
-    {
-      "titulo": "IA en marketing: solo el 6% la aplica con impacto real - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbW5GUXRid2tmYXNOX2VTNC1RdnpmRkZNOVllMU8yZkd3eXpQRzNDU3dTdndKamVMM1hEVklPLXBHVUZHWEF2OEFoLUZzWm1YcHZra0o3RUtsX0w2VWRqQVVEMTAtZVMxaU5mNW9lRWhqQ2JJNmhrTHBiS2hxeE1Sbk1KUDdDOS1iQlV3?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-19T17:21:34+00:00",
-      "extracto": "IA en marketing: solo el 6% la aplica con impacto real El Ecosistema Startup"
-    },
-    {
-      "titulo": "Inteligencia Artificial: 5 tareas clave que las empresas colombianas ya las delegan - Diario del Cauca",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzJabkg4ZWJ6ZWYySG9LUi1QWlpWcHFxcU02YmxpRWNXd0xmQ3ZVZkJQR3BvUTM0RTVGTkhIVHdaTnBIeGJYei0ySk5lc2JPblkzUnFTSkJXcDhJLXg2OGszTllZWXBFandpNy1JblNsR3NyRUwtTU9vR0Rkc2VSQklUQlBITlNVRDFtQVM5MThRcW5iLVc4ZGNNd1dXVXFNTVNGdG43MWE3TENsakZJU0RRQnk4ZFYxQzU1c1JYQUlYMXc?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-17T20:17:48+00:00",
-      "extracto": "Inteligencia Artificial: 5 tareas clave que las empresas colombianas ya las delegan Diario del Cauca"
-    },
-    {
-      "titulo": "Las empresas adoptan IA más rápido de lo que pueden controlarla: ¿cómo evitar errores, filtraciones y sanciones? - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR2NLTjhvbDhmeDNISWJPdnNyZE45TW5NNlhhelM1am5pYXZTcG1hdEYyTWN3cUZkTHptTEhkZWFtWS1tNjdNZWxoVWltY0RIdEZpR1MzZXJCVXI5MmFVVUhlLUMtYkgxa29QVXNLb3RjVnQxQy1yczcyOWVVQ09DaWNYTXJZTXZKRjM2blZWWC1YOVZqaWZOZUVaODJaSFFvYlpVSHVKU0dwWlVScnJZQ0VHd1kyNWRndTZfSHZzOW1XT1RsZ1NhR3l0NHNXT21jWmk2cEczUVdGRS1FbUtzWFNJc9IB_gFBVV95cUxQVllkeEtwM0NiTFd5ZGszOU84dDE0ZUNLOWwyMmhneEtsaUUtOF9UTXk3X3NvUEpiU243dnNLS0RpWnJjZkx2OWFseHR5NW0zNk15Sk5KazhBWkdoLS1oSmFyOS1UZGFYSjdHQlctUU9CcTIwajE0R2RxLVBRMHpzWHVQR3VFV3pGZDllZE9DWkkzX0JaT2xSWVROYVFmbXBvLWZNOHdrbGVsUlk3Rjhpd0dxZTdlN3ZoczBtNFRMcUNYVElDQ3dTSmg3em1VUUM5ZkRWcUMxOFBNQWRtN3diOVk3Mm1uejNoRTdrV1Z3MkZ1N2R1bEFTSmJ1dnFGZw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-18T02:42:21+00:00",
-      "extracto": "Las empresas adoptan IA más rápido de lo que pueden controlarla: ¿cómo evitar errores, filtraciones y sanciones? Infobae"
-    },
-    {
-      "titulo": "El impacto de las “empresas agénticas” y la inteligencia artificial, eje de una charla en la UNNE - Medios Unne",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1bEk1bFdIaTE1NTZlcjBFdVQ3ajZ0U3l3OVRXU2FPXzlxX1NmS0JKTHJaX0ZZRy1hN1hLenJueG5iX3Z3aVZSUHNUbEkxOHdRSk9VMjVPQWFkWGttcG9Wag?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-19T13:40:38+00:00",
-      "extracto": "El impacto de las “empresas agénticas” y la inteligencia artificial, eje de una charla en la UNNE Medios Unne"
-    },
-    {
-      "titulo": "Experian: 43,8% de las empresas chilenas proyecta aumentar su inversión en inteligencia artificial durante los próximos dos años - FinteChile",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTXU4S3JITGRtOFg5ckw2YWVMa0dVMHBJYW5YTTJFRVA1U19JTFlqV2VXNGM4cHplYmRfV1RaN2l5Rk55dWpUN05QaTZnbV81aVN1OEVUQ0hIXzZPdkZ0b3BKV29jVk14NFFUZ3FoMmxxMVZvN1YzandkUE81dmhVY1BfQ2I2aUJZVkVHS2Eyb25iRDlHcGprVzRjVWpDRmtuZ3BWSVdybEFfTG5femlTMWZjN2s4Y2ZJeXFtc1kxTzVfeFNkQkFqYjB1ZWFrQmxKY2JiWktjUDdpSXg0UGpGaHo5aW5NdFM5ZlIyaE1mcmlVR21E?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-19T14:23:29+00:00",
-      "extracto": "Experian: 43,8% de las empresas chilenas proyecta aumentar su inversión en inteligencia artificial durante los próximos dos años FinteChile"
-    },
     {
       "titulo": "Aplicaciones de IA en Marketing: Herramientas y Usos Reales para Empresas - - empresa Exterior",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaVFHWEtLNFJTT2luTkdKQXlTcnZuQmNZVWZOZjVpMzhxNXBuT3Z3dFNfOUFyNW5IY2E5SXp1Y095c1QtcE1nenBtb0EtRVJTOHRhcFpOdF84NGtHYXQ3WUk5dF9rRUJRNlNISlJjT2FiSmtCOHZPVGNTcjFyTmFuSk83TmkzTUNqeE9YQ3VBRllRVU8zVjAycThkWU9XM3dlTVRKMkN1WE53QTBLR1pmd0kyVmFYUWxGbFlQLUV2dmVhekVUUWZ6OU4tSjRUOUo4c2dLQQ?oc=5",
@@ -14319,6 +14231,116 @@
       "categoria": "dxw",
       "fecha": "2026-11-05T03:58:47+00:00",
       "extracto": "10 Best Review Management Software for Local Business in 2026 Editorialge"
+    },
+    {
+      "titulo": "Anthropic Just DESTROYED the Reason You Pay for Claude",
+      "link": "https://www.youtube.com/watch?v=r4IR5wit-YE",
+      "fuente": "Corey McClain",
+      "categoria": "youtube",
+      "fecha": "2026-11-01T20:09:42+00:00",
+      "extracto": "Build AI agents with me inside Agent Fluency: https://www.skool.com/agentfluency If you're new here, my name is Corey McClain.",
+      "vistas": 327063,
+      "miniatura": "https://i.ytimg.com/vi/r4IR5wit-YE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Scientists Let AI Decide Whether to Start Nuclear War",
+      "link": "https://www.youtube.com/watch?v=9r3Z45Rxix0",
+      "fuente": "Segment Zero",
+      "categoria": "youtube",
+      "fecha": "2026-11-04T02:00:01+00:00",
+      "extracto": "Scientists let AI decide whether to start a nuclear war. The results were terrifying. In a 2026 King's College London study, ChatGPT ...",
+      "vistas": 175251,
+      "miniatura": "https://i.ytimg.com/vi/9r3Z45Rxix0/hqdefault.jpg"
+    },
+    {
+      "titulo": "HUKUM HILANGG!!! #ChatGPT #GoogleGemini #ClaudeAI #GrokAI #MetaAI",
+      "link": "https://www.youtube.com/watch?v=Y58-EXGvGUI",
+      "fuente": "Akbar Alatas Official",
+      "categoria": "youtube",
+      "fecha": "2026-10-31T09:30:51+00:00",
+      "extracto": "",
+      "vistas": 129952,
+      "miniatura": "https://i.ytimg.com/vi/Y58-EXGvGUI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude 2.0 ist da: Alle neuen Funktionen einfach erklärt",
+      "link": "https://www.youtube.com/watch?v=WUse7fDq2VQ",
+      "fuente": "Julian Ivanov | KI-Automatisierung",
+      "categoria": "youtube",
+      "fecha": "2026-11-01T13:59:44+00:00",
+      "extracto": "Die schnellste Abkürzung um KI Automatisierung zu meistern: https://skool.com/ki-automatisierung Spickzettel zum Video, alle ...",
+      "vistas": 135064,
+      "miniatura": "https://i.ytimg.com/vi/WUse7fDq2VQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built a WordPress Website With Claude AI Wire MCP | No Coding",
+      "link": "https://www.youtube.com/watch?v=CZcaM_t4T2I",
+      "fuente": "Komal Verse",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T14:32:16+00:00",
+      "extracto": "Get Wire MCP Plugin: https://wiremcp.com Extra 10% OFF: Use Coupon Code KOMAL10 on Wire MCP paid plans. In this video ...",
+      "vistas": 3883,
+      "miniatura": "https://i.ytimg.com/vi/CZcaM_t4T2I/hqdefault.jpg"
+    },
+    {
+      "titulo": "Suno Just Connected to ChatGPT! Here s What You Need to Know",
+      "link": "https://www.youtube.com/watch?v=Gq8PFjqxSXU",
+      "fuente": "The AI Plug",
+      "categoria": "youtube",
+      "fecha": "2026-11-02T20:06:57+00:00",
+      "extracto": "Suno AI just connected with ChatGPT! And yes, you can now create music through conversations with compatible AI assistants.",
+      "vistas": 3092,
+      "miniatura": "https://i.ytimg.com/vi/Gq8PFjqxSXU/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Tried Making a Viral Video Using ONLY Claude AI",
+      "link": "https://www.youtube.com/watch?v=kDcxEIDC5NA",
+      "fuente": "ReachMora",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T15:34:40+00:00",
+      "extracto": "What if you could create viral animated YouTube Shorts using ONLY Claude AI? No Blender, no expensive animation software, ...",
+      "vistas": 164371,
+      "miniatura": "https://i.ytimg.com/vi/kDcxEIDC5NA/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Spent 72 Hours Making a Commercial with AI (Full Workflow)",
+      "link": "https://www.youtube.com/watch?v=ktGkJfxNN9M",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T13:14:59+00:00",
+      "extracto": "All Prompts and Assets: https://higgsfield.ai/s/sportscinematicad-higgsfieldai-rFNifO I spent 72 hours creating a cinematic ...",
+      "vistas": 133672,
+      "miniatura": "https://i.ytimg.com/vi/ktGkJfxNN9M/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude দিয়ে ভাইরাল ভিডিও এডিট করার Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=-9LkYvTGu4A",
+      "fuente": "Backbenchers University",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T04:37:05+00:00",
+      "extracto": "Claude দিয়ে ভাইরাল ভিডিও এডিট করার Full Tutorial.",
+      "vistas": 154821,
+      "miniatura": "https://i.ytimg.com/vi/-9LkYvTGu4A/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Ultra: No 5-Hour Limit (Max 20x Renamed)",
+      "link": "https://www.youtube.com/watch?v=pyT0i5wSiSM",
+      "fuente": "DIY Smart Code",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T21:52:21+00:00",
+      "extracto": "Claude Ultra removes the 5-hour limit: Anthropic renamed Claude Max 20x to Ultra and is dropping the 5-hour usage limit for ...",
+      "vistas": 197186,
+      "miniatura": "https://i.ytimg.com/vi/pyT0i5wSiSM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Como Estou Criando VÍDEOS com o Claude SEM EDITAR NADA! (Tutorial Completo)",
+      "link": "https://www.youtube.com/watch?v=-AacGAuQR60",
+      "fuente": "Tutty",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T20:00:15+00:00",
+      "extracto": "Aproveitem ao máximo esse conteúdo, o ouroooo! ❤️ Ainda não tem um canal monetizado ganhando em DÓLAR?",
+      "vistas": 124267,
+      "miniatura": "https://i.ytimg.com/vi/-AacGAuQR60/hqdefault.jpg"
     }
   ]
 }
