@@ -1,17 +1,5 @@
 {
   "vistos": [
-    "c92a4224d23c218a",
-    "42d484e5f4f0f028",
-    "570e00b7b9ec5a2f",
-    "498456590807d03b",
-    "ea54a047965981d1",
-    "271cb0c528eb64c6",
-    "5b286cd87bf84d36",
-    "22c2698f6573539a",
-    "888f0607149af014",
-    "208ff9e462d6b6c4",
-    "7ad5fd8cd721c02a",
-    "c71da5bb43626567",
     "e62973510d1a6365",
     "428d58d4322091ef",
     "d81b31dd0dfe3e6e",
@@ -1999,105 +1987,21 @@
     "cb30821b6ed4344e",
     "b8965a29131b50ed",
     "13a1d522e979234b",
-    "8222da637a1fedb4"
+    "8222da637a1fedb4",
+    "98f062cc9fd01c37",
+    "2f154bdef4950e37",
+    "e31bf51aa4b06a08",
+    "518419d43aa908f0",
+    "bf688621f30fe608",
+    "ce97e2ad30a53da5",
+    "aad54c4c57b77d73",
+    "34bff69e1cac0400",
+    "8b90800d7d8bb89f",
+    "9a5334ad9fa651df",
+    "240348e14647556b",
+    "4b79dcaa81f47f71"
   ],
   "archivo": [
-    {
-      "titulo": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-20T12:33:13+00:00",
-      "extracto": "Meta is suspending the sharing feature while it investigates its privacy."
-    },
-    {
-      "titulo": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-19T20:21:53+00:00",
-      "extracto": "US fears Saudi government will help ex-OpenAI engineer flee spying charges."
-    },
-    {
-      "titulo": "Agentes de inteligencia artificial para el crecimiento empresarial, creados para acelerar, escalar y obtener resultados - Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aT2hEdnd6TnZmVFdxaDBDQzVldGh2SkhsS2psOTEzT18xc2dReFZtY0RPaWRZOFZnRlVhUi11T1Q2ekJEdTVqZEJFWUN3Q0FlOEduaFoyY2lTZkRySEY4cWI1eTY0WTd3SWpEaHFMbnV6Q3ZLZUJlaG9VTEY?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T08:31:07+00:00",
-      "extracto": "Agentes de inteligencia artificial para el crecimiento empresarial, creados para acelerar, escalar y obtener resultados Microsoft"
-    },
-    {
-      "titulo": "La adopción de inteligencia artificial en América Latina deja atrás a las pequeñas empresas - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0VzNG11Z2d1WDFNMDV3Z1hRVzVxSFEyNWFYY1R4cmhTZmpxa2hDSFhURy01Yl83YVNYbzR5cEFyT3A4YnItT3lQdE1iM0QxbnY1bXlLQWMwNmxKZTlJUnBRbTVyVHlwZ1hjbHhCY3dVR09fc1ZnR1JYODJpeDZON1V5a293TTBCeEtKa2tnS1NUQ0Nrb2tYWkxlcEVSdkxjNE9haFlzbVQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T15:58:18+00:00",
-      "extracto": "La adopción de inteligencia artificial en América Latina deja atrás a las pequeñas empresas Yahoo"
-    },
-    {
-      "titulo": "La inteligencia artificial plantea nuevos desafíos a las empresas - Agroempresario",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUpKek1pdVpNejV0cEV5RGV3Zjk2RFlFUU5DQzBia0hCYjR5bHNYaGFuQXBKZUdsWVVubUgtZ0pPRVVWd0JOMnhTQ1h5YjhTZVNPQ1lMdTM4eGVEMTI1NVZ0UEo3cTdhSkJ1cXdVSnpwbVpEdG1RanNsVk5kSUV2QnZKTlV6ck9kVDY3REpFOGNRd0dpYk1nSmpQT3Nwc1JIcmJBM3lGT1MyU01qQTNTUlFR?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T12:42:22+00:00",
-      "extracto": "La inteligencia artificial plantea nuevos desafíos a las empresas Agroempresario"
-    },
-    {
-      "titulo": "El 77 % de las empresas de América Latina pone condiciones antes de invertir en inteligencia artificial - ENTER.CO",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT0JCdmpxNGVycUQ3eXdWMFFveFNmVlJocFlOVzJqbEtCOElGUUhYclZfbUxzLUVVMmN3QXJVNVlFcEJtcGN4Y19aTkJRenhpZzY5N20zUDgxWDNlRkktdGNuQXlkcDNEZjd0ODEyemtMb3g0alNXdW1TeUEzZ2l6enpZT1dOVWgyUnVJZzRkWXdYdVh4Q3FrSk1IYlh5UGJUX1E3MGo4b05tWUFhYnhDNlhuSVpfNC1GQUs4bldIak8tS1hDYXBhT0NWV2s?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T17:04:16+00:00",
-      "extracto": "El 77 % de las empresas de América Latina pone condiciones antes de invertir en inteligencia artificial ENTER.CO"
-    },
-    {
-      "titulo": "Merco Empresas Colombia 2026: Las grandes tecnológicas pierden reputación en Colombia - Impacto TIC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzFNdDJ2c0VLTWVTbzBvMkZ5Q2VOQkRzV2NkZVZhZTZ2RklzODdXYlJwSEo3R0tSRjhrZVc4SmxEamdOMDhCTVdsSGpWR1JqQk9Bd0xWT1FuRXQzVXU4VlVGbFczTnM2NnBEUm9sV0NZRm1CRUhETWpWU1RuU19VcA?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T11:28:00+00:00",
-      "extracto": "Merco Empresas Colombia 2026: Las grandes tecnológicas pierden reputación en Colombia Impacto TIC"
-    },
-    {
-      "titulo": "El 65% de las empresas ya utiliza IA de forma habitual, pero la formación no sigue el mismo ritmo - IT User",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSFhHQTg0VnRnLWNyQ1RLLUM5LXBMOUNsemZSWHJlWUUwdU9OR29aVmhSVTJDV2RLdVBZWU1Kc25iYXhGUm9LNUVuX2J0OGZPcTk0RzBpcmVRX3BTSWpuVU1pRFhidFAtZ2NpdDVBSGFtRHdGSkxrNlBtTkVlZGlBemtFdGxST0FOUHNRYmlGcndXNkZiLWNuLTF2X1JzLWpCOWJOZ0lsSklOb0x0MmV4d2JoR2cwUFhTTmJOcy1YQ2R1YUdWVTJmUndBeW1KREdacGc?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T10:30:00+00:00",
-      "extracto": "El 65% de las empresas ya utiliza IA de forma habitual, pero la formación no sigue el mismo ritmo IT User"
-    },
-    {
-      "titulo": "Durante un siglo, invertir fue comprar máquinas. Ahora las empresas gastan casi lo mismo en nube, software e inteligencia artificial - Gizmodo en Español",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQmpfRThQcy1UMnFIYUtOd3FOTmM4WjE4a3BFSnlOdEdmMXFBbUR0bzdWVVBjdHJIQ3AyclZNWlVDUVhYUVNyMmVSQ3R5d3FqNWRleDZKUFFnZGlsMHhNV21ZX09xZEtCdjVYYTZUblpoSjVWbmxjQTE5Y3FNejhoWS1jTGVDTFZQYmZCUURjdDdIZXdtQ1RyT2lEbktBQVNYZ3NBblhiUFA2dWtPRFk4TFZLUG56RDI5TFJlYlRUZ3liVW1md0dLZEhRcjZGTDIwQVZnXzFsVUdTd0tqTVk2eEtJb25KZ0d6RUUtWE91YWpvUjVhTVE?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T13:22:20+00:00",
-      "extracto": "Durante un siglo, invertir fue comprar máquinas. Ahora las empresas gastan casi lo mismo en nube, software e inteligencia artificial Gizmodo en Español"
-    },
-    {
-      "titulo": "Ciberataques con inteligencia artificial: un hacker usó agentes de IA y US$ 5.000 para atacar más de 100 empresas - ITSitio",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXFYVlY3X204LTB0TjBweERlb3ZfVWtjT2VGNFZ1Rkh1dXp3djN4Z1JkbkVTVDJTTy1Xdy10b0p5TXF1dnluVWd2dGJDd2twOXZfY0xNcUpjU2VIaEl6Z2ZRRHp1Y1RCZnY0dkJ4ODNfR1d5blZFNmotQldpVjhmZWNLRW9jZnhxdEpSWkFhTGhXQkZZU0tpb082VW9LX09ZSGxoZnJJVmN4MGRxNW53YWRtcVNJYmVXUzd0T1BlNTZWbVpIdXg4cDhya0lQbmhyUnV6M3M3ZzNId1I3ajE0?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T14:53:08+00:00",
-      "extracto": "Ciberataques con inteligencia artificial: un hacker usó agentes de IA y US$ 5.000 para atacar más de 100 empresas ITSitio"
-    },
-    {
-      "titulo": "Carlos Solans: «La deflactación del IRPF resta poder adquisitivo y la inteligencia artificial cambiará las empresas» - Magazine SLV",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUmNJOVNFc2VQWFhjcHYzSkFSWUNyNU5XOFVNT0lhQnkwaDFJUGo0RDk5dXhxZjVBRWt1ZWNSV1JFQlJjN1R4U29hVmhRRkhTc3hRTm9VWExOZnM2dDdhcGdMRkw1Wi0yVFluamFCQ2ItbGlBOTZBLTZBcHpDdmRUUEZUUzlqV3ZCbU84bjdGSkJnTVZiRF9oeXB3RDBTTm5NWDFvMUlZeTFFVWtSWVplcFRlaU16QVF5Q3NaNG5WT0VtZHZyUE4zWWY0WFZwRmZheVF2QXNLQjlfdDdkVnNsOGNSZ2FkYXpaQjRjdXdvVnZDR3pacEROY2pReW5KSE5OcTZDaw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T13:07:30+00:00",
-      "extracto": "Carlos Solans: «La deflactación del IRPF resta poder adquisitivo y la inteligencia artificial cambiará las empresas» Magazine SLV"
-    },
-    {
-      "titulo": "Greg Brockman de OpenAI y Daniela Amodei de Anthropic: líderes tech menores de 40 años más ricos del mundo - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXNXaUR6VXprYkdGQUFNQjVYSkNpZWNYOWdwdFM0OUNBY3IyRTd1SUsxT2lqaTdrcG5EbUpCZ1BLSDk3QWw1VkpjbWJkZVEzMzk4X3RqSVBVTTA1WG1CS0Z1d3k5Z1F2aTZsYVY4VmxLbnRYZkVKTXRWR2MzM1FZOV9RRG5zMFgxNldseF82RnpWQU9FVEt4WTRyZnA3cXpvRkVhcjVKYkpBbU05UmlTZnlJTTR0M2dPMDlMdUVmd3lsNXl5SmNfdmRUVkV3N2wxUUg1c3dleWdTdlF3QXFITtIB-wFBVV95cUxPM2RBVlFESXZlakpEUm9vSkdlWXpVeXlfaEc1YUVsUkxiZ0JSNFBPRFJPRDVMdjdZNEJzbDVITGJ6Y2lXaF9DVUgyRnltSnJpSVpNLUxQblJ6dzQySVlydmdzRkFac2cyV1VFWm5SRHF2SnozWUx0WWQzZXlVV1NDR0pmUkEwcHQ2V2FKYXRDMnpfNFk2czZhNXNRV3F1WVJwUDNwMHYyRkRDRnUxY2FERk9yYmZMSUh4Skk3VFRkT0czUWFwOFF6RG42NzdJTkpjM0RGY2Y5RG93Mmp2VG1zZ0xUaDRqbUhtSFNLT250ZXNITFdFemhid3dISQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-20T15:20:22+00:00",
-      "extracto": "Greg Brockman de OpenAI y Daniela Amodei de Anthropic: líderes tech menores de 40 años más ricos del mundo Infobae"
-    },
     {
       "titulo": "El 71 % de los acuerdos entre medios y empresas de inteligencia artificial se concentra en medios anglófonos - Asociación de Periodistas De Aragón",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcjVPTkpOc3BtM1o5ekJfY0hNOFJMcTNyd3RmZUxZYzBmWkZYVTNYdzhIOGtiOUpTSXFpOUw0N0UxaXpUdnlYbG85MGpZenk3ZFhybDBMcmlvUkZQQ3ZfUi1PWldJQnJnaXhjSDZUb0lzZlh3cWRaTFNfcVhiMF90aHYyYU9XenZDWklfRzVaRlM0ZG1CMXZPZ2NOaUR0TUVJMFNDVnVDQkRKSkI0aGNhVFFpQU1hVGNzN3FDWWpOLXNnVVFsWmF1bFc1MFdfYS1RX1JYRFExMk11cjNYd05uTHJlTE12OVk?oc=5",
@@ -14297,6 +14201,126 @@
       "categoria": "dxw",
       "fecha": "2026-11-06T01:53:12+00:00",
       "extracto": "Baden Bower and the Limits of Visibility in Google’s AI Search Shift TechBullion"
+    },
+    {
+      "titulo": "Что делать, если ядерный удар застал тебя на даче? #ai #claude #zombie #выживание #shorts",
+      "link": "https://www.youtube.com/watch?v=WZB86F8GkTM",
+      "fuente": "m3nsory",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T04:00:27+00:00",
+      "extracto": "Погреб под дачей может стать убежищем. Почти. Земля на пол, вода из колодца под плёнкой, одежда за дверь, продух под ...",
+      "vistas": 650117,
+      "miniatura": "https://i.ytimg.com/vi/WZB86F8GkTM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Big Tech’s $3T AI Bet, Claude Writes 90% of Anthropic’s Code, AIs Editing AI Brains | EP #308",
+      "link": "https://www.youtube.com/watch?v=x09f_BuJsoY",
+      "fuente": "Peter H. Diamandis",
+      "categoria": "youtube",
+      "fecha": "2026-11-04T21:00:04+00:00",
+      "extracto": "The mates sit down to discuss Big Tech's $3 trillion AI bet, Anthropic's soaring AI costs, and claims that Claude now writes 90% of ...",
+      "vistas": 220190,
+      "miniatura": "https://i.ytimg.com/vi/x09f_BuJsoY/hqdefault.jpg"
+    },
+    {
+      "titulo": "EEVblog 1784 - Claude Code Reverse Engineer 121GW Firmware SUCCESS!",
+      "link": "https://www.youtube.com/watch?v=2tUC0DuPjaM",
+      "fuente": "EEVblog",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T02:40:56+00:00",
+      "extracto": "Claude Code reverse engineered the entire 12GW firmware into C with a single prompt in under 24 hours, and it works! The field ...",
+      "vistas": 160059,
+      "miniatura": "https://i.ytimg.com/vi/2tUC0DuPjaM/hqdefault.jpg"
+    },
+    {
+      "titulo": "THE world s shortest Claude Code course (5 mins)",
+      "link": "https://www.youtube.com/watch?v=8c6JZ18W0Bo",
+      "fuente": "Nick Saraev",
+      "categoria": "youtube",
+      "fecha": "2026-11-01T21:43:00+00:00",
+      "extracto": "Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/worlds-shortest-claude Get all course resources ...",
+      "vistas": 144364,
+      "miniatura": "https://i.ytimg.com/vi/8c6JZ18W0Bo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Use Claude Code FREE With 7.4B Tokens/Month! (Full Setup Guide)",
+      "link": "https://www.youtube.com/watch?v=MXyZ96yBPRg",
+      "fuente": "CodingLab",
+      "categoria": "youtube",
+      "fecha": "2026-11-02T08:15:26+00:00",
+      "extracto": "Want to use Claude Code for FREE with access to 7.4 billion free AI tokens per month? In this tutorial, I'll show you how to set up ...",
+      "vistas": 28630,
+      "miniatura": "https://i.ytimg.com/vi/MXyZ96yBPRg/hqdefault.jpg"
+    },
+    {
+      "titulo": "The best way to connect ChatGPT or Claude to Notion",
+      "link": "https://www.youtube.com/watch?v=2p8_o5fN_6g",
+      "fuente": "Notion",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T18:27:42+00:00",
+      "extracto": "Nathan Baschez, Product Designer at Notion, walks through a new way to connect your favorite AI service to Notion with Notion ...",
+      "vistas": 4407,
+      "miniatura": "https://i.ytimg.com/vi/2p8_o5fN_6g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Opus 5.5 ile Cilt Analizi Sitesi Yaptım! Tek Başına Yapamazdı! (YouCam API)",
+      "link": "https://www.youtube.com/watch?v=dCEox8NOHsg",
+      "fuente": "Yıldız Dikme",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T15:04:29+00:00",
+      "extracto": "Siz de cilt analizini ücretsiz denemek için buradan bakabilirsiniz: https://yce.perfectcorp.com/ai-api/products/skin-analysis-api ...",
+      "vistas": 4302,
+      "miniatura": "https://i.ytimg.com/vi/dCEox8NOHsg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Connect Claude to Blender in 1 MINUTE! (MCP Setup) #blendermcp #claudeai #blendertutorial",
+      "link": "https://www.youtube.com/watch?v=9UtVKbKoQZg",
+      "fuente": "Abiodun Abidoye",
+      "categoria": "youtube",
+      "fecha": "2026-10-30T20:00:00+00:00",
+      "extracto": "Learn how to connect Claude AI to Blender in just 1 minute using Blender MCP (Model Context Protocol)! In this quick Blender AI ...",
+      "vistas": 2232,
+      "miniatura": "https://i.ytimg.com/vi/9UtVKbKoQZg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude s new DASHBOARDS Are Amazing (Master it in 12 minutes)",
+      "link": "https://www.youtube.com/watch?v=3BkoIxN-EXs",
+      "fuente": "Ben AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-01T09:45:28+00:00",
+      "extracto": "Get the free Claude Dashboards prompts (every prompt from this video) → https://c.benai.co/cndaa-free [Join my AI Accelerator] ...",
+      "vistas": 139799,
+      "miniatura": "https://i.ytimg.com/vi/3BkoIxN-EXs/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Think AI Just Killed The Plugin Industry",
+      "link": "https://www.youtube.com/watch?v=kVBXHzdCOP0",
+      "fuente": "Rhett Shull",
+      "categoria": "youtube",
+      "fecha": "2026-11-02T20:44:36+00:00",
+      "extracto": "I tried the viral \"reverse engineer anything\" repo with Claude Code, and in about 30 minutes it cloned my favorite compressor ...",
+      "vistas": 682904,
+      "miniatura": "https://i.ytimg.com/vi/kVBXHzdCOP0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude a une consigne cachée qui lui demande de réfléchir à la sécurité de la conversation",
+      "link": "https://www.youtube.com/watch?v=xS0ypWddPGg",
+      "fuente": "Leo Desp",
+      "categoria": "youtube",
+      "fecha": "2026-10-31T14:29:29+00:00",
+      "extracto": "Claude a maintenant une consigne cachée qui lui demande de faire attention à la sécurité de la conversation #ia ...",
+      "vistas": 443618,
+      "miniatura": "https://i.ytimg.com/vi/xS0ypWddPGg/hqdefault.jpg"
+    },
+    {
+      "titulo": "EEVblog 1783 - Can AI Reverse Engineer the 121GW Multimeter Firmware?",
+      "link": "https://www.youtube.com/watch?v=BEKRoZj6otc",
+      "fuente": "EEVblog",
+      "categoria": "youtube",
+      "fecha": "2026-10-31T01:30:01+00:00",
+      "extracto": "Can AI Reverse Engineer the 121GW Multimeter Firmware? Using Cursor with Reverse Engineer Anything and Claude to reverse ...",
+      "vistas": 232820,
+      "miniatura": "https://i.ytimg.com/vi/BEKRoZj6otc/hqdefault.jpg"
     }
   ]
 }
