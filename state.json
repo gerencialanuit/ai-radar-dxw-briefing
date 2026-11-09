@@ -1,24 +1,5 @@
 {
   "vistos": [
-    "71dbe7e4689c2a18",
-    "c7ec7c0d06286444",
-    "62d481e5f51f81ac",
-    "f6ed686e395a7662",
-    "7935259c26fb89ab",
-    "bf29aa2298bf2f8b",
-    "30c54cb9509057ed",
-    "aeac72491c74724c",
-    "9c10017ae656db00",
-    "0712664d4752c463",
-    "8d2e8e2824d61e69",
-    "228e5d0e0c5c0196",
-    "c654f0f969109100",
-    "e4daac03bf3e0184",
-    "24d8d598b670b3cc",
-    "09e81187b915b8e1",
-    "77b9a2bec3a73a56",
-    "6216924e61343d19",
-    "f87207a756fea6e6",
     "71bddf5f464adb94",
     "7db7b4e305ba46a9",
     "f1a8c5fea9ade353",
@@ -1999,161 +1980,28 @@
     "b9e2e4e047250797",
     "a8338a6f486d2166",
     "9874251c04bfb916",
-    "6560d3f0b9b93a44"
+    "6560d3f0b9b93a44",
+    "cf52e5b7eb003c6f",
+    "79b6c3be5632f26a",
+    "e0fa3b373be5f97f",
+    "97766d7abae5fc6a",
+    "5360e32d6f0951e5",
+    "99eda97cad2c2018",
+    "8350b39a8c033b1e",
+    "9b53fb8802a29e28",
+    "29b50f7a86917cb7",
+    "ca1e383239016841",
+    "f243962ff860c743",
+    "39ea267fac090726",
+    "27bd7fa9945ab281",
+    "68a895e8aa522008",
+    "6dd062e43238e293",
+    "e66a1b946fbe71fc",
+    "acf5a45e112539bb",
+    "81517cc48f2152d7",
+    "c6b353aa8941feba"
   ],
   "archivo": [
-    {
-      "titulo": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-10-20T16:20:06+00:00",
-      "extracto": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
-    },
-    {
-      "titulo": "Conversational Gemini navigation comes to Apple CarPlay",
-      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-21T15:00:00+00:00",
-      "extracto": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring [ ]"
-    },
-    {
-      "titulo": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-21T13:57:43+00:00",
-      "extracto": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [ ]"
-    },
-    {
-      "titulo": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-20T23:04:19+00:00",
-      "extracto": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [ ]"
-    },
-    {
-      "titulo": "Google’s more personalized Gemini AI is heading to your car",
-      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-20T22:11:34+00:00",
-      "extracto": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [ ]"
-    },
-    {
-      "titulo": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-10-20T18:07:34+00:00",
-      "extracto": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [ ]"
-    },
-    {
-      "titulo": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-21T15:14:07+00:00",
-      "extracto": "OpenEvidence is booming despite questions about accuracy and ads."
-    },
-    {
-      "titulo": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-20T20:07:58+00:00",
-      "extracto": "Meta changes AI scraping policy but won’t add language respecting robots.txt."
-    },
-    {
-      "titulo": "Gemini's Personal Intelligence is coming to cars",
-      "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-20T20:00:33+00:00",
-      "extracto": "It's probably time to audit your Gemini settings."
-    },
-    {
-      "titulo": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-20T18:22:54+00:00",
-      "extracto": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties."
-    },
-    {
-      "titulo": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-10-20T17:40:20+00:00",
-      "extracto": "Meta argues nobody “decided” to pirate books to train AI."
-    },
-    {
-      "titulo": "Cómo las empresas pueden sacarle provecho a la IA: líderes del sector revelarán claves en Portafolio AI Day 2026 - Portafolio.co",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU3pId0N1RUJzeUlfT3FKeXJvVmxmVXN1WlM2eWs0RUxERkVjeUJSUEJyOXRnZFYtVlNuRmhnNHFMeENQRGt5aFdZaWVmemNtYzJVYVA4eGdUejBZVjJRN1Q1RXdyNGFCbWZtT3BXQTNDZXBzU2hPSC1DX3AyR1RFdzAwd2czc2NKNDJwd0dPekRVTlBrQk1zM24tSU5WMWFmWlFuVW1YcTlMZmlmeGdHeGt4d1MwQkhJR3VySldRcWFQOW9JVElmeE9lQmxBLVRJbV9TUWYwaGJoLXhMbHc5YkFCV3LSAeoBQVVfeXFMTWUyQ1lNaVlDM1RaODdkZkQ2RkJMRVRnTFlEUzJDMHpaa2hoS1RUS0JIQmtPaTVsSk1YeGVoMHJ2ckh2Z2xweWZqOWpRdUp4WmFrZ0xZelpSNGMyQjJEeG1TTXZoRHFPUXVUNWR2WEs3Um80WFJIb3otemVZNHBnVjVpZXctendjaV9tMWR0N2NCUnJDRzJLNTVPY1VVWG5WMEdIRFNQeTdkalRtOEY4aktqQXFneHVHY0g1OXFwSkNTRThjR2tqbWctRGo2TGxDN08yd01oc2YyRjRoNnpLNy1zZk9rVWhmWjh3?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-21T14:51:53+00:00",
-      "extracto": "Cómo las empresas pueden sacarle provecho a la IA: líderes del sector revelarán claves en Portafolio AI Day 2026 Portafolio.co"
-    },
-    {
-      "titulo": "Inteligencia artificial y empleo: por qué las empresas buscan aumentar la productividad antes que reemplazar trabajadores - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOTFsYXk1X0dTamNoV0dhZnZUcFJCUC1NdlU0eWZwX0F3Mm85QTBjT1VROUJaVkVTNmRqYUlXc2NadFVPZUdIV0F6cVFCLVA4X2tqT1B4MDVGTEROd0lCQ0Y2X1BhR283S01haHRSS3hHWXVWN2VjN2F2YWs3TnNOSVpZUjhmaElMd3IxeVF5LWF6NjRWNkFwNmY3VGJHVDJfUDRBcFlienVVNEhycXM4WlFzanFtVjFoaGdWWjl6c21oOEdKODJDTC12c1otakRPMVloWGdKbDB3ODdsRFM3dWM4ZDJMMW04NTBOZ2t6M3RJUFA30gGPAkFVX3lxTE5kbk04LTdjcmtiYXFGcmlCdlk1MHlvSHV1clBrX2x0Ui1rY3RWNzJubWM4eEpvMmNXLWVvY28tYldXXy0yekFpdTBXZF9XQVk5YTdlMF9ycnoyNWR5NVl0WWlFNlo2ZFdQalpjT0VtUnF3M0poUmNyOEJsVEthazVfUG5XV0FfRTBrYTh1YlZhNzR1ZHI5LUx5OG5FS0tKWHE2bVVZd0FBNEhXVlZvbl94VEh5Ym0wVzRCYXFNM2xSY1VSdmNncnNHR3VsY21sZEJlejhlNi1sUFI0RFpGOV9CWEFDRnZfS2NtQ2JzT1BDQ0t1eUxnSVROUzJUSE5WdUYwbWNoTHFTczU0ME0zbDg?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-21T15:29:00+00:00",
-      "extracto": "Inteligencia artificial y empleo: por qué las empresas buscan aumentar la productividad antes que reemplazar trabajadores Infobae"
-    },
-    {
-      "titulo": "Inteligencia Artificial en el PC: el cambio que las empresas necesitan - ITSitio",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV3F2cUZXQllfMFJPRll4Smtwa1NkWWFVelJkc1BPbWNDck1pdmFpYmx4Tm9zV040R3pqUnVKbTVkMUNteVMxREpkekxWOFFQSXRSdXhNa3NvLW5tbWprT2ZVNloyU2VObVhnRW5ydWhkaG5WMTFVUzNMOFh2SjFyMi1UZlhoeHl2Y0Z6NGFLVnYwVF9RY3pubVVwQ2gtaHdOc1ZKaUFTQ1ZWNzlnSTctR0hKaFE4dmF6NUZHZGpB?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-21T14:20:46+00:00",
-      "extracto": "Inteligencia Artificial en el PC: el cambio que las empresas necesitan ITSitio"
-    },
-    {
-      "titulo": "Salesforce sorprende con compra de $5,660 millones para revolucionar el marketing con inteligencia artificial - Yahoo Finanzas",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEg5c3NsMEFUQlFvdk5IVUxFVHRjNVhpMlB3OVltdkxXRnJCcy0wRHhDUmpoZTFSTFFZUVk5bkNyMU5ZclNDQ3hxQk1RdkpNaHJCV2xlQ0hIWmYxcTVkOWp5S0x3eWF2Y3NoWmR5YWwxRUhMc2JodUo3cU4wUllQNEJWUnFub1pELTRxR25VcVNDOVl0?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-21T02:40:00+00:00",
-      "extracto": "Salesforce sorprende con compra de $5,660 millones para revolucionar el marketing con inteligencia artificial Yahoo Finanzas"
-    },
-    {
-      "titulo": "La inteligencia artificial ya llega al 39% de la población mundial y transforma la forma de descubrir marcas - MarketingNews",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOV0IzSUhyLVJGd3ljdHF1ZVc2MXl3Zm9uT1E4VDkxUjY1ZzV3WmhoS2JaeERvZkt0UHMzMHA3a0FHWHlnbHFvbENZYnNrOHVmM3FIcjJjbE9ONlkwRWs2RVFpVVNQcXdBVGZ5c1VjcVg5SmoxN1ZTTWstbUdxQ2Nja2lvQlpGb0luZkg5U0tqQ0JqQTVpRzlhRkU2MndfSERGeU56RzdabktlUkZDcUtmWkdLWEF1ZVJIWnNMR3BBLXZmOVBwZGxCUVhsZHJRcVozNVBDY0RaeXM0d0oza21fbFFCelhwV1ozd0o1LUJidUJHcy1jMk8wbldUbkJxNzJPa0pmTmMzYk5pZWM?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-21T11:08:44+00:00",
-      "extracto": "La inteligencia artificial ya llega al 39% de la población mundial y transforma la forma de descubrir marcas MarketingNews"
-    },
-    {
-      "titulo": "Inteligencia artificial: retos y oportunidades para las empresas - Grupo en Concreto",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWtlUkR1X1Z3U3RiVkNEV0tyOXNhcnpnZmtiamVROFNXcHl0bkx1Qk1uZWxIVlJYU3M1M1FQaS15azBZNU9wLVREdy1tb0R1UXJ0M1NReFVZYjJSeXB1MTRZZlVHWm9GMlNTREhTM2hTbVNYbjNPWjlGUFFVcHJlRFdrVEQ2NFBpZktrUWJ5eXk5RTF0RTZxWUhpUVBmMV9uSEh6cm5sS2VnTS1jYnFKSQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-21T15:38:39+00:00",
-      "extracto": "Inteligencia artificial: retos y oportunidades para las empresas Grupo en Concreto"
-    },
-    {
-      "titulo": "El verdadero coste de la inteligencia artificial: ¿es rentable para las empresas? - El Confidencial",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZFM0eDRfMmFCSG1KQUc1dVJFam9aN281cDhEN21XNldUbERTUHozbktLanVpQk8yU2x1YXZuU0o5Q1FRVUVUa1MxbWhlT180a3pPZjdGc3drSmFXOEVneVlhYkdpWnRiT1EzcUo4UXZUaURvRG5CRFhURU1ZZ3Rxa2xvbWQzX3hQQ3VPeG1uNnF1QVJzMUtsZ2Q1aXAwWnNQS2lEVHNLaDRVVzdvN0NFeUxRYnRUdjM1d3ZR?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-21T03:00:00+00:00",
-      "extracto": "El verdadero coste de la inteligencia artificial: ¿es rentable para las empresas? El Confidencial"
-    },
-    {
-      "titulo": "El 61% de los marketers ya usa inteligencia artificial a diario, pero solo 6.5% mide su rentabilidad - InformaBTL",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFFiSzEzazlURW96aGNxYTFNaTNvNFg0YTBYRjlEQzNzQzJxOURVOVFySGQ5a055WEdSaUVDMEN0TURtODZHd1BiTnZGTkUteFJqa1ZQZEFjRFVNS1JWRmJBMDY4QTFHeVlWR0dpX0hnWF9FZThWeEtrTmtaY1FCS2VPQ3BLQms?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-21T10:09:15+00:00",
-      "extracto": "El 61% de los marketers ya usa inteligencia artificial a diario, pero solo 6.5% mide su rentabilidad InformaBTL"
-    },
     {
       "titulo": "A Coruña se consolida como polo de innovación tecnológica: las empresas que crecen desde Galicia con inteligencia artificial - Cadena SER",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNa1dybDhqUEE2NG5UQ2h0aHRFY0cwQnJvUkRCVzY4Z3dXaHpGSkhaUlZBdEZHUld2VkJtVExxbXFVdUpwRV9qT1pkdHFGYl93WjFNLXJHdGF5SmlXRWprb3EzdUhQTkpaeE5nRUk3bjVXQjM1VS1YWHN3OTRMNUN2cDlqVHZJbjF0VDFRQ3NRVEVScmdYVWFCdmhFOHYzRWZEM2ZKSWtvTEx5d1hIQ2Qycy0wbEdTakV2V0JyLWc3eDByQmRkOG13TmF4TDJ1WUFCeDFMNF8zLXluSTdRbmg2cjE5cE1rcVdRWGxybFgtYTZwVVZVUV9TZ3hXZXZZRVRpeXBqSUVzcDRsQdIBngJBVV95cUxOSmxnWHlraFEybzA2TkZDN095ZmtfYXlzR3ZEYkZ3X2N5WF9samlIdzl1S2NET0xTZEhKUGhQYWp0SjU2MEJ6NWgyTHU1Q3RLNVU5OWNnTDBfSF91LWptSjFNTTl4LVNTYlBFWkRBOG1MTnU2cTBCVnQtd2VFbV9pUDgtcFVBUHlMQkhldi1rLXhydGtqcGczQ2VCY2czSnZ3Y3hyaUIwbGFRbXhVdC11LWJoQjB2LWhRdEU1dTRjeFlKUjlCcjk5eXo1NW1qUE9VQ0J4SzJMaFpKTEh3cnlqbzZhY3pVeEhBNGFiTE5WMDFFOVdSTnVSdURPZFNWZ1dRUHdiMTEtUXB2N2YySUlLdi1aN295MnVTb1E1ek53?oc=5",
@@ -14295,6 +14143,196 @@
       "categoria": "dxw",
       "fecha": "2026-11-08T06:48:50+00:00",
       "extracto": "What Is Answer Engine Optimization? A Beginner’s Guide for Writers in 2026 Vocal"
+    },
+    {
+      "titulo": "😭❤️ AI JUST SAVED ROBLOX",
+      "link": "https://www.youtube.com/watch?v=A8jK86Anm64",
+      "fuente": "Guestique",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T18:38:53+00:00",
+      "extracto": "Credit : Roblox, KreekCraft, AryIist, bnbblx We take copyright seriously and honor all valid takedown requests. If you believe any ...",
+      "vistas": 1058730,
+      "miniatura": "https://i.ytimg.com/vi/A8jK86Anm64/hqdefault.jpg"
+    },
+    {
+      "titulo": "Introducing Personal Finance in Claude",
+      "link": "https://www.youtube.com/watch?v=UTubvRLX2j4",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T18:00:30+00:00",
+      "extracto": "Get clear answers to the money questions you've never felt comfortable asking. Connect your accounts, and Claude explains your ...",
+      "vistas": 754214,
+      "miniatura": "https://i.ytimg.com/vi/UTubvRLX2j4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Terminator ya no es solo una película.",
+      "link": "https://www.youtube.com/watch?v=vWTpDe6Lo14",
+      "fuente": "Murph Studios",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T22:37:03+00:00",
+      "extracto": "En Terminator, todo empieza cuando los humanos intentan apagar una máquina. En 2025, un laboratorio le ordenó a una IA real ...",
+      "vistas": 547704,
+      "miniatura": "https://i.ytimg.com/vi/vWTpDe6Lo14/hqdefault.jpg"
+    },
+    {
+      "titulo": "Что делать, если зомбиапокалипсис застал тебя в электричке? #ai #claude #вайбкодинг #zombie",
+      "link": "https://www.youtube.com/watch?v=k1ODMaL3v0I",
+      "fuente": "m3nsory",
+      "categoria": "youtube",
+      "fecha": "2026-11-04T03:45:02+00:00",
+      "extracto": "Очень хотелось бы услышать мнение о том в каком формате делать такие ролики? в формате быстрой законченой ...",
+      "vistas": 468455,
+      "miniatura": "https://i.ytimg.com/vi/k1ODMaL3v0I/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Won t Reverse Engineer Games Anymore",
+      "link": "https://www.youtube.com/watch?v=74ZMAi8FzX8",
+      "fuente": "Zack Shutt",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T19:44:29+00:00",
+      "extracto": "Claude Won't Reverse Engineer Games Anymore.",
+      "vistas": 357471,
+      "miniatura": "https://i.ytimg.com/vi/74ZMAi8FzX8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code’s creator runs 1000s of agents every night. 🤯",
+      "link": "https://www.youtube.com/watch?v=3ZdJOsNzMI8",
+      "fuente": "Hyperbolic AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-07T20:43:05+00:00",
+      "extracto": "He created Claude Code and runs it at Anthropic. He says he hasn't written a line of code by hand since November. The agent ...",
+      "vistas": 230022,
+      "miniatura": "https://i.ytimg.com/vi/3ZdJOsNzMI8/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Made VIRAL Animation Videos Using Claude Code (FREE Plugin)",
+      "link": "https://www.youtube.com/watch?v=3tpaWHaiLQ8",
+      "fuente": "Grow With Kaz",
+      "categoria": "youtube",
+      "fecha": "2026-11-04T16:41:16+00:00",
+      "extracto": "Create VIRAL 3D Animated Videos Using Claude Code! (FREE Plugin + Full Tutorial)** What if you could create stunning 3D ...",
+      "vistas": 255536,
+      "miniatura": "https://i.ytimg.com/vi/3tpaWHaiLQ8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Build Your FIRST AI Agent in Claude Code. (11 Minutes).",
+      "link": "https://www.youtube.com/watch?v=ge2FmPeVsT8",
+      "fuente": "Tristen O'Brien",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T13:52:46+00:00",
+      "extracto": "Get started on the Max plan: https://clau.de/TristenObrien This video is sponsored by Anthropic. AI agents sound complicated, but ...",
+      "vistas": 239921,
+      "miniatura": "https://i.ytimg.com/vi/ge2FmPeVsT8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Forget Claude Code: DeepSeek + REA Clones Anything 100% FREE (No Paid API)",
+      "link": "https://www.youtube.com/watch?v=KscFyux4dVk",
+      "fuente": "Maitis",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T14:56:41+00:00",
+      "extracto": "Clone any app for free, with zero coding, using DeepSeek Harness + REA + OpenRouter. Free setup guide + ALL prompts: ...",
+      "vistas": 189225,
+      "miniatura": "https://i.ytimg.com/vi/KscFyux4dVk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Edited This Netflix-Level Documentary (Copy Me)",
+      "link": "https://www.youtube.com/watch?v=e2Fykz51Nxg",
+      "fuente": "Zane Hoyer",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T13:00:18+00:00",
+      "extracto": "Link to Abacus AI Agent: https://agent.abacus.ai/zan Link to Prompt: ...",
+      "vistas": 172213,
+      "miniatura": "https://i.ytimg.com/vi/e2Fykz51Nxg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Don t Pay $200 for Claude Code! Get 7 BILLION AI Tokens FREE Every Month",
+      "link": "https://www.youtube.com/watch?v=Odw46IxojBI",
+      "fuente": "Sandeep Singh",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T13:45:14+00:00",
+      "extracto": "Want to use Claude Code for free without paying $200 for Claude Ultra? In this video, I'll show you how you can stack up to 7 ...",
+      "vistas": 151334,
+      "miniatura": "https://i.ytimg.com/vi/Odw46IxojBI/hqdefault.jpg"
+    },
+    {
+      "titulo": "How do you actually use an MCP server?",
+      "link": "https://www.youtube.com/watch?v=9wseviktBwI",
+      "fuente": "KodeKloud",
+      "categoria": "youtube",
+      "fecha": "2026-11-06T11:23:08+00:00",
+      "extracto": "How MCP Servers Actually Work in Claude Code! The Playwright MCP server is a small Node.js program from Microsoft. Running ...",
+      "vistas": 40608,
+      "miniatura": "https://i.ytimg.com/vi/9wseviktBwI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Connect Anything to Claude Without MCP! The Ultimate Claude AI Integration Hack #ClaudeAI #AITools",
+      "link": "https://www.youtube.com/watch?v=GC1f8SoqX5s",
+      "fuente": "Ben Kimball Ai",
+      "categoria": "youtube",
+      "fecha": "2026-11-06T05:35:35+00:00",
+      "extracto": "Connect apps and tools to Claude without MCP! Discover how to integrate Claude AI with your favorite platforms, connect external ...",
+      "vistas": 17553,
+      "miniatura": "https://i.ytimg.com/vi/GC1f8SoqX5s/hqdefault.jpg"
+    },
+    {
+      "titulo": "Opsæt Homey med Claude ChatGPT - Det kan ikke være nemmere !",
+      "link": "https://www.youtube.com/watch?v=ViHPkI505UI",
+      "fuente": "RepairGuyDK",
+      "categoria": "youtube",
+      "fecha": "2026-11-07T19:00:02+00:00",
+      "extracto": "Kan AI virkelig styre din Homey? I denne video kobler jeg både Claude og ChatGPT på min Homey Pro Mini, og det tager ...",
+      "vistas": 6000,
+      "miniatura": "https://i.ytimg.com/vi/ViHPkI505UI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Ücretsiz, Blender + Claude + Wan 2.2: Sonuç Şaşırttı!",
+      "link": "https://www.youtube.com/watch?v=yH30sS6uSjo",
+      "fuente": "Muhammed Ali Hoca · Yapay Zekâ",
+      "categoria": "youtube",
+      "fecha": "2026-11-04T06:30:30+00:00",
+      "extracto": "Blender + Claude + Wan 2.2 ile tamamen kendi bilgisayarımda, ek video üretim ücreti ödemeden, tutarlı yapay zekâ videoları ...",
+      "vistas": 8160,
+      "miniatura": "https://i.ytimg.com/vi/yH30sS6uSjo/hqdefault.jpg"
+    },
+    {
+      "titulo": "MCP vs API Explained in 60 Seconds 🤯",
+      "link": "https://www.youtube.com/watch?v=2MM_IQMCHbM",
+      "fuente": "Range Full Stack",
+      "categoria": "youtube",
+      "fecha": "2026-11-03T05:15:31+00:00",
+      "extracto": "AI interviews mein aaj kal sabse zyada poocha jaane wala question — MCP vs API. Is Shorts mein simple Hindi mein samjho: ...",
+      "vistas": 3838,
+      "miniatura": "https://i.ytimg.com/vi/2MM_IQMCHbM/hqdefault.jpg"
+    },
+    {
+      "titulo": "🚀 Google Maps MCP Explained | Connect AI to Real-World APIs",
+      "link": "https://www.youtube.com/watch?v=Tz9HOGGZ774",
+      "fuente": "Java Techie",
+      "categoria": "youtube",
+      "fecha": "2026-11-08T06:09:30+00:00",
+      "extracto": "GoogleMapsMCP #MCP #ModelContextProtocol #ClaudeDesktop #GenerativeAI #JavaTechie In this video, we'll explore Google ...",
+      "vistas": 7117,
+      "miniatura": "https://i.ytimg.com/vi/Tz9HOGGZ774/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Found a way To Make Faceless YouTube Shorts for free (No subscription)",
+      "link": "https://www.youtube.com/watch?v=a6ZApl1ZEY0",
+      "fuente": "Nafay 3D",
+      "categoria": "youtube",
+      "fecha": "2026-11-04T12:06:51+00:00",
+      "extracto": "Use Zapier for FREE: https://zc.s.gy/2CRcmg I found a way to make faceless YouTube Shorts completely for free. No subscription ...",
+      "vistas": 197236,
+      "miniatura": "https://i.ytimg.com/vi/a6ZApl1ZEY0/hqdefault.jpg"
+    },
+    {
+      "titulo": "5 Trading Gurus vs Claude AI: Kiski Strategy Jeeti?",
+      "link": "https://www.youtube.com/watch?v=4XzIA1l7ChM",
+      "fuente": "realshyt",
+      "categoria": "youtube",
+      "fecha": "2026-11-04T03:00:30+00:00",
+      "extracto": "Gautam Jha, Mayank Raj (The Trade Room), Umar Punjabi, Subasish Pani (Power of Stocks) aur Anish Singh Thakur (Booming ...",
+      "vistas": 196609,
+      "miniatura": "https://i.ytimg.com/vi/4XzIA1l7ChM/hqdefault.jpg"
     }
   ]
 }
