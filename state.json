@@ -1,22 +1,5 @@
 {
   "vistos": [
-    "bc562a2333608900",
-    "4d3410eb6cfa16fa",
-    "46a2174bba968d88",
-    "c881bc7c43af01f4",
-    "85678f1bbe7bc8b8",
-    "0d116157fe0c4847",
-    "df3d4782fbfff9df",
-    "4d90c588a20fd23a",
-    "4cdeffee0f234c32",
-    "e6dda437a2426d11",
-    "d3d63c90672352fe",
-    "625cc66003420339",
-    "3cd7fbfd857b65c5",
-    "3bbf64a4f3ac0836",
-    "a095efaa29750f4a",
-    "0906f4f0024c1d3c",
-    "82a65eec425ed675",
     "e8fa98cab4278210",
     "cd108a48e05d2587",
     "f0e3f0adb434e775",
@@ -1999,145 +1982,26 @@
     "8bf8bf0e92a288d7",
     "78efe8a750a892d2",
     "ddb502d740fb0b42",
-    "58d955e69f204f8c"
+    "58d955e69f204f8c",
+    "8b0ccf8cf0355ee3",
+    "94bc7035bb14f7e2",
+    "0e9e3819ec26b843",
+    "03dc18711538b80e",
+    "b7914f2ced35aaae",
+    "5968e6ad46201dfe",
+    "8ecb018863ab0401",
+    "1c2d8894fe5fa486",
+    "73930c75820a6009",
+    "f2dc266511aa9a9a",
+    "d0000c817488e356",
+    "a853558d17197f63",
+    "53939c381bcd7e9d",
+    "145277b12ba68070",
+    "3998739c3d1bb6ec",
+    "e2ec64fd90050b7e",
+    "f1e8577262057e85"
   ],
   "archivo": [
-    {
-      "titulo": "Google Ads Tests Scrolling Marquee Style For Ratings/Reviews & Underlines",
-      "link": "https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T11:11:00+00:00",
-      "extracto": "Google Ads is testing a scrolling marquee on some of the sponsored results within Google Search. Google will load in the reviews/ratings, number of visits and a visit site link in one of these tests. In the other test, Google underlines the domain name in the ad snippet."
-    },
-    {
-      "titulo": "Google Ads Asset Optimization Sourced Videos On/Off Toggle",
-      "link": "https://www.seroundtable.com/google-ads-sourced-videos-42365.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T11:05:00+00:00",
-      "extracto": "Google Ads has added a new \"Sourced videos\" on/off toggle setting to the asset optimization section. This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically."
-    },
-    {
-      "titulo": "How to build an AI agent that checks order status and processes refunds",
-      "link": "https://www.twilio.com/en-us/blog/insights/ai-agent-order-status-refunds",
-      "fuente": "Twilio Blog",
-      "categoria": "dxw",
-      "fecha": "2026-10-22T00:00:00+00:00",
-      "extracto": "Build an AI agent that checks order status and issues refunds via API, with identity verification, policy guardrails, and human escalation."
-    },
-    {
-      "titulo": "The 5 best Pomodoro timer apps in 2026",
-      "link": "https://zapier.com/blog/best-pomodoro-apps",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T14:23:00+00:00",
-      "extracto": "The Pomodoro Technique is one of the most deceptively simple and effective productivity tools I've ever used. It stops you from procrastinating or getting distracted, so you can just get things done. All it takes is enough commitment to start a timer. While any timer (or timer app) will work for the Pomodoro Technique, a dedicated Pomodoro app can make the already simple technique even simpler by automatically alternating between work and break p..."
-    },
-    {
-      "titulo": "Obsidian vs. Notion: Which is best? [2026]",
-      "link": "https://zapier.com/blog/obsidian-vs-notion",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T04:00:00+00:00",
-      "extracto": "Modern note-taking platforms go beyond documenting your thoughts. They offer powerful workplaces to manage your knowledge, no matter where it comes from. Whether that's turning a bunch of data into a live website or visualizing relationships between piles of notes, they've got you covered. Few do it better than Obsidian and Notion. For years, I've relied on Notion to make sense of the avalanche of digital information I collect, like personal note..."
-    },
-    {
-      "titulo": "AI Agent Memory: How LLM Agents Manage State in Production",
-      "link": "https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/",
-      "fuente": "n8n Blog",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T12:20:34+00:00",
-      "extracto": "Learn how AI agent memory works, explore short-term and long-term memory architectures, and discover how to combine n8n and Cognee to build AI workflows that retain context, share knowledge, and learn across sessions."
-    },
-    {
-      "titulo": "ShogunAI",
-      "link": "https://www.producthunt.com/products/shogunai",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T06:32:57+00:00",
-      "extracto": "Your personal AGI on your pc Discussion | Link"
-    },
-    {
-      "titulo": "Product Hunt Visual Launch Editor",
-      "link": "https://www.producthunt.com/products/producthunt",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T06:03:38+00:00",
-      "extracto": "See your launch as you build it Discussion | Link"
-    },
-    {
-      "titulo": "Truffle",
-      "link": "https://www.producthunt.com/products/truffle-music-tag-editor",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-22T07:48:52+00:00",
-      "extracto": "Fix messy tags, covers and duplicates in your Mac library Discussion | Link"
-    },
-    {
-      "titulo": "Termi Protocol",
-      "link": "https://www.producthunt.com/products/termi-protocol",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T04:32:57+00:00",
-      "extracto": "Watch AI agents code in 3D and hand off the work Discussion | Link"
-    },
-    {
-      "titulo": "Dots",
-      "link": "https://www.producthunt.com/products/dots-7",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-22T13:15:51+00:00",
-      "extracto": "A customizable workspace built into your Mac's notch Discussion | Link"
-    },
-    {
-      "titulo": "Peras",
-      "link": "https://www.producthunt.com/products/peras",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-22T21:38:15+00:00",
-      "extracto": "Pause Claude Code and Codex before they burn your week Discussion | Link"
-    },
-    {
-      "titulo": "Plango",
-      "link": "https://www.producthunt.com/products/plango",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-22T21:03:15+00:00",
-      "extracto": "Use AI to defend against AI Discussion | Link"
-    },
-    {
-      "titulo": "Agent Hunt",
-      "link": "https://www.producthunt.com/products/monid",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T04:03:20+00:00",
-      "extracto": "Live rankings of the tools AI agents use most Discussion | Link"
-    },
-    {
-      "titulo": "Gerty",
-      "link": "https://www.producthunt.com/products/gerty",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-22T14:14:10+00:00",
-      "extracto": "Private ChatGPT alternative that sets itself up on your Mac Discussion | Link"
-    },
-    {
-      "titulo": "Monish",
-      "link": "https://www.producthunt.com/products/monish",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-22T14:38:26+00:00",
-      "extracto": "Your AI agents, live on your iPhone lock screen Discussion | Link"
-    },
-    {
-      "titulo": "Instant Search",
-      "link": "https://www.producthunt.com/products/instant-search-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-23T05:36:03+00:00",
-      "extracto": "The fastest, most precise local AI Search for your files. Discussion | Link"
-    },
     {
       "titulo": "Bloblings",
       "link": "https://www.producthunt.com/products/bloblings",
@@ -14315,6 +14179,176 @@
       "categoria": "dxw",
       "fecha": "2026-11-10T10:53:54+00:00",
       "extracto": "DIDWW provides local voice services for Vocal Agent AI Telecompaper"
+    },
+    {
+      "titulo": "Если ИИ пойдёт против нас — не садись в машину #выживание #ИИ #апокалипсис #shorts #ai #claude",
+      "link": "https://www.youtube.com/watch?v=YH2wsH_lIk0",
+      "fuente": "m3nsory",
+      "categoria": "youtube",
+      "fecha": "2026-11-06T04:00:18+00:00",
+      "extracto": "Если ИИ пойдёт против нас, он не отключит интернет. Он ему нужен. Семь шагов, чтобы дожить до утра, и одна вещь, ...",
+      "vistas": 2417831,
+      "miniatura": "https://i.ytimg.com/vi/YH2wsH_lIk0/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Eying Absurd $1.3 TRILLION IPO",
+      "link": "https://www.youtube.com/watch?v=BE7YjDfVRLE",
+      "fuente": "DeFranco News Clips",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T18:31:16+00:00",
+      "extracto": "Anthropic, the company behind Claude AI, is looking at a $1.3 trillion IPO. The revenues don't match that price tag, so is it hype or ...",
+      "vistas": 532349,
+      "miniatura": "https://i.ytimg.com/vi/BE7YjDfVRLE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Клод, а тебя можно скачать? #нейросети # #claudecode #вайбкодинг",
+      "link": "https://www.youtube.com/watch?v=UeOEoC8GqpE",
+      "fuente": "JustUser",
+      "categoria": "youtube",
+      "fecha": "2026-11-09T14:14:19+00:00",
+      "extracto": "Ева хотел скачать Клода на ноутбук, чтобы жить без лимитов и подписок. Проблема в том, что Клод весит семь терабайт, ...",
+      "vistas": 359317,
+      "miniatura": "https://i.ytimg.com/vi/UeOEoC8GqpE/hqdefault.jpg"
+    },
+    {
+      "titulo": "UI Libraries for Claude Code (Ban the AI Look)",
+      "link": "https://www.youtube.com/watch?v=zsCGS-Yzjnw",
+      "fuente": "Griffin Wooldridge",
+      "categoria": "youtube",
+      "fecha": "2026-11-07T20:27:47+00:00",
+      "extracto": "My AI for Designers guide (FREE): https://griffinwooldridge.com/ai-for-designers One of the easiest ways to make AI-built UI look ...",
+      "vistas": 190226,
+      "miniatura": "https://i.ytimg.com/vi/zsCGS-Yzjnw/hqdefault.jpg"
+    },
+    {
+      "titulo": "How Claude Fixes It s Own Code",
+      "link": "https://www.youtube.com/watch?v=TFCDWrEBaFM",
+      "fuente": "Theo - t3․gg",
+      "categoria": "youtube",
+      "fecha": "2026-11-06T23:00:39+00:00",
+      "extracto": "Anthropic released an article on their Code Review process and since T3 Code has seen as many as 800 pull requests filed in a ...",
+      "vistas": 143633,
+      "miniatura": "https://i.ytimg.com/vi/TFCDWrEBaFM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Instagram Edits now available on PC or your Mac | Can connect with Claude",
+      "link": "https://www.youtube.com/watch?v=pEZqLZZmu70",
+      "fuente": "Ai with Lakshay",
+      "categoria": "youtube",
+      "fecha": "2026-11-06T13:36:36+00:00",
+      "extracto": "Instagram Edits is FINALLY on Mac. And Claude can connect to it. Meta just launched the desktop version of Edits, and ...",
+      "vistas": 2296,
+      "miniatura": "https://i.ytimg.com/vi/pEZqLZZmu70/hqdefault.jpg"
+    },
+    {
+      "titulo": "🚨 HIGGSFIELD JUST DROPPED SEEDANCE 2.5 FREE UNLIMITED?! THIS CHANGES EVERYTHING!",
+      "link": "https://www.youtube.com/watch?v=EOEMJE6P96s",
+      "fuente": "Shark Studio AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T13:00:23+00:00",
+      "extracto": "HIGGSFIELD JUST DROPPED SEEDANCE 2.5 FREE UNLIMITED?! OFFICIAL ACCESS — NO HACKS! Looking for a FREE ...",
+      "vistas": 1208,
+      "miniatura": "https://i.ytimg.com/vi/EOEMJE6P96s/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude para Redes Sociais: Como Fazer Postagens no Instagram, X, Facebook e + pelo Claude",
+      "link": "https://www.youtube.com/watch?v=BxvDOL-aIGw",
+      "fuente": "Empresa 1P - Automação e I.A",
+      "categoria": "youtube",
+      "fecha": "2026-11-04T21:00:27+00:00",
+      "extracto": "Claude para Redes Sociais ⚡ Aprenda tudo sobre o Claude por 9 reais: https://empresa1p.com.br/claude-facil/ ✓ Seu agente ...",
+      "vistas": 1458,
+      "miniatura": "https://i.ytimg.com/vi/BxvDOL-aIGw/hqdefault.jpg"
+    },
+    {
+      "titulo": "People Are Using Claude for Wild Things Now",
+      "link": "https://www.youtube.com/watch?v=GMcLy4Gn7GU",
+      "fuente": "NextWork",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T10:00:31+00:00",
+      "extracto": "Try the ways to use Claude from this video with the free projects: ...",
+      "vistas": 425621,
+      "miniatura": "https://i.ytimg.com/vi/GMcLy4Gn7GU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Don t Give AI Your Data: How I (Actually) Use Claude Code for Data Analysis",
+      "link": "https://www.youtube.com/watch?v=IPKOx66fogE",
+      "fuente": "Thu Vu",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T10:49:08+00:00",
+      "extracto": "Try Claude Code yourself https://clau.de/ThuVu Git repo for this demo ...",
+      "vistas": 180019,
+      "miniatura": "https://i.ytimg.com/vi/IPKOx66fogE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Launched Claude DASHBOARDS (Master it in 14 mins)",
+      "link": "https://www.youtube.com/watch?v=9RPUZLJ4v7Q",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T19:59:15+00:00",
+      "extracto": "Get the Claude Dashboards PDF guide for free ...",
+      "vistas": 141609,
+      "miniatura": "https://i.ytimg.com/vi/9RPUZLJ4v7Q/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Made Viral NEW AI Animation Videos Using ONLY Claude (FREE Plugin)",
+      "link": "https://www.youtube.com/watch?v=Yj5LpSq_7xI",
+      "fuente": "Grow With Kaz",
+      "categoria": "youtube",
+      "fecha": "2026-11-06T16:45:02+00:00",
+      "extracto": "Want to create viral AI animation videos without paying for expensive AI image or video generators? In this tutorial, I'll show you ...",
+      "vistas": 138446,
+      "miniatura": "https://i.ytimg.com/vi/Yj5LpSq_7xI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Build ANY Faceless YouTube Channel with Claude (Free Automation)",
+      "link": "https://www.youtube.com/watch?v=501Qx_z44Ho",
+      "fuente": "Nafay 3D",
+      "categoria": "youtube",
+      "fecha": "2026-11-09T10:39:49+00:00",
+      "extracto": "Automate the whole process with Zapier for FREE: https://zc.s.gy/Pt9Tdx Build ANY faceless YouTube channel with Claude and ...",
+      "vistas": 118851,
+      "miniatura": "https://i.ytimg.com/vi/501Qx_z44Ho/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Video Editing (Step by Step) - Edit Capcut Videos Using Claude 💀 #claude #capcut",
+      "link": "https://www.youtube.com/watch?v=NPEpZSbJnuk",
+      "fuente": "TechCM",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T06:24:18+00:00",
+      "extracto": "",
+      "vistas": 95694,
+      "miniatura": "https://i.ytimg.com/vi/NPEpZSbJnuk/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make Viral Stickman Animated Shorts Using FREE AI TOOLS (NO CLAUDE CODE)",
+      "link": "https://www.youtube.com/watch?v=-fgNFJCQZGk",
+      "fuente": "Mark Ai Guy",
+      "categoria": "youtube",
+      "fecha": "2026-11-09T01:30:01+00:00",
+      "extracto": "Want to create entertaining 2D stickman animation videos with 3D-style backgrounds, just like the videos from Rick's Clips?",
+      "vistas": 99615,
+      "miniatura": "https://i.ytimg.com/vi/-fgNFJCQZGk/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Use Claude for Video Editing Like the Top 1%",
+      "link": "https://www.youtube.com/watch?v=aYinU4Ja_88",
+      "fuente": "Zinho Automates",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T16:03:35+00:00",
+      "extracto": "How To Use Claude for Video Editing Like the Top 1%. Try Claude x Higgsfield (with discount): ...",
+      "vistas": 96994,
+      "miniatura": "https://i.ytimg.com/vi/aYinU4Ja_88/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI Made This 3D Animation With Code (Free Skill Included)",
+      "link": "https://www.youtube.com/watch?v=rzxeaKXTiQA",
+      "fuente": "The Wealthy AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-05T13:59:28+00:00",
+      "extracto": "Learn how to create 3D animated videos with Claude AI using code—combining detailed 3D backgrounds with flat 2D characters.",
+      "vistas": 89357,
+      "miniatura": "https://i.ytimg.com/vi/rzxeaKXTiQA/hqdefault.jpg"
     }
   ]
 }
