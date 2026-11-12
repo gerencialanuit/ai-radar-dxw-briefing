@@ -1,22 +1,5 @@
 {
   "vistos": [
-    "a501f1f176cf43ff",
-    "f36c78e3c6f7ad6b",
-    "df87484192eefb1e",
-    "d6ef5fed9e48c8f0",
-    "3110092d3fce470a",
-    "d9aa416771da7989",
-    "31e9a320c25fb030",
-    "69d5e2637e26f674",
-    "01212082730fe661",
-    "38ea384d3d0d1704",
-    "96cb5779f5028759",
-    "362c9c9e95f89ee4",
-    "0676def7896cb16a",
-    "6849d36ab61f28e0",
-    "78aca7aaafb2150d",
-    "a6a1f4abbd10c813",
-    "f10dff34cb036190",
     "cf560d8f3fceeecd",
     "c01e31c5a3a42d55",
     "07c86604904299d5",
@@ -1999,167 +1982,26 @@
     "558273eed7b410bf",
     "067ab2307be227ee",
     "cbb965c78a7cf869",
-    "f838b23302f6a653"
+    "f838b23302f6a653",
+    "22e85a9ef2d499cc",
+    "a94b3599d72b6aea",
+    "4bb81b473cabd82c",
+    "55e1afa3a099740a",
+    "5ff17da52cce814d",
+    "eab87d03dd6b46ee",
+    "32054766d69ea2c2",
+    "4fc39c2ab58f1f76",
+    "db71706ea6a59c6c",
+    "465992812f2e5ea9",
+    "aac35dbcf291393c",
+    "f5f15fd5c0853fc3",
+    "b67b24026e206a5c",
+    "545e81ff6892f925",
+    "a9f3e15164738817",
+    "5dd7fe27d97be0d1",
+    "fe07e7b99c44c85c"
   ],
   "archivo": [
-    {
-      "titulo": "Asked Claude to imagine how Stonehenge was made 👀",
-      "link": "https://www.youtube.com/watch?v=z1keRJlQiWw",
-      "fuente": "Runable",
-      "categoria": "youtube",
-      "fecha": "2026-10-20T16:00:29+00:00",
-      "extracto": "Try now at runable.com.",
-      "vistas": 390847,
-      "miniatura": "https://i.ytimg.com/vi/z1keRJlQiWw/hqdefault.jpg"
-    },
-    {
-      "titulo": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
-      "link": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
-      "fuente": "Brock Mesarich | AI for Non Techies",
-      "categoria": "youtube",
-      "fecha": "2026-10-21T21:53:41+00:00",
-      "extracto": "Anthropic just dropped Claude Duet, their own personal AI agent that messages you first, and in this video I break down what it ...",
-      "vistas": 310778,
-      "miniatura": "https://i.ytimg.com/vi/nv1aaP3dHzs/hqdefault.jpg"
-    },
-    {
-      "titulo": "Люди вычищают рекламу из своих телевизоров через Claude Code",
-      "link": "https://www.youtube.com/watch?v=vrCV-LQixeo",
-      "fuente": "Yerzhan Ai",
-      "categoria": "youtube",
-      "fecha": "2026-10-24T19:41:58+00:00",
-      "extracto": "Люди вычищают рекламу из своих телевизоров через Claude Code Человек дал Claude Code модель телевизора ...",
-      "vistas": 316086,
-      "miniatura": "https://i.ytimg.com/vi/vrCV-LQixeo/hqdefault.jpg"
-    },
-    {
-      "titulo": "I Connected Claude to My Fire TV Stick - What Happened Next Is Crazy",
-      "link": "https://www.youtube.com/watch?v=hNsvwUZJFTg",
-      "fuente": "UG Tech",
-      "categoria": "youtube",
-      "fecha": "2026-10-21T21:00:25+00:00",
-      "extracto": "I connected Claude to my Fire TV and let it take over completely. It debloated Amazon's ad services, uninstalled and reinstalled ...",
-      "vistas": 275158,
-      "miniatura": "https://i.ytimg.com/vi/hNsvwUZJFTg/hqdefault.jpg"
-    },
-    {
-      "titulo": "Claude Code + OmniRoute: Lifetime Free (100% Working Method)",
-      "link": "https://www.youtube.com/watch?v=N7dZKXEYGjA",
-      "fuente": "Vivek Mishra",
-      "categoria": "youtube",
-      "fecha": "2026-10-21T16:12:30+00:00",
-      "extracto": "Join the AI & Automation Community: https://www.skool.com/ai-automation-by-vivek-9685/about Get all Course Resources ...",
-      "vistas": 26865,
-      "miniatura": "https://i.ytimg.com/vi/N7dZKXEYGjA/hqdefault.jpg"
-    },
-    {
-      "titulo": "How to Connect Claude Code to Google Flow (Free MCP)",
-      "link": "https://www.youtube.com/watch?v=2m8gmLXAtHc",
-      "fuente": "Tech is Easy",
-      "categoria": "youtube",
-      "fecha": "2026-10-21T09:16:37+00:00",
-      "extracto": "In this video, we'll see how to connect Claude code with Google Flow for seamless video generation. By the end of this tutorial, ...",
-      "vistas": 7713,
-      "miniatura": "https://i.ytimg.com/vi/2m8gmLXAtHc/hqdefault.jpg"
-    },
-    {
-      "titulo": "This Claude MCP Just Killed My Marketing Agency",
-      "link": "https://www.youtube.com/watch?v=iVxnXJh26M0",
-      "fuente": "B.A Pusha",
-      "categoria": "youtube",
-      "fecha": "2026-10-20T18:26:37+00:00",
-      "extracto": "https://higgsfield.ai/s/higgsfield-mcp-general-yt-bapusha-DfhRrE — connect Higgsfield to Claude in 30 seconds. In this video I ...",
-      "vistas": 8257,
-      "miniatura": "https://i.ytimg.com/vi/iVxnXJh26M0/hqdefault.jpg"
-    },
-    {
-      "titulo": "Connect Claude to Instagram 🤖 Automate Your Content Workflow #ClaudeAI #Instagram",
-      "link": "https://www.youtube.com/watch?v=BkUZkNeUcR8",
-      "fuente": "Ben Kimball Ai",
-      "categoria": "youtube",
-      "fecha": "2026-10-20T05:28:43+00:00",
-      "extracto": "Learn how to connect Claude to Instagram and use AI to improve your social media workflow. Discover how Claude AI can help ...",
-      "vistas": 8268,
-      "miniatura": "https://i.ytimg.com/vi/BkUZkNeUcR8/hqdefault.jpg"
-    },
-    {
-      "titulo": "Claude × Higgsfield｜30万円級のWebサイトをAIで作る方法",
-      "link": "https://www.youtube.com/watch?v=UsxK5h3v-Xc",
-      "fuente": "あやか⌇海外移住Webデザイナー",
-      "categoria": "youtube",
-      "fecha": "2026-10-24T10:00:23+00:00",
-      "extracto": "今回使用したHiggsfieldはこちら https://higgsfield.ai/s/higgsfield-mcp-general-yt-ayaka-designer-vymGbO 提供：Higgsfield ...",
-      "vistas": 7882,
-      "miniatura": "https://i.ytimg.com/vi/UsxK5h3v-Xc/hqdefault.jpg"
-    },
-    {
-      "titulo": "Use Claude Code for Free in 3 Steps With OpenRouter",
-      "link": "https://www.youtube.com/watch?v=J9cOcXvmPXo",
-      "fuente": "Kayvon Jafarzadeh",
-      "categoria": "youtube",
-      "fecha": "2026-10-24T16:32:34+00:00",
-      "extracto": "Want to start building your own AI business? Join the Zero to Founder Incubator waitlist ...",
-      "vistas": 5612,
-      "miniatura": "https://i.ytimg.com/vi/J9cOcXvmPXo/hqdefault.jpg"
-    },
-    {
-      "titulo": "Bodoh AI ke Mahir Dalam 30 Menit (Part 1)",
-      "link": "https://www.youtube.com/watch?v=avUsTRL5XS0",
-      "fuente": "Raymond Chin",
-      "categoria": "youtube",
-      "fecha": "2026-10-21T11:01:45+00:00",
-      "extracto": "Oke, jadi di video ini gw ngajak Verren belajar AI dari nol. Soalnya lucu juga, tiap hari dikelilingi orang yang bahas AI, tapi dia ...",
-      "vistas": 863932,
-      "miniatura": "https://i.ytimg.com/vi/avUsTRL5XS0/hqdefault.jpg"
-    },
-    {
-      "titulo": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-10-27T07:00:00+00:00",
-      "extracto": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
-    },
-    {
-      "titulo": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-10-26T22:00:00+00:00",
-      "extracto": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
-    },
-    {
-      "titulo": "Working with academic communities to build scientific understanding",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-10-26T14:30:00+00:00",
-      "extracto": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
-    },
-    {
-      "titulo": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-10-26T13:45:00+00:00",
-      "extracto": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
-    },
-    {
-      "titulo": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-10-26T07:00:00+00:00",
-      "extracto": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
-    },
-    {
-      "titulo": "Introducing GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-10-26T00:00:00+00:00",
-      "extracto": "Bringing fast and capable computer use to everyone"
-    },
     {
       "titulo": "v2.1.311",
       "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
@@ -14321,6 +14163,176 @@
       "categoria": "dxw",
       "fecha": "2026-11-12T07:26:41+00:00",
       "extracto": "Claude SEO Guide, Commands and AI Search Visibility Pasquale Pillitteri"
+    },
+    {
+      "titulo": "Introducing Claude Fable 5.2",
+      "link": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-09T18:56:50+00:00",
+      "extracto": "Fable 5.2 designed to tackle the most daunting technical challenges. It's a capable collaborator on ambitious projects in many ...",
+      "vistas": 365974,
+      "miniatura": "https://i.ytimg.com/vi/6a1QSJlsYpU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Дал Клоду 10 секунд на побег. Пришлось менять правила #Claude #Нейросети",
+      "link": "https://www.youtube.com/watch?v=YAo4XqpYF5Q",
+      "fuente": "Arturily AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-09T18:00:11+00:00",
+      "extracto": "Дал Клоду десять секунд, чтобы выбраться. А потом ещё дважды усложнил условия. Постановочная 3D-сценка про ИИ: ...",
+      "vistas": 417655,
+      "miniatura": "https://i.ytimg.com/vi/YAo4XqpYF5Q/hqdefault.jpg"
+    },
+    {
+      "titulo": "CLAUDE V/S Momo Vale Bhaiya - Who Makes The Better SPICY 🌶 MOMO CHUTNEY | AI Challenge 😱😱",
+      "link": "https://www.youtube.com/watch?v=q1VKCDpsjpU",
+      "fuente": "So Saute",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T13:15:19+00:00",
+      "extracto": "whats cookin, good lookin I post reviews of new products in the food industry and also do fun and quircky challenges. Press the ...",
+      "vistas": 338682,
+      "miniatura": "https://i.ytimg.com/vi/q1VKCDpsjpU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable 5.2 is a freak",
+      "link": "https://www.youtube.com/watch?v=S7lpCyZSdJQ",
+      "fuente": "AI Search",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T03:31:20+00:00",
+      "extracto": "Claude Fable 5.2 review. #ai #aitools #ainews #llm #singularity #agi Thanks to our sponsor Higgsfield. Try it today ...",
+      "vistas": 325701,
+      "miniatura": "https://i.ytimg.com/vi/S7lpCyZSdJQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Fable 5.2 or Opus? When to use each model in Claude Code",
+      "link": "https://www.youtube.com/watch?v=C33hJGt-ySg",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T17:30:20+00:00",
+      "extracto": "Claude Fable 5.2 is out. With several models to choose from, learn when to start on Opus 5.5, when to move up to Fable 5.2 or ...",
+      "vistas": 322539,
+      "miniatura": "https://i.ytimg.com/vi/C33hJGt-ySg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Você ainda usa o Claude do jeito antigo (Claude 2.0)",
+      "link": "https://www.youtube.com/watch?v=OhCXEo3lE4A",
+      "fuente": "Chiara Costa",
+      "categoria": "youtube",
+      "fecha": "2026-11-07T13:03:58+00:00",
+      "extracto": "Quer criar soluções sob medida com IA para o seu negócio, com as especificidades dele? Saiba como ...",
+      "vistas": 376282,
+      "miniatura": "https://i.ytimg.com/vi/OhCXEo3lE4A/hqdefault.jpg"
+    },
+    {
+      "titulo": "Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic",
+      "link": "https://www.youtube.com/watch?v=vlfCjWuv4es",
+      "fuente": "AI Engineer",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T03:26:55+00:00",
+      "extracto": "The models have gotten really good, and most of what we've added to our Claude Code setups over the past year is now holding ...",
+      "vistas": 253977,
+      "miniatura": "https://i.ytimg.com/vi/vlfCjWuv4es/hqdefault.jpg"
+    },
+    {
+      "titulo": "Fish Audio MCP Tutorial: Create AI Videos Voiceovers with Claude",
+      "link": "https://www.youtube.com/watch?v=vXsfkHDhR90",
+      "fuente": "Toolvora | AI Reviews",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T11:21:59+00:00",
+      "extracto": "Fish Audio MCP · AI Videos · AI Voiceovers Useful Links Fish Audio: https://fish.audio/?fpr=3p5lil Learn how to use Fish Audio ...",
+      "vistas": 5163,
+      "miniatura": "https://i.ytimg.com/vi/vXsfkHDhR90/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code se branche sur n importe quel outil sans MCP",
+      "link": "https://www.youtube.com/watch?v=9DrsNWY2z2s",
+      "fuente": "Melvynx",
+      "categoria": "youtube",
+      "fecha": "2026-11-08T18:09:22+00:00",
+      "extracto": "Ton outil n'a aucun connecteur dans Claude ? Tu n'as plus besoin d'un MCP pour le brancher. Avec le skill gratuit Connect Tool, ...",
+      "vistas": 7770,
+      "miniatura": "https://i.ytimg.com/vi/9DrsNWY2z2s/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Connect Claude Code to Instagram Edits (MCP Setup on Mac)",
+      "link": "https://www.youtube.com/watch?v=q0RiV6UmsN8",
+      "fuente": "TechPP",
+      "categoria": "youtube",
+      "fecha": "2026-11-07T12:45:25+00:00",
+      "extracto": "Instagram's Edits app for Mac has a feature hidden in its settings called Automation. It lets AI tools like Claude Code control Edits ...",
+      "vistas": 6380,
+      "miniatura": "https://i.ytimg.com/vi/q0RiV6UmsN8/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Tested Fable 5.2 vs Opus 5.5 (Full Breakdown)",
+      "link": "https://www.youtube.com/watch?v=SsSKJA0EHD4",
+      "fuente": "Peter Yang",
+      "categoria": "youtube",
+      "fecha": "2026-11-09T19:05:50+00:00",
+      "extracto": "Copy my best AI workflows to save time and automate busywork: ...",
+      "vistas": 141031,
+      "miniatura": "https://i.ytimg.com/vi/SsSKJA0EHD4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI + Viewmax = Rain Sound Video in 1 Minute #shorts",
+      "link": "https://www.youtube.com/watch?v=g3nvzFSBSRQ",
+      "fuente": "Ecom Fardin",
+      "categoria": "youtube",
+      "fecha": "2026-11-06T20:10:02+00:00",
+      "extracto": "Log YouTube pe sirf baarish ki awaaz wali videos daal ke lakhon views le rahe hain. Is video mein dekho kaise Claude AI aur ...",
+      "vistas": 137573,
+      "miniatura": "https://i.ytimg.com/vi/g3nvzFSBSRQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Build a Faceless YouTube Channel on Mobile Phone with Claude (Free Prompt/Skill)",
+      "link": "https://www.youtube.com/watch?v=DeKEUcyNL3c",
+      "fuente": "Nafay 3D",
+      "categoria": "youtube",
+      "fecha": "2026-11-07T16:05:12+00:00",
+      "extracto": "Use Zapier for free: https://zc.s.gy/VPJSYT Get the Prompt used in this video for free: ...",
+      "vistas": 113452,
+      "miniatura": "https://i.ytimg.com/vi/DeKEUcyNL3c/hqdefault.jpg"
+    },
+    {
+      "titulo": "Make Viral Stickman Animation Shorts with Claude AI Get Monetized FAST! 😱🔥",
+      "link": "https://www.youtube.com/watch?v=npbBhbYoEFc",
+      "fuente": "CONTROL GROW YT",
+      "categoria": "youtube",
+      "fecha": "2026-11-09T11:54:27+00:00",
+      "extracto": "For Business & Sponsorship: Mahipalboxy@gmail.com Want to create Viral Stickman Animation Shorts and grow your YouTube ...",
+      "vistas": 134148,
+      "miniatura": "https://i.ytimg.com/vi/npbBhbYoEFc/hqdefault.jpg"
+    },
+    {
+      "titulo": "The Secret Way to Make Viral 2D Animations with Claude (FREE)",
+      "link": "https://www.youtube.com/watch?v=rgYWraz5RhE",
+      "fuente": "Inspire Xplorer",
+      "categoria": "youtube",
+      "fecha": "2026-11-07T11:25:00+00:00",
+      "extracto": "Claude made these viral cartoon videos, and it cost me $0. In this video, I'll show you step by step how to make viral 2D animated ...",
+      "vistas": 91813,
+      "miniatura": "https://i.ytimg.com/vi/rgYWraz5RhE/hqdefault.jpg"
+    },
+    {
+      "titulo": "The 6 NEW Claude Features to Get You Ahead of 99% in 2027",
+      "link": "https://www.youtube.com/watch?v=HD02f3-3c7E",
+      "fuente": "Tristen O'Brien",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T13:00:38+00:00",
+      "extracto": "AI Tools: Mobbin (discount built into the link): https://mobbin.com/tristen Savee: 40% off your first year of Savee Pro: ...",
+      "vistas": 102076,
+      "miniatura": "https://i.ytimg.com/vi/HD02f3-3c7E/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI দিয়ে ফ্রিতে 2D Animation Story Video বানান 🔥 | Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=uX-qnq3Wai0",
+      "fuente": "GROW LIKE PRO",
+      "categoria": "youtube",
+      "fecha": "2026-11-06T15:15:35+00:00",
+      "extracto": "Claude AI দিয়ে ফ্রিতে 2D Animation Story Video বানান | Full Tutorial AI Mastery with Grow Like Pro ...",
+      "vistas": 100713,
+      "miniatura": "https://i.ytimg.com/vi/uX-qnq3Wai0/hqdefault.jpg"
     }
   ]
 }
