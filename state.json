@@ -1,14 +1,5 @@
 {
   "vistos": [
-    "dfd1ea2e5518b0ed",
-    "068e562e05123807",
-    "f3538b6fb36f4f58",
-    "e1c742c1d925baf7",
-    "a1765f446c5b64b5",
-    "85d975255b4f9d00",
-    "c466e8e788380146",
-    "8d309631f2436e38",
-    "7c25d89118dfffa4",
     "41f29ee4270a12e6",
     "a78c707c3a1a19ed",
     "17238c933f81f94e",
@@ -1999,81 +1990,18 @@
     "75743fa43386279d",
     "dc04ff5a096d925e",
     "eeb337d844319233",
-    "01ac5573c6651d69"
+    "01ac5573c6651d69",
+    "7cdfad1356efa2e2",
+    "9f458dfbf064a4cb",
+    "371dcca6c58e860e",
+    "366eab1b7bcf4bfc",
+    "bfc3e0763aaa3e0c",
+    "f3df3fa8f76f0349",
+    "391d60a2423fa405",
+    "23a5434c3e922b55",
+    "4c7b388a0891ca90"
   ],
   "archivo": [
-    {
-      "titulo": "iPad mini 8",
-      "link": "https://www.producthunt.com/products/apple",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-26T14:59:19+00:00",
-      "extracto": "OLED, A20 Pro and IP67 in Apple's smallest iPad Discussion | Link"
-    },
-    {
-      "titulo": "Arcade Controller Pro",
-      "link": "https://www.producthunt.com/products/bluetooth-snes-controller",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-26T14:01:45+00:00",
-      "extracto": "A fight controller with no stick and its own screen Discussion | Link"
-    },
-    {
-      "titulo": "Nuvio 5.0",
-      "link": "https://www.producthunt.com/products/nuvio",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-26T20:06:22+00:00",
-      "extracto": "Hand your financial admin to your AI agent Discussion | Link"
-    },
-    {
-      "titulo": "Revix AI",
-      "link": "https://www.producthunt.com/products/revix-ai-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-26T21:29:10+00:00",
-      "extracto": "AI code review that learns your repo's own rules Discussion | Link"
-    },
-    {
-      "titulo": "How Domino’s consolidated media for 40% more reach - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm5ydW9NRHhmNEgxLURKMmRPcGpOcTk5T3ItbmcydUNsWlN4TDU4YWo1WVBEYVBRR1JoY3lRNFhyeGJ0WVRsem5pQm56QVR6dnVNYlpEQUN5VTZSaTlEcU1YYWN6cU4zR0xDbmV2YkNZSzdSV0hmazZ6SGxGbk1VejFvLTVqcS1uTjZWVVAxQzRWM2JUdlk0OGp3QTlfZGJzR2RnWW9YVQ?oc=5",
-      "fuente": "GN — Google Business Profile",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T15:35:53+00:00",
-      "extracto": "How Domino’s consolidated media for 40% more reach Google Business Profile"
-    },
-    {
-      "titulo": "Vplay saw a 57% increase in installs at a 31% lower CPI with ICM - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanFWYU9UZDRMczV5enRFNzhjRXJIRWRKN25fdGdsbzU0UkxLSW5VOS1Lakx5eW9ENG12eHBNNzZ5WEd2RzJVTzlBVFBDd3JQX2M3ZVkteXRIbXZMSGJ5ZldtYmZDT1BKcXMyMkFocWdUY3psb25kOGVteG1EakdzWlRzV0pHQkljV0RIbXhtaUhtVnhsYkEwck9tckpRN2I2d2VPUkdJazhUX19DdFpJU2xNV2pxSms1cENvOWpBQnJCUQ?oc=5",
-      "fuente": "GN — Google Business Profile",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T10:29:00+00:00",
-      "extracto": "Vplay saw a 57% increase in installs at a 31% lower CPI with ICM Google Business Profile"
-    },
-    {
-      "titulo": "AI Search Engineers Identifies Google Business Profile Misalignment as the Most Common Entity Authority Gap Suppressing Google AI Overview Appearances for Professional Service Businesses - Newswire",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd3lMX25Ia0RUNTR5V0dpNjRaSF9vQnkzOFVPY21ta1FkMW51VGFvTEo3b0RMd2ZGTE1VRzNTMUlIUHYzMTVuMFBVNWZDSTJSVjZxZWswYXpQT1p1eFg3TXBHOVFTak4zLThwWWlmU3ZXb3FmUUtBUE5ReWV3N0FFMWNhdGxEVTdsNVhOUm9adXRCZDY3azZqOUlReHBGMHIxaGNKcm0ybzlId05WblE?oc=5",
-      "fuente": "GN — Google Business Profile",
-      "categoria": "dxw",
-      "fecha": "2026-10-26T18:10:00+00:00",
-      "extracto": "AI Search Engineers Identifies Google Business Profile Misalignment as the Most Common Entity Authority Gap Suppressing Google AI Overview Appearances for Professional Service Businesses Newswire"
-    },
-    {
-      "titulo": "1UP Games boosted ROAS by 62% with value-based bidding - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnV3TDJTcFJlZGs2aUNfVkd2bFQycmpHUzRwektfU3VQTWFKRGYwaVpaRE5mZjlnbWh4UmRGS2hkbDdtLWVpV3FvZXpIUjdPYzVyZUNLYW1iZDlYM2s2UjZoSk1WOXRLLWhDVTV0Q1dNRFkxV0FFeW1zLUhjbF8tSVpTYlQ2b0ZkLVYxOUVNUkR2R3ktVTJvbnFmRldsc0YyeFljU2F2aDduZVhzMjR6Zy1vbEdGdw?oc=5",
-      "fuente": "GN — Google Business Profile",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T02:02:50+00:00",
-      "extracto": "1UP Games boosted ROAS by 62% with value-based bidding Google Business Profile"
-    },
-    {
-      "titulo": "Why Voice AI on Microsoft Teams Is Harder Than It Looks - CX Today",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWklscVlIbVAxLWVNamJkMmZ1Y1J5VG1DcGMyZ0pZQWRQM3lFMVJSZDJIeUdhQV9rYWpRQXNrN1ZVYUJseS1FOG5XQlpjZzZ4elNQZ3dEekwxSFh5Nl9BbGRXc3AxaXM3S3JsMmVMNTlfUjRhQlJlZ0t6SHNlM1lGZVIxdFg3YXBDOVg2WEhteHM5eFpLMkE?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T13:31:12+00:00",
-      "extracto": "Why Voice AI on Microsoft Teams Is Harder Than It Looks CX Today"
-    },
     {
       "titulo": "Callie Care: 85% of Seniors Keep AI Calls [2026] - https://tech-insider.org/",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzNBZi1zWHRZY0xOT0V6LUJYX2I4S1E3eEwxdHBYdkhpZnBKVDNOc29lOHNHTWlVUmhCNnBfeUNUWkNCVmd0b3RrUGtMVzUwMGRybmdKNHRWbFQyMXByV2cxXzNSbTJOMnZlbU1fd2JCWUwwekl6TVZITXBzMjNxRWdKVEd4VnYzZ0pqbnltdGsyVjhOSHhqag?oc=5",
@@ -14333,6 +14261,96 @@
       "categoria": "dxw",
       "fecha": "2026-11-13T05:06:07+00:00",
       "extracto": "Media Anchored Launches Guaranteed PR and AI Search Visibility Programs for Founders and Brands StreetInsider"
+    },
+    {
+      "titulo": "요즘 AI 게임 근황 (2026.11 ver.)",
+      "link": "https://www.youtube.com/watch?v=ysbr4Iu_UsQ",
+      "fuente": "테드TV",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T22:00:16+00:00",
+      "extracto": "요즘 AI 게임 근황 (2026.11 ver.) #테드썰 #썰 #shorts #ai #클로드 #claude #챗gpt.",
+      "vistas": 347677,
+      "miniatura": "https://i.ytimg.com/vi/ysbr4Iu_UsQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "DeepSeek + REA Cloned Claude Code for FREE (Full Build)",
+      "link": "https://www.youtube.com/watch?v=ihElfZhR-eI",
+      "fuente": "Outskill",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T14:45:16+00:00",
+      "extracto": "I rebuilt Claude Code from scratch using only free AI models: DeepSeek V4.1 Flash and GLM 5.3 Flash, with REA (Reverse ...",
+      "vistas": 190050,
+      "miniatura": "https://i.ytimg.com/vi/ihElfZhR-eI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code GitHub Leaks",
+      "link": "https://www.youtube.com/watch?v=wKmgG8OYZco",
+      "fuente": "UFD Tech",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T02:02:07+00:00",
+      "extracto": "Writer: Brett Stelmaszek Editor: Joshua Lambourne Stevenson Music: Lupus Nocte - Final Run | Epidemic Sound ...",
+      "vistas": 147314,
+      "miniatura": "https://i.ytimg.com/vi/wKmgG8OYZco/hqdefault.jpg"
+    },
+    {
+      "titulo": "Artlist Just Changed AI Creation! MCP for Claude + Kling 4.0 Explained",
+      "link": "https://www.youtube.com/watch?v=rlcM9HACp3g",
+      "fuente": "Tech Junction ",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T21:50:59+00:00",
+      "extracto": "Try Artlist AI Here:** ...",
+      "vistas": 4540,
+      "miniatura": "https://i.ytimg.com/vi/rlcM9HACp3g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + Higgsfield MCP: One Connector Replaced My Creative Team",
+      "link": "https://www.youtube.com/watch?v=vogO4Mvh7hk",
+      "fuente": "MATLAB TECH",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T17:26:59+00:00",
+      "extracto": "https://higgsfield.ai/s/higgsfield-mcp-general-yt-matlab-tech-xhUnHs — Connect Higgsfield to Claude and build your own AI ...",
+      "vistas": 3631,
+      "miniatura": "https://i.ytimg.com/vi/vogO4Mvh7hk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Ты до сих пор даёшь ИИ задачу без уточнений? Поэтому он пишет мусор #ИИ #Claude",
+      "link": "https://www.youtube.com/watch?v=I_YJyTH3Qak",
+      "fuente": "Димитрий Дьячек",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T07:10:49+00:00",
+      "extracto": "Узнайте, как правильно выполнять составление промптов, чтобы получать от нейросетей качественный результат, а не ...",
+      "vistas": 227025,
+      "miniatura": "https://i.ytimg.com/vi/I_YJyTH3Qak/hqdefault.jpg"
+    },
+    {
+      "titulo": "Quel pont généré par IA de 8cm a tenu 76kg ????",
+      "link": "https://www.youtube.com/watch?v=Me4cTXFxaGk",
+      "fuente": "Defend Intelligence",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T07:57:14+00:00",
+      "extracto": "Claude vs GPT pour fabriquer des ponts. Qui casse en premier ? Partie 2 et finale. Dis moi tes autres idées en commentaire.",
+      "vistas": 164785,
+      "miniatura": "https://i.ytimg.com/vi/Me4cTXFxaGk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable 5.2 Ne 8 Din Mein Ek OS Bana Diya",
+      "link": "https://www.youtube.com/watch?v=7FLy7svivgo",
+      "fuente": "Ashish Decodes",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T17:59:37+00:00",
+      "extracto": "Ek empty folder se shuru karke Claude Fable 5.2 ne 1000 se zyada AI subagents ke saath ek prototype operating system banaya ...",
+      "vistas": 149004,
+      "miniatura": "https://i.ytimg.com/vi/7FLy7svivgo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable 5.2 is distubingly good with Blender",
+      "link": "https://www.youtube.com/watch?v=TGqnAY2KWe8",
+      "fuente": "Riley Brown",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T02:02:42+00:00",
+      "extracto": "Fable 5.2 was just released and I created this video in one prompt with Blender. I gave Claude one prompt. It wrote code that ...",
+      "vistas": 198183,
+      "miniatura": "https://i.ytimg.com/vi/TGqnAY2KWe8/hqdefault.jpg"
     }
   ]
 }
