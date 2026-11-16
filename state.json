@@ -1,20 +1,5 @@
 {
   "vistos": [
-    "25e5e3587edf7188",
-    "182bb9f98515bf6f",
-    "375faeeab7571847",
-    "5eefb426b9a27866",
-    "6f20cc2e8bad1973",
-    "d4fa670be6609918",
-    "90d4a13366731626",
-    "71cf2a9872f81091",
-    "25cc4c9bb2e3e7e5",
-    "c7606af40dbb903f",
-    "6750c2461412185f",
-    "f82afb648776b097",
-    "aa7cf003bea09b70",
-    "865f57db56492fca",
-    "c1e94fc831365c13",
     "8a86c97089bb6492",
     "e7107d9a76d915c4",
     "b2263e9f84127c76",
@@ -1999,129 +1984,24 @@
     "ae9ec6a0986bc7ce",
     "eb37e60529fe444c",
     "c9fd2cc5c9a2c913",
-    "fe2e29f25b3e5f14"
+    "fe2e29f25b3e5f14",
+    "8a0fd160f8a589cc",
+    "14d778364de0b8bc",
+    "7037bfc85a28b00c",
+    "6639977f115664a8",
+    "56e2e01ef6eefe80",
+    "3985ee26ce6a234e",
+    "8f6450c37d1dfab6",
+    "a77043899fb51eff",
+    "c3c8b776dce7ee34",
+    "31cc9a07b02220e0",
+    "ec843bf20e33b6e9",
+    "70ddf1acc73698ec",
+    "d97de9cb5c798471",
+    "43a8e8f06f85e2ab",
+    "65e8266bb950bb94"
   ],
   "archivo": [
-    {
-      "titulo": "The 9 best HubSpot certifications, according to HubSpot-certified experts",
-      "link": "https://zapier.com/blog/hubspot-certifications",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T04:00:00+00:00",
-      "extracto": "When I started out as a freelance writer, I didn't have a professional background in content marketing. I not only needed to learn everything I could about my new industry, but also had to show potential clients that I was worth investing in. And after creeping on a few freelancer subreddits, I learned HubSpot certifications were exactly what I needed. But the courses you can take from HubSpot Academy go well beyond my niche—in fact, they run the..."
-    },
-    {
-      "titulo": "The 9 best Notion alternatives in 2026",
-      "link": "https://zapier.com/blog/best-notion-alternatives",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T04:00:00+00:00",
-      "extracto": "Notion is a special app. Starting from an empty screen, you add notes and documents in a freeform way. Then, when the original page is too crowded, you create your first database and the possibilities explode: you can create a custom productivity system and change it as you evolve. But productivity is evolving. Knowledge management platforms need to support human teams while making room for AI agents, with automation and guardrails in place to ma..."
-    },
-    {
-      "titulo": "Turn every order line item into a Zapier Tables record",
-      "link": "https://zapier.com/blog/tables-build-actions",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T17:00:00+00:00",
-      "extracto": "Originally released July 28, 2026. A new customer just placed their first order, 12 products due out Friday. Your warehouse packs from a table with one row per product, and nothing ships until every row has a check mark. If your Zap drops that order into a single record, the packer gets a paragraph instead of a checklist. Somewhere around product nine, a line gets skipped. Your new customer's first box arrives one product short. Twelve products s..."
-    },
-    {
-      "titulo": "The 6 best AI image generators in 2026",
-      "link": "https://zapier.com/blog/best-ai-image-generator",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T05:00:00+00:00",
-      "extracto": "AI image generators have been brewing (generating?) up a storm for the last few years. If you've been on social media, watched prime time news shows, or ordered from GrubHub, AI-generated images have been impossible to miss. These kinds of AI-generated images are everywhere, and sometimes you won't even realize. If you want to join in the fun, or add some AI-powered features to your business workflows, the apps on this list will give you what you..."
-    },
-    {
-      "titulo": "Basedash View-only members",
-      "link": "https://www.producthunt.com/products/basedash",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T21:26:34+00:00",
-      "extracto": "Share dashboards with anyone. They can look, not edit. Discussion | Link"
-    },
-    {
-      "titulo": "Congress Trades",
-      "link": "https://www.producthunt.com/products/alpha-vantage",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T20:23:42+00:00",
-      "extracto": "See how Congress members trade, and if copying them pays off Discussion | Link"
-    },
-    {
-      "titulo": "WebAI by Opera",
-      "link": "https://www.producthunt.com/products/opera",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T06:46:15+00:00",
-      "extracto": "Let websites use AI running on your computer Discussion | Link"
-    },
-    {
-      "titulo": "NotiKeep",
-      "link": "https://www.producthunt.com/products/notikeep",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T16:02:40+00:00",
-      "extracto": "Notification history for iPhone, on your device Discussion | Link"
-    },
-    {
-      "titulo": "Boltbar",
-      "link": "https://www.producthunt.com/products/boltbar",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T18:33:40+00:00",
-      "extracto": "Spotlight-style AI chat for your Mac Discussion | Link"
-    },
-    {
-      "titulo": "Dedica",
-      "link": "https://www.producthunt.com/products/dedica",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T00:45:35+00:00",
-      "extracto": "Check if AI agents can use your website Discussion | Link"
-    },
-    {
-      "titulo": "Genie 4",
-      "link": "https://www.producthunt.com/products/gemini-1-5-pro",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T16:08:37+00:00",
-      "extracto": "Turn a prompt into a living world you can steer Discussion | Link"
-    },
-    {
-      "titulo": "Our Silly Games",
-      "link": "https://www.producthunt.com/products/our-silly-games",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T16:11:14+00:00",
-      "extracto": "Skills to build games with Claude. Free multiplayer hosting. Discussion | Link"
-    },
-    {
-      "titulo": "OpenLLM",
-      "link": "https://www.producthunt.com/products/openllm",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T06:14:57+00:00",
-      "extracto": "Take your AI tokens anywhere Discussion | Link"
-    },
-    {
-      "titulo": "OneDeploy",
-      "link": "https://www.producthunt.com/products/onedeploy",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T15:57:20+00:00",
-      "extracto": "Open-source apps on your own server, with no per-seat fees Discussion | Link"
-    },
-    {
-      "titulo": "licenseal",
-      "link": "https://www.producthunt.com/products/licenseal",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T02:28:19+00:00",
-      "extracto": "Catch incompatible dependency licenses before release Discussion | Link"
-    },
     {
       "titulo": "Yardlet",
       "link": "https://www.producthunt.com/products/yardlet-2",
@@ -14341,6 +14221,156 @@
       "categoria": "dxw",
       "fecha": "2026-11-15T13:00:00+00:00",
       "extracto": "The Executive’s Guide To Outsourcing Generative Engine Optimization Forbes"
+    },
+    {
+      "titulo": "Claude reverse engineered my 32-year-old Jeep. Then it started controlling it.",
+      "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "fuente": "Muhammad Zulali",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T19:19:20+00:00",
+      "extracto": "My 1994 Jeep Cherokee has no OBD2 port and no scan tool that works on it. So I wired a $3 Arduino to its engine computer and ...",
+      "vistas": 1538379,
+      "miniatura": "https://i.ytimg.com/vi/WPj3aQ-xxpI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Introducing Claude Meetings",
+      "link": "https://www.youtube.com/watch?v=YUYeHMsqbmY",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T20:10:59+00:00",
+      "extracto": "Introducing Claude Meetings: add Claude to your team's video call and it builds docs, whiteboards, and other artifacts with you ...",
+      "vistas": 852080,
+      "miniatura": "https://i.ytimg.com/vi/YUYeHMsqbmY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Introducing Claude Whiteboards, Sheets, and Data",
+      "link": "https://www.youtube.com/watch?v=YewAJPawE7I",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T17:26:09+00:00",
+      "extracto": "Claude Whiteboards and Claude Sheets are in beta, and Claude Dashboards is now generally available as Claude Data.",
+      "vistas": 553119,
+      "miniatura": "https://i.ytimg.com/vi/YewAJPawE7I/hqdefault.jpg"
+    },
+    {
+      "titulo": "🔥Claude மூலம் பணக்காரர் ஆவது எப்படி? 😱 #shorts #claude",
+      "link": "https://www.youtube.com/watch?v=73Xqx3KfTc8",
+      "fuente": "Tamil Tech - MrTT",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T05:46:05+00:00",
+      "extracto": "Using Claude AI, we demonstrate how to identify engine problems, understand mechanical issues, and find possible solutions ...",
+      "vistas": 431163,
+      "miniatura": "https://i.ytimg.com/vi/73Xqx3KfTc8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable 5.2 Is Absolutely RIDICULOUS",
+      "link": "https://www.youtube.com/watch?v=GipTWtfaiLs",
+      "fuente": "TheAIGRID",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T11:30:05+00:00",
+      "extracto": "Learn AI With Me For Free - https://www.skool.com/the-aigrid-community-1726 Subscribe To My Newsletter ...",
+      "vistas": 454939,
+      "miniatura": "https://i.ytimg.com/vi/GipTWtfaiLs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable 5.2 Just Vibe Coded Windows?",
+      "link": "https://www.youtube.com/watch?v=pM3quubXvpA",
+      "fuente": "FUTC",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T19:51:42+00:00",
+      "extracto": "An Anthropic engineer told the new Claude Fable 5.2 to create an entire operating system from scratch. With over 1000 ...",
+      "vistas": 571771,
+      "miniatura": "https://i.ytimg.com/vi/pM3quubXvpA/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Dropped Claude Whiteboard, Sheets and Data",
+      "link": "https://www.youtube.com/watch?v=7LLCexpekZI",
+      "fuente": "Brock Mesarich | AI for Non Techies",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T23:28:53+00:00",
+      "extracto": "Connect Claude to 9000+ Apps: https://zc.s.gy/HQC7Yf Anthropic just added three new types of artifacts inside of Claude, and ...",
+      "vistas": 362607,
+      "miniatura": "https://i.ytimg.com/vi/7LLCexpekZI/hqdefault.jpg"
+    },
+    {
+      "titulo": "13 INSANE Things You Can Build w/ Claude Fable 5.2",
+      "link": "https://www.youtube.com/watch?v=5mA9Hab09Do",
+      "fuente": "Nick Saraev",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T23:08:45+00:00",
+      "extracto": "Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/13-insane-things Get all course resources 100% ...",
+      "vistas": 311097,
+      "miniatura": "https://i.ytimg.com/vi/5mA9Hab09Do/hqdefault.jpg"
+    },
+    {
+      "titulo": "Клод, я потратил $48 на один баг #нейросети #claudecode #вайбкодинг",
+      "link": "https://www.youtube.com/watch?v=Pcr1m47Zt9s",
+      "fuente": "JustUser",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T22:02:12+00:00",
+      "extracto": "Гриша попросил Fable 5.2 починить оплату на сайте. Она справилась с первого раза, добавила тесты и написала «Это ...",
+      "vistas": 221156,
+      "miniatura": "https://i.ytimg.com/vi/Pcr1m47Zt9s/hqdefault.jpg"
+    },
+    {
+      "titulo": "Your apps have moved into Claude",
+      "link": "https://www.youtube.com/watch?v=Gy1jSeSzAhk",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T17:26:06+00:00",
+      "extracto": "With interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside ...",
+      "vistas": 1141026,
+      "miniatura": "https://i.ytimg.com/vi/Gy1jSeSzAhk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Home Assistant mit KI: Gruselig und gut",
+      "link": "https://www.youtube.com/watch?v=7Mk0dCDZHkY",
+      "fuente": "c't 3003",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T15:00:30+00:00",
+      "extracto": "Hier gehts zu Home Assistant MCP: https://github.com/homeassistant-ai/ha-mcp === Anzeige / Sponsorenhinweis ...",
+      "vistas": 90166,
+      "miniatura": "https://i.ytimg.com/vi/7Mk0dCDZHkY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Adobe Creative Cloud MCP: AI Agents Edit For You",
+      "link": "https://www.youtube.com/watch?v=ciY3ytKVzO8",
+      "fuente": "Mike Russell",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T14:00:15+00:00",
+      "extracto": "NEW: Adobe MAX 2026: 7 AI Tools I Didn't Show You https://youtu.be/J6OAOdd3mK8 Adobe MAX 2026 is all about AI agents.",
+      "vistas": 37740,
+      "miniatura": "https://i.ytimg.com/vi/ciY3ytKVzO8/hqdefault.jpg"
+    },
+    {
+      "titulo": "It’s Official: Adobe Is Bringing ChatGPT Claude Inside Photoshop",
+      "link": "https://www.youtube.com/watch?v=K8B43fNr-Q8",
+      "fuente": "Glyn Dewis",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T16:30:27+00:00",
+      "extracto": "Adobe has announced that AI assistants will soon be able to work directly inside its desktop apps like Photoshop, and it could ...",
+      "vistas": 34495,
+      "miniatura": "https://i.ytimg.com/vi/K8B43fNr-Q8/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Connect Claude AI to Roblox Studio To Make AI Roblox Games",
+      "link": "https://www.youtube.com/watch?v=SIb1rR3QUj8",
+      "fuente": "Tutorialy",
+      "categoria": "youtube",
+      "fecha": "2026-11-10T01:16:40+00:00",
+      "extracto": "Learn how to connect Claude AI to Roblox Studio using MCP so you can create scripts, build games, and use AI directly inside ...",
+      "vistas": 11619,
+      "miniatura": "https://i.ytimg.com/vi/SIb1rR3QUj8/hqdefault.jpg"
+    },
+    {
+      "titulo": "The Secret YouTube Strategy Dominating in 2027",
+      "link": "https://www.youtube.com/watch?v=YP8D2_j3_Hc",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T16:38:13+00:00",
+      "extracto": "Up to 65% OFF SALE is LIVE: https://higgsfield.ai/s/faceless-channel-fable-5-2-higgsfieldai-qPNxLL All skills & prompts: ...",
+      "vistas": 185330,
+      "miniatura": "https://i.ytimg.com/vi/YP8D2_j3_Hc/hqdefault.jpg"
     }
   ]
 }
