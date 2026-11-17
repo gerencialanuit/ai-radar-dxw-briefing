@@ -1,15 +1,5 @@
 {
   "vistos": [
-    "2bb4eafb833a6807",
-    "b404544855e60b82",
-    "99a748b66460f2c4",
-    "fe064aeba8557013",
-    "aadfedb5a702c730",
-    "b4eba2e414ee801b",
-    "e149e427599ad6d0",
-    "869ea7c6bd83d642",
-    "18bf57498010a9b7",
-    "28166c7b41436957",
     "56ed98938a502a34",
     "ec5eb18792de3106",
     "b8c239e24e05c27e",
@@ -1999,89 +1989,19 @@
     "165f3d1340c52964",
     "195060420f2de4db",
     "046d2844f37fc14e",
-    "ae8b6bde5f1f5556"
+    "ae8b6bde5f1f5556",
+    "d2a8af25537c1a29",
+    "ae9df7e5c3b2be2e",
+    "ad3d074daf3e5746",
+    "1fdae3c0e420d25a",
+    "ddd2878823f8e397",
+    "c80a3846723ad8b7",
+    "ff1d07347c4fc4c1",
+    "2f16e95e08aa3cfc",
+    "99b77bf0de1e355b",
+    "faf64249299c5912"
   ],
   "archivo": [
-    {
-      "titulo": "IFTTT.ai",
-      "link": "https://www.producthunt.com/products/ifttt",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T18:26:21+00:00",
-      "extracto": "The easiest way to automate anything Discussion | Link"
-    },
-    {
-      "titulo": "Kin",
-      "link": "https://www.producthunt.com/products/kin-6",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T10:24:00+00:00",
-      "extracto": "The AI labs want to own you. Make them answer to you. Discussion | Link"
-    },
-    {
-      "titulo": "AutoShelf 2.6",
-      "link": "https://www.producthunt.com/products/autoshelf",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T22:19:51+00:00",
-      "extracto": "Automate any folder on your Mac with if-this-then-that rules Discussion | Link"
-    },
-    {
-      "titulo": "Floot in ChatGPT",
-      "link": "https://www.producthunt.com/products/floot",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T20:14:10+00:00",
-      "extracto": "Build and publish real apps without leaving ChatGPT Discussion | Link"
-    },
-    {
-      "titulo": "Confetti",
-      "link": "https://www.producthunt.com/products/confetti-5",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T23:51:07+00:00",
-      "extracto": "Easiest way to build hardware gadgets using plain English Discussion | Link"
-    },
-    {
-      "titulo": "Suno MCP",
-      "link": "https://www.producthunt.com/products/suno",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T18:33:54+00:00",
-      "extracto": "The music layerfor your AI stack Discussion | Link"
-    },
-    {
-      "titulo": "Flatbread",
-      "link": "https://www.producthunt.com/products/flatbread",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T23:47:45+00:00",
-      "extracto": "Share the whole agent run, not a screenshot Discussion | Link"
-    },
-    {
-      "titulo": "Radar",
-      "link": "https://www.producthunt.com/products/radar-7",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-27T20:41:59+00:00",
-      "extracto": "You don't need an AI SRE. Give your agent Radar. Discussion | Link"
-    },
-    {
-      "titulo": "Polylane for ChatGPT",
-      "link": "https://www.producthunt.com/products/polylane",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T22:04:42+00:00",
-      "extracto": "Ask ChatGPT what broke in production Discussion | Link"
-    },
-    {
-      "titulo": "MAO",
-      "link": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T11:27:28+00:00",
-      "extracto": "Team up Claude Code, Codex and Grok on one canvas Discussion | Link"
-    },
     {
       "titulo": "Smart Jelly",
       "link": "https://www.producthunt.com/products/smart-jelly",
@@ -14349,6 +14269,106 @@
       "categoria": "dxw",
       "fecha": "2026-11-16T00:49:37+00:00",
       "extracto": "The Rise of Answer Engine Optimization and the New Search Battlefield MarkHub24"
+    },
+    {
+      "titulo": "Claude Vs Video Editors: Is this the END?",
+      "link": "https://www.youtube.com/watch?v=d3NJyNn6vTQ",
+      "fuente": "Professor Of AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T11:11:22+00:00",
+      "extracto": "Claude Vs Video Editors: Is this the END?",
+      "vistas": 613803,
+      "miniatura": "https://i.ytimg.com/vi/d3NJyNn6vTQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "This whole clip started as one photo of me in a scarf and coat 🌱 Step 1: in ChatGPT, upload you",
+      "link": "https://www.youtube.com/watch?v=QHp4V9y0Ylo",
+      "fuente": "Cindy Zhu",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T22:00:29+00:00",
+      "extracto": "This whole clip started as one photo of me in a scarf and coat Step 1: in ChatGPT, upload your photo and type “Create a ...",
+      "vistas": 510650,
+      "miniatura": "https://i.ytimg.com/vi/QHp4V9y0Ylo/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built A Business From Scratch Only Following Claude’s Advice",
+      "link": "https://www.youtube.com/watch?v=ZzDRSxx3zgY",
+      "fuente": "Mark Tilbury",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T12:59:43+00:00",
+      "extracto": "Get up to 65% OFF Higgsfield annual plans this Black Friday: https://higgsfield.ai/s/uXAzZh Black Friday offers available until ...",
+      "vistas": 614645,
+      "miniatura": "https://i.ytimg.com/vi/ZzDRSxx3zgY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Use Claude Without Limits (FREE 7.4 BILLION Tokens)",
+      "link": "https://www.youtube.com/watch?v=wVoWwo4P3BM",
+      "fuente": "Outskill",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T15:50:13+00:00",
+      "extracto": "Use Claude for free: the same Claude desktop app, running on up to ~7.4 billion free AI tokens a month. No subscription, no credit ...",
+      "vistas": 230544,
+      "miniatura": "https://i.ytimg.com/vi/wVoWwo4P3BM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Probé Claude Fable 5.2 (no esperaba esto)",
+      "link": "https://www.youtube.com/watch?v=K0es4EZn6vY",
+      "fuente": "midudev",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T14:00:34+00:00",
+      "extracto": "Acaba de llegar Fable 5.2 y viene pisando fuerte! Analizamos sus novedades, benchmarks, rendimiento y precios, y lo ponemos ...",
+      "vistas": 215786,
+      "miniatura": "https://i.ytimg.com/vi/K0es4EZn6vY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI automates professional web design with multi-model integration",
+      "link": "https://www.youtube.com/watch?v=AJUfuC1XNZ4",
+      "fuente": "Rayan Miller | AI & Tech ",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T23:58:03+00:00",
+      "extracto": "Claude has been enhanced with expert design skills, enabling it to create professional-quality websites from simple descriptions.",
+      "vistas": 11735,
+      "miniatura": "https://i.ytimg.com/vi/AJUfuC1XNZ4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Adobe MAX 2026: ChatGPT Claude Can Now Work With Adobe Apps #adobemax",
+      "link": "https://www.youtube.com/watch?v=jR11uGRJswE",
+      "fuente": "Dice Academy",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T09:55:27+00:00",
+      "extracto": "Adobe just announced Local MCP Integrations at Adobe MAX 2026, bringing AI agents like ChatGPT, Claude and other ...",
+      "vistas": 15411,
+      "miniatura": "https://i.ytimg.com/vi/jR11uGRJswE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Revealed How to Prompt Fable 5.2",
+      "link": "https://www.youtube.com/watch?v=C45VVcCV9OY",
+      "fuente": "Ben AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T13:31:56+00:00",
+      "extracto": "Get the free Claude Fable 5.2 Toolkit (every prompt + the Effort Optimizer mod) → https://c.benai.co/ajrhp-free [Join my AI ...",
+      "vistas": 223645,
+      "miniatura": "https://i.ytimg.com/vi/C45VVcCV9OY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Free Claude AI Monetize My YouTube Channel In 7 Days (Full System)",
+      "link": "https://www.youtube.com/watch?v=ZxTudE4T5fw",
+      "fuente": "E'Calm",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T14:29:22+00:00",
+      "extracto": "Can Claude AI and ChatGPT actually help me build and monetize a faceless YouTube channel?",
+      "vistas": 179956,
+      "miniatura": "https://i.ytimg.com/vi/ZxTudE4T5fw/hqdefault.jpg"
+    },
+    {
+      "titulo": "CLAUDE FABLE 5.2 Produziu Este Vídeo Para Te Ensinar Como a IA Edita Vídeos",
+      "link": "https://www.youtube.com/watch?v=WuzMxEKJHkQ",
+      "fuente": "Maestros da IA",
+      "categoria": "youtube",
+      "fecha": "2026-11-11T11:00:27+00:00",
+      "extracto": "Torne-se um Maestro da IA ...",
+      "vistas": 224292,
+      "miniatura": "https://i.ytimg.com/vi/WuzMxEKJHkQ/hqdefault.jpg"
     }
   ]
 }
