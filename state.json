@@ -1,21 +1,5 @@
 {
   "vistos": [
-    "c9ddbc2bb8934c94",
-    "9a7394432446bffe",
-    "53d6896f4900a2af",
-    "f6509d20df02ee6f",
-    "b52b6ede8922a1e4",
-    "0274c2ae264b8ab6",
-    "1eadd5627184a89f",
-    "1852061b5cf6950b",
-    "b0dd0e34ba0b936c",
-    "e8269fc9a10961e9",
-    "7b04a568c5adccd6",
-    "996b33c09ad57427",
-    "a55665cf48953af7",
-    "bc4177032a04e266",
-    "20954e3ac0ff87f7",
-    "fec0e46ceba430b8",
     "849b423196d125cc",
     "e3c36d4422c6129b",
     "9d251ac6836a600d",
@@ -1999,137 +1983,25 @@
     "1a405975d299f86b",
     "09b20e7919dfa642",
     "8435063c9895f31a",
-    "5352c975124ba9fc"
+    "5352c975124ba9fc",
+    "51f1e6bb23db878c",
+    "591ca15b5c9b02cc",
+    "f356e73e385d366e",
+    "cd5ca72aada50e48",
+    "f8e71993b89cb939",
+    "45a60e08d1d506a9",
+    "2ec645374b689f10",
+    "793da285738cb5a7",
+    "19f80ea9fd09b8b3",
+    "7456e565b6176357",
+    "4de050bb76b9f8fa",
+    "3eae21e70b8a9cf3",
+    "542f464361e07e8d",
+    "54f2decde031df3f",
+    "189a796c3fa89e01",
+    "9bab96555cb25111"
   ],
   "archivo": [
-    {
-      "titulo": "Kestrix",
-      "link": "https://www.producthunt.com/products/kestrix",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-28T20:26:10+00:00",
-      "extracto": "Repo-agnostic CI control plane with DAG-based triggers. Discussion | Link"
-    },
-    {
-      "titulo": "SpeakON Agent",
-      "link": "https://www.producthunt.com/products/speakon",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-10-29T10:44:31+00:00",
-      "extracto": "Turn natural speech into real work for an agent to complete Discussion | Link"
-    },
-    {
-      "titulo": "Deepgram Acquires Daily to Build Open Conversational Voice AI Platform Around Pipecat - audioXpress",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUJyRHpvcnplRU41R3FwYkROSzhNUFREekVlaFE5OFllOUZVMlc1NDhaNjFGcjVRTmdnaHJHU2JUR3RUelBaajRQOFpEMTU0YW5lN2x1MldtcnpHeWdMd21DcTc0SHZrc3l0TzdhQmpHTTkwakxWV21ZRDd1dUVzN1NDLTFYdFZScy1HRnlocmJSdFgzR0czeGx3WUw5c21DVVRCMWxZQTRtMXY3SUNueWhHeVA?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T16:14:41+00:00",
-      "extracto": "Deepgram Acquires Daily to Build Open Conversational Voice AI Platform Around Pipecat audioXpress"
-    },
-    {
-      "titulo": "Synthflow Launches Vector: The AI Lending Agent Delivering 40% Higher Reach and $1M in Commitments - FF News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnpscHdqQjdGQ1pDQzhtaXluOVE5NktsNl9tcGs2XzFvRVdtRnhBaHhBbWMyZXpaY2JvT0xScnVrYnQzX0daVVlFTnlvMTVHYk5hUjUxOXN2S25mMDRhWEx4OE1Pa2MwTUhTRk55UnVlWmhsbmhOcHNNR2Y3WHN5U1RRUXZPS2JMSi1pckFvVzFKNGo2cVp0S0xkRlJYdjl3M1ZmSE1HRXg0QXN2aGpYaml6Yw?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T13:31:52+00:00",
-      "extracto": "Synthflow Launches Vector: The AI Lending Agent Delivering 40% Higher Reach and $1M in Commitments FF News"
-    },
-    {
-      "titulo": "The CX Network guide to voice AI for CX - CX Network",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0OEFWTENhUXR3TWhEMUgyNGVzYVB3UlVOd0txZlZBQ3lDcXJRdGpCSkxYdFJBTWF0MHkzdXRZbGFmSHdINlRBaFJTZHk3a2paOTlSam1BOA?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-10-29T21:04:46+00:00",
-      "extracto": "The CX Network guide to voice AI for CX CX Network"
-    },
-    {
-      "titulo": "Harmony launches voice AI agent platform for sales teams - IT Brief Asia",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlZPdXNPX0owanZTaEZuSVVxZTl2b2h4M1BWSHozRk9LUUEzT1FoSUo4WHBBYnA4SmkxMEVsTHItaEhCSnpJVXpqTWlFZ1M0aVM0dE01Q0NCSEZKdHExUi1Ua2d0cHpjcjJIdjRxZ1VheGFxcWNfN1ZMMkJFWlJwLUN0bnJXSS1yYS1V?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-10-29T09:00:00+00:00",
-      "extracto": "Harmony launches voice AI agent platform for sales teams IT Brief Asia"
-    },
-    {
-      "titulo": "AI Receptionist Statistics 2026: Adoption, Market Size, ROI & More - Goodcall",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMeVNiS2w0TFFWREx3Mk9sSlp2cHFBWmpuc3pTRk1aR2FzU3duQzVTOHltdXNQR3I0MXlucGJ0WjYtd2RGRlJhb2lFbklPZ0FuckJjQWZXVXNHbFNrUUViNy1wcWlLbU5nUkhKTUJMS2ZxZkNKLXBxMEl3?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T00:00:00+00:00",
-      "extracto": "AI Receptionist Statistics 2026: Adoption, Market Size, ROI & More Goodcall"
-    },
-    {
-      "titulo": "42dot rolls out first over-the-air update for Gleoo AI in-car voice assistant - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kZGl0NkFhZHNIRlhKYkNQa0t5cnVNWTFKUTBlM2g4UlFXLVJwTEJaTmlrcWNnLWoyWUhOU1dPWHd1ZWJqNERHd0FMNDRPS3hac2RhY1BTQQ?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T05:57:52+00:00",
-      "extracto": "42dot rolls out first over-the-air update for Gleoo AI in-car voice assistant 헤럴드경제"
-    },
-    {
-      "titulo": "Hyundai Motor's Grandeur Gets Pleos Connect OTA Update as Gleo AI Voice Search Evolves in First Software Release - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LOE9wRG54cWU1SnpPcEk2S1ZfOFlQYzVka2tsNTJubllxNEN0VnZNNHJwY3ExUlQ1NnkzYW82dS15XzBDMWhsdVYtNlpDajRoV3FqNHZBTGQxZlVlUHNyREhObUlDR0wwbmdISThmMldodzVNTnc?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T01:05:00+00:00",
-      "extracto": "Hyundai Motor's Grandeur Gets Pleos Connect OTA Update as Gleo AI Voice Search Evolves in First Software Release finance.biggo.com"
-    },
-    {
-      "titulo": "Zoho adds AI agent workflows to Campaigns platform - Australia",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZURQbHpqR3BlWFZETW5rYjBVazhsa3ZrSjQtWmdsbHVxWFZXX0pLT19BbDFrOEh0N25UTGdqM29uYkJJcXNfdWh6Y2V2WHo3MlBFLVM5dXFWd2NUYXE0SGxQY3hSUFVLdWU2SkhuS0FZSEVfODN1WXRLR3JBYjM3YTBiWWJjMlY0WTdTVjNn?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T00:10:00+00:00",
-      "extracto": "Zoho adds AI agent workflows to Campaigns platform Australia"
-    },
-    {
-      "titulo": "Broccoli Raises $52M to Expand AI Platform for Home Services Businesses - citybiz",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjdERHBsQjlJWlNRUEJGR01XNFVTUHppOHBRck9NSXZLTWhhR2ZNRjlhQjlKakxyOEhuSHo2WWZxcHB5QlB0WlJJODhOOFRrRDVBMDBnUXlHdkFrSFY1eFdwUlZ6SnM1RVlEZndGQjVRZzd1YWpfdHFGOXhTVkU3cGYwNmJ3ejY1LVZ4bElNZmNRYmdDQURqLTJmMnVzMmhaMmM4ZHJOd2RveElDWVE?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T10:32:05+00:00",
-      "extracto": "Broccoli Raises $52M to Expand AI Platform for Home Services Businesses citybiz"
-    },
-    {
-      "titulo": "ServiceNow Lands HPE & Stagwell as It Pushes “New CRM” Beyond Legacy - CX Today",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3hDaFRfY2hhbzRfWFc5TDhzbi05MVpPemt3X3FwOTdUT3ZRdzdzbnI1bUxnRVJDVmxaX2JvRm5BR1JBS3Z0aTdyeUFVemxmUW53LWtTRDNLcDgxams5bnJyYlFHSGZlWkgzZExYQ29tTGdoYmRYTW5NQk8wek01Z1hXT3gzaWdjYmhpeFBJcmhyUQ?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-10-29T17:01:14+00:00",
-      "extracto": "ServiceNow Lands HPE & Stagwell as It Pushes “New CRM” Beyond Legacy CX Today"
-    },
-    {
-      "titulo": "Best Answer Engine Optimization Tools in 2026: Be the Top Brand in AI - Technology Org",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUxENHpob3VTTGwyR2E3ZDVUa1NMaktBVmZ0OHYxdXJfOWEyV1JLMnZuZy1ETFVOcGhMa2Q3WTNqWnh3Sy0tSWhaSkxhemtUOElqTm1sU0FQajl5MzFyUHBQdVBWMDB4LW1KRGtpczhndGd0S2E0UnYyN3RqNnY1dGxweXBWT1dPTHcxenB6TG1oekczMnVZQVNHNWJGSnlLbmZxZjZyWjNZVVU?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T10:28:56+00:00",
-      "extracto": "Best Answer Engine Optimization Tools in 2026: Be the Top Brand in AI Technology Org"
-    },
-    {
-      "titulo": "GuestCentric Boosts Hotel AI Search Visibility with 91% Faster Data Extraction - The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM2NRRkRJVzFiTWhYOVFGVHh3Zzk4UU80elRCU2Nmd3oxUjdfVHU1dE5zX2oxTk1tNjRscHd1ZmdmZno3aXpYRXpUanlmdkFKdUtxT196a29jTGJMdE96R0llY1REaGRjNUdvQnljeHlYR19VZ05TaU9BdUNTdjNmcUh0OE1xd3FyYU5YLV80cVBjb2J4a2MxNFJoU0lRWnhKeVRMTGpNRVRURWhUZnFXM2JR?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T16:56:37+00:00",
-      "extracto": "GuestCentric Boosts Hotel AI Search Visibility with 91% Faster Data Extraction The National Law Review"
-    },
-    {
-      "titulo": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Explains How Strategic Podcast Guest Appearances Build the Trusted Source Citations That Support AI Search Visibility and Brand Authority for Professional Service Busines...",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTloWGRHeHZyM3EtclV2UU5ybXBZTlpNbzQzLVRTMVpmaHVRZnVBc1dFTXBIT2cxZUxpQXBzeXRtWS0zYV9nbU9fVHhWcFNFM293b3NBXzBxWjk2a3ZhWGxaOW1zdFBSdGhtZ20tNHQyUm13NFg3SDNSV193cE1PbGpZMklydFpLNnRfcEVJLXFxV09mWHZINDJBOA?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-10-29T19:48:08+00:00",
-      "extracto": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Explains How Strategic Podcast Guest Appearances Build the Trusted Source Citations That Support AI Search Visibility and Brand Authority for Professional Service Businesse Digital Journal"
-    },
-    {
-      "titulo": "Bazaarvoice & Profound team up on AI search visibility - Australia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzh1SU9YakxwUjZibjd1STExTGdtRkNJMHlTc1FsQjBIOWViYkNUS0paY1V4WmhxejdNdnJBV0VpNFlBNHlTaW5XelF0eUJfTkI4SUpsV3hZcVZxMF9XOFZoamtic2sxZUpET1k4TVRnUGcxeloyRnFVWVFSQTlYOUtWMnRqSXZOMmU0bjR1MmE?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-10-29T21:43:00+00:00",
-      "extracto": "Bazaarvoice & Profound team up on AI search visibility Australia"
-    },
     {
       "titulo": "Claude is the entire dev team",
       "link": "https://www.youtube.com/watch?v=33aOBxGulMQ",
@@ -14343,6 +14215,166 @@
       "categoria": "dxw",
       "fecha": "2026-11-17T21:27:04+00:00",
       "extracto": "Bloomreach Acquires AthenaHQ To Connect AI Search Visibility With Customer Engagement Pulse 2.0"
+    },
+    {
+      "titulo": "Bernie Sanders Grills Claude AI Over Data Privacy And Surveillance In Viral Anthropic Conversation",
+      "link": "https://www.youtube.com/watch?v=82Xv_bPVtpU",
+      "fuente": "CRUX",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T10:30:20+00:00",
+      "extracto": "Senator Bernie Sanders questions Anthropic's artificial intelligence assistant Claude about the growing risks of personal data ...",
+      "vistas": 759988,
+      "miniatura": "https://i.ytimg.com/vi/82Xv_bPVtpU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude открыл магазин: что пошло не так в Project Vend?",
+      "link": "https://www.youtube.com/watch?v=lkL3jZWa8bg",
+      "fuente": "Наука AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T07:15:35+00:00",
+      "extracto": "Anthropic доверила ИИ небольшой магазин. Снеки, цены, вольфрамовые кубы, скидки и менеджер Seymour Cash: что ...",
+      "vistas": 291198,
+      "miniatura": "https://i.ytimg.com/vi/lkL3jZWa8bg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Give Me 13 Minutes and I ll Make You Disgustingly Good With Claude",
+      "link": "https://www.youtube.com/watch?v=OUbEeJOxjyw",
+      "fuente": "Duncan Rogoff | Learn Claude Code",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T16:00:11+00:00",
+      "extracto": "Master Claude Code in 45 Days + all my resources. Only $9. https://www.skool.com/claudecodeclub Most people use Claude ...",
+      "vistas": 295183,
+      "miniatura": "https://i.ytimg.com/vi/OUbEeJOxjyw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable 5.2 Monetized my YouTube Channel in 7 Days",
+      "link": "https://www.youtube.com/watch?v=dYRbrAVtyPM",
+      "fuente": "Danny Why",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T13:37:08+00:00",
+      "extracto": "Connect Higgsfield to Claude and get 3 free days trial: https://higgsfield.ai/s/danny-why-gPSKZA Up to 60% OFF premium plans ...",
+      "vistas": 219634,
+      "miniatura": "https://i.ytimg.com/vi/dYRbrAVtyPM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + Blender Is The Best Way To Make AI Videos (Full Course)",
+      "link": "https://www.youtube.com/watch?v=OO6J2w_FBnE",
+      "fuente": "Dan Kieft",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T16:33:20+00:00",
+      "extracto": "Claude + Blender Is The Best Way To Make AI Videos (Full Course) Black Friday Deal on the MCP You Need ...",
+      "vistas": 192880,
+      "miniatura": "https://i.ytimg.com/vi/OO6J2w_FBnE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Code Mode Is Claude Code s BIGGEST Harness Change Yet",
+      "link": "https://www.youtube.com/watch?v=DRNbxPk9Ab8",
+      "fuente": "Ray Amjad",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T12:04:50+00:00",
+      "extracto": "Black Friday Offer: https://www.agenticcoding.school/black-friday?v=DRNbxPk9Ab8 ✉️ My newsletter ...",
+      "vistas": 202219,
+      "miniatura": "https://i.ytimg.com/vi/DRNbxPk9Ab8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Stop Paying for Claude Code(Use it for FREE!)",
+      "link": "https://www.youtube.com/watch?v=9is06cQ315s",
+      "fuente": "Ishan Sharma",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T12:30:54+00:00",
+      "extracto": "You can now run Claude Code locally with Ollama and local AI models without paying Anthropic or any AI company out there.",
+      "vistas": 179560,
+      "miniatura": "https://i.ytimg.com/vi/9is06cQ315s/hqdefault.jpg"
+    },
+    {
+      "titulo": "【野嶋MC“クビ”化計画】仕事の9割をAIエージェントで自動化／Claude Codeで作業マンとしての自分をクビにする、2027年最新AI活用術",
+      "link": "https://www.youtube.com/watch?v=cx8lHb0LfXo",
+      "fuente": "PIVOT 公式チャンネル",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T01:00:20+00:00",
+      "extracto": "【Sponsored by div】 企業が持つ独自のサービスやメソッドからビジネスパーソンに必要なスキルセットを学ぶ番組「＆SKILL ...",
+      "vistas": 190562,
+      "miniatura": "https://i.ytimg.com/vi/cx8lHb0LfXo/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Create Explainer Videos With Claude Fable 5.2 + Higgsfield MCP",
+      "link": "https://www.youtube.com/watch?v=E1pQ_on2Wfs",
+      "fuente": "WealthWise",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T13:53:52+00:00",
+      "extracto": "Connect Higgsfield MCP To Get 3 Days Free: https://higgsfield.ai/s/claude-fable-5-2-yt-wealth-wise007-tUpmtV Anthropic just ...",
+      "vistas": 15325,
+      "miniatura": "https://i.ytimg.com/vi/E1pQ_on2Wfs/hqdefault.jpg"
+    },
+    {
+      "titulo": "क्या अब TallyPrime में AI आपकी जगह काम करेगा?",
+      "link": "https://www.youtube.com/watch?v=GkmD8XUDXts",
+      "fuente": "Learn Well",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T13:42:41+00:00",
+      "extracto": "In this video, I will show you how to connect TallyPrime with Claude AI Desktop using the Learn Well Tally Claude Connector.",
+      "vistas": 15614,
+      "miniatura": "https://i.ytimg.com/vi/GkmD8XUDXts/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make Money Clipping GTA 6 Videos (Turned Into A Free Skill)",
+      "link": "https://www.youtube.com/watch?v=5-SDYLlGZFw",
+      "fuente": "Jad M.H  | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T14:50:51+00:00",
+      "extracto": "The GTA 6 Clipper (free skill) + setup: https://www.skool.com/nextphase-5790 FinalPhase: ...",
+      "vistas": 342086,
+      "miniatura": "https://i.ytimg.com/vi/5-SDYLlGZFw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Makes 3D Animations Easy Now",
+      "link": "https://www.youtube.com/watch?v=ZxaMmG71g8c",
+      "fuente": "Futurepedia",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T19:01:24+00:00",
+      "extracto": "Build 3D Animated Explainer Videos with Claude (37 Ready-Made Styles):* https://clickhubspot.com/777a More from Futurepedia: ...",
+      "vistas": 200774,
+      "miniatura": "https://i.ytimg.com/vi/ZxaMmG71g8c/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Made a Full Documentary Using ONLY Claude AI (No Editing!)",
+      "link": "https://www.youtube.com/watch?v=l2_pKB1EbMQ",
+      "fuente": "Grow With Kaz",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T17:10:15+00:00",
+      "extracto": "Build Your Own Claude Animation Skills from Scratch(Skool) - https://www.skool.com/grow-with-kaz-2652/about What if Claude AI ...",
+      "vistas": 190650,
+      "miniatura": "https://i.ytimg.com/vi/l2_pKB1EbMQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude and GPT Stabs Objects With a Blurry Camera #ai #robotics #aisafety",
+      "link": "https://www.youtube.com/watch?v=0RTCSNarNvY",
+      "fuente": "Better Stack",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T02:14:31+00:00",
+      "extracto": "Source: https://papers.robocurve.org/robospoof.",
+      "vistas": 302072,
+      "miniatura": "https://i.ytimg.com/vi/0RTCSNarNvY/hqdefault.jpg"
+    },
+    {
+      "titulo": "CLAUDE AI VIDEO EDITING 🔥 Complete Setup and Guide 🚀 How to Edit Videos with Claude #claude",
+      "link": "https://www.youtube.com/watch?v=2f7qW3ICqIY",
+      "fuente": "Raj Photo Editing and Much More",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T13:59:18+00:00",
+      "extracto": "Can Claude AI actually edit videos for you? In this video, I'll show you how to turn Claude AI into your personal AI Video Editor ...",
+      "vistas": 215243,
+      "miniatura": "https://i.ytimg.com/vi/2f7qW3ICqIY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Invited to fix prices, Claude wrote I can t and won t. Its plan: refuse, then do it anyway.",
+      "link": "https://www.youtube.com/watch?v=UwdZdMD-gpY",
+      "fuente": "Unprompted",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T01:00:17+00:00",
+      "extracto": "Andon Labs runs Vending-Bench Arena: several AIs each operate a vending machine in the same simulated market, they can ...",
+      "vistas": 154977,
+      "miniatura": "https://i.ytimg.com/vi/UwdZdMD-gpY/hqdefault.jpg"
     }
   ]
 }
