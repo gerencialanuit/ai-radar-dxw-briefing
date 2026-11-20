@@ -1,13 +1,5 @@
 {
   "vistos": [
-    "e9b40ec59ff64c3b",
-    "890fedd64368feae",
-    "72690b9f256b5c8f",
-    "1a1ef0fce5d6f9db",
-    "b28c80c0602b95f0",
-    "a9e8a33bef2a8304",
-    "f050bc895e36e285",
-    "e5cb2e6663b2cf73",
     "740ef9aecf69b31f",
     "f350282c12c189c8",
     "fe4bb30d56a4dddd",
@@ -1999,73 +1991,17 @@
     "55cc65a0fe844dd7",
     "8b4e8ba5aad5b6bf",
     "7c4ef2659bed7272",
-    "de37056999b342b2"
+    "de37056999b342b2",
+    "a6a9f925c4fa2ebf",
+    "aba28241737e820f",
+    "92822b65b913a91f",
+    "ce33b82e75003788",
+    "c4a872b82d23efea",
+    "8669c39bcb4b1f61",
+    "e06b4d407e57209e",
+    "733973ad2ee9c4b7"
   ],
   "archivo": [
-    {
-      "titulo": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "fuente": "Hugging Face Blog",
-      "categoria": "releases",
-      "fecha": "2026-11-04T17:50:10+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "fuente": "MIT Technology Review — AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T18:50:55+00:00",
-      "extracto": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,"
-    },
-    {
-      "titulo": "Securing the agentic enterprise with data lineage",
-      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "fuente": "MIT Technology Review — AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T13:00:00+00:00",
-      "extracto": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s"
-    },
-    {
-      "titulo": "Open source AI is booming. Hugging Face explains who profits.",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T19:30:04+00:00",
-      "extracto": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of [ ]"
-    },
-    {
-      "titulo": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T19:29:52+00:00",
-      "extracto": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
-    },
-    {
-      "titulo": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T18:44:57+00:00",
-      "extracto": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of [ ]"
-    },
-    {
-      "titulo": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T16:51:35+00:00",
-      "extracto": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
-    },
-    {
-      "titulo": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T16:17:22+00:00",
-      "extracto": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
-    },
     {
       "titulo": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
       "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
@@ -14323,6 +14259,86 @@
       "categoria": "dxw",
       "fecha": "2026-11-19T23:20:37+00:00",
       "extracto": "The token economy: Why website efficiency could decide AI search visibility afaqs!"
+    },
+    {
+      "titulo": "The Planes That Never Came Back 🤔",
+      "link": "https://www.youtube.com/watch?v=NLG6hT9FNBQ",
+      "fuente": "AI with CB",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T14:34:56+00:00",
+      "extracto": "A bomber lands full of bullet holes, and a quiet mathematician tells them to put the armor on the ONE spot that wasn't hit.",
+      "vistas": 1202348,
+      "miniatura": "https://i.ytimg.com/vi/NLG6hT9FNBQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI",
+      "link": "https://www.youtube.com/watch?v=O_zcc6Xl12g",
+      "fuente": "AI Engineer",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T18:30:09+00:00",
+      "extracto": "11000 pull requests in one month, with a revert rate around 0.5%. Lauren Tan (poteto) shares how the Grok Bot team at SpaceXSI ...",
+      "vistas": 1257565,
+      "miniatura": "https://i.ytimg.com/vi/O_zcc6Xl12g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude at 99% Context Window 💀😭#claudecode #claude #anthropic #ai #vibecoding #shorts",
+      "link": "https://www.youtube.com/watch?v=_W17yDBrCps",
+      "fuente": "Understanding AI HQ",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T11:31:57+00:00",
+      "extracto": "Claude at 99% of its context window when you ask if it's still locked in You've been building a project with Claude Code for ...",
+      "vistas": 234730,
+      "miniatura": "https://i.ytimg.com/vi/_W17yDBrCps/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI Automation Full Course 2027: Build Agents, Voice Agents Real Client Projects",
+      "link": "https://www.youtube.com/watch?v=e5ExoaAJtxc",
+      "fuente": "Kamran AI Insights",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T15:00:38+00:00",
+      "extracto": "Complete AI & Automation Course (2027) | From AI Basics to Advanced AI Agents & Claude Code Get n8n from here: ...",
+      "vistas": 364454,
+      "miniatura": "https://i.ytimg.com/vi/e5ExoaAJtxc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Adobe MCP: এবার ChatGPT/Claude দিয়েই Photoshop, Premiere Pro-তে কাজ করা যাবে 🔥",
+      "link": "https://www.youtube.com/watch?v=5nDbd9jmtA8",
+      "fuente": "Amran H. Fahim",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T13:50:24+00:00",
+      "extracto": "Adobe বদলে দিতে যাচ্ছে AI দিয়ে কাজ করার পুরো পদ্ধতি! Adobe-এর নতুন MCP ...",
+      "vistas": 10911,
+      "miniatura": "https://i.ytimg.com/vi/5nDbd9jmtA8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Premiere Pro Update Explained in Hindi | Claude + Adobe MCP",
+      "link": "https://www.youtube.com/watch?v=MBeiPmp6-2M",
+      "fuente": "Jains Computer",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T08:30:38+00:00",
+      "extracto": "Adobe Premiere Pro Latest Update 2026! In this video, I break down the new AI features that every video editor should know ...",
+      "vistas": 5136,
+      "miniatura": "https://i.ytimg.com/vi/MBeiPmp6-2M/hqdefault.jpg"
+    },
+    {
+      "titulo": "【無料のスキル配布あり】ClaudeでAIショートドラマを作る5ステップ｜企画から編集まで実演（Pollo MCP）",
+      "link": "https://www.youtube.com/watch?v=MOTZpcM78M8",
+      "fuente": "ハム先生のAI教室【AI動画の実務活用】",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T09:00:12+00:00",
+      "extracto": "【割引あり】Pollo AIはこちら https://pollo.ai/go/j5VmoEy ⇨ 割引コード「ham20」で20%オフ ✓【無料】AIドラマのスキルと ...",
+      "vistas": 5799,
+      "miniatura": "https://i.ytimg.com/vi/MOTZpcM78M8/hqdefault.jpg"
+    },
+    {
+      "titulo": "5 ans de travail remplacé par une IA ?",
+      "link": "https://www.youtube.com/watch?v=j5aWyxjEYnU",
+      "fuente": "Enzo Emakerz",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T05:13:48+00:00",
+      "extracto": "J'ai demandé à une lA de faire mon métier. Une minute pour expliquer à Claude Fable 5.2 ce que je voulais, et une heure plus ...",
+      "vistas": 263406,
+      "miniatura": "https://i.ytimg.com/vi/j5aWyxjEYnU/hqdefault.jpg"
     }
   ]
 }
