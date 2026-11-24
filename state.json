@@ -1,15 +1,5 @@
 {
   "vistos": [
-    "23b94c697622500f",
-    "932fe34bad728f30",
-    "796a7f7ee338b70f",
-    "9f2dde650fe4660c",
-    "594105e3c51985ed",
-    "d28b4173cd65cfa0",
-    "7e3bd7b94a84c656",
-    "6287161309b53e94",
-    "c1f49e35ec66c1c0",
-    "c35a8e452813cf01",
     "1122627a66dfc215",
     "18592959ad29d5e2",
     "b86d9a766fb72b73",
@@ -1999,89 +1989,19 @@
     "6cd17784c675367f",
     "f8b4ef0ad19118ac",
     "62e232420c4aadc1",
-    "97fa77f075be85ec"
+    "97fa77f075be85ec",
+    "5caeb7e90218a7c1",
+    "fbc6a521598f0de9",
+    "7f3d3a906d411513",
+    "b759c31cff77f59a",
+    "765bb7d7d4b0bc55",
+    "a5df97455277bb15",
+    "34a4d9d479c0a472",
+    "c95f2371128a9314",
+    "fcd2e3bbf2bb981a",
+    "3923717668d97ebd"
   ],
   "archivo": [
-    {
-      "titulo": "TextKit",
-      "link": "https://www.producthunt.com/products/textkit-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T00:10:10+00:00",
-      "extracto": "Send + receive texts in the US and Canada with a simple API Discussion | Link"
-    },
-    {
-      "titulo": "ChatNest",
-      "link": "https://www.producthunt.com/products/chatnest-2",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-04T08:53:26+00:00",
-      "extracto": "Folders and a prompt library for your AI chats Discussion | Link"
-    },
-    {
-      "titulo": "Pearl’s hybrid intelligence drives conversion - Think with Google - Google Business Profile",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTZZdUdESjZHT2F2aHRLcWtwa1RoaVVwYVdpckVOLUlvNjN3ai1JWVF1SVdOQXY5X0tzYzRVbUx1cGRmOThNaUViU0FWbW84a04xRnUzZHZOTzNXSEdNbnZpWW1QVDM2cXU2ZU9sa0VVTTFoUXRGeGdmNUxJVkphM09FZ2lvMVBJMWtYZ3htVDEtVm14dkpuZg?oc=5",
-      "fuente": "GN — Google Business Profile",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T07:49:40+00:00",
-      "extracto": "Pearl’s hybrid intelligence drives conversion - Think with Google Google Business Profile"
-    },
-    {
-      "titulo": "Meta says US users can now video chat with their Muse AI avatar - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYTlsX0wxZ3dEaEhiYm9fOUc4TEJka2dNUDdta2MtcDNEejlxMW1CZ3lFazBfZlFFb1owbWFjN1JLc21nVTlsQjlxdXNrZnlFRmNrcUJnQmpDRnFNLVdtR3cxQ1g4am9GTHZhLTNSZk9sTWh3QlQ5dzUtS3VvNkl0WVFwOVdydjVWTGpSRHI0RktrUFdmYU9yNHBHN3ZvZ1E?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T19:48:28+00:00",
-      "extracto": "Meta says US users can now video chat with their Muse AI avatar TechCrunch"
-    },
-    {
-      "titulo": "OpenAI's Voice Assistant 'Dots' at 159,000 Won a Month: From a Phone Call to 3D Modeling - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOUDRBemp5UTZUV2gyTHlrSmxESEF6SHFOajJBM0lESFNoSDdRWVYwQjhNN09VdHJOb0lsRWl5Q2ZsT1ZOSl9ZNkVxeTBjUkN6UFZfZmlaTDV3NGdJaGI5MWVKbnI5emF0Vkk3UWpZNG5OTEQ3QXc?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T13:26:00+00:00",
-      "extracto": "OpenAI's Voice Assistant 'Dots' at 159,000 Won a Month: From a Phone Call to 3D Modeling BigGo Finance"
-    },
-    {
-      "titulo": "KORE Selects 3CLogic AI-Powered Voice-first CX Platform to Elevate Customer Experiences and Drive Operational ROI - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdGtINDUwZWN2OHdqNjBPU240MlJhSWZfNFYxeWNUb3hXdGRqVFMwVTBnTDRDMU1GTGZIT1RyZkE4U1p1eGFSZWE0ZjNvYXkzRTNHMUFNelNOSTE0d21qVzFBaU9uNjltclRwUS1xVlVOdUItbEhlNFh0SG9lM252bU56bnA2Q3puaWw0WkozOVpCcjZpSXlGNkdEeWVaM0JoUFBrRHRjaHVwODJYcDRyR1c0Smh4Yi15QXlvWEVIQjBfNThETG5BeHAtNUd4dU1vTUVPWFdpZUJCZmp0aUozQmpOQnlqMkpqQk5UazZjQWwxOEtTSDc4MVYtVzJRdw?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T14:00:00+00:00",
-      "extracto": "KORE Selects 3CLogic AI-Powered Voice-first CX Platform to Elevate Customer Experiences and Drive Operational ROI PR Newswire"
-    },
-    {
-      "titulo": "Meta Muse Voice Lets You Talk to Your AI Agent Live - ShiftDelete.Net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ha3Q4NWdmTTE3NFRJV2tzdlgxb3RGbVpsUUR5bGNFaGVuVTdjSi14Sm9PR0IwWG4wU1FBVS0zSkllTEdWU3JCNmtWbktjZVFTQk5HbDZlMnZqWVdGVWlzUmxBVm5aYXM?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T19:47:19+00:00",
-      "extracto": "Meta Muse Voice Lets You Talk to Your AI Agent Live ShiftDelete.Net"
-    },
-    {
-      "titulo": "Pypestream Adds Voice AI Handoff to Contact Center - ACCESS Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUkdRUHZnemdJYU4ySGtkdzBkM3J3ZE1rWk1lRXItSXJqeVJja1FMMGlYWHNHYkhuejAzT09aY0EzU3NSOFkzWnRPam93Q0ROSkxwenBDaFhWNzFDTkRlLUlTbEUwZ1NpUU5PeGN1VF9rYTExdFE2eU5MYWduYzFXRnk3YWVST0lWNWNYMm5EY1g1Wkg3c3VPVUlndGFFamlZNWtnWFoxYUFOUUxKUGlCZXdVVWFZaEdHOHI3SEhrNHJRZTczV2FmdU93YUpFbTV1V1ZhOW9aNTY5R2w2TFVHTU1BNUQ?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T12:00:00+00:00",
-      "extracto": "Pypestream Adds Voice AI Handoff to Contact Center ACCESS Newswire"
-    },
-    {
-      "titulo": "Google AI Mode Integrates With Home Services Booking - Search Engine Roundtable",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0thdTIyRm1IZVpEUHZrQ0d1X0N5YjBjU0VMUkR1a1hoWWJrUG1zN2RhX3N1Nmt0bm9lc0NqaDVEeHVtY01jN2lHYXpSeDVDRzczN2dnUEZuRGM3bF81R3YzVXNCQ29TRFd4aExEQ3EwUzZhMVdxenRkdHJMVkg3V1l3?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T12:31:00+00:00",
-      "extracto": "Google AI Mode Integrates With Home Services Booking Search Engine Roundtable"
-    },
-    {
-      "titulo": "QNST Q3 CY2026 deep dive: AI channel integration and home services expansion drive growth - StockStory",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOW0zd0RVUUFRQXpGY1B2NFFJZmh2QmNFVFJYTWc4MVR6Wm5qUDFLNzZyTWx4WnBSdTdyY2JlVThkU3ZhNmhpTzRHc3kxUjE0MGFXa0VCbVVMY0pzb2dQSERWdHRBb2JnUE82NkptcFRxLTFtTXg5cjh0ZldhMHVGakZLRnhIaktKbXI0RWJuMTgtNnFxckVVWkszdE1pdmZIWHJPTmRYWWxhbW5WZElWMzBucWQxSXpqSVRvQnZuRFhWM3RNUHBIWm54NXhxZ3ZBVzdCSE1Ia0w5aTNqSFExalhTbFNwN0U?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-11-04T08:00:00+00:00",
-      "extracto": "QNST Q3 CY2026 deep dive: AI channel integration and home services expansion drive growth StockStory"
-    },
     {
       "titulo": "10 Best Review Management Software for Local Business in 2026 - Editorialge",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xak1UUGZDUXpLcHo0OHBLbUVYZ1R0YTd3anF2RnlNMF92anYzd1dta2dfb0JnQkxjc0FlMlVuQ3pCYUc4ZUhZMmpONWEtQlFRSjI5Q2Q0UWVaM2YyN1BSZVZ0SnVuZ0NfRUxROXhrYWF6TFYwWEJOcEp3?oc=5",
@@ -14375,6 +14295,106 @@
       "categoria": "dxw",
       "fecha": "2026-11-23T12:42:20+00:00",
       "extracto": "AI Search Visibility Isn’t Permanent. Here’s Why Businesses Need to Keep Earning It CXO Digitalpulse"
+    },
+    {
+      "titulo": "Anthropic Just Dropped 7 MASSIVE Claude Features (Master them in 15 mins)",
+      "link": "https://www.youtube.com/watch?v=OMfU5iq8Eik",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T00:50:09+00:00",
+      "extracto": "Get the 7 New Claude Features PDF guide for free ...",
+      "vistas": 661919,
+      "miniatura": "https://i.ytimg.com/vi/OMfU5iq8Eik/hqdefault.jpg"
+    },
+    {
+      "titulo": "Did AI Just Prove The Riemann Hypothesis?",
+      "link": "https://www.youtube.com/watch?v=p0dPPhzRBm4",
+      "fuente": "SciencePetr",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T04:00:15+00:00",
+      "extracto": "AI just seems to have proven the Riemann Hypothesis -- the most important problem in mathematics. We need to talk about it.",
+      "vistas": 567928,
+      "miniatura": "https://i.ytimg.com/vi/p0dPPhzRBm4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Everything new in Claude this month",
+      "link": "https://www.youtube.com/watch?v=EuOg5f_Egns",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T16:56:38+00:00",
+      "extracto": "Last month we released Claude Fable 5.2, Claude Duet, and Personal Finance in Claude, plus a few smaller updates you may ...",
+      "vistas": 317419,
+      "miniatura": "https://i.ytimg.com/vi/EuOg5f_Egns/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Ship JUST Dropped - Is this the END for Programmers?",
+      "link": "https://www.youtube.com/watch?v=ahd8i70p5Hw",
+      "fuente": "Christian Peverelli",
+      "categoria": "youtube",
+      "fecha": "2026-11-24T04:34:51+00:00",
+      "extracto": "FREE Resources: https://www.skool.com/wearenocode TOOLS AI Sales Bond: https://askbond.ai/ HeyReach: ...",
+      "vistas": 197718,
+      "miniatura": "https://i.ytimg.com/vi/ahd8i70p5Hw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Rajuvinte Prathikaram - Malayalam comedy 2d Animation with Claude Code. #malayalamcomedy #Keralafun",
+      "link": "https://www.youtube.com/watch?v=-VOD503X8D4",
+      "fuente": "Cheriya kadhakal",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T08:31:13+00:00",
+      "extracto": "TITLE രാജുവിന്റെ പ്രതികാരം | Malayalam Animated Comedy DESCRIPTION കാശ് ...",
+      "vistas": 154136,
+      "miniatura": "https://i.ytimg.com/vi/-VOD503X8D4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI Full Course 2026 | Claude Tutorial for Beginners | Claude Code, Cowork Artifacts",
+      "link": "https://www.youtube.com/watch?v=rb8i-xEqeo0",
+      "fuente": "Great Learning",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T09:30:24+00:00",
+      "extracto": "What if one AI could write your reports, turn a pile of receipts into a spreadsheet, run your weekly sales summary on a schedule, ...",
+      "vistas": 17203,
+      "miniatura": "https://i.ytimg.com/vi/rb8i-xEqeo0/hqdefault.jpg"
+    },
+    {
+      "titulo": "إزاي تعمل فيديوهات بكلود Fable 5.2 من غير ما تصوّر",
+      "link": "https://www.youtube.com/watch?v=Ew1TQ8AaPik",
+      "fuente": "We Aam",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T22:45:31+00:00",
+      "extracto": "Black Friday Sale, get up to 60% off Higgsfield plans https://higgsfield.ai/s/claude-fable-5-2-yt-weaamzm-RxvmnB جربت موديل ...",
+      "vistas": 9969,
+      "miniatura": "https://i.ytimg.com/vi/Ew1TQ8AaPik/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Connect Claude to TradingView in under a minute",
+      "link": "https://www.youtube.com/watch?v=u5SIq71IbtU",
+      "fuente": "Tech Info",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T02:02:25+00:00",
+      "extracto": "",
+      "vistas": 1697,
+      "miniatura": "https://i.ytimg.com/vi/u5SIq71IbtU/hqdefault.jpg"
+    },
+    {
+      "titulo": "How Claude Can Edit Videos in DaVinci Resolve ⁠",
+      "link": "https://www.youtube.com/watch?v=T12wuq91dYQ",
+      "fuente": "Kayvon Jafarzadeh",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T01:29:13+00:00",
+      "extracto": "Want to start building your own AI business? Join the Zero to Founder Incubator waitlist ...",
+      "vistas": 1373,
+      "miniatura": "https://i.ytimg.com/vi/T12wuq91dYQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic s Engineers Stopped Building AI Agents (Here s What They Build Instead)",
+      "link": "https://www.youtube.com/watch?v=IMSYKloMFrE",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T23:02:47+00:00",
+      "extracto": "Get the Claude Skills Guide for free ...",
+      "vistas": 375070,
+      "miniatura": "https://i.ytimg.com/vi/IMSYKloMFrE/hqdefault.jpg"
     }
   ]
 }
