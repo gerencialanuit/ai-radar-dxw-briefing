@@ -1,33 +1,5 @@
 {
   "vistos": [
-    "740ef9aecf69b31f",
-    "f350282c12c189c8",
-    "fe4bb30d56a4dddd",
-    "41a4fac713b92a5c",
-    "180814d3c35b4405",
-    "a732cbaeb6e09013",
-    "b2453eefe8965def",
-    "eb901a22b4142fe9",
-    "baadcac90c95375f",
-    "92d1db8e488cc9d7",
-    "059eb5fa54e5178a",
-    "79faf4da3d53daf6",
-    "bcb184157cb7aa6c",
-    "2d96154b9379d966",
-    "c40e9e883a94aaac",
-    "569a87e8faf432b5",
-    "7abfa31f51f0dbe2",
-    "379cdd8e560786ed",
-    "81a6527c208946e4",
-    "24b2a46a5e8cf21e",
-    "7c0dccf54bf7dd27",
-    "88852fc45ec0189c",
-    "2b8ff5b049aa66ef",
-    "d2984313f889a19d",
-    "4f2fbddab6c3678d",
-    "13a0d4c9b735da3f",
-    "040f2ea93ca51f31",
-    "1b10792df9812b90",
     "99547711ce687243",
     "37bcc9cfc9b876e8",
     "5147fadc1a5930bc",
@@ -1999,233 +1971,37 @@
     "c4a872b82d23efea",
     "8669c39bcb4b1f61",
     "e06b4d407e57209e",
-    "733973ad2ee9c4b7"
+    "733973ad2ee9c4b7",
+    "61f255e250381880",
+    "a0a6904b3684cd17",
+    "c8815ef148494446",
+    "1fec1f0c601aec72",
+    "f09a3e69caa5c0af",
+    "4f43968a2ce482aa",
+    "18e394842d5c86e7",
+    "bf3b3b08c373081f",
+    "995b06825b1e9856",
+    "574fbfabfe88f560",
+    "1e3e265d8097f059",
+    "07bad50c66b51ae7",
+    "ddffde979b24dd27",
+    "8bcfcb6a7cd1ab11",
+    "68b61c553599bd6d",
+    "58bfaa012ae9a3a8",
+    "7b12320dda62cde5",
+    "21e716a25731f74e",
+    "8f4abaefd795e0b4",
+    "a7346364dfc746d2",
+    "3248f36bc27a93c8",
+    "26ae9f73cc9138d2",
+    "4f3fe99c1eb7013e",
+    "5277515a5a5d9e40",
+    "2e7eafc1f187a215",
+    "56bfff6eca3a5b75",
+    "6c219ed7ca05ee4d",
+    "d0c63c37f46e1121"
   ],
   "archivo": [
-    {
-      "titulo": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T13:00:00+00:00",
-      "extracto": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
-    },
-    {
-      "titulo": "Anthropic is working on a system to prove AI models’ identity",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-03T22:41:03+00:00",
-      "extracto": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
-    },
-    {
-      "titulo": "Data centers are turning to old jet engines as the wait for power grows",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-03T22:19:53+00:00",
-      "extracto": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
-    },
-    {
-      "titulo": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-03T21:43:08+00:00",
-      "extracto": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
-    },
-    {
-      "titulo": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-03T21:05:55+00:00",
-      "extracto": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
-    },
-    {
-      "titulo": "Sam Altman addresses RAM comments: people should put as much as they want in their computers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T14:46:01+00:00",
-      "extracto": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [ ]"
-    },
-    {
-      "titulo": "Google hasn t figured out how to make AI pay like its search engine",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T12:00:00+00:00",
-      "extracto": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads [ ]"
-    },
-    {
-      "titulo": "The biggest modding site in PC gaming is taking a stance on AI",
-      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-11-04T00:42:10+00:00",
-      "extracto": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [ ]"
-    },
-    {
-      "titulo": "Please stop asking me when the AI bubble will pop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-11-03T23:37:45+00:00",
-      "extracto": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [ ]"
-    },
-    {
-      "titulo": "Those Jeff Bezos hair transplant photos are very fake",
-      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-11-03T21:01:07+00:00",
-      "extracto": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved [ ]"
-    },
-    {
-      "titulo": "Apple starts giving Siri AI access to third-party apps",
-      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-      "fuente": "The Verge — AI",
-      "categoria": "news",
-      "fecha": "2026-11-03T20:16:17+00:00",
-      "extracto": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [ ]"
-    },
-    {
-      "titulo": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-      "fuente": "Ars Technica AI",
-      "categoria": "news",
-      "fecha": "2026-11-03T20:39:55+00:00",
-      "extracto": "Russia tries to fix exposed digital infrastructure as data center war backfires."
-    },
-    {
-      "titulo": "ABC de la inteligencia artificial en empresas: cómo iniciar a usarla sin recortar empleos - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYkZhNlBFVUh1QzhZRVByT2lBa2dtczllTnFFQktrUmtYODZuOVVxbTlESkFfNm5pSGw4dk5uU3BlX3Q0U1JHMzV2bnlqQzFiTFZTQTlUcDVJNEhvZmxJVUtXbS1oNzZyeVhZVHVpMWxKVnB4LWFIY1BkV0RHRXB2QTdKX1NFeEpMU3cxaGM3MUdicFhmblF0YWsydnFWQzY0US10Wk1pdjVNb09PS20za0xoRmNjQW1CTkYxdEZ6akdZbXhFVnRJY0lR0gHkAUFVX3lxTFA5bnM0NG9wa0hESnp1U1hES2o3Q0VoY1F6M2FuTTlvVzUwbFIycngyOXFwaTd4a3VGVHQ0RmV0cVdzQTVvem1mejE3RXRsc3poUzlYVXdiMTJjWnF0cHR5bmp1OTJLZ3BidVZscTFTa2hHWXFLMnUzaTcxZDJPOHFmRTRPOVJ5MUlLa3I0b1N5TFFfODNiaFg2eTJ6clZOZDZQMDVTZW9qUTQ3ZEhoVWR0N2d5RXEtdUZST1hmNWxaam5ORjJJSDR6ckFFdHhLczhZZWpDcnNPMGlubUE4LVcxN09hNw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T16:14:00+00:00",
-      "extracto": "ABC de la inteligencia artificial en empresas: cómo iniciar a usarla sin recortar empleos Infobae"
-    },
-    {
-      "titulo": "Empresas adoptan inteligencia artificial, pero no logran medir su impacto - Revista C-Level",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOV9oNzE5NWNtNlZMSUJLeXNIYnVWWnJkSFA4LVEyVWpfRjllOHZZaElFMTQ4elpoU1ZiczBQWVFtS2p5RGtEQkFNM01zSkxjRzB1MnVqV25ieXI1SjZYbm1mQ1UzMnNfNlZ6UmlSWXlXUWVjZ0QtbGJCNFlYaWJ3YWJ0Y0FvUEswNHJfZlpHV2ZsOXNoUzNrNWVycnhvNjA?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T12:36:05+00:00",
-      "extracto": "Empresas adoptan inteligencia artificial, pero no logran medir su impacto Revista C-Level"
-    },
-    {
-      "titulo": "Mozart: así funciona la inteligencia artificial colombiana que ejecuta tareas en las empresas - ENTER.CO",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVUwenA5Z2JQZXdPUmlmcEx2ajhBZnFKdFBkV0dkTzRaQnBKRFFUVXBtWVZfemRWSG0xTE00bl80YTRPdnF5WnRlLTV5S2R3V2JpQzNEb1N5RWJQRlRyaWNXdzNTMVJ5cGk4cnlQTlBIVzFZWl9iSGx3a25lVnlrQkRta0JscW5QVEZqWXpxNWx0UmVwOFBwLURCbUE4SHpEWDRJRkVKbXhURHNUSy1ENVA2cTVtdzJ0UTFybHZBLXo?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T13:48:42+00:00",
-      "extracto": "Mozart: así funciona la inteligencia artificial colombiana que ejecuta tareas en las empresas ENTER.CO"
-    },
-    {
-      "titulo": "Globant impulsa una nueva era de negocios con inteligencia artificial - Agroempresario",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjE4ZExudXBXSGFxZzI2NGlCVjY5aFBUaFNPOURmbU5wcmRMWURMU0hxTFl1X1dCRG5SRjUxNWpYOTVrSzBrRVEtWXFHTzlUNHZqM3g1WGU0Wl9qMTQtc2E3aUl3VTFCcnN3R0gxSkNVcDBfSE9sQ25GTmtnZFlRY0ZEeXFMSUs5WktpakxwanBYRjRyZmJpTXg4Ml9LWm00TTVLNEl3NlN1YzRTYWp4NkNIdWVDZlE?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T15:03:10+00:00",
-      "extracto": "Globant impulsa una nueva era de negocios con inteligencia artificial Agroempresario"
-    },
-    {
-      "titulo": "Japón solicitará datos sobre vulnerabilidades de software a empresas estadounidenses de inteligencia artificial ante el aumento de los ciberataques, según informa Nikkei - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uSmFEem9yTnB4Z1RFM0pBMEZEc2tmemhrdnRBdGpiZl96MjVxQ2tSUFVHc0ZVNEU0Vk00dE5uU3EwaUE0cnRQVGdmdlFhbXdkQmk4b0YtM3RNYy1ueEdWblJuRWxKZW1sX0txYlNadlc4VFlPTGtv?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T17:02:42+00:00",
-      "extracto": "Japón solicitará datos sobre vulnerabilidades de software a empresas estadounidenses de inteligencia artificial ante el aumento de los ciberataques, según informa Nikkei TradingView"
-    },
-    {
-      "titulo": "Las acciones de Tesla, SpaceX y las empresas de inteligencia artificial caen tras la victoria demócrata - Forbes Argentina",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVdXRWdlVkNMSEZ0RjUxR1VBdkZGRWZhZ0V3ZjRwcG05SndOU1dXZW9VbkllTjhyaFdsM0RDOEZ4ZmhTMzhEZklaRWhTVzJQd2hsaEwyUzNHVlppV2tIcTB3U1hXNTUzV25hSGw4NERKR1RtZzBUZnZBZ0NjTlFsQTZ4eDdudE05Z1BBSzlpRGR4MmFBbUFHSXBQS2Fnby1jc3RCaEFEcHBTeHE3bnI3WjZmYlhtSU0yWGhlUHlQNDFVbnpNMVdFeFg5a3dpQdIB0wFBVV95cUxQcEhjT09nUlVOekhHVk8yNkQzNFY0czZQR0VoaHg1Tmg0UHZQZHRoWXlLaGpqWEF0OExUTGEtMUVEdkFHWE1BczBaSVZYNHR0b0hkcWZaLWg5LVYybWtJVGxZQVhuOG11UDFpSHFPNHJJQUlrSkZBUThjMnZRLUhMbUNDTHdhSllGQjFwZHQtRkZtV2MxLWhLaUJLS3JqbXRZeE1MZU5pc1pkQnhCYXZqN3BWcGh3dHFXa2QxZnA4NFNObmdUaVpVR1ZYSTVMSHBPOWQ0?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T19:34:12+00:00",
-      "extracto": "Las acciones de Tesla, SpaceX y las empresas de inteligencia artificial caen tras la victoria demócrata Forbes Argentina"
-    },
-    {
-      "titulo": "GBM introduce servidor de IBM que acerca la inteligencia artificial a empresas costarricenses - Periódico La República (Costa Rica)",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHpPdlByaWdGMTF6Y0xrTnpteHdLVUdoN204Und4MkZrcFd5N1E5aXN6TnZ0NWxjZURFU2xSb0FkMktxVllIMU9WaEFkcVJiVVRVUWJpZ3lCYmRXbUJQSHlEX0VCWDRnTU41Z1prbGN3S01ZLUk4dzVtaXg2YUtxWFhlM2pMd21Ybk9nMGxYMWhENWJBS2FjZFVjNXhVMThCTVVJZVc2clNHSEptcE1jUUs1NHlQX3BqX1FUaE5pYw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T11:33:16+00:00",
-      "extracto": "GBM introduce servidor de IBM que acerca la inteligencia artificial a empresas costarricenses Periódico La República (Costa Rica)"
-    },
-    {
-      "titulo": "4Geeks lanza 5 cursos de IA aplicada en Colombia - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdXBhM3pSbjN0MFB3dm9DVTFLWnNad1ZRTU81MmhlUGxKTmdjY2sxRUh4OGVHR20xNy1yS2hsRDl6d2NIV1ZKelhkY2ZiWHNpUDk0SjRydUdhSHpZdjhTYzQwN0o5anowYVZYUlBjeVpCajU2YlNkRjNnd3dBdzBwU1BMUjdUZw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-03T23:21:35+00:00",
-      "extracto": "4Geeks lanza 5 cursos de IA aplicada en Colombia El Ecosistema Startup"
-    },
-    {
-      "titulo": "El 38% de las empresas ya gasta más de lo previsto en inteligencia artificial - IT User",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMFhmTUVSNEY3WnFoNW1VZ3lWRWpNTktHSDNYd2xVS3JuQVgyYko3Njc3dTdya3NzTE9NZ0UteC1kMElDZTJQRU1DSnFNQUFhdGZ2aU5ZdGFXOEZQQ0VUUDNmeTFyRDFNVlpSSkZob2pWWlR3X2RWeGFhUEhyME1qTHlYWHhYUkJISnZxWVM3bkNwV080Wkx1SlBrZEFNZVpuVzBNc2Y5b1ExU3FKbWwyLTd1aWtEUi1odGc?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T08:05:00+00:00",
-      "extracto": "El 38% de las empresas ya gasta más de lo previsto en inteligencia artificial IT User"
-    },
-    {
-      "titulo": "Los agentes de inteligencia artificial amplían los desafíos de seguridad en las empresas - Edomex Al Día",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjJBNWFvaTVoc1lmY25oOW02MEc3allsRmpKU3hVSW90R0ZKNUZsd09vVzNQUlNCVE1tTnBBdi1CbG1KR2JkWGtfOHRDVENaQk1KOUZJTHQtMEktUzZQeUFxdmVZS3FReFVCNUNGTGNCTjVaYWp2SzU5bThnYy1ILU1aZF9PbnpENFgydmJsSDhEeEdPb0h1RkwzSUhXaUN0c0ZqSkdYSFpqM1NVV1BvRWNxUQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T15:38:00+00:00",
-      "extracto": "Los agentes de inteligencia artificial amplían los desafíos de seguridad en las empresas Edomex Al Día"
-    },
-    {
-      "titulo": "IA privada: la apuesta de las empresas para proteger sus datos al usar inteligencia artificial - Revista C-Level",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUs1Q3VRLVNLaVZaTWVJc0p6elM3TkFmREpBQk82cG9IMktzdTMxcmJPMXZubzZlR1Npa0lONDdYck9JMG5jazJxWVNuRlU4enVKb0pYUkJVZkwyTEI5SkNyRHFubVJYM1NyLWVVUmRJVGVRLWxITEVGbFhLRmNxeTBjU2JOZkVzUjBHanEwYXZyV2VOcWotTG5tOThzdnBBelhQb1RHdldHZW5jS0xjakplYUd6cWdHdDFj?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T12:28:09+00:00",
-      "extracto": "IA privada: la apuesta de las empresas para proteger sus datos al usar inteligencia artificial Revista C-Level"
-    },
-    {
-      "titulo": "Wall Street cierra con ganancias por el repunte de las empresas de inteligencia artificial - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQTRxNTNtZjAtcGxzZ1JndnBfUzh5a2NnRnVPOXlicW05NGw2cjZnUi05aDdqMGRyNG4tNExrOUI5MVgyMUJwQnlpWUtrMER0ZjFONTJsQjJfdGt1S3gyZFRmOFNUSmJ6Z2JkRTFfSnVwaHdTcFZMMW5LZE50ZGNBWHgtVVBEcDdweVA1QUt2d09zamhpeFU1cFVpNGJfYVdWNTA5Q09UajJlOGgwTmhobEhyWVpEb09YR1RNZjJQRTNCTjBUdXYzOWhyVVFHZl9GdnVldDlxc0HSAfMBQVVfeXFMTUxuclF1THc5aExRWVA2bkJUX0FEakhYT05OcGdfYUlEeFVpR0JpcVNORlRRTmliQmhkQ3NvcTh0VXZkNjRGRHQwWlBvdHAwcE1XTzdia25CSjZIZVZUdUxQQ3N0WXdkczMwS2tmQ2lDa0tzbHlINW5NbzhBaWRTeF9Qd3hBLVJuRHl4Y1NfMmZkU3pDRi1wVTByRG5Ba000N0pobEs2aW1vWHd5aWdUZ041WWJyZWJRZ25Qd3c0T3BGSFNXWlQ0bmlrT0R5d3BROHdWV25pWks3eURuaXQwZlF2VWVlUURhQTlmT0xqY1V2Ujd3?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-03T21:27:00+00:00",
-      "extracto": "Wall Street cierra con ganancias por el repunte de las empresas de inteligencia artificial Infobae"
-    },
-    {
-      "titulo": "KAIRO AI: un joven de 19 años automatiza 17 empresas - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTERMbEFIaFFQTkx1S09hS3ZJNmVub3dnTWV0aXJtZzIxZHZMWnBpblpleFBUM2ZQd0VwdFM2WG83cWdUdC05U2JJS3BqdUczU2RINVVkX3dtUHliVDZuYS04VEJrWWhMYzdJSFlHdWNGRlFxTTluTUJxTUJFR1IxVEpPMG04bWxSeGc?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T07:34:09+00:00",
-      "extracto": "KAIRO AI: un joven de 19 años automatiza 17 empresas El Ecosistema Startup"
-    },
-    {
-      "titulo": "22GRADOS: la reputación, el activo que la IA no puede copiar - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjlrSDBZNDZqVVFSQmFZcFVCTGFYb3hZcW1nZnZadU9FVmhfNm9TM2E3by1QTjNXTXZlVmlTR0NFcHA0VG50T0NCOWFmTFk2RmtPZmM1eHZmQ0N3ZHk4WmFVYmtLbXItUkRiQkt6Z0RJTGZIdEYzbmFKZEhMaE10Sm1BS3FDVU9tQTBWaTJUaG9uZTQ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T18:33:30+00:00",
-      "extracto": "22GRADOS: la reputación, el activo que la IA no puede copiar El Ecosistema Startup"
-    },
-    {
-      "titulo": "UNESCO cumple 80 años y ya define qué inteligencia artificial pueden usar las empresas - Rosario3",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWm53a0NUWXNKemo3MDIwbHV6cHNRNWxXS29CeGtBMndqZVhwMl9UeldKempDN011Z1dUUEp5T2s2Tlpnck9NQTNTTDFYbU5HeG5SaGh1azY4M3BxV0tTQmtIcnRNdjFsd0hvdmlYbXg4cGowVWRMLWdnSmF1X3BzX0pYN2MwYVBnVHZLaEdZU2huR3F6d0lhUHdzVTVfVVNzaTl0RWszcXNKUHZFcGd5VWJ5enl6WHJ6RTVNQ1dYa3BuT09yVEFuUnd6SzViY05jN1h0cUk1aU5WcjBvTGk2VA?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T11:55:39+00:00",
-      "extracto": "UNESCO cumple 80 años y ya define qué inteligencia artificial pueden usar las empresas Rosario3"
-    },
-    {
-      "titulo": "Confianza digital e inteligencia artificial: el nuevo contrato social que requiere la sociedad conectada - El Español",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeGlyQ0hBdGhnSWxmUnY5UHFia3lzM3oyVE5nSGdwb1M3eGhDVjJYMTAwREpPX0NKeVdwVjJMUFJMS0wyZkt2S19fR3RhRExtQi1DbmduSUtBU21wRnJOVXdZWFRrVkNCRzkwak5lVWlCVXJjZlFVMVRRMC1ERmszYWJZZWJzdzNhcWFoU3JSYUFnd29PbGQwN3J4R1RFUzhGM0gxb0tzSGdCejZOOUkzenpxeHpmWl9SZXpKRVE3RFB6RFZONG5jZUh4azA3Tmc4R1R2SXZOZDdyd0JOYkRGUS02RXBuWlFQM3ExTGVGWHpPcG5oeDlQWU4tU2ZJR2JQOWljTlpvZ2w3czZielZPYmwxWlBkQnhkZUdST0dB0gGjAkFVX3lxTE93VW5CNlZzcVM4aDJrSHFKdzNuVXRfblQxSHBVSlZZSFRHZDhHODAzWWJDZm1TQWtZQXU1QXRJbFJSakhObFRjR2NfcjBDYTUxbm96VFN5MlJ6dkxERDJXM2l0azVEZzFGZjZEN3ZJNC1UaW5rc1R0QUVPMmctNEdvdmJOQ3lkRXJOS3lEUkVTR09tMUtfMmtsWUpQenJMUTRBQlRwem05dnBTdlVTcWJrWmVEMTVHbTAzYV9HWURlaGN4UTdUOVBlNVdrQWpMTkhvR3A2d3luUzdPdHNVNmNUcXZTWHotaTRlYVptdFRaUjVNUUhCbGhqOVRFcEd6UW9PNTNXYWJ0ZFhQcG1GdGtZQnJUSlBqbVZ2ODVLNHdYdzIyYw?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-11-04T04:00:00+00:00",
-      "extracto": "Confianza digital e inteligencia artificial: el nuevo contrato social que requiere la sociedad conectada El Español"
-    },
     {
       "titulo": "Las empresas chinas sufren escasez de chips de inteligencia artificial de Nvidia a pesar de encargar 6 millones de unidades - MarketScreener España",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ0QzTXhPZ0EtdmJtVUlPVHhtWFZlMDNYeVhQTkNWT0FETjRJWmdpUVNjTElWX1JPNUlOMllhWTRKQ2E4TW9UTVl5VGllbHMtZ1RKRE1JbHUwNG5ObGN5c2EtV3lZZFJpRFJKSTZBOV9LcXpMWDNVajBJcG1LTXM2QkVzNXBrSHB0X25fT0dJT2l4dUVLQTBzUUpGOU9kdUN0WWk4d2ptTENROW5fM3lzZzRGMEx2MnBXYnBnRE91MTZTZW1IaDZCY0oyX0tURkNmV1dsYlNlaGhNbUFWZFdBYUp6ZEZFeWhYZERJZQ?oc=5",
@@ -14339,6 +14115,286 @@
       "extracto": "J'ai demandé à une lA de faire mon métier. Une minute pour expliquer à Claude Fable 5.2 ce que je voulais, et une heure plus ...",
       "vistas": 263406,
       "miniatura": "https://i.ytimg.com/vi/j5aWyxjEYnU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Finally AI solved this | Riemann Hypothesis solved by Levent alpoge #claude #ai",
+      "link": "https://www.youtube.com/watch?v=7Y3IHLnKphg",
+      "fuente": "Aditya Gautam",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T16:27:48+00:00",
+      "extracto": "Riemann hypothesis solved Levent alpoge solve riemann hypothesis using claude Shorts viral Trending news #shortsfeed ...",
+      "vistas": 1067261,
+      "miniatura": "https://i.ytimg.com/vi/7Y3IHLnKphg/hqdefault.jpg"
+    },
+    {
+      "titulo": "All Claude s work btw 😭✌️ #memes #relatable #fypシ゚viral",
+      "link": "https://www.youtube.com/watch?v=hFpkOmlANzo",
+      "fuente": "Mematus",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T14:10:20+00:00",
+      "extracto": "Song: Don't ask me twin ▻ Anime: 1. GetNewsJP - Pip Magneloop Max x Baki 2. Ghost in the Shell - Movie ...",
+      "vistas": 1653963,
+      "miniatura": "https://i.ytimg.com/vi/hFpkOmlANzo/hqdefault.jpg"
+    },
+    {
+      "titulo": "¿La IA de Anthropic ha resuelto la hipótesis de Riemann?",
+      "link": "https://www.youtube.com/watch?v=t2QQ8n3Zlh8",
+      "fuente": "Date un Vlog",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T22:16:33+00:00",
+      "extracto": "La hipótesis de Riemann, el problema sin resolver más famoso de las matemáticas, podría estar resuelta: el matemático Levent ...",
+      "vistas": 859528,
+      "miniatura": "https://i.ytimg.com/vi/t2QQ8n3Zlh8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Dario Amodei: Why Claude’s Creator Fears AI",
+      "link": "https://www.youtube.com/watch?v=foR4BWiUd4g",
+      "fuente": "Afterhour Theory",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T13:17:19+00:00",
+      "extracto": "What happens when the man building powerful AI also wants to build the brakes? An animated satire exploring Dario Amodei, ...",
+      "vistas": 508119,
+      "miniatura": "https://i.ytimg.com/vi/foR4BWiUd4g/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI THREAT | WILL AI TURN AGAINST US? #AI2026 #ViralNews #AIThreat",
+      "link": "https://www.youtube.com/watch?v=_63mqJADG74",
+      "fuente": "Anjali Joshi",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T03:39:52+00:00",
+      "extracto": "AI THREATENED HUMANS? A viral incident involving Claude AI has sparked a debate after an AI response appeared to ...",
+      "vistas": 467253,
+      "miniatura": "https://i.ytimg.com/vi/_63mqJADG74/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make Money Clipping GTA 6 Videos/Streams (Free Skill)",
+      "link": "https://www.youtube.com/watch?v=2WXR8P3bJys",
+      "fuente": "Nafay 3D",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T15:12:45+00:00",
+      "extracto": "Try Aura, 2 weeks free, no credit card: ...",
+      "vistas": 444364,
+      "miniatura": "https://i.ytimg.com/vi/2WXR8P3bJys/hqdefault.jpg"
+    },
+    {
+      "titulo": "¿Claude resolvió un problema de 167 años? 😳",
+      "link": "https://www.youtube.com/watch?v=Xh_mFUv8inw",
+      "fuente": "Taratic",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T19:47:28+00:00",
+      "extracto": "Y si una inteligencia artificial hubiera conseguido lo que los matemáticos llevan 167 años intentando? Levent Alpöge afirma ...",
+      "vistas": 292322,
+      "miniatura": "https://i.ytimg.com/vi/Xh_mFUv8inw/hqdefault.jpg"
+    },
+    {
+      "titulo": "A season on the farm with AI",
+      "link": "https://www.youtube.com/watch?v=RRj07Hc3ikU",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T18:43:13+00:00",
+      "extracto": "Martina Wanis is a biologist from Vienna who grows sweet potatoes in Slovenia. This year, she took Claude along for the whole ...",
+      "vistas": 487476,
+      "miniatura": "https://i.ytimg.com/vi/RRj07Hc3ikU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code’s creator says you’ll code as well as he can. 🤯",
+      "link": "https://www.youtube.com/watch?v=qEkC_oE_SoQ",
+      "fuente": "Hyperbolic AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T21:19:18+00:00",
+      "extracto": "Boris Cherny built Claude Code. He says that in a year, maybe less, anyone will write code as well as he does. He's been doing it ...",
+      "vistas": 274772,
+      "miniatura": "https://i.ytimg.com/vi/qEkC_oE_SoQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Make Viral Stickman Shorts using FREE TOOLS (NO CLAUDE CODE) like Ricks Clips",
+      "link": "https://www.youtube.com/watch?v=M_1IGXSQX_g",
+      "fuente": "Caffeinated Blogger",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T12:05:44+00:00",
+      "extracto": "Make Viral Stickman Animated Shorts in Ricks Clips style without Claude Code, using only FREE TOOLS. You don't need ...",
+      "vistas": 194433,
+      "miniatura": "https://i.ytimg.com/vi/M_1IGXSQX_g/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make Money Clipping GTA 6 Videos/Streams Without Claude and Laptop",
+      "link": "https://www.youtube.com/watch?v=VNUwywIv_8g",
+      "fuente": "Nafay 3D",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T14:57:14+00:00",
+      "extracto": "Use Wanted Clips by ...",
+      "vistas": 164586,
+      "miniatura": "https://i.ytimg.com/vi/VNUwywIv_8g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Makes Insane Videos Now (It Can Replace Seedance)",
+      "link": "https://www.youtube.com/watch?v=tPiEPzy2JKU",
+      "fuente": "AI Samson",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T08:37:37+00:00",
+      "extracto": "Claude can now make entire animated videos in code, with no video model. Try Higgsfield: ...",
+      "vistas": 151756,
+      "miniatura": "https://i.ytimg.com/vi/tPiEPzy2JKU/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to access Claude for FREE ? | (100% working trick 🤯 ).",
+      "link": "https://www.youtube.com/watch?v=qDJ_ajB4Xto",
+      "fuente": "TechBoyDeepak",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T12:57:53+00:00",
+      "extracto": "How to Access Claude for FREE Using Free LLM APIs! Want to use Claude without spending money on expensive API credits?",
+      "vistas": 172636,
+      "miniatura": "https://i.ytimg.com/vi/qDJ_ajB4Xto/hqdefault.jpg"
+    },
+    {
+      "titulo": "Das hätte nicht klappen dürfen",
+      "link": "https://www.youtube.com/watch?v=v6iW8YGtaz4",
+      "fuente": "simon42",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T07:30:13+00:00",
+      "extracto": "Ich habe Claude gefragt, ob es Bock hat, mit mir eine Home-Assistant-Integration zu bauen. 62 Minuten später stand eine ...",
+      "vistas": 73141,
+      "miniatura": "https://i.ytimg.com/vi/v6iW8YGtaz4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Home Assistant + Claude AI: YAML Analysis, Error Detection, and Automation Creation",
+      "link": "https://www.youtube.com/watch?v=0uHbGumqQn8",
+      "fuente": "Alex Kvazis - технологии умного дома",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T14:00:30+00:00",
+      "extracto": "HomeAssistant #ClaudeAI #HAMCP #MCP #YAML #Automation Can artificial intelligence do more than just control smart home ...",
+      "vistas": 14879,
+      "miniatura": "https://i.ytimg.com/vi/0uHbGumqQn8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude can build its own connections to software",
+      "link": "https://www.youtube.com/watch?v=1JuPDipqx44",
+      "fuente": "The AI Impact | AI Workflows - Daily",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T03:26:43+00:00",
+      "extracto": "Claude can build its own connections to software CLI-Anything is a free, open-source project that helps Claude Code build ...",
+      "vistas": 6621,
+      "miniatura": "https://i.ytimg.com/vi/1JuPDipqx44/hqdefault.jpg"
+    },
+    {
+      "titulo": "This Claude Skill Simulates Day Trading Scenarios ⁠",
+      "link": "https://www.youtube.com/watch?v=XbMEATIOfqw",
+      "fuente": "Kayvon Jafarzadeh",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T13:22:38+00:00",
+      "extracto": "Want to start building your own AI business? Join the Zero to Founder Incubator waitlist ...",
+      "vistas": 5761,
+      "miniatura": "https://i.ytimg.com/vi/XbMEATIOfqw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude İle Markanı Aylık +10K Dolara Taşıyacak Strateji",
+      "link": "https://www.youtube.com/watch?v=JETx54Uk9Do",
+      "fuente": "Ecomelih",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T14:46:01+00:00",
+      "extracto": "Higgsfield MCP'yi dene: https://higgsfield.ai/s/higgsfield-mcp-general-yt-ecomelih-CEmDKj E-ticaret markan için profesyonel ...",
+      "vistas": 3873,
+      "miniatura": "https://i.ytimg.com/vi/JETx54Uk9Do/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Just Got a Universal Remote #claudecode #clianything #GitHub #clone #tipsandtricks",
+      "link": "https://www.youtube.com/watch?v=96Hmw0szgDc",
+      "fuente": "With Manny",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T02:11:40+00:00",
+      "extracto": "Title: Claude Code Just Got a Universal Remote Description: Claude Code can do a lot more when it can actually use your ...",
+      "vistas": 1724,
+      "miniatura": "https://i.ytimg.com/vi/96Hmw0szgDc/hqdefault.jpg"
+    },
+    {
+      "titulo": "AIでここまで作れる！美少女とモンスターが冒険するファンタジーRPG【Higgsfield】",
+      "link": "https://www.youtube.com/watch?v=gqSD681oTSc",
+      "fuente": "オレアリchannel",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T12:12:51+00:00",
+      "extracto": "https://higgsfield.ai/s/claude-fable-5-2-yt-oreali-fam-CGeYZd Higgsfieldはこちらから！ AIでファンタジーRPGの世界を映像化！",
+      "vistas": 904,
+      "miniatura": "https://i.ytimg.com/vi/gqSD681oTSc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Connect Claude AI with Vomyra AI | Automate AI Voice Calls in Minutes! #shortsfeed",
+      "link": "https://www.youtube.com/watch?v=-xG-wldhiFI",
+      "fuente": "Vomyra AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T10:44:31+00:00",
+      "extracto": "What if Claude AI could trigger real AI voice calls? In this video, we'll show you how to connect Claude AI with Vomyra AI using a ...",
+      "vistas": 1327,
+      "miniatura": "https://i.ytimg.com/vi/-xG-wldhiFI/hqdefault.jpg"
+    },
+    {
+      "titulo": "GTA 6 Clipping: How to Start Make Money (Full Guide) 🔥",
+      "link": "https://www.youtube.com/watch?v=_W_BwFwJL9Y",
+      "fuente": "Not Harshu",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T08:14:57+00:00",
+      "extracto": "GTA 6 is coming soon, and while everyone is busy watching streams, you can turn the GTA 6 hype into an earning opportunity!",
+      "vistas": 463139,
+      "miniatura": "https://i.ytimg.com/vi/_W_BwFwJL9Y/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make 2d Animation Shorts Using Ai | ai se video kaise banaye | ai video kaise banaye",
+      "link": "https://www.youtube.com/watch?v=9MTsuXHt1Q4",
+      "fuente": "Arvind zone Extra",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T12:14:42+00:00",
+      "extracto": "How to Make 2d Animation Shorts Using Ai | ai se video kaise banaye | ai video kaise banaye Prompt ...",
+      "vistas": 204425,
+      "miniatura": "https://i.ytimg.com/vi/9MTsuXHt1Q4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Does Gillas NEW Update Use AI? #gilla #claude",
+      "link": "https://www.youtube.com/watch?v=s2Okq-sqwYI",
+      "fuente": "JB",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T23:45:20+00:00",
+      "extracto": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ LINKS All my links: https://guns.lol/jb.mp4 Become a member today!",
+      "vistas": 144346,
+      "miniatura": "https://i.ytimg.com/vi/s2Okq-sqwYI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic’s Study Just Revealed How The Top 1% Uses AI differently",
+      "link": "https://www.youtube.com/watch?v=81Jg17dQz1A",
+      "fuente": "Ben AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T15:23:12+00:00",
+      "extracto": "Get the free Anthropic Staff Habits Toolkit (prompting framework, skills and output style) → https://c.benai.co/asjrh-free [Join my ...",
+      "vistas": 154805,
+      "miniatura": "https://i.ytimg.com/vi/81Jg17dQz1A/hqdefault.jpg"
+    },
+    {
+      "titulo": "How Revolut Cut AI Costs By 90%",
+      "link": "https://www.youtube.com/watch?v=pUcGcKM_hLg",
+      "fuente": "Into AI by Dr. Ashish Bamania",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T14:06:47+00:00",
+      "extracto": "Ever wondered how Revolut cut its AI coding bill by about 90% while letting engineers use AI with no limits? Here is how ...",
+      "vistas": 412167,
+      "miniatura": "https://i.ytimg.com/vi/pUcGcKM_hLg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Clip GTA 6 Live Streams Into 10 Shorts a Day With Any AI (Free)",
+      "link": "https://www.youtube.com/watch?v=YoelL2bbiiI",
+      "fuente": "NoCodeHack",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T21:23:32+00:00",
+      "extracto": "LINKS Step-by-step guide (free): https://guide.nocodehack.io ⚠️ Our GitHub account is temporarily suspended (we're appealing ...",
+      "vistas": 218108,
+      "miniatura": "https://i.ytimg.com/vi/YoelL2bbiiI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Proves Riemann Hypothesis?",
+      "link": "https://www.youtube.com/watch?v=2BbNv2VwBl8",
+      "fuente": "Into AI by Dr. Ashish Bamania",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T18:18:45+00:00",
+      "extracto": "Master AI engineering like never before. Subscribe to: https://intoai.pub Did Claude, an AI model, just help prove the most famous ...",
+      "vistas": 257976,
+      "miniatura": "https://i.ytimg.com/vi/2BbNv2VwBl8/hqdefault.jpg"
     }
   ]
 }
