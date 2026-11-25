@@ -1,13 +1,5 @@
 {
   "vistos": [
-    "6091f282f3710f01",
-    "529d36c4aef5dbc9",
-    "5c36d604ad803f64",
-    "e1d9030dad4e0252",
-    "70261a89909865d1",
-    "5a80db34e4ea5418",
-    "d1d9574a2e99040d",
-    "02eefe633a7395a2",
     "f912dd4a38e1e397",
     "55f14710a70fac87",
     "877d50c053ff6669",
@@ -1999,73 +1991,17 @@
     "eb6863cb646ff3b1",
     "f8bdb78e69830132",
     "db46346f0249a187",
-    "6989d45f1a22fe70"
+    "6989d45f1a22fe70",
+    "6c52ca7664252571",
+    "fecb3b0a2cd455ed",
+    "db10d5e7caf0de92",
+    "5aa0c3e248efb43c",
+    "3cc668b1ce17015c",
+    "d6a73e39ca31f167",
+    "13b3c13b49f4e648",
+    "f89fa584000f6ac1"
   ],
   "archivo": [
-    {
-      "titulo": "Translucent AI",
-      "link": "https://www.producthunt.com/products/translucent-ai",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T14:57:51+00:00",
-      "extracto": "Test infrastructure for hardware teams Discussion | Link"
-    },
-    {
-      "titulo": "Plainmail",
-      "link": "https://www.producthunt.com/products/plainmail",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T18:55:10+00:00",
-      "extracto": "Real email on every domain you own, for $5 a month flat Discussion | Link"
-    },
-    {
-      "titulo": "Thunderduck Inc.",
-      "link": "https://www.producthunt.com/products/thunderduck-inc",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T05:38:06+00:00",
-      "extracto": "Modular Data Warehouse for Agentic Data Teams Discussion | Link"
-    },
-    {
-      "titulo": "Rankfender v3.0",
-      "link": "https://www.producthunt.com/products/rankfender",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T14:05:15+00:00",
-      "extracto": "The SEO/GEO operating system, built for people and AI agents Discussion | Link"
-    },
-    {
-      "titulo": "Meta Introduces Face-to-Face AI Conversations With New Muse Voice Feature - The 420.in",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FMjlCcVVZbEl6WWFlSXlqUmxtMWlCTzc4ZTdIajN2dDZXNWZpVEZMUThQVlV1dWxfQUxwd20yUlkzY0prM0ZBVGl4WFA3ZERlSkFQaXR2YnE0MGRoQkZTcFRucDhwak1wV2EyTk5YOFVQZw?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-06T06:50:46+00:00",
-      "extracto": "Meta Introduces Face-to-Face AI Conversations With New Muse Voice Feature The 420.in"
-    },
-    {
-      "titulo": "Google adds home services booking to AI Mode - Homepros",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Wd2lZRUQweDBib2xmWExuM1EtNmtSR3pncHF0RGwtRjN5X0RqZ0RyZmhMMTdYWG9LUzZXdkM4MUh0d2NUUkFuZWV5WDNNU044VFlSbTBiemxqVDRfczF5M2RXYldySmNVYm5pTkZYRW8zQlZtU1E?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-11-06T19:35:50+00:00",
-      "extracto": "Google adds home services booking to AI Mode Homepros"
-    },
-    {
-      "titulo": "Google Adds Home Services Booking to AI Mode in the US - https://www.thekeyword.co/",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zUVk4elVhR3RFZW50ZWNnX2lQQ2VJZ0pPVGozYmxURVRHTXVkNGlqQlU0M2UxMk0yeDRCRHl3SnFmRUR1ZzNaRzhhQk1JdlhzYmhfX0U0enhSenFfV2RIQ2ZjaDFURTIxUFJF?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-11-06T15:40:06+00:00",
-      "extracto": "Google Adds Home Services Booking to AI Mode in the US https://www.thekeyword.co/"
-    },
-    {
-      "titulo": "Field Service Management Software, CRM and Marketplace on - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPalJwVDYtOVNsT3hUdnNoUWVLa2F5cmo5bDBueVh1dEJacGxNNjZDOFFOYjZyZGp6YVctLWExcjlkWmVva3l6WkhfWWxzX2tKYldmOGljdk16VVFST3dpb1puRmRrRUpaUUE0bFpSUHQxbDJNQkVrR0M3a1l2YnBRazdLWVRIUGptSER0WUNPTUhEQkM1dlp2alBRWm82OUpFTWF6SHFhR0hhM20zRHFOSlJ0a3NNcmU3QUIyNUZpeUxNNm5LU09pS3ZQdnlOZEdMZU54cS1iOUtYR25zeHQ4Smh1UWlXMkh3X0lMWmtTM1g4MUV4SnFFOUhkT200cWZua0xtaFpQTFowd1E1WmFYaHhwdUVsZmFOYldENEFwVkk?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-11-05T21:00:00+00:00",
-      "extracto": "Field Service Management Software, CRM and Marketplace on GlobeNewswire"
-    },
     {
       "titulo": "Baden Bower and the Limits of Visibility in Google’s AI Search Shift - TechBullion",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd21sNnhxall0TXh4LW9YSFNzWWkwZzhNZ1dlZkEzTUdmRGw2eFNONEo2NnJxUURzNDZvRWk1emZmSy1IZlpPZmlwSUZLRGNaWk55QXo4bFlwb2phZC1BeUROTlJkMjNzeGFtMzFsQjdPSFpuT19hTVdPdm1mQ3lhUnFVbUJhckI3U3ZfYlBHWkFUbThiQWNr?oc=5",
@@ -14373,6 +14309,86 @@
       "categoria": "dxw",
       "fecha": "2026-11-25T15:04:55+00:00",
       "extracto": "Finseo Achieves ISO 27001 Certification to Bring Enterprise-Ready Security to AEO and GEO The Manila Times"
+    },
+    {
+      "titulo": "1,00,000 Sher vs 1 Kutta 🦁🐶 Leo ko Bachao! #Shorts #claude #animation #shortsfeed",
+      "link": "https://www.youtube.com/watch?v=109pOHIvHRw",
+      "fuente": "2dcreatez",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T11:03:36+00:00",
+      "extracto": "1,00000 sher aur sirf 1 kutta, Leo! 30 November ko inki jung hone wali hai, aur Leo ki fauj AAP banaoge! Comment karo ...",
+      "vistas": 571244,
+      "miniatura": "https://i.ytimg.com/vi/109pOHIvHRw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude ускорил вайфай больше чем вдвое и нашёл два чужих устройства #shorts",
+      "link": "https://www.youtube.com/watch?v=Lcl4AlqZrCQ",
+      "fuente": "Локтев.",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T09:00:27+00:00",
+      "extracto": "Человек попросил Claude Code найти всё, что тормозит вайфай. Claude сам нашёл роутер, замерил скорость, проверил ...",
+      "vistas": 979898,
+      "miniatura": "https://i.ytimg.com/vi/Lcl4AlqZrCQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Actually Code with AI (ft. Matt Pocock)",
+      "link": "https://www.youtube.com/watch?v=mU8WKII1gpk",
+      "fuente": "NetworkChuck",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T17:25:28+00:00",
+      "extracto": "Get $200 off your ticket to Zero Trust World 2027, ThreatLocker's learning event, with code ZTWNETWORKCHUCK27: ...",
+      "vistas": 626244,
+      "miniatura": "https://i.ytimg.com/vi/mU8WKII1gpk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code for Free With 7 Billion Tokens a Month",
+      "link": "https://www.youtube.com/watch?v=_0C6K545Bzc",
+      "fuente": "Nishant Chahar",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T10:30:14+00:00",
+      "extracto": "In this video, we test 4 different ways to run Claude Code for free on your laptop without paying for an expensive subscription.",
+      "vistas": 182215,
+      "miniatura": "https://i.ytimg.com/vi/_0C6K545Bzc/hqdefault.jpg"
+    },
+    {
+      "titulo": "Give me 6 Minutes and you ll have a Claude + Premiere Pro MCP Setup",
+      "link": "https://www.youtube.com/watch?v=8GHa9Lra3QY",
+      "fuente": "Creator System",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T11:36:30+00:00",
+      "extracto": "I use Higgsfield to make my animations (affiliate link) https://higgsfield.ai?fpr=schaschwin-b2e156 ▷ Watch Next: Claude editing ...",
+      "vistas": 4484,
+      "miniatura": "https://i.ytimg.com/vi/8GHa9Lra3QY/hqdefault.jpg"
+    },
+    {
+      "titulo": "MATHPOCALYPSE: Riemann Hypothesis solved by Claude AI and Anthropic mathematician",
+      "link": "https://www.youtube.com/watch?v=bKJo5-BY-QY",
+      "fuente": "Scientific American",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T17:10:54+00:00",
+      "extracto": "Anthropic mathematician Levent Alpöge claimed on Friday to have solved the most famous problem in all of mathematics—a proof ...",
+      "vistas": 191424,
+      "miniatura": "https://i.ytimg.com/vi/bKJo5-BY-QY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Teaching Claude with a Tomato",
+      "link": "https://www.youtube.com/watch?v=-tmtfgocdVM",
+      "fuente": "Mostly Automated",
+      "categoria": "youtube",
+      "fecha": "2026-11-24T22:40:46+00:00",
+      "extracto": "I pushed a 3D printed tomato off the plate by hand so Claude could see how it's done. Then Claude ran auto eject on my Bambu ...",
+      "vistas": 131983,
+      "miniatura": "https://i.ytimg.com/vi/-tmtfgocdVM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude just solved the Riemann hypothesis",
+      "link": "https://www.youtube.com/watch?v=SZ7RNrYb7gE",
+      "fuente": "Sohil Rathi",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T08:26:37+00:00",
+      "extracto": "Full Video with the Proof Explained: https://youtu.be/a6JGJPRALl0 The Riemann hypothesis is a million-dollar problem that has ...",
+      "vistas": 214773,
+      "miniatura": "https://i.ytimg.com/vi/SZ7RNrYb7gE/hqdefault.jpg"
     }
   ]
 }
