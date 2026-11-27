@@ -1,12 +1,5 @@
 {
   "vistos": [
-    "c6dda91ffa5b438b",
-    "db0e9ebd5cbc9e44",
-    "fb04c27b08499b1f",
-    "d48e4f7a31999a2a",
-    "9e2e1c68cf1b43c9",
-    "ef892408bebc346b",
-    "cd1dc6d6e6bd42c3",
     "b686da68349e5f78",
     "c4b2e9a50337f305",
     "fbf3092c200e81d2",
@@ -1999,65 +1992,16 @@
     "5264ab4edb710916",
     "bc7f50cfc3956a13",
     "ed7b8cbf299d6757",
-    "8222da637a1fedb4"
+    "8222da637a1fedb4",
+    "24fb3d3f527501a5",
+    "b9eedb6cd14c437c",
+    "5e870aad5640d30f",
+    "821ebf8965440c93",
+    "122e0153b6d9f05a",
+    "a99e16d0d56ea0fb",
+    "7923a20e028e3b04"
   ],
   "archivo": [
-    {
-      "titulo": "Which Claude model should you build with?",
-      "link": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
-      "fuente": "Claude Blog (mirror)",
-      "categoria": "releases",
-      "fecha": "2026-11-09T00:00:00+00:00",
-      "extracto": "How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level."
-    },
-    {
-      "titulo": "Safely scaling multi-agent teams with Claude Fable 5.2",
-      "link": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
-      "fuente": "Claude Blog (mirror)",
-      "categoria": "releases",
-      "fecha": "2026-11-09T00:00:00+00:00",
-      "extracto": "How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls."
-    },
-    {
-      "titulo": "JPMorganChase expands Claude Code to more employees across the firm",
-      "link": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
-      "fuente": "Claude Blog (mirror)",
-      "categoria": "releases",
-      "fecha": "2026-11-09T00:00:00+00:00",
-      "extracto": "JPMorganChase expands Claude Code to more employees across the firm"
-    },
-    {
-      "titulo": "v2.1.322",
-      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
-      "fuente": "Claude Code — Releases",
-      "categoria": "releases",
-      "fecha": "2026-11-10T02:29:43+00:00",
-      "extracto": "What's changed Added fast mode on Vertex in the global, us and eu regions, falling back to standard speed if Vertex refuses it"
-    },
-    {
-      "titulo": "Gemini Intelligence: New features, on more devices",
-      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "fuente": "Google AI Blog",
-      "categoria": "releases",
-      "fecha": "2026-11-10T19:00:00+00:00",
-      "extracto": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'"
-    },
-    {
-      "titulo": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "fuente": "Google AI Blog",
-      "categoria": "releases",
-      "fecha": "2026-11-10T14:00:00+00:00",
-      "extracto": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
-    },
-    {
-      "titulo": "Google Cloud launches Gemini for healthcare.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "fuente": "Google AI Blog",
-      "categoria": "releases",
-      "fecha": "2026-11-10T13:00:00+00:00",
-      "extracto": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
-    },
     {
       "titulo": "Gemini 4 Carbon is now available",
       "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -14345,6 +14289,76 @@
       "categoria": "dxw",
       "fecha": "2026-11-27T08:42:17+00:00",
       "extracto": "Voice AI Escapes Call Centers to Automate Garment Manufacturing Workflows via Nool + Video Howl.Link"
+    },
+    {
+      "titulo": "We ve been asking: “What if AI solved the Riemann Hypothesis?”",
+      "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "fuente": "3Blue1Brown",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T02:02:12+00:00",
+      "extracto": "Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement from Alessandro Maria Masullo ...",
+      "vistas": 3507282,
+      "miniatura": "https://i.ytimg.com/vi/zqzk43bSdDI/hqdefault.jpg"
+    },
+    {
+      "titulo": "😂 Humans ❌ Future Pets ✅ #funny #ai #comedy #memes #seojunprajapati",
+      "link": "https://www.youtube.com/watch?v=EbNLtC3IxAk",
+      "fuente": "Seojun prajapati",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T13:41:20+00:00",
+      "extracto": "When AI Starts Planning To Colonise Humans! What happens when you ask Claude AI to count from 1 to 100000?",
+      "vistas": 1476061,
+      "miniatura": "https://i.ytimg.com/vi/EbNLtC3IxAk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Your guests have never seen a wedding card like this 🤯",
+      "link": "https://www.youtube.com/watch?v=vtsx5ZV46NQ",
+      "fuente": "Ai Ka Thekedaar",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T06:31:23+00:00",
+      "extracto": "This isn't a wedding card. It's an experience ✨ Tap, and the book opens Pull the tassel, and the date is revealed Swipe ...",
+      "vistas": 753732,
+      "miniatura": "https://i.ytimg.com/vi/vtsx5ZV46NQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic acaba de lanzar 12 funciones de Claude",
+      "link": "https://www.youtube.com/watch?v=PMnxDlD7mVw",
+      "fuente": "Benjamín Cordero",
+      "categoria": "youtube",
+      "fecha": "2026-11-26T16:54:01+00:00",
+      "extracto": "En dos semanas Anthropic lanzó 12 funciones de Claude y publicó 133 posts. Tantos que tuve que pedirle a Claude que me ...",
+      "vistas": 518119,
+      "miniatura": "https://i.ytimg.com/vi/PMnxDlD7mVw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude braucht keine MCPs mehr #shorts",
+      "link": "https://www.youtube.com/watch?v=EMlIWh3NVGI",
+      "fuente": "Ernst Neumeister",
+      "categoria": "youtube",
+      "fecha": "2026-11-26T16:58:29+00:00",
+      "extracto": "Dein Lieblingsprogramm hat keine KI-Anbindung? Claude baut sie sich jetzt einfach selbst. Die Anleitung mit Link: ...",
+      "vistas": 6094,
+      "miniatura": "https://i.ytimg.com/vi/EMlIWh3NVGI/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Create Animated Explainer Videos With Claude AI (No Editing)",
+      "link": "https://www.youtube.com/watch?v=7Eg_Nl1ApdY",
+      "fuente": "Michael Da Creator🎥",
+      "categoria": "youtube",
+      "fecha": "2026-11-25T23:23:26+00:00",
+      "extracto": "https://higgsfield.ai/s/higgsfield-mcp-general-yt-michael-dacreator-FjfjfH Imagine creating AI images, cinematic videos, and ...",
+      "vistas": 2326,
+      "miniatura": "https://i.ytimg.com/vi/7Eg_Nl1ApdY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude JUST solved the Riemann Hypothesis...",
+      "link": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+      "fuente": "Wes Roth",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T02:24:48+00:00",
+      "extracto": "Anthropic researcher Levent Alpöge just claimed that he and Claude discovered a proof of the 167-year-old Riemann Hypothesis, ...",
+      "vistas": 226466,
+      "miniatura": "https://i.ytimg.com/vi/xjX3jESpZqs/hqdefault.jpg"
     }
   ]
 }
